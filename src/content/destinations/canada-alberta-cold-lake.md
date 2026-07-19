@@ -14,12 +14,6 @@ Charter Flights To Cold Lake, Alberta
 
 Request Charter Quotes From The Our Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Cold Lake](#collapseOne1)
-
 ### About Cold Lake, Alberta and Location
 
 Cold Lake, Alberta, renowned for its crystal-clear waters and vibrant community, sits as a jewel in the northeastern part of the province. This picturesque city, surrounded by provincial parks and natural reserves, is a haven for outdoor enthusiasts and adventure seekers. Cold Lake is ideal for charter flights, private jet charter, helicopter charter, and air charter services, offering a myriad of activities such as fishing, boating, and hiking in the summer, and ice fishing and cross-country skiing in the winter. Its blend of natural beauty and modern amenities makes it a perfect destination for both relaxation and adventure.
@@ -78,25 +72,15 @@ A cozy and affordable 2-star option, Cold Lake Motel offers clean, comfortable r
 
 As a charming 4-star bed & breakfast, Hamilton House offers a unique lodging experience in Cold Lake, featuring gourmet breakfasts and personalized service, perfect for guests seeking a home-away-from-home atmosphere.
 
----
-
-## Alberta Private Jet Charter Flights
-
 ### Charter Flight Network - Receive 3 Competitive Quotes
 
 **Personalized Service and Attention:** Private jet charters offer personalized service and attention from dedicated flight crews and concierge staff. Passengers receive individualized assistance throughout the journey, ensuring their comfort, safety, and satisfaction. The ability to customize the travel experience according to specific preferences enhances customer service and creates a memorable flying experience.
-
-## Turbo Prop / Piston Aircraft Charter Flights
 
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 Check out the speed, convenience and security of a direct, non stop charter flight to Cold Lake, Alberta, offering the perfect balance for the business traveler looking to merge productivity with tranquility. Cold Lake Golf and Winter Club awaits your arrival, presenting a sublime golfing experience to entertain clients or enjoy a serene escape. For exquisite accommodations, the Marina View Hotel offers luxurious rooms with stunning lake views, ensuring relaxation after a day of business. Cold Lake is the quintessential destination for professionals seeking a blend of corporate success and leisure in a picturesque setting.
 
 **Star Helicopters Ltd** provides helicopter charter services from their base in Cold Lake, Alberta. Their fleet includes Aerospatiale AS350 B2 / Bell 206 B / Bell 212. They can be reached at (780) 639-2770
-
----
-
----
 
 ## Quick Links To 42 Air Charter Destinations Across Alberta
 
@@ -145,7 +129,3 @@ Check out the speed, convenience and security of a direct, non stop charter flig
 * [Wetaskiwin](/canada/alberta/wetaskiwin)
 * [Whitecourt](/canada/alberta/whitecourt)
 * [Zama Lake](/canada/alberta/zama-lake)
-
----
-
----

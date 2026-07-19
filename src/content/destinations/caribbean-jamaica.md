@@ -13,14 +13,6 @@ city: "Jamaica"
 
 [REQUEST CHARTER QUOTE](/quote)
 
-## Jamaica Charter Flights - With Just One Click Receive Up To 3 Competitive Charter Quotes. Any Departure Point / Any Destination.
-
-### We Specialize In Finding Clients The Most Convenient And Cost Efficient Charter Flight Options To Jamaica and All Islands Throughout The Caribbean.
-
-### [Charter Flights To Jamaica Caribbean](#collapseOne1)
-
-### Here are some of the most popular resort destinations in Jamaica:
-
 ### Montego Bay:
 
 Often referred to as "MoBay," Montego Bay is one of Jamaica's premier resort destinations. It boasts beautiful white-sand beaches, such as Doctor's Cave Beach, and a vibrant nightlife scene. Montego Bay is also home to luxury resorts like Half Moon, Secrets St. James Montego Bay, and Round Hill Hotel and Villas.
@@ -37,8 +29,6 @@ Known for its stunning sunsets and Seven Mile Beach, Negril is a laid-back resor
 
 Situated between Ocho Rios and Montego Bay, Runaway Bay offers a quieter alternative to its bustling neighbors. Visitors can enjoy pristine beaches, championship golf courses, and easy access to nearby attractions like Dolphin Cove and Green Grotto Caves. Popular resorts in Runaway Bay include Jewel Runaway Bay Beach and Golf Resort and Royal Decameron Club Caribbean.
 
-### Airports
-
 ### Norman Manley International Airport (KIN):
 
 * Located in Kingston, it is the main airport for the capital city.
@@ -47,8 +37,6 @@ Situated between Ocho Rios and Montego Bay, Runaway Bay offers a quieter alterna
 ### Sangster International Airport (MBJ):
 
 * Situated in Montego Bay, it is one of the busiest airports in the Caribbean. Offers customs services for international travelers.
-
-### Favorite Resorts & Hotels:
 
 ### Round Hill Hotel and Villas (Montego Bay):
 
@@ -65,8 +53,6 @@ Situated between Ocho Rios and Montego Bay, Runaway Bay offers a quieter alterna
 ### The Caves (Negril):
 
 * Located in Negril, The Caves is a unique and intimate resort with cliffside accommodations and private caves.
-
-### Jamaica Activities and Attractions in Jamaica:
 
 ### Dunn's River Falls (Ocho Rios):
 
@@ -99,31 +85,13 @@ Situated between Ocho Rios and Montego Bay, Runaway Bay offers a quieter alterna
 * Follow local guidance, stay in well-known areas, and take usual safety precautions.
 * As with any destination, it's essential to stay informed about the local conditions, be aware of your surroundings, and follow travel advisories. While Jamaica is generally considered safe for tourists, it's wise to stay vigilant and take necessary precautions for a pleasant and secure visit.
 
----
-
-## Private Jet Charters
-
 ### Jamaica Jet Charters
 
 Jamaica is an island nation located in the Caribbean Sea, south of Cuba and west of Hispaniola (the island shared by the Dominican Republic and Haiti). It is the third-largest island in the Caribbean and is known for its vibrant culture, stunning landscapes, and warm hospitality.
 
-## Turbo Prop Charter Flights
-
-### Jamaica Charter Flights
-
-## Float Plane Charter Flights
-
 ### Jamaica Float Plance Charter Flights
 
 Looking To Go Caribbean Island Hopping? Request A Quote For All Available Inter Island Float Plane Charter Services Direct To Jamaica From Other Caribbean Islands Plus Flights From Bahamas and Florida
-
----
-
-## Jamaica Charter Quote Request Form
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -157,11 +125,3 @@ Seach Charter Flights To Any Of The Following Caribbean Destinations
 * [Virgin Islands (British)](/caribbean/british-virgin-islands)
 * [Virgin Islands (U.S.)](/caribbean/us-virgin-islands)
 * [Trinidad & Tobago](/caribbean/trinidad-tobago)
-
----
-
----
-
----
-
----

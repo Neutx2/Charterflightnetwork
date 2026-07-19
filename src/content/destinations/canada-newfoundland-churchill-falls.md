@@ -12,10 +12,6 @@ city: "Churchill Falls"
 ---
 Charter Flights To Churchill Falls Newfoundland / Labrador
 
----
-
-### [Charter Flights To Churchill Falls](#collapseOne1)
-
 ### About Churchill Falls Newfoundland / Labrador
 
 Discover The Convenience and Affordability of Flying Direct to or From Churchill Falls Newfoundland Labrador In The Speed Comfort and Security of A Private Charter Flight. Churchill Falls is located in central Labrador and is the site of the Churchill Falls hydroelectric power generating station - known as the 2nd largest underground power station in the world. The local airport is a public use airport, which is owned and operated by the Churchill Falls Labrador Corporartion. The single aslphalt runway is 5,500 feet long - making it accessible to virtually all the charter aircraft operating in the region.
@@ -52,8 +48,6 @@ While primarily known for its hydroelectric power station, Churchill Falls also 
 
 Overall, Churchill Falls is a significant site both for its hydroelectric power generation capabilities and its role in the economic and social landscape of Newfoundland and Labrador. It remains an important symbol of energy development and resource utilization in Canada.
 
----
-
 ### Breton Air Inc.
 
 Breton Air operates the Bell 206 L4 and the Bell 407 helicopters from its base in Sydney Nova Scotia. Breton air is considered as the #1 choice for helicopter charters and utility services in Atlantic Canada and provides charter flights to some of Atlantic Canada's most exclusive lodges, retreats and golf courses.
@@ -61,8 +55,6 @@ Breton Air operates the Bell 206 L4 and the Bell 407 helicopters from its base i
 ### Helicopter Charter Flights / 3 Competitive Quotes
 
 Receive up to 3 competitive charter quotes directly from the helicopter charter companies best positioned and equipped to provide the services you require
-
-## Wheel Plane Charter Flights
 
 ### Chrono Aviation
 
@@ -76,8 +68,6 @@ From their base in Grand Manan, NB, Atlantic Charters provides quality air chart
 
 Receive up to 3 competitive charter quotes directly from the airlines who operate wheel plane / float plane and helicopter charter services. We source your request to our Network Members who are best positioned and equipped to provide the service you require. Each company sends a competitive quote directly to your email..
 
-## Float Plane Charter Flights
-
 ### Norpaq Aviation
 
 Norpaq Aviation provides service to hunting and fishing groups, mining and exploration companies, natural resource, tourism, government agencies throughout all regions of northern Quebec / Nunavik. Aircraft include De Havilland Turbine Otters and Beavers operated on floats and wheel skis.
@@ -85,10 +75,6 @@ Norpaq Aviation provides service to hunting and fishing groups, mining and explo
 ### Float Plane Charters / 3 Competitive Quotes
 
 Use this link if you are searching for float plane charters anywhere in Newfoundland / Labrador and would like to receive up to 3 competitive quotes from the charter companies best positioned and equipped to provide the services you require.
-
----
-
----
 
 ## Quick Links To 38 Air Charter Destinations Across Newfoundland and Labrador
 
@@ -134,7 +120,3 @@ Use this link if you are searching for float plane charters anywhere in Newfound
 * [Wabush](/canada/newfoundland/wabush)
 * [Williams Harbour](/canada/newfoundland/williams-harbour)
 * [Winterland](/canada/newfoundland/winterland)
-
----
-
----

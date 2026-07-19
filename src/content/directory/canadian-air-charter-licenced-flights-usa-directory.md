@@ -13,10 +13,6 @@ region: "canada"
 
 [CHARTER FLIGHTS TO USA DIRECTORY](/directory/canadian-air-charter-licenced-flights-usa-directory)
 
----
-
-## The Canadian Air Charter Directory is organized by province and territory
-
 ## Choose Your Province / Territory
 
 Only provinces and territories with charter airlines licensed to fly into the USA are listed.
@@ -31,8 +27,6 @@ Only provinces and territories with charter airlines licensed to fly into the US
 [Ontario](/directory/ontario-usa-charter-airlines)
 [Quebec](/directory/quebec-usa-air-charter-directory)
 [Saskatchewan](/directory/saskatchewan-usa-air-charter-directory)
-
----
 
 ## [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
@@ -49,7 +43,3 @@ Only provinces and territories with charter airlines licensed to fly into the US
 ## [4. Canadian Float Plane Charter Directory](/directory/canadian-float-plane-air-charter-directory)
 
 * Float plane charter airlines across Canada so you can find the right base quickly.
-
----
-
----

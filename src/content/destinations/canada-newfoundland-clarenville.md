@@ -12,17 +12,9 @@ city: "Clarenville"
 ---
 Charter Flights To Clarenville Newfoundland / Labrador
 
----
-
-### [Charter Flights To Clarenville](#collapseOne1)
-
 ### About Clarenville Newfoundland / Labrador
 
 Discover The Convenience and Affordability of Flying Direct to or From Clarenville Newfoundland Labrador In The Speed Comfort and Security of A Private Charter Flight. Clarenville is located on the east coast of Newfoundland - south of Gander and northwest of St John's. The town has a busy public use airport as well as a busy nearby float plane base. The local airport which has a 3,900 foot asphalt runway is located about 9 miles north of town.
-
----
-
-## Float Plane Charter Flights
 
 ### Clarenville Aviation
 
@@ -31,8 +23,6 @@ Clarenville is a picturesque town located on the eastern coast of Newfoundland a
 ### Float Plane Charters / 3 Competitive Quotes
 
 Experience the convenience and flexibility of air charter services when traveling to Clarenville. Charter flights offer direct access to the town, allowing you to customize your travel itinerary to suit your schedule and preferences.
-
-## Wheel Plane Charter Flights
 
 ### Chrono Aviation
 
@@ -49,10 +39,6 @@ Receive up to 3 competitive charter quotes directly from the airlines who operat
 ### Helicopter Charter Flights / 3 Competitive Quotes
 
 Immerse yourself in the rich history and culture of Clarenville. Visit local museums, heritage sites, and art galleries to learn about the town's maritime heritage, traditional crafts, and local arts scene.
-
----
-
----
 
 ## Quick Links To 38 Air Charter Destinations Across Newfoundland and Labrador
 
@@ -98,7 +84,3 @@ Immerse yourself in the rich history and culture of Clarenville. Visit local mus
 * [Wabush](/canada/newfoundland/wabush)
 * [Williams Harbour](/canada/newfoundland/williams-harbour)
 * [Winterland](/canada/newfoundland/winterland)
-
----
-
----

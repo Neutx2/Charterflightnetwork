@@ -15,8 +15,6 @@ Gimli is a well-known Lake Winnipeg destination for leisure travel, boating, fis
 
 [Request Charter Quote](#QuoteForm)
 
----
-
 ## *Manitoba Charter Flight Links*
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
@@ -26,8 +24,6 @@ Gimli is a well-known Lake Winnipeg destination for leisure travel, boating, fis
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 
 [Charter Flights St Andrews Airport](/canada/manitoba/st-andrews)
-
-## Flights to Gimli, Manitoba
 
 ## **About Gimli:**
 
@@ -62,8 +58,6 @@ Gimli Industrial Park Airport is located about 2 nautical miles west of town and
 
 * Gimli is known for its beaches, harbour, boating, fishing, Icelandic heritage, museums, galleries, and popular festivals. It is a strong destination for summer vacations, weekend getaways, and Lake Winnipeg recreation.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 Wheel plane charters to Gimli are straightforward thanks to the airport's long paved runway, making the town practical for many business, leisure, and regional charter aircraft.
@@ -79,12 +73,6 @@ Float plane options may be useful for custom Lake Winnipeg itineraries, shorelin
 Prairie Helicopters is based in Gimli and operates Bell 212, Bell 427, Bell 407, Bell 206L, and Bell 206B helicopters for charter and related aviation services.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to Gimli or Any Destination Throughout Canada or the USA
-
-## Gimli Charter Flight FAQ
 
 ## **What airport serves Gimli, Manitoba?**
 
@@ -215,7 +203,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

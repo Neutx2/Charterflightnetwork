@@ -11,14 +11,6 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Whistler"
 ---
-### Helicopter charter flights are available from Vancouver to Whistler. There is also seasonal float plane charter flights available from Vancouver to Whistler
-
-## Request A Charter Quote Directly From Any Of Our Featured Charter Airlines or Use Our Free Charter Quote Request Service an Receive Up To 3 Competitive Quotes
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require.
-
-### [Charter Flights To Whistler](#collapseOne1)
-
 ### **Getting To Whistler**
 
 It's time to start planning for your next trip to Whistler BC. There is no airport in Whistler, so visitors need to fly into Vancouver or other nearby airport and take either ground transportation or helicopter shuttle to Whistler.
@@ -33,13 +25,9 @@ In the summer months however, you can take float plane charter flights direct to
 
 Although most famous as a ski resort town, Whistler is one of the most popular year round tourism destinations in British Columbia, offering visitors an unbelievable number of activities to suit every desire. In the summer you can enjoy endless golf, mountain biking, gondola rides, hiking valley trails, zip lining, white water rafting, horseback riding, bungee jumping, fishing, helicopter sight seeing and much more.
 
----
-
 ## Whistler Wheel Plane Charter Flights
 
 We make it easy and convenient to receive up to 3 competitive wheel plane charter quotes for flights to or from airports across BC, throughout Canada and into the USA
-
-## Whistler Float Plane Charter Flights
 
 ### Corilair Charters Limited
 
@@ -51,29 +39,11 @@ P:
 
 When you need a float plane charter, here is how you can receive up to 3 competitive quotes at no cost and no obligation
 
-## Whistler Helicopter Charter Flights
-
 ### Whistler Helicopter Tours
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
 
 [LEARN MORE](/directory/whistler-helicopter-tours)
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -218,9 +188,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

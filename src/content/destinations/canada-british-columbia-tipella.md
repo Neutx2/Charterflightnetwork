@@ -11,19 +11,11 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Tipella"
 ---
-## Request A Charter Quote Directly From Any Of Our Featured Charter Airlines or Use Our Free Charter Quote Request Service an Receive Up To 3 Competitive Quotes
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
-### [Charter Flights To Tipella](#collapseOne1)
-
 ### Charter flights to Tipella located northeast of Abbotsford, about half way between Whistler and Hope BC on the northwest shore of Harrison Lake.
 
 There are no commercial flights to Tipella, but the town does have a small airport. However, since the runway is only 2300 feet long with a gravel surface, the types of aircraft that can use this airport are very limited. A more convenient option for those that want to fly to Tipella would be to take a float plane charter flight available throughout the Vancouver, Squamish and Whistler area. Another flight option is of course to take a helicopter charter flight which is available from the same departure points.
 
 It is well worth taking a flight into Tipella or any destination along Harrison Lake as it offers absolutely fabulous scenic views along each mile of its shoreline. See our links below for information on wheel plane, float plane and helicopter charter flights as well as all activities and attractions in the area, as well as accommodations.
-
----
 
 ## Tipella Wheel Plane Charter Flights
 
@@ -36,20 +28,6 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 ## Tipella Helicopter Charter Flights
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -194,9 +172,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

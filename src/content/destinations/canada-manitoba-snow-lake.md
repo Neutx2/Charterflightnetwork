@@ -15,8 +15,6 @@ Snow Lake is a northern Manitoba destination known for mining, lakes, fishing, a
 
 [Request Charter Quote](#QuoteForm)
 
----
-
 ## *Manitoba Charter Flight Links*
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
@@ -26,8 +24,6 @@ Snow Lake is a northern Manitoba destination known for mining, lakes, fishing, a
 [Charter Flights Thompson](/canada/manitoba/thompson)
 
 [Charter Flights Flin Flon](/canada/manitoba/flin-flon)
-
-## Flights to Snow Lake, Manitoba
 
 ## **About Snow Lake:**
 
@@ -62,8 +58,6 @@ Snow Lake is one of northern Manitoba's better known resource and recreation com
 
 * Popular activities in and around Snow Lake include fishing, boating, beaches, golf, snowmobiling, cross-country skiing, and museum visits. Nearby Wekusko Falls Provincial Park is a major regional attraction with waterfalls, trails, scenic viewpoints, and campground access.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 Wheel plane charters are often the best fit for Snow Lake when clients need direct regional access for mining support, business travel, group transport, or scheduled lodge connections. Aircraft can depart from Winnipeg, Thompson, Flin Flon, Red Lake, and other northern gateways depending on your itinerary and payload.
@@ -79,12 +73,6 @@ Float plane charter service can be a practical option for reaching cabins, lakes
 Helicopter charter flights are especially useful around Snow Lake for exploration support, equipment moves, line work, remote crew changes, lodge transfers, and precise access where there is no runway or practical float plane landing area. Rotary service can also help bridge difficult seasonal ground conditions.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to Snow Lake or Any Destination Throughout Canada or the USA
-
-## Flights to Snow Lake, MB FAQ
 
 ## How do I book a charter flight to Snow Lake, Manitoba?
 
@@ -211,7 +199,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

@@ -59,16 +59,9 @@ The following Northern Ontario destinations have dedicated Charter Flight Networ
 * [Charter Flights to Webequie, Ontario](/charter_flights_to_webequie.htm)
 * [Charter Flights to Wunnumin Lake, Ontario](/charter_flights_to_wunnumin_lake.htm)
 
-As additional Northern Ontario community pages are completed, they can be added to this list so that this hub becomes a complete index of destinations across the region.
-
 ## Book a Charter Flight Anywhere in Northern Ontario
 
 #### Option #2. With Just One Click, Receive Competitive Quotes From All The Charter Airlines Listed On This Page.
-
-their needs. When you complete and submit the form below, we forward your inquiry to multiple charter airlines
-who are best positioned and equipped to provide the service you request. Each airline prepares and submits
-a competitive quote. If a quote meets your needs and budget, you deal directly with the airline of your choice
-to finalize all details, scheduling, and payment.
 
 **\*Privacy:** we don't share your name or contact info with airlines. Your request is assigned a unique ID;
 airlines submit quotes for that ID and we forward them to you.

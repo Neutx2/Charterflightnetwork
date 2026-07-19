@@ -48,8 +48,6 @@ P: [(403) 291-3300](tel:+14032913300)
 **Aircraft Types:** Beech 1900 / Beech 200 / De Havilland Twin Otter 100, 300, 400 / Douglas DC-3
 **Service Type:** Wheels / Floats
 
-## Caroline, Alberta Float Plane Air Charter
-
 ## Gundahoo River Outfitters Inc
 
 Caroline, AB
@@ -82,8 +80,6 @@ Alberta / USA Directory
 
 [Back to Main Canadian Menu](/directory/canadian-air-charter-directory-1)
 
-## Explore Related Directories
-
 ## [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
 Link to the main Canadian Air Charter Directory listing wheel plane, float plane and helicopter charter services in every province and territory of Canada.
@@ -105,8 +101,6 @@ When you need a float plane charter, find float plane operators across Canada in
 **Details:** Submit your charter quote request through our free quote request service. It forwards to up to 3 air charter services best positioned and equipped to provide the service you require.
 
 [Request a Quote](/quote)
-
-## Alberta Float Plane Charter Directory FAQ
 
 ## Which Alberta locations are covered on this float plane page?
 

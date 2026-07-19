@@ -11,15 +11,9 @@ province: "Southern Ontario"
 provinceSlug: "southern-ontario"
 city: "Windsor"
 ---
----
-
-## Windsor Charter Flights - With Just One Click Receive Up To 3 Competitive Charter Quotes Directly From The Charter Network Members Who Provide Wheel Plane / Float Plane or Helicopter Charter Services Throughout The Windsor Area
-
 ### No Cost, No Obligation. Review The Quotes and Then Deal Directly With The Charter Service Of Your Choice.
 
 Charter Flight Network Is Proudly Canadian Owned & Operated
-
----
 
 ### [Charter Flights To Windsor](#collapseOne1)
 
@@ -45,17 +39,11 @@ Windsor Airport, officially known as Windsor International Airport (IATA: YQG, I
 
 The longest runway at Windsor Airport is approximately 7,500 feet (2,286 meters) in length. This runway is equipped to handle a variety of aircraft, including commercial airliners.Windsor Airport is situated approximately 8 to 10 kilometers (about 5 to 6 miles) southwest of downtown Windsor. Porter Airlines operate flights between Toronto's Billy Bishop Airport and Windsor Airport.
 
----
-
-## Windsor Jet Charter Flights
-
 ### Chartright Air Group
 
 Chartright Air Group can provide you with quick and reliable private jet charter service to and from Windsor Ontario to any destination throughout Canada, the USA and beyond.
 
 When you have business meetings in Windsor,you can take a private jet charter direct from any city in the USA or Canada. You can conduct your business and return home the same day. Contact us and receive up to 3 competitive quotes.
-
-## Windsor Wheel Plane Charter Flights
 
 ### DB Air
 
@@ -75,13 +63,9 @@ There are no float plane charter service based in Windsor. There is not a big de
 
 The closest helicopter charter service is located in Blenheim which is a 1 hour drive east from Windsor on the 401. Here you have your choice of the following helicopter types: Bell 206 L3 / Eurocopter AS355F2, AS350BA / Robinson R44II. Contact us to receive competitive quotes direct from the charter companies.
 
-## Windsor Ontario Charter Flights
-
 ### About Windsor
 
 There is a flying club in Windsor that can make their aircraft available for charter flights. These aircraft however are desinged for 2 - 3 passengers and are restricted by the weather conditions. If you have 4 or more passengers and you want the speed, comfort and reliability of an all weather aircraft, we would need to bring one in from London, Burlington or Toronto.
-
-## Charter Flights Toronto to Windsor
 
 ### Charter Flights Between Windsor & Southern Ontario
 
@@ -94,8 +78,6 @@ Request A Charter Quote Between Windsor and Destinations Across Southern Ontario
 
 [CHARTER QUOTE](/quote)
 
-## Flights From Windsor to Montreal Quebec
-
 ### Charter Flights Between Windsor & Quebec
 
 Request A Charter Quote Between Windsor and Destinations Across Quebec
@@ -106,8 +88,6 @@ Request A Charter Quote Between Windsor and Destinations Across Quebec
 * Mont Tremblant - 490 Air Miles
 
 [CHARTER QUOTE](/quote)
-
-## Flights From Windsor To Thunder Bay
 
 ### Charter Flights Between Windsor & Northern Ontario
 
@@ -120,8 +100,6 @@ Request A Charter Quote Between Windsor and Destinations Across Northern & North
 
 [CHARTER QUOTE](/quote)
 
-## Flights From Windsor to USA
-
 ### Charter Flights Between Windsor and USA
 
 Request A Charter Quote Between Windsor and Destinations Across USA
@@ -133,23 +111,9 @@ Request A Charter Quote Between Windsor and Destinations Across USA
 
 [CHARTER QUOTE](/quote)
 
----
-
-## Windsor Charter Quote Request Form
-
----
-
 ### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
 
----
-
----
-
----
-
 Charter Flight Network Has Been Online Since 2008 And Has Established The Largest Network Of Wheel Plane, Float Plane & Helicopter Charter Services In Every Province & Territory of Canada Who Participate In Our Charter Quote Request Service
-
----
 
 ## Links To Southern Ontario Air Charter Destinations
 
@@ -159,7 +123,7 @@ Charter Flight Network Has Been Online Since 2008 And Has Established The Larges
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -178,7 +142,7 @@ Charter Flight Network Has Been Online Since 2008 And Has Established The Larges
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -209,16 +173,10 @@ Charter Flight Network Has Been Online Since 2008 And Has Established The Larges
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
 
----
-
 Every quote request generated, forwards to the charter airlines best positioned and equipped to provide the service. Each company prepares a competitive quote and sends it directly to your email. [Discover how to link your charter airline to our distribution list](/operators)
-
-### CharterFlightNetwork.com is not a charter service provider. We do not own nor operate any aircraft. All charter quotes are generated by the charter airlines who are best positioned and equipped to provide the service requested. Should you decide to book a charter flight, you book directly with the charter airline of your choice and all flight arrangements and payments are made directly with the airline
-
----

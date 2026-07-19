@@ -15,8 +15,6 @@ Brandon is western Manitoba's largest city and a practical charter destination f
 
 [Request Charter Quote](#QuoteForm)
 
----
-
 ## *Manitoba Charter Flight Links*
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
@@ -26,8 +24,6 @@ Brandon is western Manitoba's largest city and a practical charter destination f
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 
 [Charter Flights St Andrews Airport](/canada/manitoba/st-andrews)
-
-## Flights to Brandon
 
 ## **About Brandon:**
 
@@ -62,8 +58,6 @@ Brandon Municipal Airport is located just north of the city and provides conveni
 
 * Visitors come to Brandon for business, university events, agriculture, sports tournaments, and regional tourism. Attractions include the Commonwealth Air Training Plan Museum on airport grounds, Keystone Centre events, and access to western Manitoba recreation and parkland areas.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 Wheel plane charters to Brandon are efficient and practical thanks to the airport's long paved runway, making the city suitable for many business and regional charter aircraft.
@@ -79,12 +73,6 @@ Float plane service is not the primary access method for Brandon, but specialty 
 Helicopter charters to Brandon can support urgent transfers, aerial inspection, agricultural work, construction projects, and short-range executive movements throughout western Manitoba.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to Brandon or Any Destination Throughout Canada or the USA
-
-## Brandon Charter Flight FAQ
 
 ## **What airport serves Brandon, Manitoba?**
 
@@ -215,7 +203,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

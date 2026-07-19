@@ -11,17 +11,9 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Nakusp"
 ---
-## Request A Charter Quote Directly From Any Of Our Featured Charter Airlines or Use Our Free Charter Quote Request Service an Receive Up To 3 Competitive Quotes
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
-### [Charter Flights To Nakusp](#collapseOne1)
-
 ### Charter flights to The small town of Nakusp located on the eastern shores of Upper Arrow Lake which is part of the Columbia River and is about 250 air miles northeast of Vancouver and about 175 air miles southwest of Calgary.
 
 The town which has a population of just over 1500 residents is in the West Kootenay region of British Columbia. Nakusp is in a very picturesque mountain lakeside setting and attracts numerous tourists each year who come here not only for the scenery but the nearby hot springs as well. One of the most convenient and quickest ways to reach Nakusp is with a private charter flight diret to the nearby airport located a mile and a half northwest of town and has a 2,983 foot asphalt runway.
-
----
 
 ## Nakusp Wheel Plane Charter Flights
 
@@ -34,20 +26,6 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 ## Nakusp Helicopter Charter Flights
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -192,9 +170,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

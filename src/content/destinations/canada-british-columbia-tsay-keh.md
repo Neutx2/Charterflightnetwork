@@ -11,12 +11,6 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Tsay Keh"
 ---
-## Request A Charter Quote Directly From Any Of Our Featured Charter Airlines or Use Our Free Charter Quote Request Service an Receive Up To 3 Competitive Quotes
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
-### [Charter Flights To Tsay Keh](#collapseOne1)
-
 ### **Tsay Keh**
 
 Tsay Keh is located in the north central region of British Columbia along the Finlay River. Depending on the number of passengers and the type of aircraft available, you may be able to book direct charter flights to Tsay Keh.
@@ -29,8 +23,6 @@ The airport is located adjacent to the townsite and has a single packed gravel/s
 
 An alternative to wheel plane charter flights, would be float plane charter flights direct to Tsay Keh and you would arrive at the dock on the Finlay River located adjacent to the town.
 
----
-
 ## Tsay Keh Wheel Plane Charter Flights
 
 We make it easy and convenient to receive up to 3 competitive wheel plane charter quotes for flights to or from airports across BC, throughout Canada and into the USA
@@ -42,20 +34,6 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 ## Tsay Keh Helicopter Charter Flights
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -200,9 +178,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

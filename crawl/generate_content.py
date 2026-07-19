@@ -103,6 +103,17 @@ SPECIAL = {
     "helicopter_charter_quote.html": ("alias", "quote"),
     "float_plane_charter_quote.html": ("alias", "quote"),
     "golf_charter_flight_quote.html": ("alias", "quote"),
+    # generic quote-request pages that look like destinations by filename only
+    # (both titled "Request A Charter Quote" with no destination content)
+    "group_charter_flights.htm": ("alias", "quote"),
+    "pei_charter_flights.htm": ("alias", "quote"),
+    # route page misparsed as a city ("Winnipeg Red Lake")
+    "charter_flights_winnipeg_red_lake_ontario.html": ("route-fixed", "flights/winnipeg-to-red-lake"),
+    # Ontario north/south corrections (content signal misfires on these)
+    "nakina_charter_flights.htm": ("dest-fixed", ("canada/northern-ontario/nakina", "Nakina", "Northern Ontario", "northern-ontario")),
+    "charter_flights_to_burlington.htm": ("dest-fixed", ("canada/southern-ontario/burlington", "Burlington", "Southern Ontario", "southern-ontario")),
+    "oshawa charter_flights.htm": ("dest-fixed", ("canada/southern-ontario/oshawa", "Oshawa", "Southern Ontario", "southern-ontario")),
+    "oshawa_charter_flights.htm": ("dest-fixed", ("canada/southern-ontario/oshawa", "Oshawa", "Southern Ontario", "southern-ontario")),
     # odd destinations
     "flights_baffin_island.html": ("dest-fixed", ("canada/nunavut/baffin-island", "Baffin Island", "Nunavut", "nunavut")),
     "charter_flights_torngat_mountains_park.html": ("dest-fixed", ("canada/labrador/torngat-mountains-park", "Torngat Mountains Park", "Labrador", "labrador")),
@@ -214,6 +225,8 @@ def classify() -> dict[str, dict]:
             if kind == "dest-fixed":
                 sl, city, prov, pslug = slug
                 entry.update(kind="dest-canada", slug=sl, city=city, province=prov, provinceSlug=pslug)
+            elif kind == "route-fixed":
+                entry.update(kind="route", slug=slug)
             elif kind == "alias":
                 entry.update(kind="redirect-only", slug=slug, redirect_to=slug)
             else:
@@ -274,6 +287,8 @@ def classify() -> dict[str, dict]:
                 # strip trailing province abbr from names like armstrong_on_charter_flights
                 raw_city = re.sub(r"_(on|ab|bc|mb|nb|nl|nt|ns|nu|qc|sk|yt)$", "", raw_city)
                 city = city_from_filename(raw_city)
+                # "london_ontario" style names → "London"
+                city = re.sub(r"\s+(Ontario|Quebec|Alberta)$", "", city)
                 if low in south_links and low not in north_links:
                     prov, pslug = "Southern Ontario", "southern-ontario"
                 elif low in north_links:
@@ -476,6 +491,57 @@ def main():
                 final.append(ln)
                 blank = False
         md.write_text(fm + "\n" + "\n".join(final).strip() + "\n")
+
+    # ---- hub pages: drop legacy destination-link bullet lists (the hub
+    # template renders a generated destination grid, so these are duplicates)
+    dest_link = re.compile(r"^\s*\*\s*\[[^\]]+\]\(/(canada|usa|bahamas|caribbean)/[^)]+\)\s*$")
+    for md in (content / "hubs").glob("*.md"):
+        raw = md.read_text()
+        fm_end = raw.index("---", 4)
+        fm, text = raw[: fm_end + 3], raw[fm_end + 3 :]
+        lines = [ln for ln in text.splitlines() if not dest_link.match(ln)]
+        md.write_text(fm + "\n" + "\n".join(lines))
+
+    # ---- drop headings whose section ended up empty (next content is another
+    # heading, a rule, or end of file)
+    for md in content.rglob("*.md"):
+        raw = md.read_text()
+        fm_end = raw.index("---", 4)
+        fm, text = raw[: fm_end + 3], raw[fm_end + 3 :]
+        lines = text.splitlines()
+        out = []
+        for i, ln in enumerate(lines):
+            if re.match(r"^#{2,6}\s+\S", ln):
+                has_content = False
+                for nxt in lines[i + 1:]:
+                    if not nxt.strip() or nxt.strip() == "---":
+                        continue
+                    has_content = not nxt.lstrip().startswith("#")
+                    break
+                if not has_content:
+                    continue
+            out.append(ln)
+        # collapse blank/rule runs left behind
+        cleaned, prev_blankish = [], False
+        for ln in out:
+            blankish = not ln.strip() or ln.strip() == "---"
+            if blankish and prev_blankish:
+                continue
+            cleaned.append(ln)
+            prev_blankish = blankish
+        md.write_text(fm + "\n" + "\n".join(cleaned).strip() + "\n")
+
+    # ---- editorial overrides: curated replacements applied last
+    overrides = ROOT / "crawl" / "overrides"
+    replaced = 0
+    if overrides.exists():
+        for ov in overrides.rglob("*.md"):
+            rel = ov.relative_to(overrides)
+            target = content / rel
+            target.parent.mkdir(parents=True, exist_ok=True)
+            target.write_text(ov.read_text())
+            replaced += 1
+    print(f"editorial overrides applied: {replaced}")
 
     # ---- extract FAQ sections into frontmatter for FAQPage JSON-LD
     faq_pages = 0

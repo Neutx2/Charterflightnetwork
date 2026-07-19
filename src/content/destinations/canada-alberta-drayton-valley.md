@@ -14,12 +14,6 @@ Charter Flights To Drayton Valley, Alberta
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Drayton Valley](#collapseOne1)
-
 ### About Drayton Valley, Alberta and Location
 
 Drayton Valley, Alberta, is a vibrant community nestled in the heart of the province, known for its rich natural resources and beautiful landscapes. This town offers a perfect blend of outdoor activities and cultural experiences, making it an ideal destination for those interested in charter flights, private jet charter, helicopter charter, and air charter services. Drayton Valley's proximity to the North Saskatchewan River and Brazeau Reservoir provides ample opportunities for fishing, boating, and water sports, while the surrounding parks and trails are perfect for hiking and nature exploration. Its dynamic local economy and welcoming community make Drayton Valley a compelling visit for both leisure and business travelers.
@@ -78,25 +72,15 @@ A 3-star property, the Best Western Drayton Valley All Suites offers spacious ac
 
 The Home Away Inn provides a cozy 2-star setting for visitors to Drayton Valley, offering clean, affordable rooms and a friendly atmosphere, perfect for travelers on a budget.
 
----
-
-## Alberta Private Jet Charter Flights
-
 ### Charter Flight Network - Receive 3 Competitive Quotes
 
 **Advantages Of Flying Private Jet Charter:** Flying in a private jet charter offers numerous advantages in terms of privacy, flexibility, comfort, convenience, and personalized service compared to commercial airlines or using turbo prop or piston aircraft.
-
-## Turbo Prop / Piston Aircraft Charter Flights
 
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 Arrive in Drayton Valley, Alberta, via a customized charter flight, offering the ultimate in convenience for the business traveler seeking to merge professional duties with moments of leisure. The Drayton Valley Golf Club provides an ideal setting for entertaining clients or enjoying a peaceful break from work, set against the picturesque backdrop of Alberta's natural landscape. For those seeking luxury accommodations, the Service Plus Inns & Suites offers exceptional comfort and service, ensuring a restful stay. Drayton Valley is the perfect destination for those looking to balance business with the beauty and activities of the Alberta region.
 
 **Range Helicopters Inc** provides helicopter charter services from their base in Drayton Valley, Alberta. Their fleet includes a Bell 206B and Eurocopter AS350 B2. They can be reached at 780-542-8222
-
----
-
----
 
 ## Quick Links To 42 Air Charter Destinations Across Alberta
 
@@ -145,7 +129,3 @@ Arrive in Drayton Valley, Alberta, via a customized charter flight, offering the
 * [Wetaskiwin](/canada/alberta/wetaskiwin)
 * [Whitecourt](/canada/alberta/whitecourt)
 * [Zama Lake](/canada/alberta/zama-lake)
-
----
-
----

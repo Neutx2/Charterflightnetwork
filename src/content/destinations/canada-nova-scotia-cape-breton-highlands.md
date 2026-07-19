@@ -14,10 +14,6 @@ Charter Flights To Cape Breton Highlands, Nova Scotia
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
 ### [Charter Flights To Cape Breton Highlands](#collapseOne1)
 
 The Highlands Links Golf Course, is a public golf course located near the village of Ingonish Beach in Nova Scotia, Canada. Highlands Links is located in Cape Breton Highlands National Park, and is owned by Parks Canada and operated by Golf North.
@@ -54,8 +50,6 @@ Cape Breton Highlands, located in Nova Scotia, Canada, is a stunning natural par
 
 In addition to providing Golf & Executive charters, Vision Air specializes in Crew Transport / Aerial Survey / Forestry & Wildlife / Powerline & Utility Support
 
-## Wheel Plane Charter Flights
-
 ### Atlantic Charters
 
 Golfers heading for Cape Breton Highlands can book direct charter flights to Sydney, Nova Scotia and then connect with helicopter shuttle direct to the golf course.
@@ -63,10 +57,6 @@ Golfers heading for Cape Breton Highlands can book direct charter flights to Syd
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 Visitors to Cape Breton Highlands can choose from a range of accommodations, including luxurious resorts, cozy bed and breakfasts, and charming seaside cottages. Many options offer stunning views of the surrounding landscape, providing a serene retreat for travelers..
-
----
-
----
 
 ## Quick Links To Over A Dozen Air Charter Destinations Across Nova Scotia
 
@@ -88,7 +78,3 @@ Visitors to Cape Breton Highlands can choose from a range of accommodations, inc
 * [Trenton](/canada/nova-scotia/trenton)
 * [Waterville](/canada/nova-scotia/waterville)
 * [Yarmouth](/canada/nova-scotia/yarmouth)
-
----
-
----

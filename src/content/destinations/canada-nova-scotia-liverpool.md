@@ -14,10 +14,6 @@ Charter Flights To Liverpool, Nova Scotia
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
 ### [Charter Flights To Liverpool](#collapseOne1)
 
 About Liverpool Nova Scotia - Wheel Plane Access 15 miles nw of Liverpool
@@ -33,15 +29,11 @@ The nearest charter flight airport to Liverpool is located in Greenfield 15 mile
 Liverpool is a picturesque town located on the South Shore of Nova Scotia, Canada, situated along the banks of the Mersey River. It is centrally located within Queens County, known for its stunning coastal scenery and historic charm.
 .
 
-## Wheel Plane Charter Flights
-
 ### Atlantic Charters
 
 You can take a private charter flight to Greenfield and then make the short drive down to Liverpool where you can explore the historic waterfront and scenic trails along the Mersey River, or visit the Hank Snow Country Music Centre, dedicated to the life and legacy of the country music legend, plus dozens more activities..
 
 Looking for more activities in Liverpool, - Take a boat tour or fishing excursion on the Mersey River or nearby Atlantic Ocean. Discover local art galleries, craft shops, and boutiques showcasing the work of talented artisans. Attend cultural events, concerts, and theater productions at venues throughout the town.
-
----
 
 ## Quick Links To Over A Dozen Air Charter Destinations Across Nova Scotia
 
@@ -63,7 +55,3 @@ Looking for more activities in Liverpool, - Take a boat tour or fishing excursio
 * [Trenton](/canada/nova-scotia/trenton)
 * [Waterville](/canada/nova-scotia/waterville)
 * [Yarmouth](/canada/nova-scotia/yarmouth)
-
----
-
----

@@ -132,9 +132,6 @@ Scroll down for direct links to 86 air charter destinations located throughout Q
 
 ---
 
-1100 Memorial Avenue
-Suite
-
 Thunder Bay, Ontario
 
 ## Att: Air Charter Services

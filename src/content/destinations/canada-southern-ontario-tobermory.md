@@ -14,12 +14,6 @@ Charter Flights To Tobermory, Ontario
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Tobermory](#collapseOne1)
-
 ### Tobermory Wheel Plane Tours and Charters
 
 You can fly private charter flights direct to the Tobermory Airport which has a 3100 foot asphalt runway which can accommodate a range of medium size charter and corporate aircraft.
@@ -32,19 +26,11 @@ If you require a float plane charter out of the Tobermory area, the closest floa
 
 Helicopter charter flights or sight seeing tours can be arranged, however the helicopter will need to fly in from outside the area which will add to the cost of your flight.
 
-## Here Are Your Tobermory Air Charter Options
-
-## About Tobermory
-
 ### Location Of Tobermory
 
 Fly Toronto to Tobermory located on the north western tip of the Bruce Peninsula which separates Georgian Bay from the main part of Lake Huron. Tobermory offers a wide range of activities and outdoor attractions and is a popular diving area. Many companies book flights from Toronto to Tobermory for meetings, corporate outtings, team building and client and key employee entertaining.
 
 [View All Southern Ontario Chater Destinations](#BC Charter Destinations)
-
----
-
-## Toronto Charter Flights To Tobermory
 
 ### Charter Flights From Toronto
 
@@ -54,10 +40,6 @@ Toronto is one of the most popular departure points for charter flights to Tober
 
 [View All Southern Ontario Chater Destinations](#BC Charter Destinations)
 
----
-
-## Charter Flights From Hamilton, Kitchener, London, Windsor
-
 ### Charter Flights Between Southern Ontario
 
 If you need a charter flight to Tobermory from any departure point throughout Southern or Southwestern Ontario, you can receive up to 3 competitive quotes by simply using our free no obligation charter quote request . You will receive quote within 24 hours.
@@ -65,10 +47,6 @@ If you need a charter flight to Tobermory from any departure point throughout So
 [CHARTER QUOTE](/quote)
 
 [View All Southern Ontario Chater Destinations](#BC Charter Destinations)
-
----
-
-## Charter Flights To Tobermory From Ottawa
 
 ### Charter Flights Ottawa
 
@@ -78,10 +56,6 @@ It is 300 air miles from Ottawa to Tobermory. Depending on the type of aircraft 
 
 [View All Southern Ontario Chater Destinations](#BC Charter Destinations)
 
----
-
-## Charter Flights To Tobermory from USA
-
 ### Charter Flights From USA
 
 Charter flights from most USA airports to Tobermory are available. There is no customs services at Tobermory, so your flight would need to first land at a designated airport of entry to clear Canadian Customs prior to arrival in Tobermory. You will first need to check with your charter service to determine if their aircraft will operate in and out of the Tobermory runway.
@@ -90,15 +64,9 @@ Charter flights from most USA airports to Tobermory are available. There is no c
 
 [View All Southern Ontario Chater Destinations](#BC Charter Destinations)
 
----
-
----
-
 ## Tobermory Wheel Plane Charter Flights
 
 Tobermory is a popular tourism destination and we receive numerous requests to fly groups from Toronto direct to Tobermory. Contact us today and receive up to 3 competitive quotes directly from the charter airlines.
-
-## Tobermory Float Plane Charter Flights
 
 ### Cotttage Air
 
@@ -110,20 +78,6 @@ There are no float plane charter services in the Tobermory area. There is no sui
 
 If you are looking for a helicopter sight seeing flight in the Tobermory area, let us know your requirements. We would need to bring a helicopter inf form outside the area which will add to your costs. Contact us and we will provide you with some options, pricing and availability.
 
----
-
-## Tobermory Charter Quote Request Form
-
----
-
-### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
-
----
-
----
-
----
-
 ## Quick Links To Over 50 Air Charter Destinations Across Southern Ontario
 
 [Click Here For Links To Northern and Northwestern Ontario Destinations](/canada/northern-ontario)
@@ -132,7 +86,7 @@ If you are looking for a helicopter sight seeing flight in the Tobermory area, l
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -152,7 +106,7 @@ If you are looking for a helicopter sight seeing flight in the Tobermory area, l
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -184,12 +138,8 @@ If you are looking for a helicopter sight seeing flight in the Tobermory area, l
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
----

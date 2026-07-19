@@ -14,12 +14,6 @@ Charter Flights To Pelly Crossing, Yukon Territory
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Pelly Crossing](#collapseOne1)
-
 ### About Pelly Crossing Yukon and Location
 
 Pelly Crossing in Yukon is a captivating destination, known for its rich cultural heritage and stunning natural landscapes. Situated along the Pelly River, this remote community serves as a gateway to outdoor adventures. With charter flights, accessing Pelly Crossing has never been easier, inviting visitors to explore its historic sites, vibrant wildlife, and engaging seasonal activities like fishing, hunting, and Northern Lights viewing.
@@ -84,10 +78,6 @@ Located by the serene banks of the Pelly River, these cottages provide a peacefu
 
 Embark on guided tours along the Pelly River, offering immersive experiences in the wilderness, suitable for adventurers of all
 
----
-
-## Pelly Crossing Wheel Plane Charter Flights
-
 ### Alkan Air Ltd
 
 When you require a float plane with big capcity, Alkan's Cessna 208 and 208B float plane Caravans are based in Yukon and designed for remote locations.
@@ -96,25 +86,15 @@ When you require a float plane with big capcity, Alkan's Cessna 208 and 208B flo
 
 The Pelly Crossing Airport is located in central Yukon, where the Klondike Highway crosses the Pelly River and is just north of Minto. Charter Flight customers have access to the local public use airport which is located 2 miles northeast of the town of Pelly Crossing. The airport has a single gravel runway which is 3,305 feet long - making it accessible by a wide range of charter aircraft in the region.
 
-## Pelly Crossing Float Plane Charter Flights
-
 ### Float Plane Charters - Receive 3 Competitive Quotes
 
 There is no float pland charter service based in the immediate area of Pelly Crossing. We can however get you quotes for float plane charter services out of Carmacks which is just 50 air miles south. We will match the aircraft to meet your needs and find you the most competitive option.
-
-## Pelly Crossing Helicopter Charter Flights
 
 ### Fireweed Helicopters Ltd
 
 Fireweed's fleet has been kept exceptionally busy in the past few years with aerial forest fire suppression support across Yukon and Western Canada​​.
 
 The two closest helicopter bases to Pelly Crossing are located in Haines Junction and Whitehorse, both of which are about 150 air miles south. From time to time however, there are helicopters operating from Satellite bases further north. If you are looking for helicopter support in the Pelly Crossing region, contact us with your dates and requirements and we will determine the most cost efficient helicopter options for your project.
-
----
-
----
-
----
 
 ## Quick Links To Over 20 Air Charter Destinations Across Yukon Territory
 
@@ -145,7 +125,3 @@ The two closest helicopter bases to Pelly Crossing are located in Haines Junctio
 * [Twin Creeks](charter_flights_Twin Creeks_yt.html)
 * [Watson Lake](/canada/yukon/watson-lake)
 * [Whitehorse](/canada/yukon/whitehorse)
-
----
-
----

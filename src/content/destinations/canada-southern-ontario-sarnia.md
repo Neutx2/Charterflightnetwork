@@ -14,27 +14,15 @@ Charter Flights To Sarnia, Ontario
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
 ### [Charter Flights To Sarnia](#collapseOne1)
 
 Sarnia is located on the southern tip of Lake Huron and is west of London and North of Windsor. The city is an important border crossing point between Ontario and Michigan. The petroleum industry along with manufacturing and transportation are vital industries. If you have time sensitive meetings in the area, you can fly private charter flights direct to the Chris Hadfield airport which has a 5100 foot asphalt runway and is located about 5 miles east of town.
-
-## Links To Sarnia Air Charter Options
-
-## Sarnia Charter Flights
 
 ### Sarnia Wheel Plane Charters
 
 If you require a wheel plane charter flight out of Sarnia, we may need to arrange to bring an aircraft in from another airport such as London, Owen Sound, Hamilton or Toronto. There are no charter services in Sarnia
 
 [View All Southern Ontario Chater Destinations](#BC Charter Destinations)
-
----
-
-## Montreal Charter Flights To Sarnia
 
 ### Charter Flights Between Quebec and Sarnia
 
@@ -46,10 +34,6 @@ Quebec City is 600 air miles and La Macaza the airport that serves visitors to M
 
 [View All Southern Ontario Chater Destinations](#BC Charter Destinations)
 
----
-
-## Charter Flights To Northwestern Ontario
-
 ### Charter Flights Between Northwestern Ontario and Sarnia
 
 Thunder Bay, Ontario is the gateway to some spectacular remote fly-in fishing destinations throughout Northwestern Ontario and is becoming a vital mining service center. Flight distance is 510 air miles. Depending on the aircraft type, flight time may be between 2 - 2.6 hours.
@@ -57,10 +41,6 @@ Thunder Bay, Ontario is the gateway to some spectacular remote fly-in fishing de
 [CHARTER QUOTE](/quote)
 
 [View All Southern Ontario Chater Destinations](#BC Charter Destinations)
-
----
-
-## Northern Ontario Charter Flights Sarnia
 
 ### Charter Flights Between Northern Ontario
 
@@ -70,10 +50,6 @@ If you need quick transportation to destinations throughout Northern Ontario, yo
 
 [View All Southern Ontario Chater Destinations](#BC Charter Destinations)
 
----
-
-## Sarnia Charter Flights To USA
-
 ### Charter Flights Between USA
 
 Direct charter flights are available to virtually any destination throughout the USA. We recommend that you choose a USA destination that offers US Customs services. This way, your flight will not need to make a special landing to clear customs and you will save money.
@@ -81,10 +57,6 @@ Direct charter flights are available to virtually any destination throughout the
 [CHARTER QUOTE](/quote)
 
 [View All Southern Ontario Chater Destinations](#BC Charter Destinations)
-
----
-
----
 
 ## Sarnia Wheel Plane Charter Flights
 
@@ -98,22 +70,6 @@ There are no float plane charters in the Sarnia Region. The closest float plane 
 
 We can arrange helicopter charters out of the Sarnia area, however we will need to bring a helicopter in from the Chatham Kent region which will add to the cost. If you would like to receive price options, just send us your requirements.
 
----
-
----
-
-## Sarnia Charter Quote Request Form
-
----
-
-### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
-
----
-
----
-
----
-
 ## Quick Links To Over 50 Air Charter Destinations Across Southern Ontario
 
 [Click Here For Links To Northern and Northwestern Ontario Destinations](/canada/northern-ontario)
@@ -122,7 +78,7 @@ We can arrange helicopter charters out of the Sarnia area, however we will need 
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -142,7 +98,7 @@ We can arrange helicopter charters out of the Sarnia area, however we will need 
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -174,12 +130,8 @@ We can arrange helicopter charters out of the Sarnia area, however we will need 
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
----

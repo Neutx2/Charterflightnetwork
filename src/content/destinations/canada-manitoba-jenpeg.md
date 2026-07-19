@@ -15,8 +15,6 @@ Jenpeg is a remote northern Manitoba destination associated with the Jenpeg Gene
 
 [Request Charter Quote](#QuoteForm)
 
----
-
 ## *Manitoba Charter Flight Links*
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
@@ -26,8 +24,6 @@ Jenpeg is a remote northern Manitoba destination associated with the Jenpeg Gene
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 
 [Charter Flights St Andrews Airport](/canada/manitoba/st-andrews)
-
-## Flights to Jenpeg, Manitoba
 
 ## **About Jenpeg:**
 
@@ -62,8 +58,6 @@ Jenpeg Airport is located about two miles southwest of the Jenpeg generating sta
 
 * The main interest in the Jenpeg area is its remote northern setting near the Nelson River system and Lake Winnipeg outflow. It can appeal to work crews, serious anglers, and travelers interested in northern landscapes and hydro corridor access.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 Wheel plane charters to Jenpeg are well suited to direct flights from Winnipeg and other northern gateways using turboprop aircraft built for practical operations on remote gravel runways.
@@ -79,12 +73,6 @@ Float plane charter service may be arranged during open-water months for access 
 Helicopter charters are useful around Jenpeg for utility work, short-range transfers, remote site access, and destinations where direct landing flexibility matters more than runway availability.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to Jenpeg or Any Destination Throughout Canada or the USA
-
-## Jenpeg Charter Flight FAQ
 
 ## **What airport serves Jenpeg, Manitoba?**
 
@@ -215,7 +203,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

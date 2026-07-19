@@ -15,8 +15,6 @@ Pukatawagan is a remote northern Manitoba community served by Pukatawagan Airpor
 
 [Request Charter Quote](#QuoteForm)
 
----
-
 ## *Manitoba Charter Flight Links*
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
@@ -26,8 +24,6 @@ Pukatawagan is a remote northern Manitoba community served by Pukatawagan Airpor
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 
 [Charter Flights St Andrews Airport](/canada/manitoba/st-andrews)
-
-## Flights to Pukatawagan, Manitoba
 
 ## **About Pukatawagan:**
 
@@ -62,8 +58,6 @@ Pukatawagan Airport sits about 2.5 nautical miles east of the community and prov
 
 * The surrounding lakes, forests, and waterways offer strong appeal for fishing, boating, wildlife viewing, and backcountry travel. For visitors with local connections or organized trip plans, the region can be attractive for outdoor adventure and northern wilderness experiences.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 Contact us today for competitive quotes for non-stop charter flights direct to Pukatawagan from departure points across Manitoba or Northwestern Ontario.
@@ -79,12 +73,6 @@ If you require a float plane charter to or from Pukatawagan, the closest service
 The closest helicopter charter service to Pukatawagan is located in Snow Lake, about 85 air miles southeast. If you require helicopter support, contact us to receive up to 3 competitive quotes.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to Pukatawagan or Any Destination Throughout Canada or the USA
-
-## Flights to Pukatawagan, MB FAQ
 
 ## How do I book a charter flight to Pukatawagan, Manitoba?
 
@@ -211,7 +199,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

@@ -15,8 +15,6 @@ Grand Rapids is located on the Saskatchewan River near Cedar Lake and serves as 
 
 [Request Charter Quote](#QuoteForm)
 
----
-
 ## *Manitoba Charter Flight Links*
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
@@ -26,8 +24,6 @@ Grand Rapids is located on the Saskatchewan River near Cedar Lake and serves as 
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 
 [Charter Flights St Andrews Airport](/canada/manitoba/st-andrews)
-
-## Flights to Grand Rapids, Manitoba
 
 ## **About Grand Rapids:**
 
@@ -62,8 +58,6 @@ Grand Rapids Airport is located about 2 nautical miles southwest of town and pro
 
 * Visitors are drawn to Grand Rapids for fishing, boating, river scenery, and northern travel access. Its setting near Cedar Lake, the Saskatchewan River, and the hydro corridor gives it appeal for anglers, outdoor travelers, and people exploring north-central Manitoba. :contentReference[oaicite:3]{index=3}
 
----
-
 ## **Wheel Plane Charter Flights**
 
 Wheel plane charters are a practical option for Grand Rapids when clients need direct regional access for business travel, freight, or efficient passenger service into north-central Manitoba.
@@ -79,12 +73,6 @@ Float plane charters can work well for Grand Rapids-area fishing trips, cabins, 
 Helicopter charter service can be useful for river access, work sites, fishing camps, equipment moves, or other Grand Rapids-area trips where precise landing flexibility matters.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to Grand Rapids or Any Destination Throughout Canada or the USA
-
-## Flights to Grand Rapids, MB FAQ
 
 ## How do I book a charter flight to Grand Rapids, Manitoba?
 
@@ -211,7 +199,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

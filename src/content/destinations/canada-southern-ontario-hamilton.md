@@ -11,13 +11,9 @@ province: "Southern Ontario"
 provinceSlug: "southern-ontario"
 city: "Hamilton"
 ---
----
-
 ## Hamilton Charter Flights - With Just One Click Receive Up To 3 Competitive Charter Quotes Directly From The Charter Network Members Who Provide Wheel Plane / Float Plane or Helicopter Charter Services Throughout The Hamilton Area
 
 Charter Flight Network Is Proudly Canadian Owned & Operated
-
----
 
 ### [Hamilton Charter Flights](#collapseOne1)
 
@@ -28,8 +24,6 @@ Click Above Title To Hide This Text Window
 Hamilton, Ontario is located in the southern part of the province of Ontario, Canada. It is situated on the western tip of Lake Ontario, approximately 68 kilometers (42 miles) southwest of downtown Toronto.
 
 If you are traveling to any region of Ontario, Canada or North America from the Hamilton area for business or vacation and scheduled airlines do not meet your travel requirements, you may find that booking private charter flights out of Hamilton is your best travel option. The Hamilton area offers a wide selection of charter flight options that are sure to meet your demands. If your flight originates in the USA you will be pleased to learn that the Hamilton Airport is designated as an airport of entry, which means you can clear Canadian Customs and Immiggration upon landing in Hamilton.
-
-### The Hamilton Airport
 
 ### Hamilton International Airport - FBO Services / Private Passenger Air Charter Terminal
 
@@ -47,8 +41,6 @@ Hamilton International Airport
 Mount Hope, Ontario, Canada L0R 1W0
 905-679-2400 or 888-887-7713
 
----
-
 ### Hamilton Car Rentals
 
 Your air charter service can make all car reservations for you and have your car ready and waiting upon your arrival in Hamilton. Here are the car rental companies available at the Hamiltong International Airport
@@ -57,8 +49,6 @@ Your air charter service can make all car reservations for you and have your car
 * **National -** Phone 1.800.CAR RENT (227.7368)
 * **Budget -**Phone 1.800.268.8900
 * **Entrprise -** Phone (905) 575-5500
-
----
 
 The main airport serving Hamilton, Ontario is called John C. Munro Hamilton International Airport (IATA: YHM, ICAO: CYHM). It is located in Mount Hope, about 11 kilometers (7 miles) southwest of downtown Hamilton.
 
@@ -75,10 +65,6 @@ Search The Canadian Air Charter Directory to see a comprehensive listing of ever
 
 You can avoid the searching when you use our Charter Quote Request Service. Simply complete and submit our Charter Quote Request Form and it will forward to the charter companies in Canada who are best positioned and equipped to provide the service you request. Each company prepares a competitive quote and sends it directly to your email. You review the quotes and deal with the company of your choice.
 
----
-
-## Hamilton Jet Charter Flights
-
 ### Chartright Air Group
 
 When you require a charter flight to or from Hamilton Ontario, Chartright Air Group can provide you with quick and reliable private jet charter service to any destination throughout Canada, the USA and beyond.
@@ -86,8 +72,6 @@ When you require a charter flight to or from Hamilton Ontario, Chartright Air Gr
 ### Jet Charters
 
 Private Jet Charters are available out of the Hamilton airport. Fly direct to virtually any destination across Canada, the USA or even the Bahamas and Caribbean. Receive up to 3 competitive quotes directly from the charter airlines.
-
-## Hamilton Turbo Prop / Piston Aircraft Charters
 
 ### DB Air
 
@@ -107,15 +91,11 @@ We can arrange for an amphibious float plane to pick your group up in Hamilton a
 
 Take a helicopter sight seeing adventure out of the Hamilton Airport - check out Niagara Falls and surrounding area. Just give us an idea of what you want to do and we will get you up to 3 competitive quotes for your review.
 
-## Charter Flights Hamilton to USA
-
 ### [USA Charter Flights](/directory/ontario-usa-charter-airlines)
 
 You can book charter flights from Hamilton Ontario to virtually any airport across Canada or throughout the USA.
 
 With a private charter flight you can conduct business en route in a private and secure environment. Plus, You can conduct your business throughout the day and return home that evening.
-
-## Charter Flights Hamilton - Montreal
 
 ### Charter Flights From Montreal
 
@@ -123,15 +103,11 @@ It is 350 air miles from Montreal to Hamilton.
 
 [CHARTER QUOTE](/canada/quebec/montreal)
 
-## Charter Flights Hamilton-Thunder Bay
-
 ### Charter Flights From Thunder Bay
 
 It is 580 air miles from Thunder Bay to Hamilton.
 
 [CHARTER QUOTE](/canada/northern-ontario/thunder-bay)
-
-## Charter Flights Hamilton - Timmins
 
 ### Charter Flights From Timmins
 
@@ -139,23 +115,9 @@ It is 385 air miles from Timmins to Hamilton.
 
 [CHARTER QUOTE](/canada/northern-ontario/timmins)
 
----
-
-## Hamilton Charter Quote Request Form
-
----
-
 ### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
 
----
-
----
-
----
-
 Charter Flight Network Has Been Promoting The Canadian Air Charter Industry and Generating High Quality Charter Quote Requests For Charter Airlines In Every Province and Territory of Canada Since 2008
-
----
 
 ## Links To 53 Southern Ontario Charter Destinations
 
@@ -165,7 +127,7 @@ Charter Flight Network Has Been Promoting The Canadian Air Charter Industry and 
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -185,7 +147,7 @@ Charter Flight Network Has Been Promoting The Canadian Air Charter Industry and 
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -217,16 +179,10 @@ Charter Flight Network Has Been Promoting The Canadian Air Charter Industry and 
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
 
----
-
 Every quote request generated, forwards to the charter airlines best positioned and equipped to provide the service. Each company prepares a competitive quote and sends it directly to your email. [Discover how to link your charter airline to our distribution list](/operators)
-
-### CharterFlightNetwork.com is not a charter service provider. We do not own nor operate any aircraft. All charter quotes are generated by the charter airlines who are best positioned and equipped to provide the service requested. Should you decide to book a charter flight, you book directly with the charter airline of your choice and all flight arrangements and payments are made directly with the airline
-
----

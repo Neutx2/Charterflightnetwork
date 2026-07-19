@@ -11,10 +11,6 @@ provinceSlug: "british-columbia"
 city: "Vancouver"
 airportCode: "YVR"
 ---
-### This page provides links to direct charter flights to Vancouver International Airport from departure points across British Columbia, throughout Canada, as well as departures from the USA.
-
-## Vancouver Charter Flights - With Just One Click Receive Up To 3 Competitive Charter Quotes
-
 ### Charter Flight Network specializes in finding clients the most convenient and cost-efficient charter flight options by requesting up to 3 competitive quotes from airlines best positioned and equipped to provide the service you require.
 
 Charter Flight Network is proudly Canadian owned & operated since 2008.
@@ -54,16 +50,6 @@ If you are arriving in Vancouver by scheduled airline, you will arrive at the ma
 
 [View All British Columbia Charter Destinations](#BC Charter Destinations)
 
----
-
----
-
-## Vancouver Jet & Turbo Prop Charters - 3 Competitive Quotes
-
-### Vancouver Jet Charter Aircraft
-
-### Turbine and Piston Charters
-
 ### Jet and turboprop charters are available from Vancouver International Airport South Terminal. Turboprop and piston charters are also available from nearby airports such as Boundary Bay, Pitt Meadows, Langley and Abbotsford.
 
 Jet charters as well as turbine and piston powered aircraft are available to and from the South Terminal of Vancouver International Airport. Companies such as Chartright and London Air Services are two leading jet charter airlines based in Vancouver and provide service throughout Canada, the USA, Bahamas, Caribbean and beyond.
@@ -72,27 +58,11 @@ Many of the area turboprop and piston-powered charter airlines operate from near
 
 These airlines can pick you up from the Vancouver Airport South Terminal; however, there will be an extra charge for the flight to position the aircraft from their base to the South Terminal. Your most cost-efficient option will often be taking ground transportation to their location.
 
----
-
-## Vancouver Float Plane Charters - 3 Competitive Quotes
-
-### Vancouver Float Plane Charters To Coastal Fishing Lodges
-
-### Vancouver Float Plane Charters To Inland Lakes & Rivers
-
----
-
 ### Float plane charters are available from several locations in the Vancouver region including the South Terminal, Downtown Harbour, Fort Langley and Pitt Meadows.
 
 If you are flying float plane charter to Vancouver, you may arrive at the Vancouver International Water Airport which is located on Inglis Drive, just a short distance from the South Terminal and is part of the south arm of the Fraser River. All float plane charter flights operate from this location other than Harbour Air, which has its main passenger terminal nearby at the Flying Beaver Bar and Grill.
 
 Float plane charters also arrive and depart from Downtown Vancouver Harbour, Fort Langley and Pitt Meadows, providing direct links to fishing lodges, coastal resorts and remote communities.
-
-### [Float Plane Charters From Vancouver To Whistler](/canada/british-columbia/whistler)
-
-## Vancouver Helicopter Charters - 3 Competitive Quotes
-
-### Vancouver Helicopter Tours
 
 ### Helicopter Project Support
 
@@ -102,17 +72,7 @@ Many Vancouver area helicopter charter companies specialize in area sightseeing 
 
 If you have a remote construction or exploration project that will require helicopter support, you can receive competitive quotes directly from the charter services by using our charter quote request service.
 
----
-
----
-
-## Vancouver Charter Flights To USA - 3 Competitive Quotes
-
-### Turbo Props To USA
-
 ### Jet Charters To USA
-
----
 
 If you need to fly from Vancouver to any destination throughout the USA, a charter flight can be the most efficient solution. For a quick business trip, you can depart Vancouver in the morning, conduct your business and return home the same day. You will save money by choosing a destination airport that offers US Customs & Immigration services; otherwise your flight will need to land at a designated airport of entry to clear US customs before arrival at your destination of choice.
 
@@ -126,10 +86,6 @@ If your destination is located over 1000 miles from Vancouver, you may find that
 
 [USA Charter Flight Destinations](/usa)
 
----
-
-## Group Charters / Crew Rotations - 3 Competitive Quotes
-
 ### Group Travel
 
 Contact us if you would like to receive competitive quotes directly from the airlines who are best positioned and equipped for group charter flights in or out of the Vancouver area.
@@ -137,8 +93,6 @@ Contact us if you would like to receive competitive quotes directly from the air
 ### Crew Rotation
 
 Whether you have a 2 or 200 person crew to rotate on an ongoing basis, you can receive quotes and logistics directly from the charter companies best positioned and equipped to provide the service.
-
----
 
 If you are considering the option of booking a group charter flight for your sports team, association, corporate group or golf group, you should be prepared with the following information when requesting a quote in order to ensure you have the most accurate pricing.
 
@@ -150,18 +104,12 @@ To keep it cost effective, it is important that your entire group departs from t
 
 If you can be prepared with the above information when requesting a quote for a group charter flight, it will ensure you receive accurate pricing quickly.
 
-### Request A Quote Directly From These BC Air Charter Airlines
-
----
-
 ### Streak Air
 
 Kamloops BC V2B 7X2
 **Base Locations:** Kamloops, BC
 **Aircraft Types:** Piper Cheyenne 2XL
 **Service Type:** Wheels
-
----
 
 ### Liard Air
 
@@ -171,8 +119,6 @@ P: (250) 491-1885
 **Aircraft Types:** Cessna 208 Caravan / Cessna U206 / De Havilland DHC-2 Beaver / Piper PA-12
 **Service Type:** Wheels / Floats
 
----
-
 ### Nautilus Air Ltd
 
 Vancouver BC V6P 5C3
@@ -181,16 +127,12 @@ P: (604) 202-4244
 **Aircraft Types:** Cessna 421
 **Service Type:** Wheels
 
----
-
 ### Fast Air
 
 Abbotsford, BC
 **Base Locations:** Winnipeg, MB / Toronto, ON / Abbotsford, BC
 **Aircraft Types:** Beech King Air
 **Service Type:** Wheels
-
----
 
 ### Babin Air Ltd
 
@@ -199,18 +141,12 @@ Cranbrook, BC
 **Aircraft Types:** Cessna 206 / Cessna Skymaster / Piper PA-42 Cheyenne
 **Service Type:** Wheels
 
----
-
 **BC Air**
 Campbell River BC V9H 1T5
 P:
 **Base Locations:** Campbell River BC V9H 1T5
 **Aircraft Types:** Cessna 172 / Cessna 206
 **Service Type:** Wheel Plane Charters
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -356,11 +292,5 @@ Search charter flights to any of the following British Columbia destinations
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
 
----
-
 Every quote request generated forwards to the charter airlines best positioned and equipped to provide the service. Each company prepares a competitive quote and sends it directly to your email.
 [Discover how to link your charter airline to our distribution list](/operators)
-
-### CharterFlightNetwork.com is not a charter service provider. We do not own nor operate any aircraft. All charter quotes are generated by the charter airlines who are best positioned and equipped to provide the service requested. Should you decide to book a charter flight, you book directly with the charter airline of your choice and all flight arrangements and payments are made directly with the airline.
-
----

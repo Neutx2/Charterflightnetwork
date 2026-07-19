@@ -10,13 +10,9 @@ province: "Quebec"
 provinceSlug: "quebec"
 city: "Inukjuak"
 ---
----
-
 ### Flights To Inukjuak
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
-
----
 
 ### Charter Flights From Montreal to Inukjuak
 
@@ -37,10 +33,6 @@ Charter flights can be arranged to the local public use airport which has a sing
 With just one click, you can receive up to 3 competitive charter flight quotes directly from the airlines who provide service throughout Inukjuak .
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
-
----
-
----
 
 ## Quick Links To 86 Air Charter Destinations Across Quebec
 
@@ -133,7 +125,3 @@ With just one click, you can receive up to 3 competitive charter flight quotes d
 * [Val-d`Or](/canada/quebec/val-d-or)
 * [Waskaganish](/canada/quebec/waskaganish)
 * [Wemindji](/canada/quebec/wemindji)
-
----
-
----

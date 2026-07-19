@@ -28,8 +28,6 @@ The resort offers luxurious accommodations in the form of private casitas, which
 
 Royal Isabela prides itself on offering exceptional dining experiences that showcase the best of Puerto Rican cuisine and locally sourced ingredients. The resort's main restaurant, typically named something like "La Casa" or "The Clubhouse," offers a refined yet relaxed atmosphere where guests can enjoy gourmet meals prepared by talented chefs.
 
-## Other Puerto Rico Golf Courses
-
 ### [Bahia Beach Golf Club:](https://www.bahiabeachpuertorico.com/golf)
 
 Designed by Robert Trent Jones Jr., the Bahia Beach Golf Club is part of the St. Regis Bahia Beach Resort in Rio Grande. This championship course winds through lush tropical landscapes, mangrove forests, and along the scenic coastline.
@@ -58,8 +56,6 @@ Located at the Wyndham Grand Rio Mar Puerto Rico Golf and Beach Resort in Rio Gr
 
 Situated in Humacao, Palmas del Mar Golf Club offers two 18-hole championship courses: the Flamboyan Course and the Palm Course. Designed by Gary Player and Rees Jones, respectively, these courses provide diverse challenges and stunning scenery.
 
-## Video Links To Featured Puerto Rico Resorts / Activities / Adventures
-
 ### [Video: Featured Puerto Rico Golf Course](/travel/puerto-rico-golf)
 
 Plus Listings and Links to golf courses throughout Puerto Rico
@@ -71,12 +67,6 @@ Plus listings and links to popular Puerto Rico Resorts and Hotels
 ### [Video: Featured Private Sailboat & Yacht Charters](/travel/puerto-rico-yachts)
 
 Plus listings and links to Puerto Rico Sailboat & Yacht Charter Services.
-
----
-
----
-
----
 
 ## Links To Caribbean Air Charter Destinations
 
@@ -110,11 +100,3 @@ Seach Charter Flights To Any Of The Following Caribbean Destinations
 * [Virgin Islands (British)](/caribbean/british-virgin-islands)
 * [Virgin Islands (U.S.)](/caribbean/us-virgin-islands)
 * [Trinidad & Tobago](/caribbean/trinidad-tobago)
-
----
-
----
-
----
-
----

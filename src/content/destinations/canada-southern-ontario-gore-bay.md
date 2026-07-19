@@ -14,27 +14,15 @@ Charter Flights To Gore Bay , Ontario
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
 ### [Charter Flights To Charter Flights To Gore Bay](#collapseOne1)
 
 Gore Bay is located on the northwestern region of Manitoulin Island facing the north channel of Lake Huron. It is becoming a haven for outdoor enthusiasts, golfers, sailing, summer homes as well as corporate get togethers, team building, etc. In spite of its remote location, you can fly direct charter flights to the Gore Bay / Manitoulin Airport located 6 miles west of town. The airport will easily accommodate medium to large charter and corporate aircraft with its 5500 foot asphalt runway. If you are flying from the USA the airport is staffed by officers of the CBSA.
-
-## Gore Bay Air Charter Options
-
-## Charter Flights From Gore Bay
 
 ### Charter Flights
 
 Depending on the type of aircraft you require, charter flights can be arranged out of Elliot Lake or Sudbury. There are no charter services at Gore Bay or on Manitoulin Island. You can receive up to 3 comptitive quotes when you complete and submit our no cost, no obligation charter quote request form.
 
 [AIR CHARTER QUOTE](/quote)
-
----
-
----
 
 ## Gore Bay Wheel Plane Charter Flights
 
@@ -48,22 +36,6 @@ The closest float plane charter services to Gore Bay are located in Blind River 
 
 There are no helicopter charter services based in the Gore Bay area. There may be helicopters temporarily available out of Sudbury, however the closest helicopter base is located 100 air miles to the east in Sault Ste Marie. Contact us for price quotes and availability.
 
----
-
----
-
-## Gore Bay Charter Quote Request Form
-
----
-
-### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
-
----
-
----
-
----
-
 ## Quick Links To Over 50 Air Charter Destinations Across Southern Ontario
 
 [Click Here For Links To Northern and Northwestern Ontario Destinations](/canada/northern-ontario)
@@ -72,7 +44,7 @@ There are no helicopter charter services based in the Gore Bay area. There may b
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -92,7 +64,7 @@ There are no helicopter charter services based in the Gore Bay area. There may b
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -124,12 +96,8 @@ There are no helicopter charter services based in the Gore Bay area. There may b
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
----

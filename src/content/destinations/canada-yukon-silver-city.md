@@ -14,12 +14,6 @@ Charter Flights To Silver City, Yukon Territory
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Silver City](#collapseOne1)
-
 ### About Silver City Yukon and Location
 
 Silver City, a hidden gem nestled in the heart of Yukon, offers a serene escape into nature. Known for its scenic beauty, rich history, and outdoor recreational activities, Silver City attracts adventurers and history buffs alike. Its proximity to pristine lakes, rugged mountains, and historic mining sites makes it a prime location for those seeking adventure and exploration in the Yukon wilderness.
@@ -88,10 +82,6 @@ Explore the tranquil waters around Silver City by kayak or canoe, offering uniqu
 
 Take to the trails for some of the best mountain hiking in Yukon, with routes offering everything from gentle walks to challenging climbs.
 
----
-
-## Silver City Wheel Plane Charter Flights
-
 ### Tintina Air Inc.
 
 Tintina Air's Cessna 206is equipped larger tires allowing it to access many of the rougher air strips, found throughout the Yukon
@@ -99,8 +89,6 @@ Tintina Air's Cessna 206is equipped larger tires allowing it to access many of t
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 Silver City is on the north eastern perimeter of the Kluane National Park.The local public use airport has a sand/gravel runway 3,000 feet in length. Contact the charter airlines listed on this page for details on flights and types of aircraft available for charter flights to Silver City.
-
-## Silver City Float Plane Charter Flights
 
 ### Alkan Air Ltd
 
@@ -110,23 +98,11 @@ The big brother to the De Havilland Beaver is the DHC-3 turbine engine Otter. Th
 
 Float Plane Charter Flights are available to Silver City which is located in south western Yukon, on the south shore of Kluane Lake on the Alaskan Hwy. It is about half way between Burwash Landing to the north and Haines Junction to the south. Contact us to receive competitive quotes.
 
-## Silver City Helicopter Charter Flights
-
 ### Fireweed Helicopters Ltd
 
 The Bell 204 C has a maximum internal payload of 2800 lbs, and external payload of 3800 lbs​​. which is perfect for mining and exploration companies who need to move heavy and bulky machinery into remote work sites
 
 If you have a project in the Silver City region that requires helicopter support, use our free charter quote request service and receive up to 3 competitive quotes directly from the charter companies.
-
----
-
----
-
----
-
----
-
----
 
 ## Quick Links To Over 20 Air Charter Destinations Across Yukon Territory
 
@@ -157,7 +133,3 @@ If you have a project in the Silver City region that requires helicopter support
 * [Twin Creeks](charter_flights_Twin Creeks_yt.html)
 * [Watson Lake](/canada/yukon/watson-lake)
 * [Whitehorse](/canada/yukon/whitehorse)
-
----
-
----

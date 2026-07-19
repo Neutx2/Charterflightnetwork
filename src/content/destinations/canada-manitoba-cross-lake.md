@@ -15,8 +15,6 @@ Cross Lake is located about 520 kilometres north of Winnipeg and is one of north
 
 [Request Charter Quote](#QuoteForm)
 
----
-
 ## *Manitoba Charter Flight Links*
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
@@ -26,8 +24,6 @@ Cross Lake is located about 520 kilometres north of Winnipeg and is one of north
 [Charter Flights Norway House](/canada/manitoba/norway-house)
 
 [Charter Flights Thompson](/canada/manitoba/thompson)
-
-## Flights to Cross Lake, Manitoba
 
 ## **About Cross Lake:**
 
@@ -62,8 +58,6 @@ Cross Lake is one of northern Manitoba's most important Indigenous communities, 
 
 * Visitors to Cross Lake are drawn by boating, fishing, shoreline scenery, and community-centred northern outdoor life. Cross Lake also functions as a regional service centre, making it a useful base for travel throughout the surrounding Nelson River and lake country.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 Wheel plane charter flights to Cross Lake are practical for business, family, government, and cargo travel, with a certified northern airport capable of handling a range of suitable aircraft.
@@ -95,10 +89,6 @@ In addition to passenger charter flights, Charter Flight Network can also assist
 **Helicopter Charters**
 
 * Use our quote request service to locate helicopter charter services when you require direct access to remote Northern Manitoba locations where there are no roads, runways, or reliable ground transportation options.
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to Cross Lake or Any Destination Throughout Canada or the USA
-
-## Flights to Cross Lake, MB FAQ
 
 ## What airport serves Cross Lake, Manitoba?
 
@@ -219,7 +209,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

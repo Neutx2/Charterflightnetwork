@@ -11,15 +11,9 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Burns Lake"
 ---
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require.
-
-### [Charter Flights To Burns Lake](#collapseOne1)
-
 ### You can book a charter flight to Burns Lake from a wide range of airports across the Province or throughout Canada. If your flight originates in the USA, you will need to stop at a designated airport for Canadian Customs clearance prior to landing at Burns Lake.
 
 There is both a land airport and a designated water aerodrome located at Burns Lake BC. The main airport which has a 5,000 foot asphalt runway is located 13 miles northwest of Burns Lake and is accessible to a wide range of charter aircraft. The water aerodrome is located on burns lake which is just under 2 miles south of the Burns Lake town.
-
-## **Here Are The Top Reasons To Visit 108 Mile Ranch**
 
 ### **[Burns Lake Float Plane Charters & Adventures](/directory/wheel-plane-charters-south-bc)**
 
@@ -35,10 +29,6 @@ Link to a complete inventory of Charter Flights to British Columbia Adventures
 
  [BC ADVENTURES](/travel/charter-flights-to-adventure)
 
----
-
----
-
 ## Burns Lake Wheel Plane Charter Flights
 
 If you need to travel to Burns Lake and you want the quickest most convenient flight option, contact us for a no obligation quote with departures out of any point across BC, throughout Canada or the USA. The Burns Lake Airport is located 13 miles northwest of town.
@@ -50,22 +40,6 @@ Float plane charter flights are also available direct to Burns Lake and will arr
 ## Burns Lake Helicopter Charter Flights
 
 If you have an exploration, construction or natural resource project beginning in the Burns Lake region and you require Helicopter support, we can get you a selection of competitive proposals based on your needs. Our data base includes all helicopter charter services operating in BC and we can usually get you response or competitive quotes within 24 - 48 hours.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -210,9 +184,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

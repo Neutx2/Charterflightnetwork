@@ -15,8 +15,6 @@ Ask about direct charter flights to North Haven Resort from Winnipeg, Chicago, a
 
 [Request Charter Quote](#QuoteForm)
 
----
-
 ## *Manitoba Charter Flight Links*
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
@@ -26,8 +24,6 @@ Ask about direct charter flights to North Haven Resort from Winnipeg, Chicago, a
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 
 [Charter Flights St Andrews Airport](/canada/manitoba/st-andrews)
-
-## Flights to North Haven Resort, Manitoba
 
 ## **About North Haven Resort:**
 
@@ -66,8 +62,6 @@ North Haven Resort is a remote fly-in destination on Utik Lake with a private la
 
 * The main attraction is trophy fishing on Utik Lake for northern pike, walleye, and lake trout. Guests can also enjoy scenic boating, wildlife viewing, and daily fly-out fishing trips to secluded northern waters.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 Wheel plane charters to North Haven Resort provide direct fixed-wing access to the private landing strip, reducing travel time and simplifying arrivals for lodge guests and fishing groups.
@@ -83,12 +77,6 @@ Float plane charters are well suited to the wider Utik Lake region and are espec
 Helicopter charter service can support remote transfers, camp logistics, aerial survey work, and specialized access needs in areas where direct landing flexibility is more important than runway access.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to North Haven Resort or Any Destination Throughout Canada or the USA
-
-## North Haven Resort Charter Flight FAQ
 
 ## **How do guests typically get to North Haven Resort?**
 
@@ -219,7 +207,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

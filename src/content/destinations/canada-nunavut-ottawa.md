@@ -11,19 +11,9 @@ province: "Nunavut"
 provinceSlug: "nunavut"
 city: "Ottawa"
 ---
----
-
-## Ottawa Charter Flights - With Just One Click Receive Up To 3 Competitive Charter Quotes Directly From The Charter Network Members Who Provide Wheel Plane / Float Plane or Helicopter Charter Services Throughout The Ottawa Area
-
 ### No Cost, No Obligation. Review The Quotes and Then Deal Directly With The Charter Service Of Your Choice.
 
 Charter Flight Network Is Proudly Canadian Owned & Operated
-
----
-
-## Receive Up To 3 Competitive Charter Quotes, Prepared By The Charter Network Members Who Operate In The Region Each and Every Day
-
-### [Charter Flights To Ottawa / Helpful Travel Services & Information](#collapseOne1)
 
 ### Ottawa Inernational Airport - FBO Services / Private Passenger Air Charter Terminal
 
@@ -39,8 +29,6 @@ Phone: (613) 736-5959
 Ottawa, ON K1V 9B4
 Phone: (613) 739-3776
 
----
-
 ### Ottawa Car Rentals
 
 Your air charter service can make all car reservations for you and have your car ready and waiting upon your arrival in Ottawa. Here are the car rental companies available at the Ottawa Airport
@@ -50,8 +38,6 @@ Your air charter service can make all car reservations for you and have your car
 * **Budget -**Phone 613-521-4844
 * **Entrprise -** Phone 613-248-0005
 
----
-
 ### Ottawa Limo Services
 
 If you prefer the convenience of using a limo service, rather than a rental car, here are some of the limo services available in the Ottawa area.
@@ -60,8 +46,6 @@ If you prefer the convenience of using a limo service, rather than a rental car,
 * **Infinity Limousine - Ottawa Limousine Service -** Phone: (613) 277-9797
 * **Vegas Limousine -** Limos Ottawa - Phone: (613) 739-5466
 * **Premier Limousine -** Phone: (613) 986-5466
-
----
 
 ### Ottawa Best Business Hotels
 
@@ -81,8 +65,6 @@ Phone: (613) 238-1122
 325 Dalhousie St,
 Ottawa, ON K1N 7G1
 Phone: (613) 321-1234
-
----
 
 ### Ottawa Golf Courses
 
@@ -126,10 +108,6 @@ Ottawa, ON K1V 1J9
 Ottawa, ON K1B 4S3
 (613) 746-4653
 
----
-
-## Ottawa Jet Charters Flights
-
 ### Chartright Air Group
 
 When you require quick and convenient charter flights to or from Ottawa, Ontario, contact Chartright Air Group for competitive quotes .
@@ -137,8 +115,6 @@ When you require quick and convenient charter flights to or from Ottawa, Ontario
 ### Jet Charters
 
 Complete and submit our charter quote request form and receive up to 3 competitive quotes for Private Jet Charters with departure out of Ottawa - or flights to Ottawa from Toronto, Montreal, Thunder Bay, Halifax or any departure point across Canada and USA.
-
-## Ottawa Turbo Prop Charter Flights
 
 ### Fast Air
 
@@ -154,25 +130,9 @@ We can source out float plane charter flights from Ottawa to dozens of remote la
 
 Take an exciting 30 - 60 minute helicopter aerial tour of the Ottawa region. This is especially rewarding in the fall with the spectacular colours, courtesy of the area forests. Also, if you have a remote anywhere in the Ottawa region that requires helicopter support, you can receive up to 3 competitive price quotes directly from the charter services operating in the region.
 
----
-
-## Ottawa Charter Quote Request Form
-
----
-
 ### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
 
----
-
----
-
----
-
 Charter Flight Network Has Been Online Since 2008 And Has Established The Largest Network Of Wheel Plane, Float Plane & Helicopter Charter Services In Every Province & Territory of Canada Who Participate In Our Charter Quote Request Service
-
----
-
----
 
 ## Links To Southern Ontario Air Charter Destinations
 
@@ -182,7 +142,7 @@ Charter Flight Network Has Been Online Since 2008 And Has Established The Larges
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -201,7 +161,7 @@ Charter Flight Network Has Been Online Since 2008 And Has Established The Larges
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -232,16 +192,10 @@ Charter Flight Network Has Been Online Since 2008 And Has Established The Larges
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
 
----
-
 Every quote request generated, forwards to the charter airlines best positioned and equipped to provide the service. Each company prepares a competitive quote and sends it directly to your email. [Discover how to link your charter airline to our distribution list](/operators)
-
-### CharterFlightNetwork.com is not a charter service provider. We do not own nor operate any aircraft. All charter quotes are generated by the charter airlines who are best positioned and equipped to provide the service requested. Should you decide to book a charter flight, you book directly with the charter airline of your choice and all flight arrangements and payments are made directly with the airline
-
----

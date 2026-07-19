@@ -14,12 +14,6 @@ Charter Flights To Eagle Plains, Yukon Territory
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Eagle Plains](#collapseOne1)
-
 ### About Eagle Plains, Yukon and Location
 
 Eagle Plains, Yukon, offers a secluded retreat for those looking to explore the vast wilderness of the Yukon Territory. With its stunning landscapes, abundant wildlife, and access to the historic Dempster Highway, it's a prime destination for adventurers and nature enthusiasts. Charter flights to Eagle Plains provide an essential link to this remote area, making it accessible for tourists seeking the ultimate Yukon experience.
@@ -84,10 +78,6 @@ Experience the thrill of crossing the Arctic Circle on guided tours from Eagle P
 
 Eagle Plains is a haven for wildlife enthusiasts and photographers, offering unmatched opportunities throughout the region
 
----
-
-## Eagle Plains Wheel Plane Charter Flights
-
 ### Tintina Air Inc.
 
 Tintina Air's versatile fleet allows them to offer a wide range of charter services, including IFR and VFR charter flights, with aircraft equipped to land on gravel runways, unprepared air strips as well as snow/ice surfaces.
@@ -96,23 +86,11 @@ Tintina Air's versatile fleet allows them to offer a wide range of charter servi
 
 The Eagle Plains airport is a remote landing strip located in northern Yukon and is actually part of the Dempster Highway. The airport has an aircraft parking ramp adjacent to the highway to ensure aircraft are clear of any highway traffic. The single gravel runway is 2,500 feet in length making it accessible to limited types of aircraft in the region.
 
-## Eagle Plains Helicopter Charter Flights
-
 ### Fireweed Helicopters Ltd
 
 The MD 520N Helicopter operated by Fireweed features a maximum internal payload of 1200 lbs, and external payload of 1300 lbs​​.
 
 When you require helicopter access to mining claims or other destinations that cannot be reached by highway nor float plane, a helicopter charter may be your most efficient option. We can supply you with a selection of competitive quotes. Just send us your requirements and we wil source out to the helicopter operators in the region.
-
----
-
----
-
----
-
----
-
----
 
 ## Quick Links To Over 20 Air Charter Destinations Across Yukon Territory
 
@@ -143,7 +121,3 @@ When you require helicopter access to mining claims or other destinations that c
 * [Twin Creeks](charter_flights_Twin Creeks_yt.html)
 * [Watson Lake](/canada/yukon/watson-lake)
 * [Whitehorse](/canada/yukon/whitehorse)
-
----
-
----

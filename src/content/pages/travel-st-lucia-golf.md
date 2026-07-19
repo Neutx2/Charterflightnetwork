@@ -8,8 +8,6 @@ thin: false
 quoteSubject: "Puerto Rico Charters"
 region: "global"
 ---
-## Featured St Lucia Golf Courses:
-
 ### [Cabot St Lucia Golf Resort](https://cabotsaintlucia.com/)
 
 Located on 375 acres at the far northern tip of St Lucia, Cabot St Lucia offers a spectacular golfing opportunity designed around the majestic cliffs and valleys of Port Hardy.
@@ -26,15 +24,11 @@ Cabot St Lucia also offers once in a lifetime real estate ownership opportunitie
 
 Travel direct to St Lucia with private charter flight or scheduled airline from any US, Canadian or European city. The property is just an hour an 15 minute drive from the Hewanorra Internaitonal airport or a 25 minute drive from the George F L Charles private airport. From the airport both ground transportation as well as helicopter shuttles are available.
 
-## Other St Lucia Golf Courses
-
 ### Sandals Golf & Country Club at Cap Estate
 
 Designed by Robert Trent Jones Jr., the Bahia Beach Golf Club is part of the St. Regis Bahia Beach Resort in Rio Grande. This championship course winds through lush tropical landscapes, mangrove forests, and along the scenic coastline.
 
 This course is set within a scenic landscape overlooking the Caribbean Sea and is designed to challenge players of all skill levels. The course features lush green fairways, stunning views, and challenging holes that wind through hills and valleys. With several water hazards and bunkers strategically placed throughout the course, golfers can expect an enjoyable yet demanding round.
-
-## Video Links To Featured St Lucia Resorts / Activities / Adventures
 
 ### [Video: Featured St Lucia Fishing Adventures](/travel/st-lucia-fishing)
 
@@ -47,12 +41,6 @@ Plus listings and links to popular St Lucia Resorts and Hotels
 ### [Video: Featured Private Sailboat & Yacht Charters](/travel/st-lucia-sailing)
 
 Plus listings and links to St Lucia Sailboat & Yacht Charter Services
-
----
-
----
-
----
 
 ## Links To Caribbean Air Charter Destinations
 
@@ -86,11 +74,3 @@ Seach Charter Flights To Any Of The Following Caribbean Destinations
 * [Virgin Islands (British)](/caribbean/british-virgin-islands)
 * [Virgin Islands (U.S.)](/caribbean/us-virgin-islands)
 * [Trinidad & Tobago](/caribbean/trinidad-tobago)
-
----
-
----
-
----
-
----

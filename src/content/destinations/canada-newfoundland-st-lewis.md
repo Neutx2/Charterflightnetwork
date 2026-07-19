@@ -12,15 +12,9 @@ city: "St Lewis"
 ---
 Charter Flights To St Lewis Newfoundland / Labrador
 
----
-
 ### [Charter Flights To St Lewis](#collapseOne1)
 
 ========================================================================
-
----
-
-## Wheel Plane Charter Flights
 
 ### Chrono Aviation
 
@@ -34,8 +28,6 @@ Located on the southern coast of Labrador, St. Lewis offers a unique blend of ru
 
 Receive up to 3 competitive charter quotes directly from the airlines who operate wheel plane / float plane and helicopter charter services. We source your request to our Network Members who are best positioned and equipped to provide the service you require. Each company sends a competitive quote directly to your email.
 
-## Float Plane Charter Flights
-
 ### Float Plane Charters / 3 Competitive Quotes
 
 Because of the short gravel runway, passengers may have more opportunities with a float plane or helicopter charter to St Lewis Newfoundland / Labrador.
@@ -47,10 +39,6 @@ If you have a project in the St Lewis Newfoundland / Labrador region that requir
 ### Helicopter Charter Flights / 3 Competitive Quotes
 
 Receive up to 3 competitive charter quotes directly from the helicopter charter companies best positioned and equipped to provide the services you require
-
----
-
----
 
 ## Quick Links To 38 Air Charter Destinations Across Newfoundland and Labrador
 
@@ -96,7 +84,3 @@ Receive up to 3 competitive charter quotes directly from the helicopter charter 
 * [Wabush](/canada/newfoundland/wabush)
 * [Williams Harbour](/canada/newfoundland/williams-harbour)
 * [Winterland](/canada/newfoundland/winterland)
-
----
-
----

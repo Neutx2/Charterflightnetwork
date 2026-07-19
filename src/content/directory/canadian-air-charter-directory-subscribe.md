@@ -35,8 +35,6 @@ Keep in mind however, that the Directory is constantly being updated as Air Char
 
 If you misplace or accidently delete your link simply complete and submit the form above once again for a replacement link.
 
----
-
 More About The Canadian Air Charter Directory
 
 [THE CANADIAN AIR CHARTER DIRECTORY](/directory/canadian-air-charter-directory-1)
@@ -50,9 +48,6 @@ More About The Canadian Air Charter Directory
 [OUR AUDIENCE / YOUR TARGET MARKET](/directory/canadian-air-charter-directory-audience)
 
 [MAXIMIZE EXPOSURE WITH PREMIUM LISTING](/directory/canadian-air-charter-directory-premium)
-
-1100 Memorial Avenue
-Suite
 
 Thunder Bay, Ontario
 

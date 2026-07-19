@@ -14,12 +14,6 @@ Charter Flights To Mayo, Yukon Territory
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Mayo](#collapseOne1)
-
 ### About Mayo Yukon and Location
 
 Mayo, located in the heart of Yukon, serves as the gateway to the pristine wilderness of the Silver Trail region. This charming town is a hub for outdoor enthusiasts, offering unparalleled opportunities for fishing, hiking, and the chance to witness the spectacular Northern Lights. Charter flights to Mayo are the ideal way to access this remote destination, offering travelers a unique glimpse into the Yukon's breathtaking landscapes and rich cultural heritage.
@@ -88,10 +82,6 @@ Explore the rich waters of Mayo for unparalleled fishing experiences, guided by 
 
 From leisurely walks to challenging hikes, Mayo offers trails that showcase the stunning landscapes and wildlife of Yukon.
 
----
-
-## Mayo Wheel Plane Charter Flights
-
 ### Alkan Air Ltd
 
 When you require the speed and comfort of twin engine travel, Alkan also offers the Dornier 228 and Piper PA-31 Navajo based in Yukon and ready for various client requirements.
@@ -100,8 +90,6 @@ When you require the speed and comfort of twin engine travel, Alkan also offers 
 
 Where the Klondike Highway crosses the Stewart River at Stewart Crossing, there is a highway that runs north east called Silver Trail - the small village of Mayo is located at the end of this highway. There is a small airport located 1.5 miles north of town which has a single gravel runway - 4,843 feet in length, making it accessible to a wide variety of charter aircraft in the region.
 
-## Mayo Float Plane Charter Flights
-
 ### Alkan Air Ltd
 
 Alkan Air also operate a floatplane base in Mayo, located on the Stewart River, which supports camping, drinking water, and showers for paddlers​​.
@@ -109,8 +97,6 @@ Alkan Air also operate a floatplane base in Mayo, located on the Stewart River, 
 ### Float Plane Charters - Receive 3 Competitive Quotes
 
 As you can see from the listing above, Alkan Air operates a float plane base out of Mayo and may be your most cost efficient option. However, if they cannot meet your schedule or requirements, use our charter quote request service and we will source out your request and find you other float plane options that meet your needs.
-
-## Mayo Helicopter Charter Flights
 
 ### Fireweed Helicopters Ltd
 
@@ -121,12 +107,6 @@ Fireweed's diverse fleet of helicopters are popular choices for Search & Rescue 
 Kluane Helicopters provides a wide array of commercial services including scenic tours, forestry, photography, wildlife surveys, mining, and construction. They are particularly noted for their expertise in operating within the unique conditions of the Yukon​​.
 
 If you have a project in the Mayo region that requires helicopter support, use our Free Charter Quote Request Service and with just one click, receive up to 3 competitive quotes directly from the charter companies.
-
----
-
----
-
----
 
 ## Quick Links To Over 20 Air Charter Destinations Across Yukon Territory
 
@@ -157,7 +137,3 @@ If you have a project in the Mayo region that requires helicopter support, use o
 * [Twin Creeks](charter_flights_Twin Creeks_yt.html)
 * [Watson Lake](/canada/yukon/watson-lake)
 * [Whitehorse](/canada/yukon/whitehorse)
-
----
-
----

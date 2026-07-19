@@ -14,12 +14,6 @@ Charter Flights To Whitehorse, Yukon Territory
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Whitehorse](#collapseOne1)
-
 ### About Whitehorse Yukon and Location
 
 Whitehorse, the vibrant capital of Yukon, serves as the gateway to the stunning wilderness of Northern Canada. Renowned for its breathtaking landscapes, rich history, and abundant wildlife, Whitehorse offers a unique blend of natural beauty and cultural experiences. From the mesmerizing Northern Lights to the challenging trails of the nearby mountains, Whitehorse is the perfect starting point for adventure seekers and nature lovers alike.
@@ -82,10 +76,6 @@ Embark on a journey through Yukon's majestic rivers and lakes, offering unforget
 
 Explore the rugged trails of Whitehorse and the surrounding areas, where each path leads to breathtaking views and serene camping spots under the Northern Lights.
 
----
-
-## Whitehorse Wheel Plane Charter Flights
-
 ### Tintina Air Inc.
 
 Tintina Air operates primarily from Whitehorse, Yukon, and occasionally from Dawson City or Atlin, BC. This Yukon-owned and operated air charter business is strategically positioned to serve the northern regions efficiently​​.
@@ -93,8 +83,6 @@ Tintina Air operates primarily from Whitehorse, Yukon, and occasionally from Daw
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 The city is a major air transportation center for the region and the Whitehorse International Airport serves the local population with daily flights from across the region and the country by major domestic and regional airlines. The two main runways are 9,500 and 4,000 feet in length, both with asphalt surface. a third runway is 1,800 feet which is also asphalt. The airport sees over 30,000 aircraft movements each year. Contact us for competitive charter quotes .
-
-## Whitehorse Float Plane Charter Flights
 
 ### Alkan Air Ltd
 
@@ -108,23 +96,11 @@ Location: Amber Airways Inc. is based in Whitehorse, Yukon and specializes in fl
 
 When you require helicopter charter services in the Whitehorse region, use our free charter quote request service and receive up to 3 competitive quotes.
 
-## Whitehorse Helicopter Charter Flights
-
 ### Fireweed Helicopters Ltd
 
 Tintina Air operates the twin engine Piper Navajo PA31 which is capable of carrying 5 passengers or a 1,800 lb. payload,
 
 There are several options for helicopter charter services throughout Yukon. If you would like to receive competitive quotes for sightseeing flights or servicing your remote project, use our charter quote request service and receive up to 3 competitive quotes.
-
----
-
----
-
----
-
----
-
----
 
 ## Quick Links To Over 20 Air Charter Destinations Across Yukon Territory
 
@@ -155,7 +131,3 @@ There are several options for helicopter charter services throughout Yukon. If y
 * [Twin Creeks](charter_flights_Twin Creeks_yt.html)
 * [Watson Lake](/canada/yukon/watson-lake)
 * [Whitehorse](/canada/yukon/whitehorse)
-
----
-
----

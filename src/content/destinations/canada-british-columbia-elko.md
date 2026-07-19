@@ -11,17 +11,9 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Elko"
 ---
-## Request A Charter Quote Directly From Any Of Our Featured Charter Airlines or Use Our Free Charter Quote Request Service an Receive Up To 3 Competitive Quotes
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
-### [Charter Flights To Elko](#collapseOne1)
-
 ### Direct Charter Flights to Elko which is a small town with a population of less than 200 located in southeastern British Columbia at the base of the Canadian Rocky Mountains, near the border with Alberta as well as near the border with the USA. The town is 130 air miles south west of Calgary / 215 air miles south west of Edmonton and 365 air miles east of Vancouver.
 
 The town has a small 3,000 foot turf runway located 2 miles southwest of town. There are no scheduled flights to this airport, however you can book charter flights direct to Elko, providing the charter aircraft is approved for operating out of runways with turf or grass strips. If your charter flight originates in the US, you will need to first land at a designated airport of entry to clear Canadian Customs prior to landing at Elko.
-
----
 
 ## Elko Wheel Plane Charter Flights
 
@@ -34,20 +26,6 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 ## Elko Helicopter Charter Flights
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -192,9 +170,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

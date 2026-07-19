@@ -14,15 +14,9 @@ Charter Flights To Owen Sound, Ontario
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
 ### [Charter Flights To Owen Sound](#collapseOne1)
 
 Owen Sound is located on the western shores of Georgian Bay just south of the Bruce Peninsula. The region is a popular business and vacation destination with dozens of challenging golf courses, top rated accommodations, restaurants and outdoor activities and recreation. The town offers some excellent choices for small meetins and conferences. You can fly private charter flights direct to Owen Sound Billy Bishop Regional Airport which offers a 3900 foot asphalt runway making it accessible to a wide variety of charter aircraft.
-
----
 
 ## Owen Sound Wheel Plane Charter Flights
 
@@ -36,18 +30,6 @@ The closest float plane charter services to the Owen Sound area are based in Par
 
 Helicopter charters are available out of Pickle Lake, Red Lake and Thunder Bay. You can receive competitive quotes from all locations with just one click.
 
----
-
-## Owen Sound Charter Quote Request Form
-
----
-
-### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
-
----
-
----
-
 ## Quick Links To Over 50 Air Charter Destinations Across Southern Ontario
 
 [Click Here For Links To Northern and Northwestern Ontario Destinations](/canada/northern-ontario)
@@ -56,7 +38,7 @@ Helicopter charters are available out of Pickle Lake, Red Lake and Thunder Bay. 
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -76,7 +58,7 @@ Helicopter charters are available out of Pickle Lake, Red Lake and Thunder Bay. 
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -108,12 +90,8 @@ Helicopter charters are available out of Pickle Lake, Red Lake and Thunder Bay. 
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
----

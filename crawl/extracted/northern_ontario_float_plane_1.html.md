@@ -85,8 +85,6 @@ Click for a quick index of Ontario air charter locations
 [Windsor](ontario_air_charter_directory_6.html#Windsor)
 
 Eliminate the searching. With just one click you can receive up to 3 competitive quotes directly from the airlines best positioned and equipped to provide the service required.
-**Quote Sourcing:** Every Province and Territory of Canada
-**Aircraft Types:** All Wheel Planes (Jet, Turbine, Piston) / Float Planes / Helicopter Quotes
 
 [Request A Quote](charter_quote.html)
 

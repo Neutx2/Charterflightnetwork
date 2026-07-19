@@ -11,12 +11,6 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Coquitlam"
 ---
-## Request A Charter Quote Directly From Any Of Our Featured Charter Airlines or Use Our Free Charter Quote Request Service an Receive Up To 3 Competitive Quotes
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require.
-
-### [Charter Flights To Coquitlam](#collapseOne1)
-
 ### **Coquitlam Airport**
 
 Coquitlam is located about 20 miles east of downtown Vancouver.. Although there is no airport located in Coquitlam, there are several area airports located within a 20 - 45 minute drive. Charter flights are available out of the Vancouver International Airport - 20 miles west / the Boundary Bay Airport - 17 miles south / the Pitt Meadows Airport and float plane base 6 miles south east and the Abbotsford airport - 25 miles south east.
@@ -33,10 +27,6 @@ Air Hart Aviation based in Kelowna, can provide float plane charter service for 
 
 Search Helicopter Charter Services In British Columbia
 
----
-
----
-
 ## Coquitlam Wheel Plane Charter Flights
 
 We make it easy and convenient to receive up to 3 competitive wheel plane charter quotes for flights to or from airports across BC, throughout Canada and into the USA
@@ -48,20 +38,6 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 ## Coquitlam Helicopter Charter Flights
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -206,9 +182,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

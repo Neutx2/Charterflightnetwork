@@ -8,15 +8,9 @@ region: "canada"
 ---
 Charter Flights To Newark / Trenton / Atlantic City New Jersey
 
-## Newark / Trenton / Atlantic City New Jersey Charter Flights - Receive Competitive Charter Quotes Directly From The Charter Network Members Who Provide Service From CanadaTo Newark / Trenton / Atlantic City and Airports Throughout New Jersey
-
 ### Or Search The Canadian Air Charter Directory And Link Direct To Wheel Plane, Float Plane and Helicopter Charter Services In Every Province & Territory of Canada.
 
 Charter Flight Network Is Proudly Canadian Owned & Operated
-
----
-
-## We Provide Direct Links To All Canadian Charter Airlines Licenced To Fly Into The USA
 
 ### To View A List of Charter Airlines best positioned and equipped to provide your next charter flight from Canada to New Jersey or throughout USA, start by selecting the province you will be departing from
 
@@ -46,16 +40,8 @@ The Following Destinations Are Each Linked To A Google Map To Help You Determine
 * Teterboro Airport / 233 Industrial Ave, Teterboro, NJ
 * Princeton Airport / 41 Airpark Rd, Princetown, New Jersey
 
----
-
 ## Corporate Meetings and Sales Trips
 
 Discover how you can depart in the morning, fly direct to Newark or Trenton, meet with clients and return home that evening.
 
----
-
 [Return To USA Air Charter Directory - Search Charter Flights To Other US States](/usa)
-
----
-
----

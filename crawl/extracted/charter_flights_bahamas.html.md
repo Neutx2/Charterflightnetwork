@@ -81,11 +81,6 @@ You Can Request Competitive Charter Quotes For Any Departure Point or Destinatio
 
 Search More North American Air Charter Destinations
 
-1100 Memorial Avenue
-Suite 424
-Thunder Bay, Ontario
-Email: phil@charterflightnetwork.com
-
 ## Advertise - 1
 
 **How To List Your Air Charter Service On This Site:**

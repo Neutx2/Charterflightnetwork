@@ -11,21 +11,9 @@ province: "Quebec"
 provinceSlug: "quebec"
 city: "Kangirsuk"
 ---
----
-
-## Receive Competitive Charter Quotes Directly From The Airlines who Provide Wheel Plane / Float Plane or Helicopter Charter Flights To Kangirsuk
-
-### No Cost, No Obligation. Review The Quotes and Then Deal Directly With The Charter Service Of Your Choice.
-
----
-
-### [Charter Flights To Kangirsuk](#collapseOne1)
-
 ### Flights To Kangirsuk
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
-
----
 
 ### Location
 
@@ -41,10 +29,6 @@ With just one click, you can receive up to 3 competitive charter flight quotes d
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
 
----
-
-## Turbo Prop / Piston Aircraft Charters
-
 ### Panorama Aviation
 
 Contact Panorama Aviation for charter flights to the Kangirsuk Airport (YKG) located less than a mile east of town. This remote village is located in the Nunavik region of Quebec on the eastern coast of Ungava Bay. Contact us directly for competitive quotes.
@@ -57,19 +41,9 @@ Kuujjuaq is the closest community with float plane charter service and is locate
 
 There is helicopter charter service based in Kuujjuaq located 150 air miles south of Kangirsuk. Submit our Free Charter Quote Request Form and receive up to 3 Competitive Quotes.
 
----
-
----
-
 ### The Following Charter Airlines Provide Quotes For Our Clients Across Quebec, Ontario, Manitoba, Nova Scotia & Nunavut
 
----
-
----
-
 Charter Flight Network Has Been Online Since 2008 And Has Established The Largest Network Of Wheel Plane, Float Plane & Helicopter Charter Services In Every Province & Territory of Canada Who Participate In Our Charter Quote Request Service
-
----
 
 ## Quick Links To 86 Air Charter Destinations Across Quebec
 
@@ -162,7 +136,3 @@ Charter Flight Network Has Been Online Since 2008 And Has Established The Larges
 * [Val-d`Or](/canada/quebec/val-d-or)
 * [Waskaganish](/canada/quebec/waskaganish)
 * [Wemindji](/canada/quebec/wemindji)
-
----
-
----

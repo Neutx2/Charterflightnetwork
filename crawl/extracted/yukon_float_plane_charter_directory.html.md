@@ -57,12 +57,6 @@ P: 867-334-3535
 
 [REQUEST A QUOTE](charter_quote_amber_airways.html)
 
-Canada
-**Details:** Make one quote request to Charter Flight Network and receive up to three competitive quotes directly from the charter airlines best positioned and equipped to provide the service you require.
-**Base Locations:** Every province & territory of Canada
-**Aircraft Types:** Corporate jets / Turboprops / Piston / Float planes / Helicopter charters
-**Service Type:** Wheels / Floats
-
 [REQUEST A QUOTE](https://www.charterflightnetwork.com)
 
 **Alpine Aviation**

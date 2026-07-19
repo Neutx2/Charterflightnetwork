@@ -79,8 +79,6 @@ Click for a quick index of British Columbia air charter locations
 [Whistler](#Whistler)
 
 Eliminate the searching. With just one click you can receive up to 3 competitive quotes directly from the airlines best positioned and equipped to provide the service required.
-**Quote Sourcing:** Every Province and Territory of Canada
-**Aircraft Types:** All Wheel Planes (Jet, Turbine, Piston) / Float Planes / Helicopters
 
 [Request A Quote](charter_quote.html)
 

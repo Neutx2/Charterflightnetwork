@@ -14,17 +14,9 @@ Charter Flights To Wiarton, Ontario
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
 ### [Charter Flights To Charter Flights To Wiarton](#collapseOne1)
 
 Wiarton is located on the end of an inlet off Georgian Bay and is part of the town of South Bruce Peninsula just north of Owen Sound. The town has seen many industries come and go over the years, however tourism has endured as one the more stable contributors to the local economy. The town is most famous for its Wiarton Willie Festival held evey Groundhog Day. You can fly private charter flights direct to the Wiarton Airport which has a 5000 foot asphalt runway.
-
-## Wiarton Air Charter Options
-
-## Charter Flights From Wiarton
 
 ### Charter Flights
 
@@ -33,10 +25,6 @@ The closest air charter service to Wiarton is located in Owen Sound. Owen Sound 
 When you use our no cost, no obligation charter quote request service, we will send your request to the charter companies who are best positioned and equipped to provide the service you require.
 
 [AIR CHARTER QUOTE](/quote)
-
----
-
----
 
 ## Wiarton Wheel Plane Charter Flights
 
@@ -50,22 +38,6 @@ There are no float plane charter services available in the Wiarton area. The clo
 
 There are no helicopter charter services based in Wiarton. The closest is Collingwood which is just 50 air miles to the East. Contact us for competitive price quotes and availability.
 
----
-
----
-
-## Wiarton Charter Quote Request Form
-
----
-
-### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
-
----
-
----
-
----
-
 ## Quick Links To Over 50 Air Charter Destinations Across Southern Ontario
 
 [Click Here For Links To Northern and Northwestern Ontario Destinations](/canada/northern-ontario)
@@ -74,7 +46,7 @@ There are no helicopter charter services based in Wiarton. The closest is Collin
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -94,7 +66,7 @@ There are no helicopter charter services based in Wiarton. The closest is Collin
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -126,12 +98,8 @@ There are no helicopter charter services based in Wiarton. The closest is Collin
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
----

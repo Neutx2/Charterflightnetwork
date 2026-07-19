@@ -13,10 +13,6 @@ city: "Stewart"
 ---
 There are no commercial / scheduled flights into Stewart, however charter flights are available direct to Stewart from almost any airport throughout Canada. There is no Canadian Customs clearance service in Stewart, so if you are flying from the USA, you must first stop at a designated port of entry prior to landing in Stewart.
 
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
-### [Charter Flights To Stewart](#collapseOne1)
-
 ### **Location Of Stewart BC**
 
 There is a narrow stretch of land that extends along the far northwestern boundary of British Columbia that is part of Alaska, USA. It extends down from Skagway, through Jeuneau and down to Ketchikum. At the most southerly point of this portion of Alaska is the town of Hyder, Alaska and immediately next to Hyder at the northern end of a long narrow channel is the town of Stewart British Columbia.
@@ -33,8 +29,6 @@ Two highly recommended properties in Stewart include the Ripley Creek Inn and th
 
 Yellowhead Helicopters maintains a charter base in Stewart, BC. and offers charter service to mining and exploration companies, natural resource industry, sport fishing groups and sight seeing tours.
 
----
-
 ## Stewart Wheel Plane Charter Flights
 
 We make it easy and convenient to receive up to 3 competitive wheel plane charter quotes for flights to or from airports across BC, throughout Canada and into the USA
@@ -42,8 +36,6 @@ We make it easy and convenient to receive up to 3 competitive wheel plane charte
 ## Stewart Float Plane Charter Flights
 
 When you need a float plane charter, here is how you can receive up to 3 competitive quotes at no cost and no obligation
-
-## Stewart Helicopter Charter Flights
 
 ### Stewart BC Helicopter Tours
 
@@ -59,8 +51,6 @@ Charter Flight Network Is Currently Developing Marketing Partnerships With Lodge
 
 Wild Northern Adventures in Stewart BC offers charter boat fishing for halibut, salmon, rockfish, crabs and prawns. Sightseeing tours for featuring humpback whales, grizzly bears, porpoises and eagles
 
----
-
 ### Stewart Mountain Lodge
 
 The Stewart Mountain Lodge is one of the recommended places to stay while in Stewart, BC. They feature very comfortable accommodations,with private bathroom. Bicycles are offeered for rent.
@@ -68,18 +58,6 @@ The Stewart Mountain Lodge is one of the recommended places to stay while in Ste
 ### Ripley Creek Inn
 
 Experience a piece of history when you stay at the Ripley Creek Inn featuring renovated rooms that originally were prospectors' cabins, old stores and even a former brothel
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -224,9 +202,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

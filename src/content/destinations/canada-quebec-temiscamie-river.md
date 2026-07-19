@@ -10,13 +10,9 @@ province: "Quebec"
 provinceSlug: "quebec"
 city: "Temiscamie River"
 ---
----
-
 ### Flights To Temiscamie River
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
-
----
 
 ### Temiscamie River Airport
 
@@ -27,10 +23,6 @@ The Temiscamie River float plane base is located in central Quebec - south east 
 With just one click, you can receive up to 3 competitive charter flight quotes directly from the airlines who provide service throughout Temiscamie River .
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
-
----
-
----
 
 ## Quick Links To 86 Air Charter Destinations Across Quebec
 
@@ -123,7 +115,3 @@ With just one click, you can receive up to 3 competitive charter flight quotes d
 * [Val-d`Or](/canada/quebec/val-d-or)
 * [Waskaganish](/canada/quebec/waskaganish)
 * [Wemindji](/canada/quebec/wemindji)
-
----
-
----

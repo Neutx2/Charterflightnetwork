@@ -23,8 +23,6 @@ The two main departure points for charter flights to Fort Hope are Pickle Lake w
 
 The Fort Hope Airport is located adjacent to the town and has a 3,500 foot gravel runway
 
-## Northwestern Ontario Air Charter Guide
-
 ## Nakina To Fort Hope
 
 Nakina is 110 air miles south of Fort Hope. Anglers choose Nakina for reliable access to the Ogoki and Albany systems—cold northern waters, classic shore lunches, and true backcountry solitude. Request a charter quote from any of the airlines listed below, or use our [Free Charter Quote Request Service](/canada/northern-ontario/fort-hope#quote) and your inquiry will be sent to all the charter airlines with services that match your requirements.
@@ -156,7 +154,7 @@ Check oiut charter flight options to or from any of the following Northwestern O
 * [Lansdowne](/canada/northern-ontario/lansdowne-house)
 * [Moosonee](/canada/northern-ontario/moosonee)
 * [Muskrat Dam](/canada/northern-ontario/muskrat-dam)
-* [Nakina](/canada/southern-ontario/nakina)
+* [Nakina](/canada/northern-ontario/nakina)
 
 * [Ogoki Post](/canada/northern-ontario/ogoki-post)
 * [Peawanuck](/canada/northern-ontario/peawanuck)

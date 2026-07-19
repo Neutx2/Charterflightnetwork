@@ -92,8 +92,6 @@ Click for a quick index of Ontario air charter locations
 [Windsor](/directory/ontario-air-charter-directory-6#Windsor)
 
 Eliminate the searching. With just one click you can receive up to 3 competitive quotes directly from the airlines best positioned and equipped to provide the service required.
-**Quote Sourcing:** Every Province and Territory of Canada
-**Aircraft Types:** All Wheel Planes (Jet, Turbine, Piston) / Float Planes / Helicopter Quotes
 
 [Request A Quote](/quote)
 
@@ -118,8 +116,6 @@ P: [1-800-411-033](tel:+1800411033)
 **Aircraft Types:** de Havilland Beaver / de Havilland Turbo Otter
 **Service Type:** Floats
 
-## Arnprior Air Charter
-
 ## Chapman Aviation Ltd
 
 Arnprior, ON
@@ -127,8 +123,6 @@ P: [613-623-7231](tel:+16136237231)
 **Base Locations:** Arnprior, Ontario
 **Aircraft Types:** Cessna 150 / Cessna 172
 **Service Type:** Wheels
-
-## Atikokan Air Charter
 
 ## Atikokan Aero Services Limited
 
@@ -188,8 +182,6 @@ P: [705-849-2389](tel:+17058492389)
 **Aircraft Types:** Cessna 180 / de Havilland Beaver
 **Service Type:** Floats
 
-## Brampton / Cheltenham Air Charter
-
 ## Coywolf Aviation Limited
 
 Cheltenham, ON L7C 2B2
@@ -205,8 +197,6 @@ P: [416-802-8172](tel:+14168028172)
 **Base Locations:** Brampton, Ontario
 **Aircraft Types:** Aérospatiale AS355 F1 / Bell 206B
 **Service Type:** Helicopter
-
-## Brantford Air Charter
 
 ## Brantford Flying Club
 
@@ -232,8 +222,6 @@ P: [905-961-1250](tel:+19059611250)
 **Aircraft Types:** Diamond DA20-C1 / DA40
 **Service Type:** Wheels
 
-## Burlington Air Charter
-
 ## NexGen Aviation Ltd
 
 Burlington, ON L7P 0E7
@@ -242,8 +230,6 @@ P: [519-820-9905](tel:+15198209905)
 **Aircraft Types:** Beech 300 (B300) / Quest Kodiak 100 (amphibious)
 **Service Type:** Floats / Wheels
 
-## Carp Air Charter
-
 ## Nunami Helicopter Transport Corporation
 
 Carp, ON K0A 1L0
@@ -251,8 +237,6 @@ P: [613-839-5868](tel:+16138395868) Ext. 228 / [1-866-412-9894](tel:+18664129894
 **Base Locations:** Carp, Ontario
 **Aircraft Types:** Bell 206B
 **Service Type:** Helicopter
-
-## Chapleau Air Charter
 
 ## Canadian Airways Ltd
 
@@ -273,8 +257,6 @@ P: [1-800-665-5485](tel:+18006655485) / [519-676-9550](tel:+15196769550)
 **Base Locations:** Blenheim, ON / Thunder Bay
 **Aircraft Types:** Bell 206L-3 / Eurocopter AS355F2, AS350BA / Robinson R44 II
 **Service Type:** Helicopter
-
-## Cochrane Air Charter Directory
 
 ## Cochrane Air Services
 
@@ -305,8 +287,6 @@ P: [705-441-2538](tel:+17054412538)
 **Base Locations:** Collingwood
 **Aircraft Types:** Eurocopter EC130 B4 / Robinson R66
 **Service Type:** Helicopter
-
-## Cornwall Air Charter
 
 ## Cornwall Aviation
 
@@ -390,8 +370,6 @@ P: [807-222-3246](tel:+18072223246)
 
 [Next: Page 2](/directory/ontario-air-charter-directory-2)
 
-## Explore Related Directories
-
 ## [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
 Link to the main Canadian Air Charter Directory listing wheel plane, float plane and helicopter charter services in every province and territory of Canada.
@@ -415,8 +393,6 @@ Submit your charter quote request through our free quote request service and it 
 Each company prepares a competitive quote and sends it directly to your email.
 
 [Request A Quote](/quote)
-
-## Ontario Air Charter Directory Page 1 FAQ
 
 ## Which Ontario communities are covered on page 1?
 

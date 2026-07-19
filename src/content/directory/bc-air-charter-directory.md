@@ -85,8 +85,6 @@ Click for a quick index of British Columbia air charter locations
 [Williams Lake](/directory/bc-air-charter-directory-6#WilliamsLake)
 [Whistler](/directory/bc-air-charter-directory-6#Whistler)
 
-## 108 Mile Ranch Air Charter
-
 ## Cariboo Air Ltd
 
 108 Mile Ranch, BC V0K 2Z0
@@ -107,8 +105,6 @@ P: 250.791.7322
 **Service Type:** Helicopter
 
 [Request Charter Quote](/quote)
-
-## Abbotsford Air Charter
 
 ## Fast Air
 
@@ -179,8 +175,6 @@ Abbotsford, BC V2T 6H5
 
 [Request A Quote](/quote)
 
-## Agassiz Air Charter
-
 ## Far West Helicopters Ltd
 
 Agassiz, BC V0M 1A2
@@ -190,8 +184,6 @@ Agassiz, BC V0M 1A2
 
 [Request Charter Quote](/quote)
 
-## Atlin Air Charter
-
 ## Discovery Helicopters Ltd
 
 Atlin, BC V0W 1A0
@@ -200,8 +192,6 @@ Atlin, BC V0W 1A0
 **Service Type:** Helicopter
 
 [Request Charter Quote](/quote)
-
-## Bella Coola Air Charter
 
 ## West Coast Helicopters
 
@@ -213,8 +203,6 @@ P: (250) 982-2181
 
 [Request Charter Quote](/quote)
 
-## Boundary Bay Air Charter
-
 ## Nautilus Air Ltd
 
 Vancouver, BC V6P 5C3
@@ -225,8 +213,6 @@ P: (604) 202-4244
 
 [Request Charter Quote](/quote/nautilus-air)
 
-## Burns Lake Air Charter
-
 ## Lakes District Air Services Ltd
 
 Burns Lake, BC V0J 1E2
@@ -235,8 +221,6 @@ Burns Lake, BC V0J 1E2
 **Service Type:** Floats
 
 [Request A Quote](/quote)
-
-## Campbell River Air Charter
 
 ## BC Air
 
@@ -283,8 +267,6 @@ Campbell River, BC V9W 6J3
 
 [Request A Quote](/quote)
 
-## Chilliwack Air Charter
-
 ## Upper Valley Aviation Ltd
 
 Chilliwack, BC V2P 8A7
@@ -312,8 +294,6 @@ Chilliwack, BC V4Z 1E7
 
 [Request Charter Quote](/quote)
 
-## Coal Harbour Air Charter
-
 ## Air Cab
 
 Coal Harbour, BC V0N 1K0
@@ -323,8 +303,6 @@ Coal Harbour, BC V0N 1K0
 
 [Request A Quote](/quote)
 
-## Coldstream Air Charter
-
 ## Mountain Air Helicopters Ltd
 
 Coldstream, BC V1B 3B9
@@ -333,8 +311,6 @@ Coldstream, BC V1B 3B9
 **Service Type:** Helicopter
 
 [Request Charter Quote](/quote)
-
-## Cranbrook Air Charter
 
 ## Babin Air Ltd
 
@@ -353,8 +329,6 @@ Cranbrook, BC V1C 4H7
 **Service Type:** Helicopter
 
 [Request Charter Quote](/quote)
-
-## Dease Lake Air Charter
 
 ## B.C. Yukon Air Service Ltd
 
@@ -375,8 +349,6 @@ Dease Lake, BC V0C 1L0
 [Request A Quote](/quote)
 
 Eliminate the searching. With just one click you can receive up to 3 competitive quotes directly from airlines best positioned and equipped to provide the service required.
-**Quote Sourcing:** Every Province and Territory of Canada
-**Aircraft Types:** All Wheel Planes (Jet, Turbine, Piston) / Float Planes / Helicopters
 
 [Request A Quote](/quote)
 
@@ -395,8 +367,6 @@ Eliminate the searching. With just one click you can receive up to 3 competitive
 [Page 6](/directory/bc-air-charter-directory-6)
 
 [Next Page](/directory/bc-air-charter-directory-2)
-
-## Explore Related Directories
 
 ## [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 

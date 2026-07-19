@@ -15,8 +15,6 @@ Swan River is located in the Swan Valley near the Saskatchewan border and is one
 
 [Request Charter Quote](#QuoteForm)
 
----
-
 ## *Manitoba Charter Flight Links*
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
@@ -26,8 +24,6 @@ Swan River is located in the Swan Valley near the Saskatchewan border and is one
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 
 [Charter Flights St Andrews Airport](/canada/manitoba/st-andrews)
-
-## Flights to Swan River, Manitoba
 
 ## **About Swan River:**
 
@@ -62,8 +58,6 @@ Swan River Airport is located adjacent to town and gives the valley a practical 
 
 * The Swan River Valley is known for fishing, beaches, hiking trails, waterskiing, sailboarding, skiing, snowmobile trails, and ice fishing. Its setting between the Duck Mountains and Porcupine Provincial Forest adds strong outdoor and adventure appeal.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 Wheel plane charters are a practical fit for Swan River because the airport's paved runway supports efficient regional passenger, cargo, business, and government flight activity.
@@ -79,12 +73,6 @@ Float plane charters may be arranged for fishing lakes, cabins, and remote water
 Helicopter charters can support remote work sites, wildfire logistics, exploration programs, and flexible landings across the Swan Valley where fixed-wing access is not ideal.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to Swan River or Any Destination Throughout Canada or the USA
-
-## Flights to Swan River, MB FAQ
 
 ## How do I book a charter flight to Swan River, Manitoba?
 
@@ -211,7 +199,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

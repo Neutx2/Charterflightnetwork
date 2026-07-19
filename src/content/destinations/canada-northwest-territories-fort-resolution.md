@@ -14,12 +14,6 @@ Charter Flights To Fort Resolution, NWT
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Fort Resolution](#collapseOne1)
-
 ### Fort Resolution Northwest Territories and Location
 
 Fort Resolution, a serene community in the Northwest Territories, is a hidden gem known for its pristine natural beauty and rich cultural heritage. Located on the shores of Great Slave Lake, it offers visitors unique attractions, including historical sites, indigenous culture, and breathtaking landscapes. Accessible via charter flights, Fort Resolution serves as a gateway to exploring the untouched wilderness of the north, making it an ideal destination for those seeking adventure and tranquility.
@@ -74,15 +68,9 @@ Nestled on the edge of Great Slave Lake, this lodge offers cozy accommodations, 
 
 Fort Resolution is a haven for outdoor enthusiasts, offering a wide range of activities from fishing on Great Slave Lake, hunting in the boreal forests, to kayaking and canoe trips along its serene waters. Winter months bring the magic of the northern lights, snowshoeing, and ice fishing adventures. Local outfitters like Northern Wilderness Adventures provide guided tours, equipment rentals, and bespoke experiences to ensure visitors fully immerse themselves in the natural beauty and cultural richness of Fort Resolution.
 
----
-
-## Turbo Prop / Piston Aircraft Charter Flights
-
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 **Efficiency and Time-Saving:** The Fort Resolution Airport, (YFR) has a 4,000 foot gravel runway. Charter flights give clients the flexibility to schedule flights directly to this or other NWT communities, at convenient times drastically reducing travel time, eliminating unnecessary overnight stays, and can make it possible to visit multiple sites in a single day.
-
-## NWT Float Plane Charter Flights
 
 ### Float Plane Charters - Receive 3 Competitive Quotes
 
@@ -91,16 +79,6 @@ Float plane charters are not based in Fort Resolution, however they can easily b
 ## NWT Helicopter Charter Flights
 
 **Remote Lodge Access:** Helicopter charter services provide a variety of transportation missions and services throughout the region including transporting fishermen and campers to remote lakes, rivers, lodges or camping sites that are otherwise inaccessible.
-
----
-
----
-
----
-
----
-
----
 
 ## Quick Links To Over 40 Air Charter Destinations Across Northwest Territories
 
@@ -148,7 +126,3 @@ Float plane charters are not based in Fort Resolution, however they can easily b
 * [Whati](/canada/northwest-territories/whati)
 * [Wrigley](/canada/northwest-territories/wrigley)
 * [Yellowknife](/canada/northwest-territories/yellowknife)
-
----
-
----

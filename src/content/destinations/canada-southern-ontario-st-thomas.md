@@ -14,14 +14,6 @@ Charter Flights To St Thomas, Ontario
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To St Thomas](#collapseOne1)
-
-### About Charter Flights To St Thomas
-
 ### St Thomas Airport
 
 The St Thomas Airport is located about 4 miles East of town and serves general and charter aviation. There are no scheduled flights operating in or out of this airport. The airport features 3 asphalt runways. Two runways are 2600 ft in length and the longest runway is 5000ft.
@@ -31,8 +23,6 @@ The St Thomas Airport is located about 4 miles East of town and serves general a
 Search The Canadian Air Charter Directory to see a comprehensive listing of every Wheel Plane, Float Plane and Helicopter Charter Service operating in every province and territory of Canada. Link to any charter airline website and request a quote.
 
 You can avoid the searching when you use our Charter Quote Request Service. Simply complete and submit our Charter Quote Request Form and it will forward to the charter companies in Canada who are best positioned and equipped to provide the service you request. Each company prepares a competitive quote and sends it directly to your email. You review the quotes and deal with the company of your choice.
-
----
 
 ## St Thomas Wheel Plane Charter Flights
 
@@ -46,22 +36,6 @@ There is little demand for float plane charters out of St Thomas. The closest fl
 
 If you are looking for a helicopter charter flight in the St Thomas area, we would need to bring one in from the Kitchener / Cambridge area or the Chatham-Kent area. This would add to your cost. Let us know your requirements and we will get you 2 - 3 competitive quotes.
 
----
-
----
-
-## St Thomas Charter Quote Request Form
-
----
-
-### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
-
----
-
----
-
----
-
 ## Quick Links To Over 50 Air Charter Destinations Across Southern Ontario
 
 [Click Here For Links To Northern and Northwestern Ontario Destinations](/canada/northern-ontario)
@@ -70,7 +44,7 @@ If you are looking for a helicopter charter flight in the St Thomas area, we wou
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -90,7 +64,7 @@ If you are looking for a helicopter charter flight in the St Thomas area, we wou
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -122,12 +96,8 @@ If you are looking for a helicopter charter flight in the St Thomas area, we wou
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
----

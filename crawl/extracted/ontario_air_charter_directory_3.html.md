@@ -296,8 +296,6 @@ Yes. Page 3 includes a mix of float plane, wheel plane, and helicopter charter l
 
 Yes. Some listings include direct quote request buttons, and Charter Flight Network also offers a quote request service to help source competitive charter quotes.
 
-P: [807-472-1955](tel:+18074721955)
-
 ## The Canadian Air Charter Directory
 
 We provide a Free Listing for every wheel plane, float plane, and helicopter charter service operating in every province and territory of Canada.

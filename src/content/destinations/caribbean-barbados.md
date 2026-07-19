@@ -9,14 +9,6 @@ quoteSubject: "Barbados Charters"
 region: "caribbean"
 city: "Barbados"
 ---
-## Barbados Charter Flights - With Just One Click Receive Up To 3 Competitive Charter Quotes. Any Departure Point / Any Destination.
-
-### We Specialize In Finding Clients The Most Convenient And Cost Efficient Charter Flight Options To Barbados and All Islands Throughout The Caribbean
-
-### [Charter Flights To Barbados Caribbean](#collapseOne1)
-
-### Barbados
-
 ### Top Golf Courses:
 
 If you enjoy a few rounds of challenging golf, be sure to bring along your golf clubs. Barbados boasts several excellent golf courses, including Sandy Lane Golf Course, Royal Westmoreland Golf & Country Club, and Barbados Golf Club. These courses offer lush landscapes and challenging play for golf enthusiasts.
@@ -33,33 +25,17 @@ Some of the most popular resorts with beaches in Barbados include Sandy Lane, Th
 
 You can book sailboat or yacht charters in Barbados. There are various companies and operators offering sailing excursions, catamaran cruises, and private yacht charters for exploring the coastline, snorkeling, and enjoying sunset cruises.
 
----
-
-## Private Jet Charters
-
 ### Caribbean Jet Charters
 
 Private jet charters can be arranged from US and Canadian cities to the Grantley Adams International Airport (BGI) in Barbados. The airport is located in Seawell, Christ Church Parish, which is on the southern coast of the island. Grantley Adams International Airport serves as the main gateway for visitors arriving by both charter flights as well as scheduled airlines.
-
-## Turbo Prop Charter Flights
 
 ### Caribbean Charter Flights
 
 Barbados is located in the Caribbean region, specifically in the Lesser Antilles and is about 1,600 air miles south of Miami. It is situated east of the Windward Islands and the Caribbean Sea, and northeast of Venezuela. Its geographic coordinates are approximately 13.1939° N latitude and 59.5432° W longitude.
 
-## Float Plane Charter Flights
-
 ### Caribbean Float Plane Charter Flights
 
 If you are looking for inter island travel, you may be able to charter a float plane and arrive directly in front of your resort or private beach. Contact us for pricing and availability.
-
----
-
-## Jamaica Charter Quote Request Form
-
----
-
----
 
 ## Links To Caribbean Air Charter Destinations
 
@@ -93,11 +69,3 @@ Seach Charter Flights To Any Of The Following Caribbean Destinations
 * [Virgin Islands (British)](/caribbean/british-virgin-islands)
 * [Virgin Islands (U.S.)](/caribbean/us-virgin-islands)
 * [Trinidad & Tobago](/caribbean/trinidad-tobago)
-
----
-
----
-
----
-
----

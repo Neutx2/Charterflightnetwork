@@ -11,21 +11,9 @@ province: "Quebec"
 provinceSlug: "quebec"
 city: "Sept Iles"
 ---
----
-
-## Receive Competitive Charter Quotes Directly From The Airlines who Provide Wheel Plane / Float Plane or Helicopter Charter Flights To Sept-Iles
-
-### No Cost, No Obligation. Review The Quotes and Then Deal Directly With The Charter Service Of Your Choice.
-
----
-
-### [Charter Flights To Sept-Iles](#collapseOne1)
-
 ### Flights To Sept-Iles
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
-
----
 
 ### Charter Flights From Quebec City to Sept Iles
 
@@ -55,10 +43,6 @@ With just one click, you can receive up to 3 competitive charter flight quotes d
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
 
----
-
-## Private Jet Charters
-
 ### Jet Charters
 
 The longest runway at the Sept-Iles airport is 6,550 feet long, making it accessible to most jet charter aircraft available from Canadian as well as USA departure points. Contact us for availability and competitive quotes.
@@ -72,8 +56,6 @@ We specialize in sourcing out competitive quotes for Wheel Plane Charter Flights
 The closest float plane charter service is 340 miles west in La Tuque. If you require a float plane in the Sept Iles area, submit our Free Charter Quote Request Form and receive up to 3 Competitive Quotes.
 
 There are 3 Helicopter charter services based in Sept Iles. Helicopter types include: Aerospatiale AS350 and Bell 206. Submit our Free Charter Quote Request Form and receive up to 3 Competitive Quotes.
-
-## Popular Charter Flights To Sept-Iles, Quebec
 
 ### [Alma Charter Flights](/canada/quebec/alma)
 
@@ -95,19 +77,9 @@ It is 475 air miles between Montreal and Kangiqsualujjuaq / Georges River. View 
 
 It is 330 air miles between Quebec City and Sept-Iles. View Wheel Plane, Float Plane & Helicopter Charter Services based in Quebec City
 
----
-
----
-
 ### The Following Charter Airlines Provide Quotes For Our Clients Across Quebec, Ontario, Manitoba, Nova Scotia & Nunavut
 
----
-
----
-
 Charter Flight Network Has Been Online Since 2008 And Has Established The Largest Network Of Wheel Plane, Float Plane & Helicopter Charter Services In Every Province & Territory of Canada Who Participate In Our Charter Quote Request Service
-
----
 
 ## Quick Links To 86 Air Charter Destinations Across Quebec
 
@@ -200,7 +172,3 @@ Charter Flight Network Has Been Online Since 2008 And Has Established The Larges
 * [Val-d`Or](/canada/quebec/val-d-or)
 * [Waskaganish](/canada/quebec/waskaganish)
 * [Wemindji](/canada/quebec/wemindji)
-
----
-
----

@@ -10,13 +10,10 @@ region: "canada"
 province: "Manitoba"
 provinceSlug: "manitoba"
 city: "Oxford House"
-faqs: [{"q": "Can I book direct charter flights to Oxford House, Manitoba?", "a": "Yes. Charter Flight Network can help arrange direct charter flights to Oxford House from departure points across Manitoba and other parts of Canada, depending on aircraft availability, runway conditions, and trip requirements."}, {"q": "What types of aircraft can use the Oxford House airport?", "a": "Oxford House Airport is suited to a range of wheel-equipped charter aircraft using its crushed rock runway. Depending on seasonal conditions and trip needs, helicopter and floatplane options may also be useful in the surrounding region."}, {"q": "Where is Oxford House located?", "a": "Oxford House is a First Nations community in northern Manitoba located along the eastern shore of Oxford Lake at the mouth of the Hayes River."}, {"q": "Can Charter Flight Network provide more than one quote for Oxford House flights?", "a": "Yes. Charter Flight Network works to provide up to 3 competitive quotes so clients can compare charter aircraft options, pricing, and scheduling before choosing the service that best fits the trip."}]
 ---
 You can book direct charter flights to Oxford House Airport, located about half a mile west of the community. The First Nations community of Oxford House sits on the eastern shore of Oxford Lake at the mouth of the Hayes River, and the local airport provides an important link for passenger travel, freight movement, and essential regional access.
 
 [Request Charter Quote](#QuoteForm)
-
----
 
 ## *Manitoba Charter Flight Links*
 
@@ -27,8 +24,6 @@ You can book direct charter flights to Oxford House Airport, located about half 
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 
 [Charter Flights St Andrews Airport](/canada/manitoba/st-andrews)
-
-## Flights to Oxford House, Manitoba
 
 ## **About Oxford House:**
 
@@ -63,8 +58,6 @@ Oxford House Airport sits just west of the community and serves as a key transpo
 
 * Oxford House stands in a scenic northern setting along Oxford Lake and the Hayes River, making it appealing for wilderness travel, fishing country access, photography, and travelers interested in the history and landscape of northern Manitoba waterways.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 Wheel plane charters are the most direct option for Oxford House, using the local runway to move passengers, freight, and time-sensitive travel efficiently into the community.
@@ -80,12 +73,6 @@ Float plane charters can be useful in the Oxford House region during open-water 
 Helicopter charters provide added flexibility for direct landings, work-site access, regional transfers, and custom travel where fixed-runway service is not the most efficient option.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to Oxford House or Any Destination Throughout Canada or the USA
-
-## Frequently Asked Questions About Charter Flights to Oxford House
 
 ## Can I book direct charter flights to Oxford House, Manitoba?
 
@@ -212,7 +199,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

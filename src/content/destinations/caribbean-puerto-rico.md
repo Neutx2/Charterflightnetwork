@@ -9,29 +9,13 @@ quoteSubject: "Puerto Rico Charters"
 region: "caribbean"
 city: "Puerto Rico"
 ---
-## Puerto Rico Charter Flights - With Just One Click Receive Up To 3 Competitive Charter Quotes. Any Departure Point / Any Destination.
-
-### We Specialize In Finding Clients The Most Convenient And Cost Efficient Charter Flight Options To Puerto Rico and All Islands Throughout The Caribbean
-
----
-
-## Private Jet Charters
-
-### Caribbean Jet Charters
-
-## Turbo Prop Charter Flights
-
 ### Caribbean Charter Flights
 
 You can also receive competitive quotes for turbo prop charters for flights between Puerto Rico's Luis Muñoz Marín International Airport and Florida, as well as destinations throughout the Caribbean,
 
-## Float Plane Charter Flights
-
 ### Caribbean Float Plane Charter Flights
 
 Float plane charters are the perfect travel option, giving you direct access to secluded beaches on any of the hundreds of smaller islands scattered throughout the Caribbean.
-
-## Video Links To Featured Puerto Rico Resorts / Activities / Adventures
 
 ### [Video: Featured Puerto Rico Golf Course](/travel/puerto-rico-golf)
 
@@ -49,16 +33,6 @@ Plus listings and links to popular Puerto Rico Resorts and Hotels
 
 Plus listings and links to Puerto Rico Sailboat & Yacht Charter Services
 
-### [Scheduled Airline Flights to Puerto Rico From Canada & USA](#collapseOne1)
-
-### Puerto Rico Resorts / Activities / Adventures
-
----
-
-## Airline Flights To Puerto Rico
-
-### Flights From Canada to Puerto Rico:
-
 ### [Air Canada:](https://www.aircanada.com/ca/en/aco/home.html)
 
 Air Canada operates flights from Toronto Pearson International Airport (YYZ) to Luis Muñoz Marín International Airport (SJU) in San Juan, Puerto Rico.
@@ -71,8 +45,6 @@ WestJet offers seasonal flights from Toronto Pearson International Airport (YYZ)
 
 Sunwing Airlines operates seasonal flights from Toronto Pearson International Airport (YYZ) and other Canadian cities to Luis Muñoz Marín International Airport (SJU) in San Juan, Puerto Rico.
 
-### Flights From the USA to Puerto Rico:
-
 ### [American Airlines:](https://www.aa.com/booking/find-flights)
 
 American Airlines provides numerous flights to Puerto Rico from various cities in the United States, including Miami International Airport (MIA), Charlotte Douglas International Airport (CLT), Dallas/Fort Worth International Airport (DFW), Philadelphia International Airport (PHL), and more.
@@ -84,12 +56,6 @@ Delta Air Lines offers flights to Puerto Rico from several U.S. cities, includin
 ### [United Airlines:](#)
 
 United Airlines operates flights to Puerto Rico from several U.S. cities, including Newark Liberty International Airport (EWR), Houston George Bush Intercontinental Airport (IAH), Chicago O'Hare International Airport (ORD), and Washington Dulles International Airport (IAD).
-
----
-
----
-
----
 
 ## Links To Caribbean Air Charter Destinations
 
@@ -123,11 +89,3 @@ Seach Charter Flights To Any Of The Following Caribbean Destinations
 * [Virgin Islands (British)](/caribbean/british-virgin-islands)
 * [Virgin Islands (U.S.)](/caribbean/us-virgin-islands)
 * [Trinidad & Tobago](/caribbean/trinidad-tobago)
-
----
-
----
-
----
-
----

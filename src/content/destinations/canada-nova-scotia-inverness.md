@@ -14,10 +14,6 @@ Inverness / Cabot Links Helicopter Charter Flights
 
 Receive Quotes Directly From Helicopter Charter Services
 
----
-
-### [Charter Flights To Inverness](#collapseOne1)
-
 ### Helicopter Shuttle
 
 * **Halifax** - The flight distance from the Halifax International Airport to Inverness is 145 miles. Flight time depending on wind / weather / type of helicopter is between 45 - 55 minutes
@@ -47,8 +43,6 @@ In addition to golf, Inverness offers a range of outdoor activities for visitors
 
 Key attractions in Inverness include its beautiful beaches, such as Inverness Beach and Chimney Corner Beach, where visitors can relax and enjoy the scenic coastal views. The town's vibrant cultural scene is showcased through events, festivals, and local artisans.
 
----
-
 ### Breton Air Inc.
 
 Fly Breton Air, direct to Inverness, Nova Scotia, situated on the western coast of Cape Breton Island, Canada. It offers stunning views of the Gulf of St. Lawrence and is known as the home of the world famous Cabot Links Golf Course and its charming coastal scenery and vibrant community.
@@ -56,10 +50,6 @@ Fly Breton Air, direct to Inverness, Nova Scotia, situated on the western coast 
 ### Vision Air Services Incorporated
 
 Vision Air provides helicopter charter flights from Halifax, direct to Inverness, renowned for its world-class Cabot Links and Cabot Cliffs golf courses. These award-winning courses attract golf enthusiasts from around the globe, offering challenging gameplay amidst breathtaking coastal landscapes.
-
----
-
----
 
 ## Quick Links To Over A Dozen Air Charter Destinations Across Nova Scotia
 
@@ -81,7 +71,3 @@ Vision Air provides helicopter charter flights from Halifax, direct to Inverness
 * [Trenton](/canada/nova-scotia/trenton)
 * [Waterville](/canada/nova-scotia/waterville)
 * [Yarmouth](/canada/nova-scotia/yarmouth)
-
----
-
----

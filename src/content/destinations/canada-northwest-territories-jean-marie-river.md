@@ -14,12 +14,6 @@ Charter Flights To Jean Marie River, NWT
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Jean Marie River](#collapseOne1)
-
 ### About Jean Marie River Northwest Territories and Location
 
 Jean Marie River is a small community located in the south western region of Northwest Territories - east of Fort Simpson and west of Fort Providence. This remote community is accessible primarily by "charter flights," making it an exclusive destination for those seeking adventure and solitude amidst nature's untouched beauty. From fishing in crystal-clear rivers to hiking through verdant forests, Jean Marie River is the perfect getaway for eco-tourists and adventure enthusiasts alike.
@@ -74,15 +68,9 @@ River Lodge in Jean Marie River provides cozy accommodations with stunning views
 
 The area around Jean Marie River is a haven for outdoor enthusiasts, offering a plethora of activities such as fishing, kayaking, hunting, and aurora viewing. Local outfitters like Northern Wilderness Adventures provide guided tours, equipment, and expert knowledge to ensure visitors have an unforgettable experience exploring the natural beauty of the Northwest Territories.
 
----
-
-## Turbo Prop / Piston Aircraft Charter Flights
-
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 The Jean Marie River Airport (CET9) is a public use airport operated by the Govenment of Northwest Territories and has a 2,500 foot gravel runway, making it accessible to a limited types of aircraft such as single engine or twin otter aircraft.
-
-## NWT Float Plane Charter Flights
 
 ### Float Plane Charters - Receive 3 Competitive Quotes
 
@@ -91,16 +79,6 @@ The community of Jean Marie River is located on the western shoreline of the Mac
 ## NWT Helicopter Charter Flights
 
 **Scenic Tours:** Helicopters offer unique opportunities for tourists to experience breathtaking aerial views of the Northern landscape, including the aurora borealis, vast wilderness, and iconic landmarks.
-
----
-
----
-
----
-
----
-
----
 
 ## Quick Links To Over 40 Air Charter Destinations Across Northwest Territories
 
@@ -148,7 +126,3 @@ The community of Jean Marie River is located on the western shoreline of the Mac
 * [Whati](/canada/northwest-territories/whati)
 * [Wrigley](/canada/northwest-territories/wrigley)
 * [Yellowknife](/canada/northwest-territories/yellowknife)
-
----
-
----

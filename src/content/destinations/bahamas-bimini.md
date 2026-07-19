@@ -9,8 +9,6 @@ quoteSubject: "Caribbean Charter Quote Request"
 region: "bahamas"
 city: "Bimini"
 ---
----
-
 ## Receive Up To Three Competitive Price Quotes For Direct Charter Flights To Bimini Bahamas
 
 Bimini Bahamas
@@ -49,8 +47,6 @@ Airlines that offer Charter Flights have no set departure or arrival times and n
  You will either pay a set rate per mile or per hour for use of the entire aircraft and crew. This can range from as little as $800 per hour to several thousand dollars per hour depending on the aircraft type. You will pay for the aircraft to fly you to your destination as well as the cost for it to return to its base after dropping you off. So at minimum, you can expect to pay $1600 - $2000 for a short flight.
  Airlines with multiple aircraft in their fleet can usually match the aircraft type to your situation. For example a smaller aircraft if you have only one or two passengers or a larger aircraft if you have a group traveling.
 
----
-
 Links To Bahamas Air Charter Destinations
 
 * [Abaco](/bahamas/abaco)
@@ -83,11 +79,6 @@ Links To Bahamas Air Charter Destinations
 You Can Request Competitive Charter Quotes For Any Departure Point or Destination In North America / Bahamas & Caribbean. Start Your Search By Clicking Any Of The Following Links
 
 Search More North American Air Charter Destinations
-
-1100 Memorial Avenue
-Suite 424
-Thunder Bay, Ontario
-Email: phil@charterflightnetwork.com
 
 ## Advertise - 1
 

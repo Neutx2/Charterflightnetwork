@@ -605,7 +605,7 @@
 /charter_flights_to_brampton.htm  /canada/southern-ontario/brampton  301!
 /charter_flights_to_brantford.htm  /canada/southern-ontario/brantford  301!
 /charter_flights_to_brockville.htm  /canada/southern-ontario/brockville  301!
-/charter_flights_to_burlington.htm  /canada/northern-ontario/burlington  301!
+/charter_flights_to_burlington.htm  /canada/southern-ontario/burlington  301!
 /charter_flights_to_buttonville.htm  /canada/southern-ontario/buttonville  301!
 /charter_flights_to_carp.htm  /canada/southern-ontario/carp  301!
 /charter_flights_to_cat_lake.htm  /canada/northern-ontario/cat-lake  301!
@@ -714,7 +714,7 @@
 /charter_flights_williams_harbour_nl.html  /canada/newfoundland/williams-harbour  301!
 /charter_flights_williams_lake_bc.html  /canada/british-columbia/williams-lake  301!
 /charter_flights_winnipeg_mb.html  /canada/manitoba/winnipeg  301!
-/charter_flights_winnipeg_red_lake_ontario.html  /canada/northern-ontario/winnipeg-red-lake  301!
+/charter_flights_winnipeg_red_lake_ontario.html  /flights/winnipeg-to-red-lake  301!
 /charter_flights_winterland_nl.html  /canada/newfoundland/winterland  301!
 /charter_flights_wollaston_lake_sk.html  /canada/saskatchewan/wollaston-lake  301!
 /charter_flights_woodcock_bc.html  /canada/british-columbia/woodcock  301!
@@ -864,7 +864,7 @@
 /gold_river_bc_float_plane_charters.html  /canada/british-columbia/gold-river-float-plane-charters  301!
 /golf_adventure_travel_group.html  /travel/golf-adventures  301!
 /golf_charter_flight_quote.html  /quote  301!
-/group_charter_flights.htm  /canada/northern-ontario/group  301!
+/group_charter_flights.htm  /quote  301!
 /hagensborg_bc_float_plane_charters.html  /canada/british-columbia/hagensborg-float-plane-charters  301!
 /hamilton_charter_flights.htm  /canada/southern-ontario/hamilton  301!
 /hearst_charter_flights.htm  /canada/northern-ontario/hearst  301!
@@ -892,7 +892,7 @@
 /kitchener_charter_flights_raleigh_durham.html  /flights/kitchener-to-raleigh-durham  301!
 /labrador_charter_flights.htm  /canada/labrador  301!
 /list_your_airline.html  /operators/update-your-listing  301!
-/london_ontario_charter_flights.htm  /canada/southern-ontario/london-ontario  301!
+/london_ontario_charter_flights.htm  /canada/southern-ontario/london  301!
 /louisiana_air_charter_directory.htm  /directory/louisiana-air-charter-directory  301!
 /maine_air_charter_directory.htm  /directory/maine-air-charter-directory  301!
 /manitoba_air_charter_directory_1.html  /directory/manitoba-air-charter-directory-1  301!
@@ -914,7 +914,7 @@
 /montana_air_charter_directory.htm  /directory/montana-air-charter-directory  301!
 /moosonee_charter_flights.htm  /canada/northern-ontario/moosonee  301!
 /muncho_lake_bc_float_plane_charters.html  /canada/british-columbia/muncho-lake-float-plane-charters  301!
-/nakina_charter_flights.htm  /canada/southern-ontario/nakina  301!
+/nakina_charter_flights.htm  /canada/northern-ontario/nakina  301!
 /nebraska_air_charter_directory.htm  /directory/nebraska-air-charter-directory  301!
 /nestor_falls_charter_flights.htm  /canada/northern-ontario/nestor-falls  301!
 /nevada_air_charter_directory.htm  /directory/nevada-air-charter-directory  301!
@@ -967,10 +967,10 @@
 /ontario_usa_charter_airlines.html  /directory/ontario-usa-charter-airlines  301!
 /oregon_air_charter_directory.htm  /directory/oregon-air-charter-directory  301!
 /orillia_charter_flights.htm  /canada/southern-ontario/orillia  301!
-/oshawa%20charter_flights.htm  /directory/oshawa-charter-flights  301!
-/oshawa_charter_flights.htm  /canada/northern-ontario/oshawa  301!
+/oshawa%20charter_flights.htm  /canada/southern-ontario/oshawa  301!
+/oshawa_charter_flights.htm  /canada/southern-ontario/oshawa  301!
 /ottawa_charter_flights.htm  /canada/nunavut/ottawa  301!
-/pei_charter_flights.htm  /canada/northern-ontario/pei  301!
+/pei_charter_flights.htm  /quote  301!
 /pennsylvania_air_charter_directory.htm  /directory/pennsylvania-air-charter-directory  301!
 /pickle_lake_charter_flights.htm  /canada/northern-ontario/pickle-lake  301!
 /premium_listing_submit.html  /operators/listing-options  301!
@@ -1031,7 +1031,7 @@
 /vermont_air_charter_directory.htm  /directory/vermont-air-charter-directory  301!
 /virginia_air_charter_directory.htm  /directory/virginia-air-charter-directory  301!
 /washington_air_charter_directory.htm  /directory/washington-air-charter-directory  301!
-/waterloo_ontario_charter_flights.htm  /canada/southern-ontario/waterloo-ontario  301!
+/waterloo_ontario_charter_flights.htm  /canada/southern-ontario/waterloo  301!
 /wawa_charter_flights.htm  /canada/northern-ontario/wawa  301!
 /weagamow_charter_flights.htm  /canada/northern-ontario/weagamow  301!
 /west_virginia_air_charter_directory.htm  /directory/west-virginia-air-charter-directory  301!

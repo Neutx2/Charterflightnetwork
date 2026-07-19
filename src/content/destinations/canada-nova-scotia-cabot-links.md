@@ -14,12 +14,6 @@ Charter Flights To Cabot Cape Breton Golf Resort
 
 Here Are Your 3 Nova Scotia Travel Options to the Cabot Links Golf Resort
 
----
-
----
-
-### [Helicocpter Flights To Cabot Links](#collapseOne1)
-
 ### Location:
 
 Cabot Links is located in Inverness, a picturesque town on the western coast of Cape Breton Island in Nova Scotia, Canada. It overlooks the Gulf of St. Lawrence, offering stunning views of the ocean and the rugged coastline.
@@ -44,14 +38,6 @@ Cabot Links offers a range of accommodations to suit different preferences and b
 Facilities: In addition to the 18-hole championship course, Cabot Links also features practice facilities, including a driving range, putting greens, and short game areas. Golfers can also take advantage of professional instruction and clinics to improve their game during their stay.
 **Recognition:** Since its opening, Cabot Links has received numerous accolades and awards, including being ranked among the top golf courses in Canada and the world by leading golf publications and organizations. Its reputation as a world-class golf destination continues to attract golfers seeking an unforgettable experience on the links.
 
-## Feature Video - Charter Flights To Cabot Links / Cape Breton Island
-
----
-
-## Travel Option #1 - Departures From Sydney NS
-
-## #1. Sydney to Cabot Links
-
 ### Your Most Cost Efficient Departure Point For Helicopter Charters To Cabot Links
 
 Sydney Nova Scotia is located on the northeast coastline of Cape Breton Island and just 52 air miles east of the Cabot Links Golf Resort, Inverness
@@ -65,12 +51,6 @@ If you prefer to drive, you can choose between the pre arranged van service with
 For Scheduled Flight Information / Helicopter Charter Costs / Ground Transportation Options, Click The Appropriate Links Below:
 
 [Sydney Nova Scotia](/canada/nova-scotia/sydney)
-
----
-
-## Option #2 - Helicopter Charter From Halifax
-
-## #2. Halifax to Cabot Links
 
 ### Golfers Have A Wide Selection Of Non Stop Flights From Canadian And US Cities
 
@@ -90,12 +70,6 @@ For Scheduled Flight Information / Helicopter Charter Costs / Ground Transportat
 
 [Halifax Nova Scotia](/canada/nova-scotia/halifax)
 
----
-
-## Option #3 - Port Hawkesbury To Cabot Links
-
-## #3. Port Hawkesbury to Cabot Links
-
 ### Port Hawkesbury Is The Closest Airport To Cabot Links
 
 Although there are no scheduled airline flights to Port Hawkesbury, the airport is a popular choice for golfers who fly in private, corporate or charter aircraft.
@@ -106,12 +80,6 @@ Upon arrival in Port Hawkesbury and after clearing Canadian Customs for US fligh
 
 [Port Hawkesbury Nova Scotia](/canada/nova-scotia/port-hawkesbury)
 
----
-
----
-
-### Helpful Links & Services
-
 ### Breton Air
 
 Fly Helicopter To Cabot Links On Arrival Day. Take Van Shuttle Back To Sydney or Halifax On Departure Day.
@@ -121,8 +89,6 @@ Fly Helicopter To Cabot Links On Arrival Day. Take Van Shuttle Back To Sydney or
 Fly Helicopter To Cabot Links On Arrival Day. Take Van Shuttle Back To Sydney or Halifax On Departure Day.
 
 [REQUEST A QUOTE](/quote)
-
-## Request A Charter Quote To Cabot Links
 
 ## Quick Links To Over A Dozen Air Charter Destinations Across Nova Scotia
 
@@ -144,7 +110,3 @@ Fly Helicopter To Cabot Links On Arrival Day. Take Van Shuttle Back To Sydney or
 * [Trenton](/canada/nova-scotia/trenton)
 * [Waterville](/canada/nova-scotia/waterville)
 * [Yarmouth](/canada/nova-scotia/yarmouth)
-
----
-
----

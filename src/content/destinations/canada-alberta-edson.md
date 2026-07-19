@@ -13,10 +13,6 @@ Charter Flights To Edson, Alberta
 
 Request Charter Quotes From The Our Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
 ### [Charter Flights To Edson](#collapseOne1)
 
 About Edson Alberta
@@ -88,8 +84,6 @@ Our Main Directory Includes 3 Specialty Directories To Ensure You Zero In On Not
 
 * Link To The Main Canadian Air Charter Directory Listing Every Wheel Plane, Float Plane & Helicopter Charter Service in Every Province and Territory of Canada.
 
-### Specialty Directories
-
 ### [Canadian Air Charter Airlines Licenced To Fly Into The USA](/directory/canadian-air-charter-licenced-flights-usa-directory)
 
 * This directory lists Canadian Air Charter Services that are licenced to provide charter flights into the USA. Charter Services are listed by province / territory and city so you can quickly locate the charter service best positioned that meets your needs.
@@ -148,7 +142,3 @@ Our Main Directory Includes 3 Specialty Directories To Ensure You Zero In On Not
 * [Wetaskiwin](/canada/alberta/wetaskiwin)
 * [Whitecourt](/canada/alberta/whitecourt)
 * [Zama Lake](/canada/alberta/zama-lake)
-
----
-
----

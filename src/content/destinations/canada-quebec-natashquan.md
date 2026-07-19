@@ -10,13 +10,9 @@ province: "Quebec"
 provinceSlug: "quebec"
 city: "Natashquan"
 ---
----
-
 ### Flights To Natashquan
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
-
----
 
 ### Float Plane Charter Flights From Natashquan Quebec
 
@@ -41,10 +37,6 @@ The community has a public use airport located adjacent to town and has a 4,495 
 With just one click, you can receive up to 3 competitive charter flight quotes directly from the airlines who provide service throughout Natashquan .
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
-
----
-
----
 
 ## Quick Links To 86 Air Charter Destinations Across Quebec
 
@@ -137,7 +129,3 @@ With just one click, you can receive up to 3 competitive charter flight quotes d
 * [Val-d`Or](/canada/quebec/val-d-or)
 * [Waskaganish](/canada/quebec/waskaganish)
 * [Wemindji](/canada/quebec/wemindji)
-
----
-
----

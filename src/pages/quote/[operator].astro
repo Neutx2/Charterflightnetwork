@@ -21,7 +21,10 @@ interface Op {
 const { op } = Astro.props as { op: Op };
 ---
 
-<BaseLayout title={op.title} description={op.description} canonicalPath={`/quote/${op.slug}`}>
+{/* Canonical points at /quote: these pages are form variants of the main
+    quote page (near-duplicate content), differentiated only by the operator
+    subject line — canonicalizing avoids duplicate-content dilution. */}
+<BaseLayout title={op.title} description={op.description} canonicalPath="/quote">
   <div class="bg-gradient-to-b from-lake-900 to-lake-800 text-white">
     <div class="mx-auto max-w-7xl px-4 sm:px-6 py-10 sm:py-14">
       <Breadcrumbs crumbs={[{ label: 'Charter Quote', href: '/quote' }, { label: op.name }]} />

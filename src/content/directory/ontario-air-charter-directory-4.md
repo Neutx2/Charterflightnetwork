@@ -116,8 +116,6 @@ Nakina, Ontario P0T 2H0
 **Aircraft Types:** Cessna Caravan / Cessna 185 / De Havilland Otter
 **Service Type:** Floats / Wheels
 
-## Nestor Falls Air Charter
-
 ## Nestor Falls Fly-In Outposts Ltd
 
 Nestor Falls, Ontario P0X 1K0
@@ -136,8 +134,6 @@ P: 1-800-461-2126 / Office 807-484-2126 / Cell 807-272-6023
 **Aircraft Types:** Beech 18 / Cessna 180 / De Havilland Beaver
 **Service Type:** Floats
 
-## Niagara Falls Air Charter
-
 ## Niagara Helicopters Limited
 
 Niagara Falls, Ontario
@@ -148,8 +144,6 @@ P: 905-357-5672
 
 Request a Quote
 
-## North Bay Air Charter
-
 ## Voyageur Airways
 
 1500 Airport Road
@@ -158,8 +152,6 @@ P: 705-476-1750
 **Aircraft Types:** Beech King Air 200 / Bombardier CL600 / De Havilland DHC-8 (100, 300, 400)
 
 Request a Quote
-
-## Orillia Air Charter
 
 ## Lake Country Airways Inc
 
@@ -170,8 +162,6 @@ P: 705-325-9838
 **Service Type:** Floats / Wheels
 
 Request a Quote
-
-## Oshawa Air Charter
 
 ## Smooth Air / Air Nunavut
 
@@ -189,8 +179,6 @@ P: 905-721-0349
 **Base Locations:** Oshawa
 **Aircraft Types:** Beech C90 / Dassault Falcon 10 / De Havilland DHC-6-300 / Douglas DC-3
 **Service Type:** Wheels
-
-## Ottawa Air Charter
 
 ## Express Air
 
@@ -210,8 +198,6 @@ P: 613-831-9039
 **Aircraft Types:** Beech 300 King Air
 **Service Type:** Wheels
 
-## Owen Sound Air Charter
-
 ## Owen Sound Flight Services Inc
 
 Owen Sound, ON
@@ -219,8 +205,6 @@ P: 519-372-1259
 **Base Locations:** Owen Sound
 **Aircraft Types:** Cessna 172
 **Service Type:** Wheels
-
-## Parry Sound Air Charter
 
 ## Lake Country Airways Inc
 
@@ -232,8 +216,6 @@ P: 705-774-9884
 
 Request a Quote
 
-## Peterborough / Keene Air Charter
-
 ## Elmhirst Vacation Air Ltd
 
 Keene, Ontario K0L 2G0
@@ -243,8 +225,6 @@ P: 705-295-4591
 **Service Type:** Floats
 
 Request a Quote
-
-## Pickle Lake Air Charter
 
 ## Osnaburgh Airways Limited
 
@@ -284,8 +264,6 @@ P: 807-548-5647
 **Aircraft Types:** Aerospatiale AS350 B2 / B3
 **Service Type:** Helicopter
 
-## Port Loring Air Charter
-
 ## Tornados Air Services Inc
 
 Port Loring, ON P0H 1Y0
@@ -295,8 +273,6 @@ P: 705-757-2050 / 1-800-663-2277
 **Service Type:** Floats
 
 Request a Quote
-
-## Red Lake Air Charter
 
 ## Excellent Air
 
@@ -362,8 +338,6 @@ P: 807-727-2814
 **Aircraft Types:** De Havilland Beaver
 **Service Type:** Floats
 
-## Round Lake Air Charter
-
 ## Weagamow Corporation
 
 Weagamow, ON P0V 2Y0
@@ -371,8 +345,6 @@ P: 807-469-1269
 **Base Locations:** Weagamow, Ontario
 **Aircraft Types:** Cessna 185 / De Havilland Beaver / Piper Navajo
 **Service Type:** Floats / Wheels
-
-## Sandy Lake Air Charter
 
 ## Sandy Lake Seaplane Service Ltd
 
@@ -384,8 +356,6 @@ P: 807-774-1219
 
 Request a Quote
 
-## Savant Lake Air Charter
-
 ## Rusty Myers Flying Service (1986) Limited
 
 Fort Frances / Savant Lake, ON P9A 3M9
@@ -395,8 +365,6 @@ P: 866-707-7637
 **Service Type:** Floats
 
 Request a Quote
-
-## Sault Ste. Marie Air Charter
 
 ## Killarney Air Services
 
@@ -436,8 +404,6 @@ Get up to 3 competitive quotes for your next charter flight
 
 [Next: Page 5](/directory/ontario-air-charter-directory-5)
 
-## Explore Related Directories
-
 ## [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
 Link to the main Canadian Air Charter Directory listing every wheel plane, float plane, and helicopter charter service in every province and territory of Canada.
@@ -460,8 +426,6 @@ Submit your charter quote request through our free service and it forwards to up
 
 [Request a Quote](/quote)
 
-## Ontario Air Charter Directory Page 4 FAQ
-
 ## Which Ontario communities are included on page 4?
 
 Page 4 includes Nakina, Nestor Falls, Niagara Falls, North Bay, Orillia, Oshawa, Ottawa, Owen Sound, Parry Sound, Peterborough and Keene, Pickle Lake, Port Loring, Red Lake, Round Lake, Sandy Lake, Savant Lake, and Sault Ste. Marie.
@@ -473,9 +437,6 @@ Yes. Page 4 includes a mix of float plane, wheel plane, amphibious, and helicopt
 ## Can I request quotes from operators listed on this page?
 
 Yes. Many featured listings include direct quote request links, and Charter Flight Network also provides a quote request service to help source competitive charter quotes.
-
-Thunder Bay, ON P7E 5Y1
-P: [807-472-1955](tel:+18074721955)
 
 ## The Canadian Air Charter Directory
 

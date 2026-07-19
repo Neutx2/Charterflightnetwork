@@ -14,12 +14,6 @@ Charter Flights To Paulatuk, NWT
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Paulatuk](#collapseOne1)
-
 ### About Paulatuk Northwest Territories and Location
 
 Paulatuk, a serene community in the Northwest Territories, is renowned for its breathtaking landscapes and rich cultural heritage. Situated on the Amundsen Gulf's shores, it offers unique attractions and activities, making it a must-visit destination for those seeking adventure and tranquility. Its remote location highlights the importance of charter flights for visitors and residents alike.
@@ -60,15 +54,9 @@ While Paulatuk may offer limited accommodation options, local guest houses and s
 
 Paulatuk is a haven for outdoor enthusiasts. From fishing in crystal-clear waters and hiking through scenic landscapes to cultural experiences with the local Inuvialuit community, there's something for everyone. Seasonal charters and local outfitters offer guided tours, ensuring a memorable adventure in one of Canada's most stunning and secluded regions.
 
----
-
-## Turbo Prop / Piston Aircraft Charter Flights
-
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 The Paulatuk (Nora Aliqatchialuk Ruben) Airport (YPC) has a 4000 foot gravel surface runway making it accessible to pretty much all wheel plane charter services operating in the area. The community is primarily served by Kenn Borek Air and Aklak Air with service to Inuvik, NWT
-
-## NWT Float Plane Charter Flights
 
 ### Float Plane Charters - Receive 3 Competitive Quotes
 
@@ -77,16 +65,6 @@ There is a water aerodrome located in the bay at Paulatuk. There are however few
 ## NWT Helicopter Charter Flights
 
 Our Helicopter Charter Network Members offer unique and thrilling opportunities for visitors to explore the vast, rugged landscapes of Northwest Territories, an area known for its breathtaking natural beauty and remote wilderness.
-
----
-
----
-
----
-
----
-
----
 
 ## Quick Links To Over 40 Air Charter Destinations Across Northwest Territories
 
@@ -134,7 +112,3 @@ Our Helicopter Charter Network Members offer unique and thrilling opportunities 
 * [Whati](/canada/northwest-territories/whati)
 * [Wrigley](/canada/northwest-territories/wrigley)
 * [Yellowknife](/canada/northwest-territories/yellowknife)
-
----
-
----

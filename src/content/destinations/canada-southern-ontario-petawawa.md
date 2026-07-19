@@ -14,27 +14,15 @@ Charter Flights To Petawawa, Ontario
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
 ### [Charter Flights To Charter Flights To Petawawa](#collapseOne1)
 
 You can book charter flights from Petawawa Ontario to virtually any airport across Canada or throughout the USA. Contact the air charter services in our directory or request multiple charter quotes using our quote request form. Also, Float plane charter flights can be arranged throughout Ontario. You can depart from Petawawa or your most convenient airport and fly direct to your cottage or resort anywhere throughout Ontario or Quebec
-
-## Petawawa Air Charter Options
-
-## Charter Flights From Petawawa
 
 ### Charter Flights
 
 If you are looking for a float plane charter, you can usually arrange one from nearby Swisha, located on the Ottawa River. Wheel plane charters are available out of Ottawa, both jet and turbine aircraft. To receive up to 3 competitive quotes, complete and submit our charter quote request form today.
 
 [AIR CHARTER QUOTE](/quote)
-
----
-
----
 
 ## Petawawa Wheel Plane Charter Flights
 
@@ -48,22 +36,6 @@ The closest float plane charter services to Petawawa is located in Ottawa. When 
 
 Helicopter charters are available out of Ottawa. They can ferry over from Ottawa to the Pembroke airport. Just let us know your helicotper charter requirements and we will supply you with competitive quotes and availability.
 
----
-
----
-
-## Petawawa Charter Quote Request Form
-
----
-
-### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
-
----
-
----
-
----
-
 ## Quick Links To Over 50 Air Charter Destinations Across Southern Ontario
 
 [Click Here For Links To Northern and Northwestern Ontario Destinations](/canada/northern-ontario)
@@ -72,7 +44,7 @@ Helicopter charters are available out of Ottawa. They can ferry over from Ottawa
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -92,7 +64,7 @@ Helicopter charters are available out of Ottawa. They can ferry over from Ottawa
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -124,12 +96,8 @@ Helicopter charters are available out of Ottawa. They can ferry over from Ottawa
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
----

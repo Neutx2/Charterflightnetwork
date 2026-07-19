@@ -11,35 +11,17 @@ province: "Southern Ontario"
 provinceSlug: "southern-ontario"
 city: "Toronto Island"
 ---
----
-
-## Toronto Billy Bishop Charter Flights - With Just One Click Receive Up To 3 Competitive Charter Quotes Directly From The Charter Network Members Who Provide Wheel Plane / Float Plane or Helicopter Charter Services Throughout The Toronto Billy Bishop Area
-
 ### No Cost, No Obligation. Review The Quotes and Then Deal Directly With The Charter Service Of Your Choice.
 
 Charter Flight Network Is Proudly Canadian Owned & Operated
-
----
-
-## Receive Competitive Charter Quotes Directly From The Charter Airlines Who Operate In The Region Each and Every Day
 
 ### [Charter Flights To Toronto - Billy Bishop Airport](#collapseOne1)
 
 Click The Above Title To Hide This Text Window
 
----
-
 The Billy Bishop Airport is located on Toronto Island, virtually within the shadow of the CN Tower. If you have business to attend to in the downtown Toronto area this is your most convenient arrival airport. Since the airport is located on an island which is not connected via a bridge, you will need to use the ferry service or the pedestrian tunnel to access the mainland and downtown Toronto. Taxi service and other ground transportation services are located in a central area upon your arrival on the mainland.
 
 The airport does not allow jet aircraft (except for medical flights) so you are restricted to turbine or piston aircraft. If you are flying to Toronto via jet aircraft you will need to use Toronto Pearson Airport or Toronto Buttonville - however Buttonville's runway length may restrict some of the larger jet aircraft
-
----
-
----
-
-### Featured Charter Airlines Serving Destinations Across Ontario, Throughout Canada and Into The USA
-
-## Toronto Billy Bishop Wheel Plane Charter Flights
 
 ### Fast Air
 
@@ -48,8 +30,6 @@ Fast Air operates a VIP class, 9 passenger Beechcraft King Air 350 out of the Bi
 ### DB Air
 
 DB Air can pick your group of up to 8 passengers at Toronto's Billy Bishop Airport and you to destinations across Ontario, Quebec or northern eastern and north central USA
-
-## Toronto Billy Bishop Float Plane Charter Flights
 
 ### Cottage Air
 
@@ -60,10 +40,6 @@ Anyone in the Toronto area who owns or visits summer cottage locations in the Mu
 ## Toronto Billy Bishop Helicopter Charter Flights
 
 Each year Charter Flight Network sources out dozens of helicopter sight seeing trips, golf trips to Muskoka as well as flights to cottage locations. See what is available. Contact us for competitive quotes directly from the helicopter charter services in the region.
-
----
-
-## Toronto Charter Flights to Canadian Destinations
 
 ### Some Our Most Requested Canadian Destinations For Charter Flights From Toronto
 
@@ -87,10 +63,6 @@ Each year Charter Flight Network sources out dozens of helicopter sight seeing t
 
 [Request A Quote To The Above Or Any Destination Across Canada](/quote)
 
-## Toronto Charter Flights to USA / Bahamas / Caribbean
-
-### Flights From Toronto to Bahamas / Caribbean
-
 ### Charter Flights From Toronto to Boston
 
 It is 435 air miles from Toronto to Boston. We can get you competitive quotes for jet charters out of Toronto Pearson as well as turbo prop charters out of Billy Bishop Airport. Just let us know your flight details.
@@ -111,21 +83,9 @@ There are several airports available in the New York area for direct charter fli
 
 We receive numerous charter quote requests for charter flights to numerous cities throughout Pennsylvania, including Pittsburgh, Latrobe, Philadelphia, Butler and Scranton. We specialize in finding clients the most cost efficient charter options by sourcing out to 3 or more charter services who are best positioned and equipped to provide the service required. Contact today with your flight details.
 
-## Toronto Billy Bishop Airport Charter Quote Request Form
-
----
-
 ### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario, Manitoba, Quebec, Nova Scotia, Nunavut*
 
----
-
----
-
----
-
 Charter Flight Network Has Been Online Since 2008 And Has Established The Largest Network Of Wheel Plane, Float Plane & Helicopter Charter Services In Every Province & Territory of Canada Who Participate In Our Charter Quote Request Service
-
----
 
 ## Links To 53 Southern Ontario Charter Destinations
 
@@ -135,7 +95,7 @@ Charter Flight Network Has Been Online Since 2008 And Has Established The Larges
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -155,7 +115,7 @@ Charter Flight Network Has Been Online Since 2008 And Has Established The Larges
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -187,16 +147,10 @@ Charter Flight Network Has Been Online Since 2008 And Has Established The Larges
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
 
----
-
 Every quote request generated, forwards to the charter airlines best positioned and equipped to provide the service. Each company prepares a competitive quote and sends it directly to your email. [Discover how to link your charter airline to our distribution list](/operators)
-
-### CharterFlightNetwork.com is not a charter service provider. We do not own nor operate any aircraft. All charter quotes are generated by the charter airlines who are best positioned and equipped to provide the service requested. Should you decide to book a charter flight, you book directly with the charter airline of your choice and all flight arrangements and payments are made directly with the airline
-
----

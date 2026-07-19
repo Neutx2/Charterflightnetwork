@@ -75,9 +75,6 @@ We can arrange rental car, limo services or van shuttle services and have it rea
 
 ---
 
-Thunder Bay, Ontario
-Email: phil@charterflightnetwork.com
-
 ## Other
 
 **CharterFlightNetwork.com** is not a charter service provider. We do not own nor operate any aircraft.

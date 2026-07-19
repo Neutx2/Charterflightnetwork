@@ -13,8 +13,6 @@ provinceSlug: "nunavut"
 
 Our Nunavut Section Features Adventures To: Alert / Arctic Bay / Cambridge Bay / Iqaluit / Pangnirtung / Pond Inlet. Click Any Of These Locations On The Map To Begin Your Journey
 
----
-
 ## Nunavut Charter Flights
 
 Nunavut covers a vast area of Arctic Canada, stretching from the Hudson Bay and Kivalliq coastline through the Kitikmeot region and across the islands of the High Arctic. Many communities have no road connections to the south or to each other, and seasonal shipping windows can be short. Air travel provides essential year-round links between Iqaluit, Rankin Inlet, Cambridge Bay, Resolute Bay, smaller communities and staging points in Manitoba, Ontario and the Northwest Territories.
@@ -26,8 +24,6 @@ Flight Options To Iqaluit, Nunavut
 Aviation is the primary transportation network in Nunavut. Charter aircraft move residents, medical teams, freight, groceries and fuel between regional hubs and smaller communities in every season. For exploration and industrial projects, charter flights move crews, equipment and supplies to remote camps that may only be accessible by air. When sea lift and winter roads are not available, air crgo flights keep communities and projects supplied.
 
 Charter flights can be configured for passenger travel, all-cargo missions or mixed loads, allowing operators to adapt to each mission. For visitors, charter aviation makes it possible to reach remote communities, wildlife viewing areas and Arctic expeditions on flexible schedules tailored to weather windows and logistics.
-
-## Airports in Nunavut
 
 ## Iqaluit Airport (YFB)
 
@@ -65,50 +61,9 @@ Visitors seeking northern lights viewing, polar bear and whale watching, Arctic 
 
 The following Nunavut destinations have dedicated Charter Flight Network pages with more detailed information on local airports and charter operators serving each community:
 
-* [Alert](/canada/nunavut/alert)
-* [Arctic Bay](/canada/nunavut/arctic-bay)
-* [Arviat](/canada/nunavut/arviat)
-* [Baffin Island](/canada/nunavut/baffin-island)
-* [Baker Lake](/canada/nunavut/baker-lake)
-* [Cambridge Bay](/canada/nunavut/cambridge-bay)
-* [Cape Dorset](/canada/nunavut/cape-dorset)
-* [Chesterfield Inlet](/canada/nunavut/chesterfield-inlet)
-
-* [Clyde River](/canada/nunavut/clyde-river)
-* [Coral Harbour](/canada/nunavut/coral-harbour)
-* [Eureka](/canada/nunavut/eureka)
-* [Gjoa Haven](/canada/nunavut/gjoa-haven)
-* [Grise Fiord](/canada/nunavut/grise-fiord)
-* [Hall Beach](/canada/nunavut/hall-beach)
-* [Hope Bay](/canada/nunavut/hope-bay)
-* [Igloolik](/canada/nunavut/igloolik)
-
-* [Iqaluit](/canada/nunavut/iqaluit)
-* [Kimmirut](/canada/nunavut/kimmirut)
-* [Kugaaruk](/canada/nunavut/kugaaruk)
-* [Kugluktuk](/canada/nunavut/kugluktuk)
-* [Mary River](/canada/nunavut/mary-river)
-* [Meadowbank Mine](/canada/nunavut/meadowbank-gold-mine)
-* [Pangnirtung](/canada/nunavut/pangnirtung)
-* [Pond Inlet](/canada/nunavut/pond-inlet)
-
-* [Qikiqtarjuaq](/canada/nunavut/qikiqtarjuaq)
-* [Rankin Inlet](/canada/nunavut/rankin-inlet)
-* [Repulse Bay](/canada/nunavut/repulse-bay)
-* [Resolute](/canada/nunavut/resolute)
-* [Sanikiluaq](/canada/nunavut/sanikiluaq)
-* [Taloyoak](/canada/nunavut/taloyoak)
-* [Tanquary Fiord](/canada/nunavut/tanquary-fiord)
-* [Whale Cove](/canada/nunavut/whale-cove)
-
 As additional Nunavut community pages are created, they can be added to this list so that this hub becomes a complete index of destinations across the territory.
 
 ## Option #2. With Just One Click, Receive Competitive Quotes From All The Charter Airlines Listed On This Page.
-
-their needs. When you complete and submit the form below, we forward your inquiry to multiple charter airlines
-who are best positioned and equipped to provide the service you request. Each airline prepares and submits
-a competitive quote. If a quote meets your needs and budget, you deal directly with the airline of your choice
-to finalize all details, scheduling, and payment.
 
 **\*Privacy:** we don't share your name or contact info with airlines. Your request is assigned a unique ID;
 airlines submit quotes for that ID and we forward them to you.
@@ -116,12 +71,6 @@ airlines submit quotes for that ID and we forward them to you.
 ## Charter Flights to Neighbouring Regions
 
 Many itineraries combine Nunavut travel with staging points in Manitoba, Northwest Territories and Northern Ontario. Continue planning your journey with these regional pages:
-
-* [Charter Flights in Manitoba](/canada/manitoba)
-* [Charter Flights in Northwest Territories](/canada/northwest-territories)
-* [Charter Flights in Northern Ontario](/canada/northern-ontario)
-
-## Nunavut Charter Flight FAQ
 
 ## How far in advance should I book a Nunavut charter flight?
 

@@ -65,7 +65,7 @@ const description =
         used by the quote forms so submissions reach CFN by email.
         TODO(deploy): on Netlify, switch to Netlify Forms (see QuoteForm.astro notes).
       -->
-      <form method="post" action="/formmailer.php" class="mt-6 grid gap-4 sm:grid-cols-2">
+      <form method="post" action={SITE.formEndpoint} class="mt-6 grid gap-4 sm:grid-cols-2">
         <div class="absolute -left-[5000px] h-px w-px overflow-hidden" aria-hidden="true">
           <label for="op-website">Website</label>
           <input type="text" id="op-website" name="website" tabindex="-1" autocomplete="off" />

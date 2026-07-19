@@ -12,17 +12,9 @@ city: "St Andrews"
 ---
 Charter Flights To St Andrews Newfoundland / Labrador
 
----
-
-### [Charter Flights To St Andrews](#collapseOne1)
-
 ### About St Andrews Newfoundland / Labrador
 
 Discover The Convenience and Affordability of Flying Direct to or From St Andrews Newfoundland Labrador In The Speed Comfort and Security of A Private Charter Flight. St Andrews is a small community located on the most south western tip of Newfoundland on the shores of Gulf of St Lawrence. the St Andrews (Codroy Valley) Airport is located 2 miles northwest of town and has a 2,995 foot asphalt runway making it accessible to a wide range of charter aircraft in the region.
-
----
-
-## Wheel Plane Charter Flights
 
 ### Chrono Aviation
 
@@ -36,8 +28,6 @@ St. Andrews has a rich maritime history dating back centuries. The area was orig
 
 European settlers arrived in the area in the 17th century, drawn by the abundance of fish and fertile land. Fishing became the backbone of the local economy, with residents relying on the sea for their livelihoods. Today, St. Andrews retains much of its historic charm, with quaint fishing villages, colorful houses, and reminders of its seafaring past.
 
-## Float Plane Charter Flights
-
 ### Float Plane Charters / 3 Competitive Quotes
 
 Fishing has long been the primary economic activity in St. Andrews, with residents engaged in both commercial and recreational fishing. Lobster, crab, cod, and other seafood are harvested from the waters surrounding the community, contributing to the local economy and providing employment opportunities for residents.
@@ -49,10 +39,6 @@ In addition to fishing, tourism has become increasingly important to the economy
 ### Helicopter Charter Flights / 3 Competitive Quotes
 
 Receive up to 3 competitive charter quotes directly from the helicopter charter companies best positioned and equipped to provide the services you require
-
----
-
----
 
 ## Quick Links To 38 Air Charter Destinations Across Newfoundland and Labrador
 
@@ -98,7 +84,3 @@ Receive up to 3 competitive charter quotes directly from the helicopter charter 
 * [Wabush](/canada/newfoundland/wabush)
 * [Williams Harbour](/canada/newfoundland/williams-harbour)
 * [Winterland](/canada/newfoundland/winterland)
-
----
-
----

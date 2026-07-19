@@ -11,21 +11,9 @@ province: "Quebec"
 provinceSlug: "quebec"
 city: "Baie Comeau"
 ---
----
-
-## Receive Competitive Charter Quotes Directly From The Airlines who Provide Wheel Plane / Float Plane or Helicopter Charter Flights To Baie Comeau
-
-### No Cost, No Obligation. Review The Quotes and Then Deal Directly With The Charter Service Of Your Choice.
-
----
-
-### [Charter Flights To Baie Comeau](#collapseOne1)
-
 ### Flights To Baie Comeau
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
-
----
 
 ### Location
 
@@ -41,10 +29,6 @@ With just one click, you can receive up to 3 competitive charter flight quotes d
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
 
----
-
-## Private Jet Charters
-
 ### Jet Charters
 
 The Baie Comeau airport has a 6,000 foot asphalt runway, making it accessible to a large selection of jet charters which can be arranged out of Montreal, Toronto, Oshawa as well as direct jet charters out of the USA. Contact us for availability and competitive quotes.
@@ -59,25 +43,13 @@ There are no float plane charter services based in the Baie Comeau region. The c
 
 Although there are no helicopter charter services based in Baie Comeau, there are several helicopter charters available in Sept Iles which is 115 air miles east / Alma which is 160 air miles west / Sageunay located 140 air miles west . Submit our Free Charter Quote Request Form and receive up to 3 Competitive Quotes.
 
-## Popular Charter Flights To Baie Comeau, Quebec
-
 ### Quebec City Charter Flights
 
 It is 225 air miles between Quebec City and Baie Comeau. View Wheel Plane, Float Plane & Helicopter Charter Services based in Quebec City
 
----
-
----
-
 ### The Following Charter Airlines Provide Quotes For Our Clients Across Quebec, Ontario, Manitoba, Nova Scotia & Nunavut
 
----
-
----
-
 Charter Flight Network Has Been Online Since 2008 And Has Established The Largest Network Of Wheel Plane, Float Plane & Helicopter Charter Services In Every Province & Territory of Canada Who Participate In Our Charter Quote Request Service
-
----
 
 ## Quick Links To 86 Air Charter Destinations Across Quebec
 
@@ -170,7 +142,3 @@ Charter Flight Network Has Been Online Since 2008 And Has Established The Larges
 * [Val-d`Or](/canada/quebec/val-d-or)
 * [Waskaganish](/canada/quebec/waskaganish)
 * [Wemindji](/canada/quebec/wemindji)
-
----
-
----

@@ -7,7 +7,6 @@ slug: "flights/campbell-river-from-calgary"
 thin: false
 quoteSubject: "Campbell River Quote"
 region: "global"
-faqs: [{"q": "Is Springbank (YBW) cheaper than YYC for private charters?", "a": "Often, yes. YBW typically has lower operating and FBO costs than YYC, with faster ramp-side turnaround. Most charters to Campbell River use YBW for that reason."}, {"q": "How long is the ground transfer from Calgary International (YYC) to Springbank (YBW)?", "a": "Plan on approximately 25–40 minutes door-to-door depending on traffic and pickup point. We arrange a pre-booked shuttle or private car to meet your flight."}, {"q": "What documents do I need if I'm arriving from the U.S.?", "a": "Bring a valid passport and any required visas or eTA depending on nationality. You'll clear Canadian customs at YYC when your airline arrives; the Calgary to Campbell River charter then operates as a domestic Canadian flight."}, {"q": "What's the average flight time from Calgary to Campbell River?", "a": "Turboprops usually take approximately 2.0–2.5 hours; light and midsize jets are typically 1.5–2.0 hours, depending on winds and routing. --- ---"}]
 ---
 Receive up to 3 competitive charter quotes from multiple airlines for direct flights between Calgary and Campbell River.
 
@@ -44,14 +43,6 @@ Business & Fishing Trips
 [Flights to Tofino](/canada/british-columbia/tofino) |
 [Flights To Nanaimo](/canada/british-columbia/nanaimo)
 
----
-
-## Arrive In Campbell River Between 8:30 - 9:00 am And Enjoy 8 - 10 Hours Of Salmon Fishing On Arrival Day
-
-## Here Are Two Quick & Convenient Flight Options From Calgary To Campbell River
-
----
-
 ## Flight Option #1. Fly Private Charter Non Stop Calgary to Campbell River
 
 Map data from [OpenStreetMap](https://www.openstreetmap.org/copyright)
@@ -81,8 +72,6 @@ Request Your Online Quote
 ## Flight Option #2. Fly Scheduled Airlines Calgary to Vancouver / Then Private Charter Flight Vancouver to Campbell River
 
 Map data from [OpenStreetMap](https://www.openstreetmap.org/copyright)
-
-### Take Air Canada or WestJet From Calgary to Vancouver. Connect With A Non Stop Charter Flight Direct To Campbell River
 
 ### Here Is An Example Of A Weekend (Friday - Sunday) Salmon Fishing Adventure
 
@@ -299,8 +288,6 @@ Show BC Destinations
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
 
-## Calgary ⇄ Campbell River — Frequently Asked Questions
-
 ### Is Springbank (YBW) cheaper than YYC for private charters?
 
 Often, yes. YBW typically has lower operating and FBO costs than YYC, with faster ramp-side turnaround. Most charters to Campbell River use YBW for that reason.
@@ -316,7 +303,3 @@ Bring a valid passport and any required visas or eTA depending on nationality. Y
 ### What's the average flight time from Calgary to Campbell River?
 
 Turboprops usually take **approximately 2.0–2.5 hours**; light and midsize jets are typically **1.5–2.0 hours**, depending on winds and routing.
-
----
-
----

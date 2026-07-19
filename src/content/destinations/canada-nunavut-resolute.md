@@ -24,13 +24,7 @@ Save time and use our no-obligation charter quote request form to receive up to 
 
 ## Request Quotes Directly From The Airlines Listed Below or Use Our Free Quote Request Service and Receive Up To 3 Competitive Quotes
 
----
-
----
-
 [Choose Any Nunavut Community And Request A Charter Flight Quote](#Communities)
-
-### Resolute, Nunavut: A Gateway to the High Arctic & Quttinirpaaq National Park
 
 ### We Arrange both Jet and Turbo Prop Aircraft
 
@@ -41,8 +35,6 @@ The geography of Resolute is defined by its rugged Arctic environment. The islan
 Accessible primarily by air, Resolute serves as a critical logistics hub for Arctic expeditions and research, with its strategic location providing entry to the High Arctic's untouched wilderness. For adventurers, scientists, and those drawn to the beauty of the polar regions, Resolute offers a unique and unforgettable Arctic experience.
 
 [Request A Quote](#quote)
-
----
 
 ### The Resolute Airport
 
@@ -57,8 +49,6 @@ While the airport is not operational 24 hours a day, its hours of operation are 
 Resolute, or "Qausuittuq," meaning "place with no dawn," offers visitors a unique opportunity to immerse themselves in the rich cultural heritage and traditions of the Inuit people. Located in the heart of the High Arctic, this remote community is steeped in history and resilience, showcasing the enduring connection between the Inuit and their environment.
 
 Visitors to Resolute can experience the Inuit way of life through cultural activities and storytelling sessions hosted by local residents. These stories often recount the Inuit's deep knowledge of the land, ice, and wildlife, as well as their history of survival and adaptation in one of the world's harshest climates. Guests can learn about traditional hunting methods for seal, narwhal, and caribou, as well as techniques for building igloos, which serve as temporary shelters during hunting expeditions.
-
----
 
 ### Air Cargo Flights
 
@@ -87,22 +77,6 @@ The Arctic waters and tundra around Resolute are teeming with wildlife. Guided t
 ### Northern Lights Viewing
 
 Resolute's location above the Arctic Circle offers ideal conditions for viewing the Northern Lights. From late autumn through early spring, the aurora borealis paints the night sky with vivid greens, purples, and pinks, creating an unforgettable spectacle.
-
----
-
-## Request A Quote For Any Of The Following Popular Flight Routes
-
----
-
----
-
----
-
-## Resolute Nunavut Charter Quote Request Form
-
----
-
----
 
 ## Quick Links To 31 Destinations Across Nunavut
 
@@ -169,7 +143,3 @@ Resolute's location above the Arctic Circle offers ideal conditions for viewing 
 [Tanquary Fiord](/canada/nunavut/tanquary-fiord)
 
 [Whale Cove](/canada/nunavut/whale-cove)
-
----
-
----

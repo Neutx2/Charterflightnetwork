@@ -11,15 +11,9 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Takla Narrows"
 ---
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
-### [Charter Flights To Takla Narrows](#collapseOne1)
-
 ### There was an operational airport at Takla Narrows at one time. It had a 2000 foot gravel runway which made it accessible to a very restricted number of aircraft such as the single and twin engine otter, the beaver and other small single engine aircraft.
 
 It is possible that some air charter companies still use this strip, however it is not maintained and you are advised to contact your charter company to inquire if its possible to fly into this strip. Float planes on the other hand will have no problem operating in and out of the adjacent lake and taking a float plane charter is your most logical choice for travel to Takla Narrows
-
----
 
 ## Takla Narrows Wheel Plane Charter Flights
 
@@ -32,20 +26,6 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 ## Takla Narrows Helicopter Charter Flights
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -190,9 +170,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

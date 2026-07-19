@@ -11,19 +11,11 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Woodcock"
 ---
-## Request A Charter Quote Directly From Any Of Our Featured Charter Airlines or Use Our Free Charter Quote Request Service an Receive Up To 3 Competitive Quotes
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
-### [Charter Flights To Woodcock](#collapseOne1)
-
 ### Direct Charter Flights to Woodcock located in northwestern British Columbia northeast of Prince Rupert and northwest of Smithers. The town is on the northern fringes of the Seven Sisters Provincial Park.
 
 There are no commercial flights into Woodcock, however the town does have an airport located southwest of town and 4.5 miles north of the town of Cedarvale. The airport has a 3350 foot asphalt runway making it accessible to many charter flight aircraft in the region.
 
 The closest airport with scheduled flights is Smithers BC and has direct flights with Air Canada from Vancouver. From Smithers you can either arrange a rental car and drive to Woodcock which is a 1 hour and 45 minute drive or take a direct charter flight to Woodcock from Smithers and arrive in just over 30 minutes.
-
----
 
 ## Woodcock Wheel Plane Charter Flights
 
@@ -36,20 +28,6 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 ## Woodcock Helicopter Charter Flights
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -194,9 +172,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

@@ -11,12 +11,6 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Dease Lake"
 ---
----
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require.
-
-### [Charter Flights To Dease Lake](#collapseOne1)
-
 ### Location Of Dease Lake
 
 Book Charter Fligthts To Dease Lake which is a small community located in the northwestern region of British Columbia and 700 air miles north of Vancouver / 615 air miles north of Campbell River / 420 air miles north of Prince George and 240 air miles south of Whitehorse Yukon
@@ -33,15 +27,9 @@ There is a wide variety of air charter services in the Vancouver area that can p
 
 Smithers BC is 275 air miles south of Dease Lake making it one of the most cost efficient departure points for charter flights to Dease Lake.You can fly scheduled airlines into Smithers from Vancouver and connect directly with your charter flight. There is however a wide selection of hotels in Smithers so if you arrive too late to connect with your charter service the same day, you can stay overnight and take an early morning charter to Dease Lake.
 
----
-
-## Private Jet Charter Flights Dease Lake
-
 ### Private Jet Charters
 
 Dease Lake Airport has 6,000 foot ashphalt runway making it accessible to private jet charters from departure points across Canada and USA. Receive up to 3 competitive quotes when you use our Free Quote Request Service
-
-## Turbo Prop Charter Flights
 
 ### Fast Air
 
@@ -59,20 +47,6 @@ If you need to access remote regions in the Dease Lake region by float plane, ju
 ## Dease Lake Helicopter Charter Flights
 
 Our British Columbia Helicopter data base lists all helicopter charter services based in British Columbia. When you need helicopter support out of Dease Lake, we can find you up to 3 helicopter charter services best positioned and equipped to provide the service you require. You receive competitive quotes and then deal with with company of your choice.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To 133 British Columbia Air Charter Destinations
 
@@ -215,7 +189,3 @@ Our British Columbia Helicopter data base lists all helicopter charter services 
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----

@@ -11,8 +11,6 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Homathko River"
 ---
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
 ### [Charter Flights To Homathko River](#collapseOne1)
 
 The most practical access to regions of the Homathko River is by Helicopter Charter Flights. It is a fast moving river and there may be sections that are safe for float planes to land - however you will need to check with your float plane charter service to determine this. The Homathko River starts in the interior of BC in Chilcotin Country and runs all the way to the coast.
@@ -20,8 +18,6 @@ The most practical access to regions of the Homathko River is by Helicopter Char
 Some of the closest locations with airports accessible by private charter flights include Williams Lake, Anahim Lake and Bella Coola
 
 This is a cold fast moving river with many high cliffs lining its banks and is home to numerous grizzly bears
-
----
 
 ## Homathko River Wheel Plane Charter Flights
 
@@ -34,20 +30,6 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 ## Homathko River Helicopter Charter Flights
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -192,9 +174,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

@@ -11,8 +11,6 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Anahim Lake"
 ---
----
-
 ## About Anahim Lake Airport (YAA)
 
 Anahim Lake Airport (YAA) is located just over one mile south of Anahim Lake,
@@ -33,8 +31,6 @@ efficiently. Dash-8 and King Air class aircraft are best suited for these operat
 
 Future plans propose an airstrip directly at the mine site to support long-term project access.
 
----
-
 ## Anahim Lake Wheel Plane Charter Flights
 
 Request up to 3 competitive quotes for direct charter flights to Anahim Lake
@@ -44,8 +40,6 @@ from regional operators throughout British Columbia.
 
 Streak Air offers turboprop charter flights to Anahim Lake from Kamloops,
 Kelowna, and other BC communities.
-
-## Anahim Lake Float Plane Charter Flights
 
 ### Fort Langley Air
 
@@ -225,5 +219,3 @@ Each quote is assigned a reference ID and forwarded through our system.
 * [Trail](/canada/british-columbia/trail)
 * [Tsacha Lake](/canada/british-columbia/tsacha-lake)
 * [Tsay Keh](/canada/british-columbia/tsay-keh)
-
----

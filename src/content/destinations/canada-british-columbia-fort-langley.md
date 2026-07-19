@@ -11,14 +11,6 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Fort Langley"
 ---
-### Direct Charter Flights to Fort Langley which is actually part of Langley BC and makes up part of Greater Vancouver, but is home to the Fort Langley National Historic Site. Both the Fort Langley Airport and the Fort Langley Water Aerodrome are located adjacent to the town.
-
-### Receive Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
-### [Charter Flights To Langley](#collapseOne1)
-
-### More About Fort Langley
-
 ### **[Request A Charter Quote Direct to Fort Langley From Any Departure Point](/quote)**
 
 Link to our Free Charter Quote Request Service. Receive up to 3 competitive quotes direct from the charter airlines best equipped and positioned to provide the service you require.
@@ -44,22 +36,6 @@ If you need to connect with a float plane charter upon your arrival in Fort Lang
 ## Langley Helicopter Charter Flights
 
 Although there are no helicopter charter services based in Fort Langley, there are several operating throughout the area such as Pitt Meadows, Abbotsford and Vancouver. With our vast data base of BC Helicopter Charters, we can ensure you receive quotes directly from the operators best postioned and equipped to provide the service you require. Contact us today.
-
----
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -204,9 +180,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

@@ -86,12 +86,8 @@ Click for a quick index of British Columbia air charter locations
 [Whistler](#Whistler)
 
 Eliminate the searching. With just one click you can receive up to 3 competitive quotes directly from the airlines best positioned and equipped to provide the service required.
-**Quote Sourcing:** Every Province and Territory of Canada
-**Aircraft Types:** All Wheel Planes (Jet, Turbine, Piston) / Float Planes / Helicopters
 
 [Request A Quote](/quote)
-
-## Vanderhoof Air Charter
 
 ## Guardian Aerospace
 
@@ -103,8 +99,6 @@ P: (250) 567-2655
 
 [Request Charter Quote](/quote/guardian-aerospace)
 
-## Vernon Air Charter
-
 ## Monashee Helicopters Ltd
 
 Vernon, BC
@@ -114,8 +108,6 @@ P: (250) 306-9559
 **Service Type:** Helicopter
 
 [Request Charter Quote](/quote)
-
-## Victoria Air Charter
 
 ## Ocean Air
 
@@ -157,8 +149,6 @@ P: (250) 656-3987
 
 [Request Charter Quote](/quote)
 
-## Williams Lake Air Charter
-
 ## Arduini Helicopters Ltd
 
 Williams Lake, BC V2G 4P9
@@ -178,8 +168,6 @@ P: (250) 296-4408
 **Service Type:** Helicopter
 
 [Request Charter Quote](/quote)
-
-## Whistler Air Charter
 
 ## Blackcomb Helicopters
 
@@ -217,8 +205,6 @@ P: (450) 435-4267
 
 [Previous Page](/directory/bc-air-charter-directory-5)
 
-## Explore Related Directories
-
 ## [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
 Link to the main Canadian Air Charter Directory listing wheel plane, float plane and helicopter charter services in every province and territory of Canada.
@@ -242,8 +228,6 @@ Submit your charter quote request through our free quote request service and it 
 Each company prepares a competitive quote and sends it directly to your email.
 
 [Request A Quote](/quote)
-
-## British Columbia Air Charter Directory Page 6 FAQ
 
 ## Which communities are included on page 6 of the BC directory?
 

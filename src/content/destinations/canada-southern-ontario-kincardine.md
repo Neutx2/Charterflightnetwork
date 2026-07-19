@@ -14,31 +14,15 @@ Charter Flights To Kincardine, Ontario
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Charter Flights To Kincardine](#collapseOne1)
-
-## Your Kincardine Air Charter Options
-
-## About Kincardine
-
 ### Location
 
 Kincardine is located along the eastern shores of Lake Huron north of Goderich and south of Saugeen Shores. The region is a popular destination for year round outdoor recreation. If you plan a small business get together or you have clients you wish to entertain for a day or two of golf, its a perfect location. You can fly private charter flights direct to the Kincardine Airport located 2 miles north of town and has a 4000 foot asphalt runway.
 
 Passengers arriving by private charter flight at the Kincardine Airport can arrange to have limousine service meet their flight and take them direct to area hotels, golf courses, meetings or special events
 
----
-
----
-
 ## Kincardine Wheel Plane Charter Flights
 
 We can provide you with up to 3 competitive quotes for direct charter flights to the Kincardine Airport which has a 4,000 foot runway and is located just under 2 miles northeast of town. Just let us know your flight requirements.
-
-## Kincardine Float Plane Charter Flights
 
 ### Cotttage Air
 
@@ -50,20 +34,6 @@ There is very little demand for float plane charter services out of Kincardine. 
 
 The closest helicopter charter services to Kincardine are located in Collingwood and Grand Bend. If you need a helicopter in the Kincardine region, contact us for price quotes and availability.
 
----
-
-## Kincardine Charter Quote Request Form
-
----
-
-### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
-
----
-
----
-
----
-
 ## Quick Links To Over 50 Air Charter Destinations Across Southern Ontario
 
 [Click Here For Links To Northern and Northwestern Ontario Destinations](/canada/northern-ontario)
@@ -72,7 +42,7 @@ The closest helicopter charter services to Kincardine are located in Collingwood
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -92,7 +62,7 @@ The closest helicopter charter services to Kincardine are located in Collingwood
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -124,12 +94,8 @@ The closest helicopter charter services to Kincardine are located in Collingwood
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
----

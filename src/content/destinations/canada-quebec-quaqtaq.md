@@ -10,13 +10,9 @@ province: "Quebec"
 provinceSlug: "quebec"
 city: "Quaqtaq"
 ---
----
-
 ### Flights To Quaqtaq
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
-
----
 
 ### Charter Flights From Montreal to Quaqtaq
 
@@ -35,10 +31,6 @@ The local public use airport has a gravel surface runway which is 3,520 feet lon
 With just one click, you can receive up to 3 competitive charter flight quotes directly from the airlines who provide service throughout Quaqtaq .
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
-
----
-
----
 
 ## Quick Links To 86 Air Charter Destinations Across Quebec
 
@@ -131,7 +123,3 @@ With just one click, you can receive up to 3 competitive charter flight quotes d
 * [Val-d`Or](/canada/quebec/val-d-or)
 * [Waskaganish](/canada/quebec/waskaganish)
 * [Wemindji](/canada/quebec/wemindji)
-
----
-
----

@@ -14,25 +14,13 @@ Charter Flights To Charter Flights To Welland , Ontario
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
 ### [Charter Flights To Charter Flights To Welland](#collapseOne1)
 
 Welland is located along the Welland Canal between Port Colborne and St Catharines. The airport is conveniently close to Niagara Falls Ontario which has no airport, so many vacationers who fly charter flights to the area use the Welland / Niagara Central Airport and has a 3500 foot asphalt runway making it accessible to a wide range of medium size charter and corporate aircraft. The airport is conveniently located to dozens of golf courses, hotels and restaurants, making it an ideal business meeting destination
 
-## Your Welland Air Charter Options
-
-## About Welland
-
 ### Location
 
 If you require a charter flight out of the Welland area you may need to travel to either Burlington, St Catharines or Toronto. There are helicopter charter services out of Niagara Falls, but if you need to travel to a desination anywhere in Canada or the US, we can connect you with the charter company best positioned and equipped out of Toronto or burlington.
-
----
-
-## Charter Flights From Toronto To Welland
 
 ### Charter Flights From Toronto
 
@@ -42,10 +30,6 @@ Click the Air Charter Links Button for listings of wheel plane, float plane and 
 [AIR CHARTER LINKS](######)
 
 [View All Northern Ontario Chater Destinations](#BC Charter Destinations)
-
----
-
----
 
 ## Welland Wheel Plane Charter Flights
 
@@ -59,22 +43,6 @@ There are no float plane charter services available to or from the Welland airpo
 
 Helicopter ccharters and sight seeing trips are available from nearby Niagara Falls. Contact us for competitive quotes.
 
----
-
----
-
-## Welland Charter Quote Request Form
-
----
-
-### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
-
----
-
----
-
----
-
 ## Quick Links To Over 50 Air Charter Destinations Across Southern Ontario
 
 [Click Here For Links To Northern and Northwestern Ontario Destinations](/canada/northern-ontario)
@@ -83,7 +51,7 @@ Helicopter ccharters and sight seeing trips are available from nearby Niagara Fa
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -103,7 +71,7 @@ Helicopter ccharters and sight seeing trips are available from nearby Niagara Fa
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -135,12 +103,8 @@ Helicopter ccharters and sight seeing trips are available from nearby Niagara Fa
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
----

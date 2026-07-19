@@ -9,7 +9,6 @@ quoteSubject: "Campbell River Quote"
 region: "usa"
 city: "Campbell River Seattle"
 airportCode: "YBL"
-faqs: [{"q": "Where do scheduled flights arrive in Seattle for this trip?", "a": "Scheduled airline flights arrive at Seattle–Tacoma International Airport (SEA / SeaTac). From SEA, a pre-arranged car or van service takes you to the correct charter departure terminal."}, {"q": "Where do wheel-plane charters depart from in Seattle?", "a": "Wheel-plane charters typically depart from Boeing Field / King County International Airport (BFI). The SEA to BFI ground transfer is commonly around 15 to 30 minutes depending on traffic and pickup point."}, {"q": "Where do floatplane charters depart from in Seattle?", "a": "Floatplane charters may depart from Renton or the Lake Union seaplane terminal. Your quote will confirm the operator, departure point, baggage limits, and check-in timing."}, {"q": "How long is the flight from Seattle to Campbell River?", "a": "Most turboprop and light twin options average around 1 hour, depending on winds and routing. Floatplane routings can take longer depending on aircraft type and departure point."}, {"q": "Do we clear Canadian customs when arriving from Seattle?", "a": "Customs handling for cross-border charter flights depends on the operator and the planned port of entry. We confirm the exact process during quoting so your group knows where and when formalities are completed. --- ---"}]
 ---
 Receive up to 3 competitive charter quotes from multiple airlines for direct flights between Seattle and Campbell River.
 
@@ -45,12 +44,6 @@ Business & Fishing Trips
 [Vancouver Flights To Campbell River](/canada/british-columbia/campbell-river) |
 [Flights to Tofino](/canada/british-columbia/tofino) |
 [Flights To Nanaimo](/canada/british-columbia/nanaimo)
-
----
-
-## Designed for groups with a limited vacation window who need to minimize travel time and maximize salmon fishing time.
-
----
 
 ## Flights From Seattle to Campbell River Video
 
@@ -96,8 +89,6 @@ Request Your Seattle to Campbell River Charter Quote
 
 Map data from [OpenStreetMap](https://www.openstreetmap.org/copyright)
 
-### Upon Arrival at Seattle's SeaTac Airport
-
 ### Here is another example of a weekend Friday to Sunday salmon fishing adventure:
 
 * Most non-stop scheduled flights arrive at Seattle's SeaTac between 9 AM and 10 AM.
@@ -121,8 +112,6 @@ Request Your Seattle to Campbell River Charter Quote
 [Or, Call Us Now: (807) 472-1955](tel:+18074721955)
 
 [Request Your Online Quote](#QuoteForm)
-
-## What Is the Cost to Fly From Seattle to Campbell River, BC?
 
 ## See how Charter Flight Network finds the most cost-efficient air charter option that best meets the needs of every client.
 
@@ -316,8 +305,6 @@ Show BC Destinations
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
 
-## Seattle to Campbell River — Frequently Asked Questions
-
 ### Where do scheduled flights arrive in Seattle for this trip?
 
 Scheduled airline flights arrive at Seattle–Tacoma International Airport (SEA / SeaTac). From SEA, a pre-arranged car or van service takes you to the correct charter departure terminal.
@@ -337,7 +324,3 @@ Most turboprop and light twin options average around 1 hour, depending on winds 
 ### Do we clear Canadian customs when arriving from Seattle?
 
 Customs handling for cross-border charter flights depends on the operator and the planned port of entry. We confirm the exact process during quoting so your group knows where and when formalities are completed.
-
----
-
----

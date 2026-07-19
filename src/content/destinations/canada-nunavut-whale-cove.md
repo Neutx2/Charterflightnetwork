@@ -12,12 +12,6 @@ city: "Whale Cove"
 ---
 Whale Cove Charter Flights
 
----
-
----
-
-### [Charter Flights To Whale Cove, NU](#collapseOne1)
-
 ### Location
 
 You can book scheduled flights to Whale Cove which has a population of 435 people and is located just under 50 miles south of Rankin Inlet on the western shores of Hudson Bay. Flights are available between Whale Cove and Arviat, Baker Lake, Chesterfield Inlet, Churchill, Rankin Inlet and Winnipeg. These flights are provided by Calm Air and First Air. If scheduled flights are not a convenient way to travel, you can also book direct charter flights to Whale Cove from departure points across Nunavut / Saskatchewan and Manitoba.
@@ -25,10 +19,6 @@ You can book scheduled flights to Whale Cove which has a population of 435 peopl
 ### Whale Cove Airport
 
 The Whale Cove Airport has a 3900 foot runway making it accessible to a wide range of charter aircraft approved for gravel strip operations.
-
----
-
-## Private Jet Charters
 
 ### Air Nunavut - Smooth Air Charter
 
@@ -44,17 +34,11 @@ Whale Cove is located on the western coastline of Hudson Bay, north of Arviat an
 
 There are no helicopter charter services based in Whale Cove. We can however source out your requirements to all the helicopter charter services operating in the region. Each company will respond to your with availability and pricing information. Use our charter quote request form.
 
-## Group Charters / Crew rotations
-
 ### Group Charters / Crew Rotations
 
 When you have 9 or more passengers to fly on a one time or ongoing basis, between Whale Cove and any destination throughout Nunavut or Canada, request a no obligation quote from our Group Air Charter Department
 
-[REQUEST GROUP QUOTE](/canada/northern-ontario/group)
-
----
-
-## Popular Whale Cove, Nunavut Charter Flights
+[REQUEST GROUP QUOTE](/quote)
 
 ### Flights From Thompson Manitoba Direct To Whale Cove, NU
 
@@ -79,18 +63,6 @@ If you need to set up Charter Flights between Whale Cove and communities through
 * Iqaluit - 760 Air Miles
 * Rankin Inlet - 45 Air Miles
 * Resolute Bay - 865 Air Miles
-
-## Nunavut Charter Quote Request Form
-
----
-
-### We Are Proud To Highlight The Following Charter Airlines Who Provide Quotes For Our Clients Across Nunavut, NWT, Ontario, Manitoba, Quebec
-
----
-
----
-
----
 
 ## Quick Links To 31 Air Charter Destinations Across Nunavut
 
@@ -157,7 +129,3 @@ If you need to set up Charter Flights between Whale Cove and communities through
 [Tanquary Fiord](/canada/nunavut/tanquary-fiord)
 
 [Whale Cove](/canada/nunavut/whale-cove)
-
----
-
----

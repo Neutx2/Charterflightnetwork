@@ -14,12 +14,6 @@ Charter Flights To Twin Creeks, Yukon Territory
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Twin Creeks](#collapseOne1)
-
 ### About Twin Creeks Yukon and Location
 
 Twin Creeks, located in the heart of Yukon, is a premier destination for travelers seeking solitude and adventure in Canada's untouched wilderness. From breathtaking northern lights to robust outdoor activities such as fishing, canoeing, and hiking, Twin Creeks offers a unique gateway to experiencing the wild beauty of Yukon. Its remote location makes charter flights a convenient option for visitors.
@@ -88,10 +82,6 @@ Embark on guided fishing expeditions in Twin Creeks' rich waters, teeming with s
 
 Explore the serene rivers and lakes of Yukon with our canoe and kayak trips, offering a peaceful way to connect with nature's beauty.
 
----
-
-## Twin Creeks Wheel Plane Charter Flights
-
 ### Tintina Air Inc.
 
 When you need to fly up to 3000 lbs of cargo or as many as 9 passengers to remote air strips throughout Yukon, contact Tintina Air who operate the Cessna Grand Caravan Supervan C208B.
@@ -99,8 +89,6 @@ When you need to fly up to 3000 lbs of cargo or as many as 9 passengers to remot
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 Twin Creeks is served by the Sheldon Lake Airport which is located in the eastern region of Yukon, just west of the border with Northwest Territories. The Robert Campbell Highway runs north from Watson Lake and at Ross River, just south of Faro - the Canol Road runs northeast to Twin Creeks. The airport has a single gravel runway which is 2,900 feet long.
-
-## Twin Creeks Float Plane Charter Flights
 
 ### Alkan Air Ltd
 
@@ -110,19 +98,11 @@ Alkan Air operates a variety of float planes as part of their Yukon fleet, which
 
 Are you in need of a float plane out of the Twin Creeks area. We would need to find you an amphibious aircraft that will land on the Twin Creeks runway, then pick you up for your flight to the desired lake or river destination. Contact us for pricing, availability and logistics. We will then source out your inquiry to the charter companies that have the aircraft that meet your needs.
 
-## Twin Creeks Helicopter Charter Flights
-
 ### Kluane Helicopters
 
 The AS350 B3 Helicopter operated by Kluane Helicopters models are well known for their safety, speed, and power, especially suitable for the challenging Yukon environment, featuring a spacious cabin seating for 5 passengers​​. ---------------------------------
 
 When you have a project that requires a helicopter with specific passenger capacity or specific internal or external lifting capacity, use our charter quote request service outlining your requirements. We will source out to all the helicopter charter services in the region and find you the company that best suits your needs.
-
----
-
----
-
----
 
 ## Quick Links To Over 20 Air Charter Destinations Across Yukon Territory
 
@@ -153,7 +133,3 @@ When you have a project that requires a helicopter with specific passenger capac
 * [Twin Creeks](charter_flights_Twin Creeks_yt.html)
 * [Watson Lake](/canada/yukon/watson-lake)
 * [Whitehorse](/canada/yukon/whitehorse)
-
----
-
----

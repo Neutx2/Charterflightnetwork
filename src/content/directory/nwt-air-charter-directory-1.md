@@ -11,15 +11,11 @@ region: "canada"
 
 Wheel plane, float plane, and helicopter charter services across the NWT
 
----
-
 ## Northwest Territories Air Charter Directory
 
 Direct links to NWT wheel plane, float plane, and helicopter charter services.
 
 [Back To Main Canadian Menu](/directory/canadian-air-charter-directory-1)
-
----
 
 ## Fort Simpson Air Charter
 
@@ -190,8 +186,6 @@ P: 000000
 
 Copyright © Charter Flight Network. All rights reserved.
 
----
-
 ### [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
 * Link to the main Canadian Air Charter Directory listing wheel plane, float plane & helicopter charter services in every province and territory of Canada.
@@ -208,10 +202,6 @@ Copyright © Charter Flight Network. All rights reserved.
 
 * Find float plane charter airlines in every province and territory of Canada and locate the right operator quickly.
 
----
-
-## Receive 3 Competitive Charter Quotes With One Request
-
 ### Wheel Plane / Float Plane / Helicopter Charter Services In Every Province & Territory Of Canada
 
 Submit your charter quote request through our free quote request service and it forwards to up to three charter services who are best positioned and equipped to provide the service you require.
@@ -219,9 +209,3 @@ Submit your charter quote request through our free quote request service and it 
 Each company prepares a competitive quote and sends it directly to your email.
 
 [REQUEST A QUOTE](/quote)
-
----
-
----
-
----

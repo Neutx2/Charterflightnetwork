@@ -58,21 +58,13 @@ airportCode: "YTL"
 * [Weagamow](#round)
 * [Winnipeg / St Andrews](#winnipeg)
 
----
-
 ## Receive Competitive Quotes For Any Big Trout Lake Charter Flight
 
 Request A Quote Directly From Any Charter Airline Listed On This Page - Or Use Our Free Charter Quote Request Service and Receive Up To 3 Competitive Quotes
 
-### Charter Flight Network — 100% **Canadian** Owned & Operated. Finding clients the most cost-efficient air charter options since 2008.
-
----
-
 ### Here Is How To Find Your Best Flight Option To Big Trout Lake
 
 Big Trout Lake is known as one of the largest lakes in the remote regions Northwestern Ontario and is located 380 air miles north of Thunder Bay. The north shore of Big Trout Lake is home to the Kitchenuhmaykoosib Inninuwug First Nations Indian Band. There are no roads to Big Trout Lake - except for temporary winter / ice roads which are only available for a short period during the winter months. The only year round access to the community is by air and both wheel plane and float plane charters are available from many departure points, the most popular being: Red Lake, Sioux Lookout, Pickle Lake and Thunder Bay. Scheduled flights are also available through Wasaya Airways from Thunder Bay and Sioux Lookout
-
-## Armstrong to Big Trout Lake
 
 ### Wilderness Air
 
@@ -98,8 +90,6 @@ Discover how you can fly 300 air miles north of Dryden direct to the Big Trout L
 
 [Return To Top Interactive Map](#top)
 
-## Fort Frances to Big Trout Lake
-
 ### Rusty Myers Flying Service
 
 Fly commercial airlines to International Falls, Mn. Cross the border to Fort Frances and fly Rusty Myers Flying service to Big Trout Lake, known for its dramatic northern setting with wide open water, rugged shorelines, and wilderness views.
@@ -107,8 +97,6 @@ Fly commercial airlines to International Falls, Mn. Cross the border to Fort Fra
 QUOTE REQUEST FORM
 
 [Return To Top Interactive Map](#top)
-
-## Kenora to Big Trout Lake
 
 ### River Air
 
@@ -118,8 +106,6 @@ During the summer and fall, aircraft are the primary transportation link into Bi
 
 [Return To Top Interactive Map](#top)
 
-## Nakina to Big Trout Lake
-
 ### Leuenberge Air Service
 
 Big Trout Lake is 285 air miles north of Nakina. Contact Leuenberger Air Service for a no obligation quote to fly float plane direct from their Nakina water base
@@ -127,8 +113,6 @@ Big Trout Lake is 285 air miles north of Nakina. Contact Leuenberger Air Service
 [QUOTE REQUEST FORM](/quote/leuenberger-air)
 
 [Return To Top Interactive Map](#top)
-
-## Pickle Lake to Big Trout Lake
 
 ### Osnaburgh Air
 
@@ -154,8 +138,6 @@ Pickle Lake is a vital freight and passenger air hub for remote First Nations an
 
 [Return To Top Interactive Map](#top)
 
-## Red Lake to Big Trout Lake
-
 ### Superior Airways
 
 The Community which is 255 air miles north of Red Lake is located on the shores of Big Trout Lake, a large freshwater body surrounded by dense boreal forest and abundant wildlife.
@@ -169,8 +151,6 @@ Local residents refer to Kitchenuhmaykoosib Inninuwug as K I which has a rich Oj
 [QUOTE REQUEST FORM](#QuoteForm)
 
 [Return To Top Interactive Map](#top)
-
-## Flights From Sandy Lake to Big Trout Lake
 
 ### Sandy Lake Seaplanes
 
@@ -254,8 +234,6 @@ Visitors will discover that the settlement is close-knit, with schools, local go
 
 [Return To Top Interactive Map](#top)
 
-## Our Charter Quote Request Service Saves You Time and Money!
-
 ## How Our Charter Quote Request Service Works
 
 * We eliminate the need for you to search the internet and send out multiple emails, requesting quotes from charter airlines.
@@ -265,13 +243,9 @@ Visitors will discover that the settlement is close-knit, with schools, local go
 * Clients usually receive up to 3 competitive quotes.
 * If You Receive A Quote That Is Acceptable, You Then Deal Directly With The Airline Of Your Choice To Finalize All Flight Details, Scheduling And Payment.
 
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to Hearst or Any Destination Throughout Canada or the USA
-
 ### Ontario Charter Flight Services Listed in Our Network
 
 Request a quote directly from any of the airlines listed below, OR . . . use our Free Charter Quote Request Service
-
-### Hearst Charters
 
 ### Hearst Air
 
@@ -279,15 +253,11 @@ Hearst Air provides float plane charters out of Hearst, Ontario
 
 [CHARTER QUOTE](/quote/hearst-air)
 
-### Sudbury Charters
-
 ### True North Airways
 
 True North Airways provides float plane, wheel plane, and helicopter charter services from the Sudbury area..
 
 [CHARTER QUOTE](/quote/true-north)
-
-### Toronto Charters
 
 ### Aspen Airways
 
@@ -313,15 +283,11 @@ Image Air Charters provides jet charters out of Toronto
 
 [CHARTER QUOTE](/quote/image-air)
 
-### Helicopter Charters
-
 ### Expedition Helicopters
 
 Expedition Helicopters provides professional helicopter charter services from Cochrane, Ontario for remote access, utility work, and wilderness travel.
 
 [CHARTER QUOTE](/quote/expedition-heli)
-
-### White River Charters
 
 ### White River Air
 
@@ -329,23 +295,17 @@ White River Air Service provides float plane charters & Fly-In Fishing from Whit
 
 [CHARTER QUOTE](/quote/white-river)
 
-### Oshawa Charters
-
 ### Smooth Air
 
 Smooth Air Charters provides Jet Charters out of Oshawa, Ontario
 
 [CHARTER QUOTE](/quote/smooth-air)
 
-### Thunder Bay Charters
-
 ### Air Bravo
 
 Air Bravo provides wheel plane charter flights from bases in Thunder Bay / Sudbury and Barrie
 
 [CHARTER QUOTE](/quote/air-bravo)
-
----
 
 ## Quick Links To 70 Air Charter Destinations Across Northern and Northwestern Ontario
 
@@ -393,7 +353,7 @@ Air Bravo provides wheel plane charter flights from bases in Thunder Bay / Sudbu
 * [Marathon](/canada/northern-ontario/marathon)
 * [Moosonee](/canada/northern-ontario/moosonee)
 * [Muskrat Dam](/canada/northern-ontario/muskrat-dam)
-* [Nakina](/canada/southern-ontario/nakina)
+* [Nakina](/canada/northern-ontario/nakina)
 * [Nestor Falls](/canada/northern-ontario/nestor-falls)
 * [North Bay](/canada/northern-ontario/north-bay)
 * [Ogoki Post](/canada/northern-ontario/ogoki-post)
@@ -427,11 +387,5 @@ Air Bravo provides wheel plane charter flights from bases in Thunder Bay / Sudbu
 * [White River](/canada/northern-ontario/white-river)
 * [Wunnumin Lake](/canada/northern-ontario/wunnumin-lake)
 
----
-
 Every quote request forwards to the charter airlines best positioned and equipped to provide the service. Each company prepares a competitive quote and sends it directly to your email.
  [Discover how to link your charter airline to our distribution list](/operators)
-
-### CharterFlightNetwork.com is not a charter service provider. We do not own nor operate any aircraft. All charter quotes are generated by the charter airlines who are best positioned and equipped to provide the service requested. Should you decide to book a charter flight, you book directly with the charter airline of your choice and all flight arrangements and payments are made directly with the airline.
-
----

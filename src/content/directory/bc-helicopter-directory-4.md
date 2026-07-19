@@ -168,8 +168,6 @@ P: [(604) 230-4422](tel:+16042304422)
 **Aircraft Types:** Bell 206B / 206L
 **Service Type:** Helicopter
 
-## Vernon Helicopter Air Charter
-
 ## Monashee Helicopters Ltd
 
 Vernon, BC
@@ -178,8 +176,6 @@ P: [(250) 306-9559](tel:+12503069559)
 **Aircraft Types:** Bell 212
 **Service Type:** Helicopter
 
-## Victoria Helicopter Air Charter
-
 ## VIH Helicopters
 
 North Saanich, BC V8L 5V5
@@ -187,8 +183,6 @@ P: [(250) 656-3987](tel:+12506563987)
 **Base Locations:** North Saanich, BC V8L 5V5
 **Aircraft Types:** Bell 206B / 212 / 407 / 47G-2, Kamov Ka-32, Sikorsky S-61N (varies)
 **Service Type:** Helicopter
-
-## Williams Lake Helicopter Air Charter
 
 ## Arduini Helicopters Ltd
 
@@ -205,8 +199,6 @@ P: [(250) 296-4408](tel:+12502964408)
 **Base Locations:** Williams Lake, BC
 **Aircraft Types:** Aerospatiale AS350 BA, Bell 206B
 **Service Type:** Helicopter
-
-## Whistler Helicopter Air Charter
 
 ## Blackcomb Helicopters
 
@@ -236,8 +228,6 @@ P: [(450) 435-4267](tel:+14504354267)
 
 [Back to Main Canadian Menu](/directory/canadian-air-charter-directory-1)
 
-## Explore Related Directories
-
 ## [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
 Link to the main Canadian Air Charter Directory listing wheel plane, float plane and helicopter charter services in every province and territory of Canada.
@@ -259,8 +249,6 @@ Find float plane charter airlines in every province and territory and locate the
 **Details:** Submit your charter quote request through our free quote request service. It forwards to up to 3 air charter services best positioned and equipped to provide the service you require.
 
 [Request a Quote](/quote)
-
-## British Columbia Helicopter Charter Directory FAQ
 
 ## Which British Columbia helicopter locations are covered on Page 4?
 

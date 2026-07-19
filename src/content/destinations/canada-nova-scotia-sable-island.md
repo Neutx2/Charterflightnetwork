@@ -14,10 +14,6 @@ Charter Flights To Sable Island, Nova Scotia
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
 ### [Charter Flights To Sable Island](#collapseOne1)
 
 About Sable Island Nova Scotia - Helicopter Access / Possible Wheel Plane
@@ -47,15 +43,11 @@ Sable Island is a small, crescent-shaped island located in the Atlantic Ocean, a
 
 Access to Sable Island is highly restricted due to its status as a protected national park reserve and ecological sensitive area. Visitors are typically only allowed to visit under specific research or conservation purposes, and permits are required.
 
-## Wheel Plane Charter Flights
-
 ### Atlantic Charters
 
 Sable Island is home to a population of around 500 wild horses, which roam freely across the island's sandy dunes. These horses are one of the island's most iconic features and a popular subject for photographers and nature enthusiasts.
 
 While visiting, you may encounter remnants of past shipwrecks, including rusting hulls and scattered debris. These relics serve as reminders of the island's maritime history and the challenges faced by sailors navigating its waters.
-
----
 
 ## Quick Links To Over A Dozen Air Charter Destinations Across Nova Scotia
 
@@ -77,7 +69,3 @@ While visiting, you may encounter remnants of past shipwrecks, including rusting
 * [Trenton](/canada/nova-scotia/trenton)
 * [Waterville](/canada/nova-scotia/waterville)
 * [Yarmouth](/canada/nova-scotia/yarmouth)
-
----
-
----

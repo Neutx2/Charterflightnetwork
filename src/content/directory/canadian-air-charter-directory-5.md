@@ -26,25 +26,17 @@ For Less Than 3 Cents A Day You Can Increase Your Exposure With Our "Basic Plus"
 
 Mining & Exploration Industry Edition
 
-## Viewers Begin Their Search By Clicking Any Province or Territory On The Map or On The List Below The Map.
-
 ## Sample "Basic Plus Link" Listing Shown Above.
 
 Your Basic Plus Link Listing Includes:
 
 ## * Your "Basic Plus Link" Listing Includes The Same Features As Your Free Listing * A Highlighted Background Giving Your Listing More Visibility * Your Listing Is Placed Above All Free Listings * Your Company Name Is Linked To Your Website * Your Listing Will Remain Live For 12 Months * Full Cost For 12 Months - $125 plus tax
 
----
-
 Send No Money Now. We Will Invoice You Upon Publication
-
----
 
 For Less Than 3 Cents A Day You Can Increase Your Exposure With Our "Basic Plus" Link Directory Listing
 
 Mining & Exploration Industry Edition
-
-## Viewers Begin Their Search By Clicking Any Province or Territory On The Map or On The List Below The Map.
 
 ## Sample "Basic Plus Link" Listing Shown On Right.
 
@@ -52,11 +44,7 @@ Your Basic Plus Link Listing Includes:
 
 ## * Your "Basic Plus Link" Listing Includes The Same Features As Your Free Listing * A Highlighted Background Giving Your Listing More Visibility * Your Listing Is Placed Above All Free Listings * Your Company Name Is Linked To Your Website * Your Listing Will Remain Live For 12 Months * Full Cost For 12 Months - $125 plus tax
 
----
-
 Send No Money Now. We Will Invoice You Upon Publication
-
-## Example Of Manitoba Wheel Plane Air Charter Premium Listings
 
 ## Here Is How To Find Your Best Price For All Pickle Lake Area Charter Flights - Float Planes / Wheel Planes Or Helicopter Charters
 
@@ -65,8 +53,6 @@ Charter Flight Network is not an air charter service, but rather respresents a n
 Search our Air Charter Directory in **Option #1** below. Determine your most convenient departure airport and then contact the air charter service closest to that airport listed in our directory and request a no obligation charter quote.
 
 Or Choose **Option #2** to save time and receive upt to 3 competitive quotes. Simply complete and submit our no obligation charter quote request form. You will receive competitive quotes directly from as many as 3 charter airlines best positioned to provide your flight service.
-
----
 
 More About The Canadian Air Charter Directory
 
@@ -81,9 +67,6 @@ More About The Canadian Air Charter Directory
 [OUR AUDIENCE / YOUR TARGET MARKET](/directory/canadian-air-charter-directory-audience)
 
 [MAXIMIZE EXPOSURE WITH PREMIUM LISTING](/directory/canadian-air-charter-directory-premium)
-
-1100 Memorial Avenue
-Suite
 
 Thunder Bay, Ontario
 

@@ -14,15 +14,9 @@ Charter Flights To Port Loring, Ontario
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
 ### [Charter Flights To Port Loring](#collapseOne1)
 
 Port Loring is a popular summer vacation destination locted just south of the French River and north of Parry Sound. It is just over a 4 hour drive from Toronto to Port Loring and for those who want to make the most of their vaction time, float plane charter flights can be arranged from downtown Toronto as well as many other departure points, such as Orillia, North Bay, Sudbury and Parry Sound. If you are interested in a direct charter flight to or from Port Loring, please use our Free Charter Quote Request Form and receive up to 3 competitive quotes for your next float plane charter flight.
-
----
 
 ## Port Loring Wheel Plane Charter Flights
 
@@ -36,22 +30,6 @@ Float Plane charter flights are available from Port Loring to lakes and rivers t
 
 Helicopter charters are available from North Bay. Contact us with your requirements and we will source out to helicopter charters in the region and provide you with pricing options and availability.
 
----
-
----
-
-## Port Loring Charter Quote Request Form
-
----
-
-### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
-
----
-
----
-
----
-
 ## Quick Links To Over 50 Air Charter Destinations Across Southern Ontario
 
 [Click Here For Links To Northern and Northwestern Ontario Destinations](/canada/northern-ontario)
@@ -60,7 +38,7 @@ Helicopter charters are available from North Bay. Contact us with your requireme
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -80,7 +58,7 @@ Helicopter charters are available from North Bay. Contact us with your requireme
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -112,12 +90,8 @@ Helicopter charters are available from North Bay. Contact us with your requireme
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
----

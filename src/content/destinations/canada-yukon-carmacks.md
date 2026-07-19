@@ -14,12 +14,6 @@ Charter Flights To Carmacks, Yukon Territory
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Carmacks](#collapseOne1)
-
 ### About Carmacks Yukon and Location
 
 Located in the heart of Yukon, Carmacks offers a unique blend of history, nature, and adventure. Known for its stunning landscapes along the Yukon River, Carmacks is a prime destination for those seeking to explore the great outdoors. Charter flights provide exclusive access to this remote gem, offering a seamless journey to the heart of Yukon's wilderness.
@@ -84,10 +78,6 @@ Experience the thrill of fishing in the pristine waters of the Yukon. Charter fl
 
 The clear skies above Carmacks offer some of the best opportunities to witness the awe-inspiring Northern Lights, a must-see for any visitor
 
----
-
-## Carmacks Wheel Plane Charter Flights
-
 ### Tintina Air Inc.
 
 Tintina Air also operates the twin engine Piper Navajo PA31 which can carry 5 passengers or 1,800 lbs of payload and is capable of flying you direct to your destination when many single engine aircraft are grounded due to weather.
@@ -100,25 +90,15 @@ Alkan Air provides a wide array of services including charter flights, air ambul
 
 Carmacks is located north of Whitehorse and can be found on the shores of the Yukon River and the Klondike Highway just north of Braeburn. You can fly by charter aircraft to the local airport which has a 5,000 foot gravel runway. The airport is accessible to most of the charter aircraft which operate in the region.
 
-## Carmacks Float Plane Charter Flights
-
 ### Float Plane Charters - Receive 3 Competitive Quotes
 
 If you require a float plane charter out of the Carmacks area, use our free charter quote request service. We can get you firm quotes based on the aircraft that best matches your needs, including: Cessna 170 / Cessna 305 / Cessna 185 / De Havilland Beaver
-
-## Carmacks Helicopter Charter Flights
 
 ### Fireweed Helicopters Ltd
 
 Fireweed Helicopters provide services throughout Yukon, Northern BC, and NWT, catering to a wide area with their helicopter services​​.
 
 Haines Junction and Whitehorse are the two closest helicopter charter bases to Carmacks and both are about 100 air miles from Carmacks. Use our charter quote request service and we will source out to all the helicopter charter services in the region and find you the most cost efficient helicopter options for your project.
-
----
-
----
-
----
 
 ## Quick Links To Over 20 Air Charter Destinations Across Yukon Territory
 
@@ -149,7 +129,3 @@ Haines Junction and Whitehorse are the two closest helicopter charter bases to C
 * [Twin Creeks](charter_flights_Twin Creeks_yt.html)
 * [Watson Lake](/canada/yukon/watson-lake)
 * [Whitehorse](/canada/yukon/whitehorse)
-
----
-
----

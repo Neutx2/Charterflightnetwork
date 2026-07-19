@@ -55,8 +55,6 @@ Calgary
 [Wetaskiwin](/directory/alberta-air-charter-directory-4#Wetaskiwin)
 [Whitecourt](/directory/alberta-air-charter-directory-4#Whitecourt)
 
-## High Level Air Charter
-
 ## Can-West Corporate Air Charters Ltd
 
 High Level, AB
@@ -65,8 +63,6 @@ P: [1-866-849-5353](tel:+18668495353)
 **Aircraft Types:** Cessna 208B
 **Service Type:** Wheels
 
-## High River, Alberta Air Charter
-
 ## Ram Head Outfitters Ltd
 
 High River, AB
@@ -74,8 +70,6 @@ P: [780-446-8774](tel:+17804468774)
 **Base Location:** High River, AB
 **Aircraft Types:** Robinson R44 II
 **Service Type:** Helicopter
-
-## Lac La Biche, Alberta Air Charter
 
 ## Alberta Central Airways Ltd
 
@@ -87,8 +81,6 @@ P: [(780) 623-4122](tel:+17806234122)
 
 [Request A Quote](https://www.albertacentralairways.com/)
 
-## Lloydminster, Alberta Air Charter
-
 ## Border City Aviation Ltd
 
 Lloydminster, AB
@@ -97,8 +89,6 @@ P: [(780) 875-5834](tel:+17808755834)
 **Aircraft Types:** Cessna 172 / Cessna 182
 **Service Type:** Wheels
 
-## Manning, Alberta Air Charter
-
 ## Valley B Aviation
 
 Manning, AB
@@ -106,8 +96,6 @@ P: [780-836-4309](tel:+17808364309)
 **Base Location:** Manning, AB
 **Aircraft Types:** Aerospatiale AS350 BA / Robinson R44 II / Robinson R66
 **Service Type:** Helicopter
-
-## Medicine Hat Air Charter
 
 ## Rangeland Helicopters Inc
 
@@ -127,8 +115,6 @@ P: [403-548-6636](tel:+14035486636)
 **Aircraft Types:** Beech 200 / Beech 55 / Cessna 172 / Cessna 210
 **Service Type:** Wheels
 
-## Nordegg Air Charter
-
 ## Ahlstrom Air Ltd.
 
 Nordegg, AB
@@ -136,8 +122,6 @@ P: [(403) 721-2203](tel:+14037212203)
 **Base Location:** Nordegg, AB
 **Aircraft Types:** Eurocopter AS350 B2
 **Service Type:** Helicopter
-
-## Okotoks Air Charter
 
 ## Access Helicopters Ltd
 
@@ -177,8 +161,6 @@ Page 1
 
 [Back To Main Canadian Menu](/directory/canadian-air-charter-directory-1)
 
-## Explore Related Directories
-
 ## [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
 Link to the main Canadian Air Charter Directory listing every wheel plane, float plane, and helicopter charter service in every province and territory of Canada.
@@ -202,8 +184,6 @@ Submit your charter quote request through our free quote request service. It can
 Each company prepares a competitive quote and sends it directly to your email.
 
 [Request A Quote](/quote)
-
-## Alberta Air Charter Directory Page 3 FAQ
 
 ## Which Alberta communities are included on page 3?
 

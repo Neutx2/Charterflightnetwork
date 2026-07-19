@@ -13,14 +13,6 @@ region: "canada"
 
 [CHARTER FLIGHTS TO USA DIRECTORY](/directory/canadian-air-charter-licenced-flights-usa-directory)
 
----
-
-## A Directory of Charter Airlines Based In Quebec Licenced To Fly Into The USA
-
-### Page 1
-
-### [Back To Main Canadian Menu](/directory/canadian-air-charter-directory-1)
-
 ## Alma Air Charter To USA
 
 **Panorama Aviation / Corpo Aviation**
@@ -103,11 +95,7 @@ P: 418 669-5104
 
 ### [Back To Main Canadian Menu](/directory/canadian-air-charter-directory-1)
 
----
-
 Copyright © Charter Flight Network. All rights reserved.
-
----
 
 ### [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
@@ -125,18 +113,8 @@ Copyright © Charter Flight Network. All rights reserved.
 
 * When you are specifically looking for a float plane charter, this directory lists float plane charter airlines in every province and territory of Canada so you can find exactly what you need in minutes.
 
----
-
-## Receive 3 Competitive Charter Quotes With Just One Click
-
 ### Wheel Plane / Float Plane / Helicopter Charter Services In Every Province & Territory Of Canada
 
 Submit your charter quote request through our free quote request service and it forwards to up to three air charter services that are best positioned and equipped to provide the service you require. Each company prepares a competitive quote and sends it directly to your email.
 
 [REQUEST A QUOTE](/quote)
-
----
-
----
-
----

@@ -8,12 +8,6 @@ thin: false
 quoteSubject: "Kitchener Quote"
 region: "global"
 ---
-### Charter Flight Network — 100% **Canadian** owned & operated. Finding clients the most cost-efficient air charter options since 2008.
-
----
-
-## Corporate Charter Flights Kitchener to Montreal, Quebec
-
 ## Business and Vacation Flights Direct To Montreal
 
 Charter flights from Kitchener-Waterloo to Montreal provide business and leisure travelers with a fast, private, and efficient way to reach one of Canada's most exciting destinations. With Charter Flight Network, you can instantly request up to**three competitive quotes,** allowing you to compare prices and aircraft options to find the most cost-efficient charter for your trip. In just over an hour, you can exchange Ontario's tech corridor for the cosmopolitan charm of Montreal—famous for its cobblestone streets, fine dining, and vibrant festivals. Whether you're attending a business meeting, a cultural event, or a weekend escape, Charter Flight Network makes your journey seamless and affordable.
@@ -27,8 +21,6 @@ Charter flights from Kitchener-Waterloo to Montreal provide business and leisure
 * Car rentals: Contact Enterprise in St Hubert for car rental reservation if you will be arriving at Montreal's Metropolitan Airport. If you choose to arrive at the Trudeau International, you will find a selection of all major car rentals
 * Either Airport provides quick and convenient access to downtown Montreal
 * See Also: [Toronto Charter Flights To Montreal](/flights/toronto-to-montreal)
-
-## You have a wide choice of aircraft types
 
 ## Your Quote Request Distributes To Multiple Airlines
 
@@ -46,15 +38,11 @@ Flight times between Kitchener and Montreal will average 1hour and 25 minutes an
 
 Generally a more cost efficient charter option is the twin engine Piper Navajo. On a short flight of 350 air miles to Montreal, flight times will be about 15 minutes more than the turbo prop, but charter costs may be about 10% less. While some models will seat up to 8 passengers, the aircraft is ideal for 1 - 6 passengers.
 
-## How to receive up to 3 competitive quotes for flights to Montreal
-
 ## Your Quote Request Distributes To Multiple Airlines
 
 We're not an airline nor a charter broker. We specialize in finding clients the most cost efficient air charter options that best match client's needs. We do this by sourcing out each inquiry to the charter airlines who are best positioned and equipped to provide the service required. Each airline prepares and submits a competitive quote. If you receive a quote that meets your needs and is within your travel budget, you have the option of dealing directly with the airline of your choice to finalize all flight details, scheduling and payment.
 
 **\*To ensure your privacy,** we do not share your name, nor contact information with our airline sources. Your request is assigned a unique ID number and the airlines send us their quote for that specific ID number. We then forward these quotes to you.
-
----
 
 ## Quick Links To Over 50 Air Charter Destinations Across Southern Ontario
 
@@ -64,7 +52,7 @@ We're not an airline nor a charter broker. We specialize in finding clients the 
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -84,7 +72,7 @@ We're not an airline nor a charter broker. We specialize in finding clients the 
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -93,7 +81,7 @@ We're not an airline nor a charter broker. We specialize in finding clients the 
 
 * [Niagara Falls](/canada/southern-ontario/niagara-falls)
 * [Orillia](/canada/southern-ontario/orillia)
-* [Oshawa](/canada/northern-ontario/oshawa)
+* [Oshawa](/canada/southern-ontario/oshawa)
 * [Ottawa](/canada/nunavut/ottawa)
 * [Owen Sound](/canada/southern-ontario/owen-sound)
 * [Parry Sound](/canada/southern-ontario/parry-sound)
@@ -116,10 +104,8 @@ We're not an airline nor a charter broker. We specialize in finding clients the 
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----

@@ -11,21 +11,9 @@ province: "Quebec"
 provinceSlug: "quebec"
 city: "Kangiqsualujjuaq"
 ---
----
-
-## Receive Competitive Charter Quotes Directly From The Airlines who Provide Wheel Plane / Float Plane or Helicopter Charter Flights To Kangiqsualujjuaq / Georges River
-
-### No Cost, No Obligation. Review The Quotes and Then Deal Directly With The Charter Service Of Your Choice.
-
----
-
-### [Charter Flights To Kangiqsualujjuaq / Georges River](#collapseOne1)
-
 ### Flights To Kangiqsualujjuaq / Georges River
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
-
----
 
 ### Air Charter Services
 
@@ -47,10 +35,6 @@ With just one click, you can receive up to 3 competitive charter flight quotes d
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
 
----
-
-## Private Jet Charters
-
 ### Jet Charters
 
 The Kangiqsualujjuaq / Georges River airport has a 3,500 foot gravel runway, which restricts operations to piston and turbo prop aircraft. There are no jet charters available to this location. Contact us for availability and competitive quotes.
@@ -64,8 +48,6 @@ Charter flights to Kangiqsualujjuaq / Georges Rive can be arranged from any airp
 The closest float plane charter service is based in Kuujjuaq. Submit our Free Charter Quote Request Form and receive up to 3 Competitive Quotes.
 
 There is a Aerospatiale AS350 B2 based in Kuujjuaq operated by Nunavik Rotors. Submit our Free Charter Quote Request Form and receive up to 3 Competitive Quotes.
-
-## Popular Charter Flights To Kangiqsualujjuaq / Georges River, Quebec
 
 ### [Alma Charter Flights](/canada/quebec/alma)
 
@@ -87,19 +69,9 @@ It is 970 air miles between Montreal and Kangiqsualujjuaq / Georges River. View 
 
 It is 855 air miles between Quebec City and Kangiqsualujjuaq / Georges River. View Wheel Plane, Float Plane & Helicopter Charter Services based in Quebec City
 
----
-
----
-
 ### The Following Charter Airlines Provide Quotes For Our Clients Across Quebec, Ontario, Manitoba, Nova Scotia & Nunavut
 
----
-
----
-
 Charter Flight Network Has Been Online Since 2008 And Has Established The Largest Network Of Wheel Plane, Float Plane & Helicopter Charter Services In Every Province & Territory of Canada Who Participate In Our Charter Quote Request Service
-
----
 
 ## Quick Links To 86 Air Charter Destinations Across Quebec
 
@@ -192,7 +164,3 @@ Charter Flight Network Has Been Online Since 2008 And Has Established The Larges
 * [Val-d`Or](/canada/quebec/val-d-or)
 * [Waskaganish](/canada/quebec/waskaganish)
 * [Wemindji](/canada/quebec/wemindji)
-
----
-
----

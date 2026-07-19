@@ -14,12 +14,6 @@ Charter Flights To Saskatoon, Saskatchewan
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Saskatoon](#collapseOne1)
-
 ### About Saskatoon, Saskatchewan and Location
 
 Saskatoon, the vibrant heart of Saskatchewan, offers a gateway to the pristine wilderness of the province with its strategic location. As a hub for charter flights, Saskatoon connects adventure seekers to remote destinations, highlighting its rich cultural heritage, diverse attractions, and numerous outdoor activities that appeal to visitors year-round.
@@ -84,27 +78,13 @@ Experience the serene beauty of the South Saskatchewan River with guided canoe t
 
 Explore the breathtaking Meewasin Valley trails, offering diverse landscapes and wildlife viewing opportunities.
 
----
-
-## Saskatoon Turbo Prop / Piston Aircraft Charter Flights
-
 ### Transwest Air / Rise Air
 
 Based in Saskatoon, Rise Air offers a fleet of aircraft well suited to all regions of Saskatchewan's diverse environment: ATR42 300 / Beech 1900 D / Beech 200 / Beech 300 / De Havilland Twin Otter 100, 200, 300 / Saab 340 A, B
 
-### Wheel Plane Charters - 3 Competitive Quotes
-
 ## Saskatoon Helicopter Charter Flights
 
 The Charter Flight Network includes helicopter charter services in all regions of Canada. If you require helicopter support for any project in the Saskatoon region or throughout Saskatchewan, use our charter quote request service to receive competitive quotes.
-
----
-
----
-
----
-
----
 
 ## Quick Links To Over 70 Air Charter Destinations Across Saskatchewan
 
@@ -184,7 +164,3 @@ The Charter Flight Network includes helicopter charter services in all regions o
 * [Wollaston Lake](/canada/saskatchewan/wollaston-lake)
 * [Wynyard](/canada/saskatchewan/wynyard)
 * [Yorkton](/canada/saskatchewan/yorkton)
-
----
-
----

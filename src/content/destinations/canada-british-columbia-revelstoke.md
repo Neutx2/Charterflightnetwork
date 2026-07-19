@@ -11,12 +11,6 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Revelstoke"
 ---
-### Book Direct Charter Fligthts to Revelstoke BC located on the banks of the Columbia River in southeastern British Columbia just under 400 miles east of Vancouver and 260 miles west of Calgary.
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
-### [Charter Flights To Revelstoke](#collapseOne1)
-
 ### **Revelstoke Airport**
 
 In spite of the fact that Revelstoke is located in the midst of these mountain ranges, visitors can book direct charter flights to the Revelstoke Airport located just 2 miles southeast of town. Charter flights can fly direct to Revelstoke during daylight hours and the airport operates as a VFR airport only the single asphalt runway is 5,155 feet making it accessible to a wide range of charter aircraft.
@@ -35,8 +29,6 @@ If you are still in the planning stages of your Revelstoke Ski Vacation you will
 
 The city is located just west of Rogers Pass along the Trans Canada Highway as it winds its way through the Selkirk Mountain range. As you head west of the city to Shuswap Lake you would drive through Eagle Pass which takes you through the Monashee Mountain Range.
 
----
-
 ## Revelstoke Wheel Plane Charter Flights
 
 We make it easy and convenient to receive up to 3 competitive wheel plane charter quotes for flights to or from airports across BC, throughout Canada and into the USA
@@ -48,22 +40,6 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 ## Revelstoke Helicopter Charter Flights
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
-
----
-
----
-
-## Revelstoke Charter Quote Request Form
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -208,9 +184,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

@@ -11,23 +11,11 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Alert Bay"
 ---
-### Book direct charter flights to Alert Bay which is located on Cormorant Island which is just off the northeastern tip of Vancouver Island. The community is accessible by both wheel planes and float plane
-
-## Request A Charter Quote Directly From Any Of Our Featured Charter Airlines or Use Our Free Charter Quote Request Service an Receive Up To 3 Competitive Quotes
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
-### [Charter Flights To Alert Bay](#collapseOne1)
-
 ### **About Alert Bay**
 
 Direct Charter Flights to Alert Bay are available from dozens of airports across the province and western Canada, however the most popular departure airports are the Vancouver / Abbotsford area, Kelowna, Victoria and Nanaimo and Powell River
 
 Alert Bay is a popular year round tourist destination located on the west central shores of Vancouver Island. The community is accessible by both wheel aircraft which use the nearby Alert Bay Long Beach Airport, as well as float planes which use the Alert Bay Harbour Water Aerodrome located adjacent to the Alert Bay Harbour.
-
----
-
-## Alert Bay Wheel Plane Charter Flights
 
 ### BC Air
 
@@ -42,8 +30,6 @@ Abbotsford, BC
 
 We make it easy and convenient to receive up to 3 competitive wheel plane charter quotes for flights to or from airports across BC, throughout Canada and into the USA
 
-## Alert Bay Float Plane Charter Flights
-
 ### Corilair Charters Limited
 
 Campbell River, BC V9W 5C5
@@ -57,20 +43,6 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 ## Alert Bay Helicopter Charter Flights
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -215,9 +187,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

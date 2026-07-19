@@ -15,8 +15,6 @@ Gillam is a northern Manitoba community on the Nelson River corridor, situated b
 
 [Request Charter Quote](#QuoteForm)
 
----
-
 ## *Manitoba Charter Flight Links*
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
@@ -26,8 +24,6 @@ Gillam is a northern Manitoba community on the Nelson River corridor, situated b
 [Charter Flights Thompson](/canada/manitoba/thompson)
 
 [Charter Flights Churchill](/canada/manitoba/churchill)
-
-## Flights to Gillam, Manitoba
 
 ## **About Gillam:**
 
@@ -62,8 +58,6 @@ Gillam is a northern Manitoba service town on the Nelson River system and is wid
 
 * Gillam is known more for outdoor access than for conventional tourism, but visitors can enjoy fishing, boating, and shoreline recreation in the area. Stephens Lake Municipal Park is a notable local recreation spot, and Gillam is also one of the northern access points used for travel toward York Factory.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 Wheel plane charters are often the most practical option for Gillam when passengers, work crews, cargo, or time-sensitive travel need direct runway access. This can be an efficient solution for business travel, northern operations support, and regional passenger movement.
@@ -79,12 +73,6 @@ Float plane charters can be useful for fishing trips, remote cabins, lodge trans
 Helicopter charter service can be ideal when landing flexibility matters most. For remote worksites, exploration activity, equipment moves, shoreline access, or locations without practical runway or float access, rotary aircraft can provide a more precise transportation option.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to Gillam or Any Destination Throughout Canada or the USA
-
-## Flights to Gillam, MB FAQ
 
 ## How do I book a charter flight to Gillam, Manitoba?
 
@@ -211,7 +199,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

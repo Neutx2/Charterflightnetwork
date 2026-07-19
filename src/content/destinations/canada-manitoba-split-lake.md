@@ -15,8 +15,6 @@ Split Lake is a northern Manitoba community on the Nelson River system and is ho
 
 [Request Charter Quote](#QuoteForm)
 
----
-
 ## *Manitoba Charter Flight Links*
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
@@ -26,8 +24,6 @@ Split Lake is a northern Manitoba community on the Nelson River system and is ho
 [Charter Flights Thompson](/canada/manitoba/thompson)
 
 [Charter Flights York Landing](/canada/manitoba/york-landing)
-
-## Flights to Split Lake, Manitoba
 
 ## **About Split Lake:**
 
@@ -62,8 +58,6 @@ Split Lake is served by a local gravel airstrip situated just outside the commun
 
 * Split Lake is best known for its northern setting rather than formal tourism infrastructure. Visitors are drawn by boating, fishing, shoreline scenery, community gatherings, and seasonal events, with the area's lakes, river system, and Cree culture shaping the local travel experience.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 Wheel plane charter flights to Split Lake can be arranged from Winnipeg, Thompson, and other northern Manitoba departure points, using suitable aircraft for local runway conditions and passenger requirements.
@@ -79,12 +73,6 @@ Float plane charters to the Split Lake area are most practical during open-water
 Helicopter charter flights to Split Lake can be sourced for remote site access, crew transfers, hydro-related work, and specialized trips where direct landing flexibility is important.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to Split Lake or Any Destination Throughout Canada or the USA
-
-## Flights to Split Lake, MB FAQ
 
 ## How do you get to Split Lake, Manitoba?
 
@@ -211,7 +199,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

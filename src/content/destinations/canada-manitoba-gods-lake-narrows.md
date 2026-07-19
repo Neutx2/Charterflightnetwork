@@ -15,8 +15,6 @@ Gods Lake Narrows is a northern Manitoba fly-in destination served by Gods Lake 
 
 [Request Charter Quote](#QuoteForm)
 
----
-
 ## *Manitoba Charter Flight Links*
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
@@ -26,8 +24,6 @@ Gods Lake Narrows is a northern Manitoba fly-in destination served by Gods Lake 
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 
 [Charter Flights St Andrews Airport](/canada/manitoba/st-andrews)
-
-## Flights to Gods Lake Narrows, Manitoba
 
 ## **About Gods Lake Narrows:**
 
@@ -62,8 +58,6 @@ Gods Lake Narrows Airport is beside the community and gives travelers direct fix
 
 * The main attraction is access to the Gods Lake region, known for remote northern scenery, boating, and world-class fishing opportunities. This area appeals to anglers, outdoor travelers, and guests seeking a classic fly-in Manitoba lodge experience.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 Wheel plane charters to Gods Lake Narrows are commonly routed direct into YGO from Winnipeg and other northern gateways using turboprop aircraft suited to Manitoba's remote airport network.
@@ -79,12 +73,6 @@ During break-up to freeze-up, float plane charters may be arranged for lakeside 
 Helicopter charters can help with short-hop regional access, remote work sites, lodge transfers, and specialized trips where direct landing flexibility is more important than runway access.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to Gods Lake Narrows or Any Destination Throughout Canada or the USA
-
-## Gods Lake Narrows Charter Flight FAQ
 
 ## **What airport serves Gods Lake Narrows, Manitoba?**
 
@@ -215,7 +203,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

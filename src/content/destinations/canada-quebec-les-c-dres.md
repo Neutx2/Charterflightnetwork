@@ -11,23 +11,9 @@ province: "Quebec"
 provinceSlug: "quebec"
 city: "Les Cèdres"
 ---
----
-
-## Receive Competitive Charter Quotes Directly From The Airlines who Provide Wheel Plane / Float Plane or Helicopter Charter Flights To Les Cèdres
-
-### No Cost, No Obligation. Review The Quotes and Then Deal Directly With The Charter Service Of Your Choice.
-
----
-
-### [Charter Flights To Les Cèdres](#collapseOne1)
-
 ### Text
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
-
----
-
-### About Flights To Les Cèdres
 
 ### Location
 
@@ -43,10 +29,6 @@ With just one click, you can receive up to 3 competitive charter flight quotes d
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
 
----
-
-## Turbo Prop / Piston Aircraft Charters
-
 ### Panorama Aviation
 
 Panorama Aviation operates the Pilatus PC 12 which is capable of operating in and out of the Les Cedres airport which has a 3,000 foot ashphalt runway. Operations will depend on number of passengers and weather conditions.
@@ -59,8 +41,6 @@ Montreal is the closest location for float plane charter services, 20 air miles 
 
 There is a helicopter charter service based in Les Cedres, Quebec.. Submit our Free Charter Quote Request Form and receive up to 3 Competitive Quotes.
 
-## Popular Charter Flights To Les Cèdres, Quebec
-
 ### XXXXXXX Charter Flights
 
 It is 0000 air miles between ZZZZZZ and Les Cèdres. View Wheel Plane, Float Plane & Helicopter Charter Services based in ZZZZZZZ
@@ -76,20 +56,10 @@ It is 0000 air miles between ZZZZZZ and Les Cèdres. View Wheel Plane, Float Pla
 ### XXXXXXX Charter Flights
 
 It is 0000 air miles between ZZZZZZ and Les Cèdres. View Wheel Plane, Float Plane & Helicopter Charter Services based in ZZZZZZZ
-
----
-
----
 
 ### The Following Charter Airlines Provide Quotes For Our Clients Across Quebec, Ontario, Manitoba, Nova Scotia & Nunavut
 
----
-
----
-
 Charter Flight Network Has Been Online Since 2008 And Has Established The Largest Network Of Wheel Plane, Float Plane & Helicopter Charter Services In Every Province & Territory of Canada Who Participate In Our Charter Quote Request Service
-
----
 
 ## Quick Links To 86 Air Charter Destinations Across Quebec
 
@@ -182,7 +152,3 @@ Charter Flight Network Has Been Online Since 2008 And Has Established The Larges
 * [Val-d`Or](/canada/quebec/val-d-or)
 * [Waskaganish](/canada/quebec/waskaganish)
 * [Wemindji](/canada/quebec/wemindji)
-
----
-
----

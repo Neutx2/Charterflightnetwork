@@ -32,8 +32,6 @@ Exodus Charters provides a fleet of well-maintained sailing vessels, including c
 
 Experienced sailors can opt for bareboat charters, where they have the freedom to captain the vessel themselves. These charters are ideal for those with sailing experience who want to explore the Caribbean at their own pace.
 
-## Other St Lucia Fishing Adventures
-
 ### Captain Mike's Sports Fishing
 
 **Location:** Rodney Bay, Gros Islet
@@ -66,8 +64,6 @@ Fishing Saint Lucia offers both shared and private fishing charters, specializin
 .
 Lucian Style Fishing offers customized fishing experiences tailored to guests' preferences. They offer half-day and full-day charters, focusing on both offshore and inshore fishing. Their experienced crew provides guidance and assistance throughout the trip.
 
-## Video Links To Featured St Lucia Resorts / Activities / Adventures
-
 ### [Video: Featured St Lucia Golf Course](/travel/st-lucia-golf)
 
 Plus Listings and Links to golf courses throughout St Lucia
@@ -79,12 +75,6 @@ Plus listings and links to popular St Lucia Resorts and Hotels
 ### [Video: Featured Private Sailboat & Yacht Charters](/travel/st-lucia-sailing)
 
 Plus listings and links to St Lucia Sailboat & Yacht Charter Services.
-
----
-
----
-
----
 
 ## Links To Caribbean Air Charter Destinations
 
@@ -118,11 +108,3 @@ Seach Charter Flights To Any Of The Following Caribbean Destinations
 * [Virgin Islands (British)](/caribbean/british-virgin-islands)
 * [Virgin Islands (U.S.)](/caribbean/us-virgin-islands)
 * [Trinidad & Tobago](/caribbean/trinidad-tobago)
-
----
-
----
-
----
-
----

@@ -11,12 +11,6 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Comox"
 ---
-### This page is designed to help you find a charter service and book a charter flight to Comox which is located about half way up the eastern coastline of Vancouver Island between Nanaimo and Campbell River
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
-### [Charter Flights To Comox](#collapseOne1)
-
 ### **Comox Airport**
 
 You can book direct charter flights to the Comox Airport which is actually a Canadian Forces Base which allows civilian use. The airport is 3 miles northeast of Comox with a 10,000 and 5,000 foot asphalt runway ensuring that any type of charter aircraft available is capable of using this airport.
@@ -31,15 +25,11 @@ If your charter flight to Comox originates in the USA, you will first need to st
 
 Request a quote to fly between Nelson, BC and any airport in the USA. Flights from USA to Nelson will need to stop at a Canadian airport of entry to clear Canadian Customs.
 
----
-
 ## Charter Flights To BC Adventures
 
 Link to a complete inventory of Charter Flights to British Columbia Adventures
 
 [BC ADVENTURES](/travel/charter-flights-to-adventure)
-
----
 
 ### **[Float Plane Charter Flights](/directory/float-plane-charters-vancouver-island-bc)**
 
@@ -52,10 +42,6 @@ We feature three helicopter charter services based 45 minutes north in Campbell 
 ### **Lodges, Resorts, Hotels**
 
 The Crowne Isle Resort and Golf Community is one of the more popular destinations chosen by corporate clients who want to combine a few days of golf with business
-
----
-
-## Comox Wheel Plane Charter Flights
 
 ### Liard Air
 
@@ -71,8 +57,6 @@ Contact BC Air for direct charter flights to or from the Comox Valley Airport (Y
 
 We make it easy and convenient to receive up to 3 competitive wheel plane charter quotes for flights to or from airports across BC, throughout Canada and into the USA
 
-## Comox Float Plane Charter Flights
-
 ### Corilair Charters Limited
 
 Campbell River, BC V9W 5C5
@@ -86,20 +70,6 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 ## Comox Helicopter Charter Flights
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -244,9 +214,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

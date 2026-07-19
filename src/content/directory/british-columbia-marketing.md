@@ -6,18 +6,6 @@ slug: "directory/british-columbia-marketing"
 thin: false
 region: "canada"
 ---
----
-
-## Target Your Message To Canada's Largest Air Charter Market At No Charge!
-
-## You Only Pay When You Receive A Quality Quote Request Watch The Video To Learn More . . . .
-
-## This Program Is Open To Every Wheel Plane / Float Plane and Helicopter Charter Service In Every Province Or Territory Of Canada -
-
----
-
-## Here Are The 6 Steps Required to Get Started
-
 ## #1. We Design Highly Visible Display Listings Promoting Your Charter Airline - At No Charge
 
 (1a) Your Display Listings Will Impact Your Target Markets - All At No Charge
@@ -39,8 +27,6 @@ You will see in (2a) below how each charter company who subscribes to our progra
 (1c) Every Charter Company Receives Top Position
 
 You will see in (2b) below that your listing will appear in a specific charter aircraft type category on any page. For example Jet Charters / Turbo Prop & Piston Charters / Float Plane Charters / Helicopter Charters. In order to ensure maximum exposure for each charter subscriber, we will not feature more than two charter companies in any one category. Plus listings will always rotate from top to bottom in each category, to ensure each subscriber receives equal time in the top position.
-
-## #2. Determine The Charter Markets You Want To Target
 
 ### Charter Flight Network Promotes Charter Flights and Generates Charter Quote Requests From Every Province and Territory of Canada
 
@@ -74,8 +60,6 @@ To allow clients to easily request a quote for the exact type of aircraft requir
 * **Helicopter Charters** (listed pretty much for all destinations)
 
 Based on your Charter Market Profile, your listing will appear in the category that matches your profile. If for example a charter airline operates both jet and turbo prop aircraft, their listings will appear in both categories, but on different pages .
-
-## #3. Generating Charter Quote Requests
 
 ### Your Listings Are Designed To Generate Quality Charter Quote Requests
 
@@ -143,8 +127,6 @@ As long as you renew your subscription and a poitive balance remains in your acc
 
 However, if you cancel your subscription or do not renew within 14 days of your balance reaching zero, your listings will be deactivated and you will no longer receive charter quote requests.
 
-## #5. Bonus Listings
-
 ### Your Listings Will Also Appear In Our Canadian Air Charter Directories
 
 In 2023 Charter Flight Network Introduced The Canadian Air Charter Directory which is made up of 3 Sub Directories:
@@ -181,11 +163,3 @@ If you would like to accept our Introductory Offer or 50 Quality Charter Quote R
 * [20 Questions & Answers - Pay For Response Marketing Program](/quote/request-questions)
 
 * [About Quality Score](/quote/request-quality-score)
-
-### We Are Proud To Work With The Following Charter Airlines Who Provide The Quotes For Our Charter Quote Request Service
-
----
-
----
-
----

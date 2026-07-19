@@ -10,13 +10,10 @@ region: "canada"
 province: "Manitoba"
 provinceSlug: "manitoba"
 city: "Winnipeg"
-faqs: [{"q": "What airport serves Winnipeg, Manitoba?", "a": "Winnipeg Richardson International Airport is the main airport serving Winnipeg and the province of Manitoba. It handles commercial airline traffic, charter flights, cargo operations, and many regional and northern aviation services."}, {"q": "Why is Winnipeg important for charter flights in Manitoba?", "a": "Winnipeg is Manitoba's main aviation hub, making it one of the best departure and arrival points for charter flights. It offers strong aircraft availability, maintenance support, cargo capability, hotels, transportation, and easy connections across the province."}, {"q": "Can I arrange float plane or helicopter service from Winnipeg?", "a": "Yes. Winnipeg is a practical starting point for helicopter charters and for onward travel connected to float plane operations serving fishing lodges, remote cabins, northern lakes, and wilderness destinations throughout Manitoba."}, {"q": "What are some major attractions in Winnipeg?", "a": "Popular Winnipeg attractions include The Forks, Assiniboine Park Zoo, the Canadian Museum for Human Rights, and the Exchange District, along with sports, arts, festivals, shopping, and a broad range of dining and entertainment options."}]
 ---
 Charter Flight Network helps travelers compare charter options to Winnipeg, Manitoba's largest city and main aviation gateway. Whether you need a wheel-plane charter for business travel, a helicopter for specialized missions, or connections onward to float plane bases and northern destinations, we can help source up to three competitive quotes.
 
 [Request Charter Quote](#QuoteForm)
-
----
 
 ## *Manitoba Charter Flight Links*
 
@@ -27,8 +24,6 @@ Charter Flight Network helps travelers compare charter options to Winnipeg, Mani
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 
 [Charter Flights St Andrews Airport](/canada/manitoba/st-andrews)
-
-## Flights to Winnipeg, Manitoba
 
 ## **About Winnipeg:**
 
@@ -63,8 +58,6 @@ Winnipeg Richardson International Airport is the primary air gateway for Manitob
 
 * Winnipeg offers strong appeal for city and leisure travelers, with attractions such as The Forks, Assiniboine Park Zoo, the Canadian Museum for Human Rights, and the Exchange District, along with dining, shopping, arts, festivals, and sports events.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 Wheel plane charters to Winnipeg are ideal for corporate travel, sports groups, private family trips, medical transport, and fast regional access throughout Manitoba and western Canada.
@@ -80,12 +73,6 @@ Winnipeg Float Plane Charters are actually based in the near by St Andrews Airpo
 Helicopter sight seeing flights are available from the Winnipeg International airport. Also, we can arrange point to point helicopter charters or source out short or long term helicopter support for mining and exploration projects across Manitoba.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to Winnipeg or Any Destination Throughout Canada or the USA
-
-## Frequently Asked Questions About Charter Flights to Winnipeg
 
 ## What airport serves Winnipeg, Manitoba?
 
@@ -212,7 +199,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

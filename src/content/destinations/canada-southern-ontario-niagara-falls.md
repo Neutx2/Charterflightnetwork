@@ -14,14 +14,6 @@ Charter Flights To Niagara Falls, Ontario
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Niagara Falls](#collapseOne1)
-
-## Your Niagara Falls Air Charter Options
-
 ## About Niagara Falls
 
 If you are planning to spend a few days in the Niagara Falls area and need overnight accommodations, you will find small independent hotels and motels as well as the large national chains, such as Best Western, Days Inn, Holiday Inn, Hilton, Hampton, Radisson, Travelodge and more. The Sheraton On The Falls Hotel is a 4 star facility with over 650 smoke free rooms and features an in house casino, two restaurants, indoor pool and a waterpark.Find your most convenient location, the best rate and book with the hotel of your choice.
@@ -29,10 +21,6 @@ If you are planning to spend a few days in the Niagara Falls area and need overn
 ### For a magnificent view of the falls, book a helicopter charter flight tour and see the falls from a whole new perspective.
 
 If you would like to arrange a charter flight to or from the Niagara Falls area, you will use the St Catharines airport located less than 30 minutes away. There are no scheduled flights to or from this airport, however private charter flights are available from departure airports across Canada and the USA. If you are flying from the USA you will be pleased to learn that this airport is classified as an airport of entry allowing you to clear Canadian Customes and Immigration. This service however, is restricted to aircraft with 15 passengers or less. The closest airport with regularly scheduled flights is Hamilton's John Munroe Airport
-
----
-
----
 
 ## Niagara Falls Wheel Plane Charter Flights
 
@@ -46,22 +34,6 @@ There are no float plane charter services availabe to or from the Niagara Falls 
 
 Niagara Falls is a very popular area for helicopter sight seeing flights. There are a couple of options available, so let us know your requirements and we can get you quotes from as many as 3 different charter companies.
 
----
-
----
-
-## Niagara Falls Charter Quote Request Form
-
----
-
-### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
-
----
-
----
-
----
-
 ## Quick Links To Over 50 Air Charter Destinations Across Southern Ontario
 
 [Click Here For Links To Northern and Northwestern Ontario Destinations](/canada/northern-ontario)
@@ -70,7 +42,7 @@ Niagara Falls is a very popular area for helicopter sight seeing flights. There 
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -90,7 +62,7 @@ Niagara Falls is a very popular area for helicopter sight seeing flights. There 
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -122,12 +94,8 @@ Niagara Falls is a very popular area for helicopter sight seeing flights. There 
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
----

@@ -11,17 +11,9 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Gang Ranch"
 ---
-## Request A Charter Quote Directly From Any Of Our Featured Charter Airlines or Use Our Free Charter Quote Request Service an Receive Up To 3 Competitive Quotes
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
-### [Charter Flights To Gang Ranch](#collapseOne1)
-
 ### Charter flights to the Gang Ranch located in the central interior region of British Columbia are available with only a select class of charter aircraft types. The airstrip is 1800 feet long with a gravel surface which restricts the types of aircraft approved for operations in and out of this strip
 
 You will find the Gang Ranch located in the south central region of British Columbia in the area known as the Chilcotin Region. The ranch which is the 2nd largest in Canada, is located on the west bank of the Fraser River near Alkali Lake and just under 30 miles north of the town of Clinton BC. The closest departure point for booking charter flights to Gang Ranch is Williams Lake located to the north. Because of the short gravel airstrip, you would need to arrange either helicopter charter or aircraft capable of short gravel strip operations
-
----
 
 ## Gang Ranch Wheel Plane Charter Flights
 
@@ -34,20 +26,6 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 ## Gang Ranch Helicopter Charter Flights
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -192,9 +170,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

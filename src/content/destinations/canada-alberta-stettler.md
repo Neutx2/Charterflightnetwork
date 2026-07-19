@@ -14,12 +14,6 @@ Charter Flights To Stettler, Alberta
 
 Request Charter Quotes From Our Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Stettler](#collapseOne1)
-
 ## About Stettler Alberta Charter Flights
 
 About Stettler Alberta
@@ -50,31 +44,15 @@ If you are in town for a day or two and would like to play 9 holes of golf the S
 
 .
 
----
-
-## Alberta Private Jet Charter Flights
-
 ### Charter Flight Network - Receive 3 Competitive Quotes
 
 The Stettler Airport features a 3,000 foot asphalt runway which makes it too short for private jet charters. If you plan on travelling to Stettler via charter aircraft, you will require a turbo prop or piston aircraft - or perhaps a helicopter.
-
-## Turbo Prop / Piston Aircraft Charter Flights
 
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 While charter flights may initially appear more expensive than commercial airline tickets for individual travelers, they can be cost-effective for groups or organizations. By sharing the cost among multiple passengers, chartering a private aircraft can be more economical than purchasing individual tickets on scheduled airlines, especially for short notice or last-minute trips.
 
 Our Charter Network Members in the region offer a wide range of helicopter charter services including Aerial Tours and Sightseeing flights. Or book a helicopter charter to area ski lodges or take a unique and exciting Heli-Ski Adventure.
-
----
-
----
-
----
-
----
-
----
 
 ## Quick Links To 42 Air Charter Destinations Across Alberta
 
@@ -123,7 +101,3 @@ Our Charter Network Members in the region offer a wide range of helicopter chart
 * [Wetaskiwin](/canada/alberta/wetaskiwin)
 * [Whitecourt](/canada/alberta/whitecourt)
 * [Zama Lake](/canada/alberta/zama-lake)
-
----
-
----

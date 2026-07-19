@@ -14,15 +14,9 @@ Charter Flights To Grand Bend, Ontario
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
 ### [Charter Flights To Grand Bend](#collapseOne1)
 
 Grand Bend is located along the south eastern shores of Lake Huron south of Goderich and about an hour's drive north west of London, Ontario. The area is a popular destination for summer rental homes and offers a couple of ideal facilities for small corporate meetings, weddings, etc. You can fly private charter flights direct to the London airport and take rental car from that point. There are other airports a bit closer, but may not offer the convenience of ground transportation and other passenger services.
-
----
 
 ## Grand Bend Wheel Plane Charter Flights
 
@@ -36,22 +30,6 @@ There are no float plane charter services in the Grand Bend area. There is no su
 
 We can arrange a helicopter sight seeing flight for groups visiting the Grand Bend region. Contact us for competitive quotes
 
----
-
----
-
-## Grand Bend Charter Quote Request Form
-
----
-
-### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
-
----
-
----
-
----
-
 ## Quick Links To Over 50 Air Charter Destinations Across Southern Ontario
 
 [Click Here For Links To Northern and Northwestern Ontario Destinations](/canada/northern-ontario)
@@ -60,7 +38,7 @@ We can arrange a helicopter sight seeing flight for groups visiting the Grand Be
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -80,7 +58,7 @@ We can arrange a helicopter sight seeing flight for groups visiting the Grand Be
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -112,12 +90,8 @@ We can arrange a helicopter sight seeing flight for groups visiting the Grand Be
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
----

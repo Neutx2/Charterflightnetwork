@@ -104,6 +104,42 @@ migration; nothing was lost.
 - Lighthouse (mobile emulation) on home, Thunder Bay destination, and quote
   pages: **Performance 100 / Accessibility 100 / SEO 100** on all three.
 
+## Launch-readiness audit response (post-migration hardening)
+
+An external launch audit reviewed the Pages preview; its valid findings were
+fixed, and several of its P0s were already satisfied in-repo (the auditor could
+only see the rendered noindex preview):
+
+- **Already satisfied:** forms post to the real legacy endpoint
+  (`formmailer.php` — action attribute stripped by the auditor's tooling);
+  `noindex` is injected only by the preview post-processor (production builds
+  are index-clean with self-canonicals — the requested env toggle already
+  exists as `scripts/make-preview.mjs`); the 301 map ships as 1,048 verified
+  rules in both `.htaccess` and `_redirects`; sitemap/robots/JSON-LD all build.
+- **Fixed region-data defects:** `group`/`pei` legacy pages were generic
+  quote forms misread as destinations → now redirect to `/quote`;
+  `winnipeg_red_lake` was a route page → `/flights/winnipeg-to-red-lake`;
+  Nakina refiled to Northern Ontario; Burlington and Oshawa (both legacy
+  variants) refiled to Southern Ontario; "London Ontario"-style city names
+  normalized.
+- **Fixed migration artifacts:** wrapped boilerplate paragraphs are now killed
+  whole (no more mid-sentence orphans like "their needs. When you…"); legacy
+  destination-link lists removed from hub bodies (the templates render
+  generated grids); empty headings pruned.
+- **SEO/conversion hardening:** per-operator quote pages (100 near-duplicate
+  form pages) now canonicalize to `/quote`; the About page was rewritten from
+  the legacy fragment wall into prose with puffery softened and unverifiable
+  claims TODO-flagged (curated override at `crawl/overrides/pages/about.md`);
+  `/empty-legs` gained a dedicated alert-signup form with the distinct subject
+  tag "Empty Leg Alert Signup"; `public/llms.txt` added (note: not a Google
+  ranking factor — a low-cost agent-readability aid only); the form endpoint is
+  centralized in `src/lib/site.ts` (`SITE.formEndpoint`) with documented
+  Web3Forms/Formspree/Netlify alternatives and their free-tier limits.
+- **Preview hardening:** the Pages preview now also serves
+  `robots.txt Disallow: /` and ~1,045 meta-refresh fallback pages at legacy
+  `.htm` paths (soft redirects for preview/testing only — production hosts
+  serve the real 301s).
+
 ## Content flagged thin or duplicate
 
 - 52 pages under ~120 words (`crawl/thin_pages.json`) — mostly operator quote

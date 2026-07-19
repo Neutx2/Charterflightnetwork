@@ -14,12 +14,6 @@ Charter Flights To Dawson City, Yukon Territory
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Dawson City](#collapseOne1)
-
 ### About Dawson City, Yukon and Location
 
 Dawson City, a gem in the Yukon, offers breathtaking wilderness, rich Klondike Gold Rush history, and indigenous culture. Its remote location is perfect for those seeking adventure, offering activities like gold panning, hiking, and viewing the northern lights. Charter flights to Dawson City bring you closer to this unique destination.
@@ -88,10 +82,6 @@ Embark on a journey back in time to the days of the Klondike Gold Rush with guid
 
 Experience the serene beauty of the Yukon River with guided canoe trips that offer a unique perspective of Dawson City's stunning wilderness and wildlife.
 
----
-
-## Dawson City Wheel Plane Charter Flights
-
 ### Tintina Air Inc.
 
 Tintina Air operates the twin engine Piper Navajo PA31 which is capable of carrying 5 passengers or a 1,800 lb. payload,
@@ -100,8 +90,6 @@ Tintina Air operates the twin engine Piper Navajo PA31 which is capable of carry
 
 Dawson City which was once the center of the Gold Rush which began in 1898 can be found on the shores of the Yukon River and the Klondike Highway just east of the border with Alaska. The town is served by a local, public use airport which has a single gravel runway 5,000 feet in length - making it accessible to a wide variety of charter aircraft operating in the region. Use our freee charter quote request service to receive up to 3 competitive quotes for charter flights to Dawson City.
 
-## Dawson City Float Plane Charter Flights
-
 ### Amber Airways Inc.
 
 Contact us for float plane charter quotes to the Dawson City region.
@@ -109,8 +97,6 @@ Contact us for float plane charter quotes to the Dawson City region.
 ### Float Plane Charters - Receive 3 Competitive Quotes
 
 With just one click, you can receive up to 3 competitive quotes for float plane charter services in the Dawson City area.
-
-## Dawson City Helicopter Charter Flights
 
 ### Fireweed Helicopters Ltd
 
@@ -121,16 +107,6 @@ Fireweed Helicopters Ltd. operates satellite bases in in Dawson City and Mayo, Y
 Kluane Helicopters fleet includes 1 Bell 206B Jet Ranger III / 1 AS350-B1 Astar Helicopter, / 1 AS350-B2 Astar Helicopter and 2 AS350-B3 Astar Helicopters​​.
 
 If you have a project in the Dawson City region that requires helicopter support, use our free charter quote request service to receive up to 3 competitive quotes directly from the charter services.
-
----
-
----
-
----
-
----
-
----
 
 ## Quick Links To Over 20 Air Charter Destinations Across Yukon Territory
 
@@ -161,7 +137,3 @@ If you have a project in the Dawson City region that requires helicopter support
 * [Twin Creeks](charter_flights_Twin Creeks_yt.html)
 * [Watson Lake](/canada/yukon/watson-lake)
 * [Whitehorse](/canada/yukon/whitehorse)
-
----
-
----

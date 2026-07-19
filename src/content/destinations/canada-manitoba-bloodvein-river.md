@@ -15,8 +15,6 @@ The Bloodvein River is one of Canada's classic wilderness canoe routes and trip 
 
 [Request Charter Quote](#QuoteForm)
 
----
-
 ## *Manitoba Charter Flight Links*
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
@@ -28,8 +26,6 @@ The Bloodvein River is one of Canada's classic wilderness canoe routes and trip 
 [Charter Flights St Andrews Airport](/canada/manitoba/st-andrews)
 
 Float plane charter flights to Bloodvein River canoe starting points can be arranged from Red Lake, Ontario and, in some cases, from Manitoba-based operators such as St. Andrews Airport depending on the exact route and aircraft availability.
-
-## Flights to Bloodvein River, Manitoba
 
 ## **About Bloodvein River Canoe Trips:**
 
@@ -64,8 +60,6 @@ Bloodvein River canoe trips are highly flexible, with access options ranging fro
 
 * The Bloodvein is one of Canada's standout wilderness canoe routes, known for whitewater, long portages, shield scenery, and ancient pictographs. It strongly appeals to adventure travelers seeking a remote multi-day paddling expedition through boreal wilderness.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 Wheel plane charters are useful for reaching Bloodvein River Airport, community staging points, or regional logistics hubs when your canoe trip plans do not require a direct float plane lake drop.
@@ -81,12 +75,6 @@ Float plane charters are one of the best ways to access upstream Bloodvein River
 Helicopter charters can help with specialized wilderness access, emergency support, gear moves, or route adjustments where fixed-wing aircraft are not the best operational choice.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to Bloodvein River or Any Destination Throughout Canada or the USA
-
-## Flights to Bloodvein River, MB FAQ
 
 ## How do canoeists usually start a Bloodvein River trip?
 
@@ -213,7 +201,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

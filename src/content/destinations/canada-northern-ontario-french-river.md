@@ -13,23 +13,11 @@ city: "French River"
 ---
 Private charter flights to French River, Ontario are a practical solution for fishing lodges, cottage transfers, marina access, and remote shoreline destinations. Charter Flight Network helps travelers compare float plane, wheel plane, and helicopter options from Ontario departure points so it is easier to reach French River quickly and efficiently.
 
----
-
----
-
-## How to Fly to French River, Ontario
-
 ### Here Are Your Flight Options To French River
 
 French River is a popular destination for fishing trips, cottage travel, lodge access, and outdoor recreation in Ontario. Float plane charter flights to French River may be arranged from Toronto, Muskoka, Parry Sound, Port Loring, and connecting points such as Sudbury. This can be especially useful when travelers need faster access, direct routing, or service to waterfront locations that are not convenient to reach by scheduled airline and long ground transfer.
 
 Map data from [OpenStreetMap](https://www.openstreetmap.org/copyright)
-
----
-
-## The Top 6 Charter Flight Departure Points To French River
-
-## Flights From Toronto to French River
 
 ### Toronto Float Plane Charters
 
@@ -43,31 +31,21 @@ Although wheel planes do not usually land directly at waterfront French River de
 
 Helicopter charters are available from Toronto to select areas of the French River, provided there is a safe and acceptable landing area at the final destination.
 
-## Flights From Muskoka to French River
-
 ### Muskoka Float Plane Charters
 
 Float plane charters are available from Muskoka. Depending on the exact destination, flight distance to the French River area is often in the range of roughly 100 to 120 air miles.
-
-## Flights From Parry Sound to French River
 
 ### Parry Sound Float Plane Charters
 
 A selection of float plane charter aircraft may be available from Parry Sound, with typical flight distances to the French River area averaging roughly 55 to 60 air miles.
 
-## Flights From Port Loring to French River
-
 ### Port Loring Float Plane Charters
 
 Port Loring is another practical departure point for some French River trips. Float plane charter flights can be arranged for guests heading to suitable waterfront destinations in the region.
 
-## Flights From North Bay to French River
-
 ### North Bay Float Plane Charters
 
 There are limited direct float plane charter options based in North Bay for French River travel, so aircraft may need to reposition from Sudbury, Parry Sound, or Port Loring depending on availability.
-
-## Flights From Sudbury to French River
 
 ### Sudbury Float Plane Charters
 
@@ -80,12 +58,6 @@ Helicopter charter flights from Sudbury to select French River locations may be 
 ### Sudbury Wheel Plane Charters
 
 Wheel plane charter flights can bring guests from many Canadian or U.S. cities into Sudbury, where they may continue onward by float plane or helicopter for final access to the French River area.
-
----
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to French River or Any Destination Throughout Canada or the USA
-
-## French River Charter Flight FAQ
 
 ## What type of aircraft is best for French River trips?
 
@@ -111,8 +83,6 @@ Complete the quote request form on this page with your departure point, destinat
 
 Request a quote directly from any of the airlines listed below, OR . . . use our Free Charter Quote Request Service
 
-## Toronto Departures
-
 ### Cameron Air
 
 Cameron Air is based at Toronto's Billy Bishop Airport and provides float plane charters to the French River using their 8 place amphibious Cessna Caravan as well as the 3 place, amphibious Cessna 206
@@ -125,15 +95,11 @@ Cameron Air can provide quick and convenient wheel plane charter flights from To
 
 [CHARTER QUOTE](/quote/cameron-air)
 
-## Muskoka Departures
-
 ### Cottage Air
 
 Cottage Air is based in Muskoka and provides float plane charter services with their amphibious Beaver and Cessna 206 aircraft.
 
 [CHARTER QUOTE](/quote/cottage-air)
-
-## Parry Sound Departures
 
 ### Lake Country Airways
 
@@ -141,15 +107,11 @@ Lake Country Airways provides float plane charter services out of Parry Sound as
 
 CHARTER QUOTE
 
-## Port Loring Departures
-
 ### Tornados
 
 Port Loring is the closest float plane charter departure point for locations along the French River.
 
 CHARTER QUOTE
-
-## Sudbury Departures
 
 ### True North Airwways
 
@@ -162,8 +124,6 @@ For flights to French River out of Sudbury, True North Airways provides, float p
 Papple Aviation provides very cost efficient air charter services to airports such as Killarney / Muskoka / Kitchener / Toronto Billy Bishop
 
 [CHARTER QUOTE](/quote/papple)
-
----
 
 ## Links to All Ontario Air Charter Destinations
 
@@ -182,7 +142,7 @@ Show Ontario Destinations
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Cat Lake](/canada/northern-ontario/cat-lake)
 * [Chapleau](/canada/northern-ontario/chapleau)
@@ -228,7 +188,7 @@ Show Ontario Destinations
 * [Kitchener](/canada/southern-ontario/kitchener)
 * [Lansdowne](/canada/northern-ontario/lansdowne-house)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitouwadge](/canada/northern-ontario/manitouwadge)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
@@ -239,7 +199,7 @@ Show Ontario Destinations
 
 * [Muskoka](/canada/southern-ontario/muskoka-lakes)
 * [Muskrat Dam](/canada/northern-ontario/muskrat-dam)
-* [Nakina](/canada/southern-ontario/nakina)
+* [Nakina](/canada/northern-ontario/nakina)
 * [Nestor Falls](/canada/northern-ontario/nestor-falls)
 * [Niagara Falls](/canada/southern-ontario/niagara-falls)
 * [North Bay](/canada/northern-ontario/north-bay)
@@ -295,14 +255,8 @@ Show Ontario Destinations
 * [Webequie](/canada/northern-ontario/webequie)
 * [White River](/canada/northern-ontario/white-river)
 * [Wunnumin Lake](/canada/northern-ontario/wunnumin-lake)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
----
-
----

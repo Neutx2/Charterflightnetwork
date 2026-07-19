@@ -24,13 +24,7 @@ This page also provides the option of using our Free Charter Quote Request Servi
 
 ## Request Quotes Directly From The Airlines Listed Below or Use Our Free Quote Request Service and Receive Up To 3 Competitive Quotes
 
----
-
----
-
 [Choose Any Nunavut Community And Request A Charter Flight Quote](#Communities)
-
-### Location of Naujaat / Repulse Bay
 
 ### We Arrange both Jet and Turbo Prop Aircraft
 
@@ -39,8 +33,6 @@ Naujaat, also known as Repulse Bay, is a small but culturally rich community loc
 Naujaat's remote location and the limited infrastructure make air travel the most practical and efficient way to reach the community, whether for tourism, business, or exploration.
 
 [Request A Quote](#quote)
-
----
 
 ### Scheduled Airlines
 
@@ -51,8 +43,6 @@ Naujaat Airport (YUT) is served by regional carriers, primarily Calm Air and Air
 Naujaat Airport (YUT) is a small but essential transportation hub, serving the remote community of Naujaat (Repulse Bay) in the Kivalliq Region of Nunavut. The airport is located just 2 kilometers from the town center, making it easily accessible by a short vehicle ride or even a brisk walk. The airport features a modest terminal building with basic passenger facilities, including a waiting area, check-in counters, and restrooms. Though limited in size, it provides necessary services for travelers and local residents.
 
 The runway at Naujaat Airport is 3,500 feet (1,067 meters) long, made of gravel and suitable for handling small to medium-sized aircraft that are designed for Arctic conditions. Regular passenger services are operated by regional airlines like Calm Air, using aircraft such as the ATR 42 and Dash 8. These turboprop planes are ideal for short runway operations and can handle the region's challenging weather.
-
----
 
 ### Air Cargo
 
@@ -77,22 +67,6 @@ From key hubs like Winnipeg and Thompson, Manitoba, as well as Montreal and Queb
 Naujaat (Repulse Bay) experiences the harsh climate of the Arctic, with a stark contrast between summer and winter seasons. During the summer (June to August), temperatures typically range from 5°C to 15°C (41°F to 59°F). While the long days and midnight sun can bring mild and pleasant weather, cool winds from Hudson Bay are common. Be prepared for changing conditions by packing light layers, including a windproof jacket, sweater, and water-resistant gear.
 
 In the winter months (November to April), Naujaat faces extremely cold temperatures, often between -30°C and -40°C (-22°F to -40°F), with strong winds that intensify the chill. Visitors should expect freezing conditions and frequent snow. To stay safe and comfortable, pack thermal layers, a heavy parka, windproof gloves, a warm hat, and insulated boots rated for severe cold.
-
----
-
-## Request A Quote For Any Of The Following Popular Flight Routes
-
----
-
----
-
----
-
-## Naujaat / Repulse Bay Nunavut Charter Quote Request Form
-
----
-
----
 
 ## Quick Links To 31 Destinations Across Nunavut
 
@@ -159,7 +133,3 @@ In the winter months (November to April), Naujaat faces extremely cold temperatu
 [Tanquary Fiord](/canada/nunavut/tanquary-fiord)
 
 [Whale Cove](/canada/nunavut/whale-cove)
-
----
-
----

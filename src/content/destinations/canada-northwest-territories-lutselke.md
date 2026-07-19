@@ -14,12 +14,6 @@ Charter Flights To Lutselke, NWT
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Lutselke](#collapseOne1)
-
 ### About Lutselk'e Northwest Territories and Location
 
 Lutselk'e, situated on the eastern arm of the Great Slave Lake, is a gateway to the natural wonders of the Northwest Territories. This tranquil community is rich in cultural heritage and offers a plethora of outdoor activities, making it an ideal destination for those seeking an authentic Northern experience. Accessible by charter flights, Lutselk'e serves as a starting point for adventurers looking to explore the vast wilderness, pristine waters, and unique wildlife of the region.
@@ -74,15 +68,9 @@ Lakeview Inn in Lutselk'e offers cozy accommodations with stunning views of the 
 
 The region around Lutselk'e is a paradise for outdoor enthusiasts, offering fishing, kayaking, and wildlife viewing. Winter months bring the spectacular northern lights, while summer offers endless daylight for hiking and canoe trips. Local companies like Great Slave Adventures provide guided tours, ensuring visitors have a safe and unforgettable experience in the wilds of the Northwest Territories.
 
----
-
-## Turbo Prop / Piston Aircraft Charter Flights
-
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 The airport at Lutselke is a public use airport operated by the Govenment of Northwest Territories. It is located just over a mile northeast of the community and has a 3000 foot gravel runway.
-
-## NWT Float Plane Charter Flights
 
 ### Float Plane Charters - Receive 3 Competitive Quotes
 
@@ -91,16 +79,6 @@ Float plane charter services in the region sometimes provide wildlife and forest
 ## NWT Helicopter Charter Flights
 
 Although there are no helicopter charter services based in Lutselke, you can arrange service out of Yellowknife located 120 miles west. Helicopters can be arranged for aerial geological surveys, transporting crews and equipment to remote drill and exploration camps.
-
----
-
----
-
----
-
----
-
----
 
 ## Quick Links To Over 40 Air Charter Destinations Across Northwest Territories
 
@@ -148,7 +126,3 @@ Although there are no helicopter charter services based in Lutselke, you can arr
 * [Whati](/canada/northwest-territories/whati)
 * [Wrigley](/canada/northwest-territories/wrigley)
 * [Yellowknife](/canada/northwest-territories/yellowknife)
-
----
-
----

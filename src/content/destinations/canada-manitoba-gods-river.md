@@ -15,8 +15,6 @@ You can arrange charter flights to Gods River, a remote northern Manitoba destin
 
 [Request Charter Quote](#QuoteForm)
 
----
-
 ## *Manitoba Charter Flight Links*
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
@@ -26,8 +24,6 @@ You can arrange charter flights to Gods River, a remote northern Manitoba destin
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 
 [Charter Flights St Andrews Airport](/canada/manitoba/st-andrews)
-
-## Flights to Gods River, Manitoba
 
 ## **About Gods River:**
 
@@ -62,8 +58,6 @@ Gods River is a remote Manto Sipi Cree Nation community on the north shore of Go
 
 * The Gods Lake and Gods River region is known for remote fishing, wilderness scenery, and fly-in outdoor travel. Anglers, eco-adventure visitors, and groups heading to outcamps often use charter aircraft to reach lakes, rapids, and lodge-based excursions.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 Wheel plane charters to Gods River are a practical option from Winnipeg and other northern airports, especially for passengers, light cargo, and direct arrivals using the local crushed rock runway.
@@ -79,12 +73,6 @@ Float plane charter flights work well for the Gods Lake region in the ice-free s
 Helicopter charters can be useful around Gods River for camp support, exploration work, sling loads, and transfers to sites that are not practical to reach by runway or float aircraft.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to Gods River or Any Destination Throughout Canada or the USA
-
-## Gods River Charter Flight FAQ
 
 ## What airport serves Gods River, Manitoba?
 
@@ -215,7 +203,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

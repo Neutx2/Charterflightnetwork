@@ -14,17 +14,9 @@ Charter Flights To Muskoka, Ontario
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
 ### [Charter Flights To Charter Flights To Muskoka](#collapseOne1)
 
 Muskoka is a 2 hour drive north of Toronto - with normal traffic. In the summer months however, drive time can easily increase to 3 hours or more, especially on a Friday afternoon with heavy traffic. You can reduce travel time to less than an hour with a direct charter flight from any of the Toronto airports direct to the Muskoka Airport or take a float plane and arrive at your cottage dock. Another popular flight option is a helicopter flight direct to many of the Muskoka area golf courses.
-
-## Discover How To Fly Direct To Muskoka From Departure Points Across Canada and USA
-
-## Muskoka Charter Flights Quebec and Northern Ontario
 
 ### Charter Flights Muskoka Airport
 
@@ -33,10 +25,6 @@ No matter what time of the year you plan to visit the Muskoka area, you will be 
 [CHARTER QUOTE](/quote)
 
 [View All Southern Ontario Chater Destinations](#BC Charter Destinations)
-
----
-
-## Flight Distances To Muskoka From Southern Ontario
 
 ### Charter Flight Distances
 
@@ -51,10 +39,6 @@ Sample Flight Distances To Muskoka Airport From Select Southern Ontario Cities
 
 [View All Southern Ontario Chater Destinations](#BC Charter Destinations)
 
----
-
-## Charter Flights From Ottawa To Muskoka
-
 ### Charter Flights From Ottawa
 
 It is 180 air miles from Ottawa to Muskoka.
@@ -63,10 +47,6 @@ Click the Air Charter Links Button for listings of wheel plane, float plane and 
 [AIR CHARTER LINKS](/canada/nunavut/ottawa)
 
 [View All Northern Ontario Chater Destinations](#BC Charter Destinations)
-
----
-
-## Charter Flights From Toronto To Muskoka
 
 ### Charter Flights From Toronto
 
@@ -77,22 +57,14 @@ Click the Air Charter Links Button for listings of wheel plane, float plane and 
 
 [View All Northern Ontario Chater Destinations](#BC Charter Destinations)
 
----
-
-## Charter Flights From London To Muskoka
-
 ### Charter Flights From London
 
 It is 165 air miles from London to Muskoka.
 Click the Air Charter Links Button for listings of wheel plane, float plane and helicopter charter services that can provide charter services to Muskoka.
 
-[AIR CHARTER LINKS](/canada/southern-ontario/london-ontario)
+[AIR CHARTER LINKS](/canada/southern-ontario/london)
 
 [View All Northern Ontario Chater Destinations](#BC Charter Destinations)
-
----
-
-## Charter Flights From Sudbury To Muskoka
 
 ### Charter Flights From Sudbury
 
@@ -102,10 +74,6 @@ Click the Air Charter Links Button for listings of wheel plane, float plane and 
 [AIR CHARTER LINKS](/canada/northern-ontario/sudbury)
 
 [View All Northern Ontario Chater Destinations](#BC Charter Destinations)
-
----
-
-## Charter Flight Distances To Muskoka From USA Cities
 
 ### Charter Flights Between Muskoka Airport
 
@@ -120,25 +88,15 @@ Click the Air Charter Links Button for listings of wheel plane, float plane and 
 
 [View All Southern Ontario Chater Destinations](#BC Charter Destinations)
 
----
-
----
-
-## Muskoka Private Jet Charter Flights
-
 ### Private Jet Charters
 
 Contact us for pricing and availability for private jet charters direct to the Muskoka airport, with departure points across Canada and USA. We typically provide clients with up to 3 competitive quotes.
-
-## Muskoka Wheel Plane Charter Flights
 
 ### DB Air
 
 A group of 4 with golf clubs heading to Muskoka for the weekend, or 6 - 8 passengers with light baggage is the perfect flight mission for DB Air. Contact us today for competitive pricing and availability.
 
 Fly direct to Muskoka in the speed, comfort and security of a private charter flight from Toronto, Kitchener, Hamilton, Sudbury or any departure point your choose. We can get you up to 3 competitive quotes for High Performance turbo prop aircraft such as the King Air and Pilatus PC12.
-
-## Muskoka Float Plane Charter Flights
 
 ### Cotttage Air
 
@@ -150,22 +108,6 @@ Float plane charters are readily available out of the Muskoka area. You can choo
 
 Helicopter charters are available out of Muskoka for sight seeing flights or taking groups direct to the golf course. Send us details of what you want to do and we will provide you with availability and pricing options.
 
----
-
----
-
-## Muskoka Charter Quote Request Form
-
----
-
-### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
-
----
-
----
-
----
-
 ## Quick Links To Over 50 Air Charter Destinations Across Southern Ontario
 
 [Click Here For Links To Northern and Northwestern Ontario Destinations](/canada/northern-ontario)
@@ -174,7 +116,7 @@ Helicopter charters are available out of Muskoka for sight seeing flights or tak
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -194,7 +136,7 @@ Helicopter charters are available out of Muskoka for sight seeing flights or tak
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -226,12 +168,8 @@ Helicopter charters are available out of Muskoka for sight seeing flights or tak
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
----

@@ -14,14 +14,6 @@ Charter Flights To Carp, Ontario
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Carp](#collapseOne1)
-
-### About Flights To Carp
-
 ### Location
 
 The Carp Airport is located about 40 km west of downtown Ottawa whic is about a 40 minute drive.
@@ -33,8 +25,6 @@ If you want a convenient arrival airport without the crowds and security delays 
 Carp Airport
 1500 Thomas Argue Rd
 Carp, ON K0A 1L0
-
----
 
 ## Carp Wheel Plane Charter Flights
 
@@ -48,20 +38,6 @@ If you are searching for float plane charter services out of the Carp area, you 
 
 We can get you up to 3 competitive quotes for helicopter charters out of the Carp area. There is a Bell 206 based in the region. We can however source out quotes for any helicopter charter type that meets your requirements
 
----
-
----
-
-## Carp Charter Quote Request Form
-
----
-
-### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
-
----
-
----
-
 ## Quick Links To Over 50 Air Charter Destinations Across Southern Ontario
 
 [Click Here For Links To Northern and Northwestern Ontario Destinations](/canada/northern-ontario)
@@ -70,7 +46,7 @@ We can get you up to 3 competitive quotes for helicopter charters out of the Car
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -90,7 +66,7 @@ We can get you up to 3 competitive quotes for helicopter charters out of the Car
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -122,15 +98,11 @@ We can get you up to 3 competitive quotes for helicopter charters out of the Car
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
----
 
 <div class="card mb-3" style="max-width: 750px;">
 <div class="row no-gutters">

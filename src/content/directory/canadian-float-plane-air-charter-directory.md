@@ -7,8 +7,6 @@ slug: "directory/canadian-float-plane-air-charter-directory"
 thin: false
 region: "canada"
 ---
----
-
 ## Provincial and territorial float plane charter directories across Canada
 
 Browse floatplane charter services by province or territory to find operators that can support remote lake access, coastal transfers, and fly-in destinations. Use the directory links below to access contact details and operator listings.
@@ -28,8 +26,6 @@ Only provinces and territories with float plane charter services are listed.
 [Saskatchewan](/directory/saskatchewan-float-plane-charter-directory)
 [Yukon](/directory/yukon-float-plane-charter-directory)
 
----
-
 ## [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
 * Link to the main directory listing wheel plane, float plane & helicopter charter services across Canada.
@@ -45,7 +41,3 @@ Only provinces and territories with float plane charter services are listed.
 ## [4. Canadian Float Plane Charter Directory](/directory/canadian-float-plane-air-charter-directory)
 
 * Float plane charter airlines across Canada so you can find the right base quickly.
-
----
-
----

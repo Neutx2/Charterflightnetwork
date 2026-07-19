@@ -14,12 +14,6 @@ Charter Flights To Fort Reliance, NWT
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Fort Reliance](#collapseOne1)
-
 ### About Fort Reliance Northwest Territories and Location
 
 Fort Reliance is a serene outpost nestled on the shores of the East Arm of Great Slave Lake in the Northwest Territories. This remote community is a haven for those seeking peace and adventure in the great outdoors. With its breathtaking landscapes, abundant wildlife, and rich history, Fort Reliance is an ideal destination for explorers and nature lovers. The area's accessibility by charter flights makes it a convenient entry point for experiencing the untouched beauty and unique cultural heritage of the North.
@@ -74,15 +68,9 @@ Reliance Retreat provides a cozy escape with modern amenities, ideal for those l
 
 Fort Reliance is a paradise for outdoor enthusiasts, with activities ranging from fishing in pristine waters and kayaking along the rugged coastline to hiking through untouched wilderness areas and viewing the spectacular Northern Lights. Local outfitters, such as Northern Wilderness Adventures, offer guided tours and equipment rentals, ensuring visitors can fully experience the natural wonders of Fort Reliance and its surroundings.
 
----
-
-## Turbo Prop / Piston Aircraft Charter Flights
-
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 Fort Reliance is located in the south eastern region of Northwest Territories on the far eastern shores of Great Slave Lake. There is no land airport, but the community does have a busy float plane base which operates from mid June through most of September. See float plane charter flight information below for more details.
-
-## NWT Float Plane Charter Flights
 
 ### Float Plane Charters - Receive 3 Competitive Quotes
 
@@ -91,16 +79,6 @@ There is no land airport at Fort Reliance. Charter flights are available from Ye
 ## NWT Helicopter Charter Flights
 
 **Fire Management:** Charter Network Members who operate helicopter charter services, play a critical role in wildfire management, performing initial assessments of fire outbreaks, monitoring fire behavior, and directing ground crews. Helicopters are also equipped for aerial firefighting, dropping water or fire retardant to contain and extinguish wildfires.
-
----
-
----
-
----
-
----
-
----
 
 ## Quick Links To Over 40 Air Charter Destinations Across Northwest Territories
 
@@ -148,7 +126,3 @@ There is no land airport at Fort Reliance. Charter flights are available from Ye
 * [Whati](/canada/northwest-territories/whati)
 * [Wrigley](/canada/northwest-territories/wrigley)
 * [Yellowknife](/canada/northwest-territories/yellowknife)
-
----
-
----

@@ -14,12 +14,6 @@ Charter Flights To Calgary, Alberta
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Calgary](#collapseOne1)
-
 ### About Calgary
 
 Calgary is a vibrant city located in the province of Alberta, Canada with a population of about 1.3 million people. It is the largest city in Alberta and the third-largest municipality in Canada.
@@ -62,31 +56,15 @@ When flying into Calgary International Airport either by private charter or sche
 **Airport Limo Calgary:** Airport Limo Calgary specializes in providing limousine services to and from Calgary Airport. You can book their services in advance to ensure a seamless arrival experience.
 **Alberta Limousine Service:** Alberta Limousine Service offers professional limo services at Calgary Airport, ensuring a comfortable and stylish transportation option for travelers. You can book their services ahead of time or upon arrival at the airport.
 
----
-
-## Alberta Private Jet Charter Flights
-
 ### Charter Flight Network - Receive 3 Competitive Quotes
 
 Planning a trip to the USA? Receive up to 3 competitive quotes for private jet charter flights from Calgary direct to destinations throughout the United States. Whether you're traveling for business or leisure, our network of charter companies ensures that you reach your destination with ease and comfort.
-
-## Turbo Prop / Piston Aircraft Charter Flights
 
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 Fly direct to Calgary, Alberta, with a bespoke charter flight, tailored for the business traveler seeking a harmonious balance of work and leisure. Engage clients or unwind at the prestigious Glencoe Golf & Country Club, offering unparalleled golfing against the backdrop of the stunning Rocky Mountains. For exquisite lodging, the Hotel Le Germain Calgary provides a sanctuary of luxury and comfort, ensuring a restful retreat. Calgary's vibrant city life and majestic natural surroundings make it the ultimate destination for professionals looking to blend business with pleasure
 
 Looking to explore the stunning landscapes of Alberta and British Columbia's ski and heli-ski resorts? Request quotes for helicopter charters to unforgettable adventures in the snow-capped mountains across Alberta and British Columbia. Whether you're a thrill-seeker or a nature enthusiast, our helicopter charters will take you to new heights.
-
----
-
----
-
----
-
----
-
----
 
 ## Quick Links To 42 Air Charter Destinations Across Alberta
 
@@ -135,7 +113,3 @@ Looking to explore the stunning landscapes of Alberta and British Columbia's ski
 * [Wetaskiwin](/canada/alberta/wetaskiwin)
 * [Whitecourt](/canada/alberta/whitecourt)
 * [Zama Lake](/canada/alberta/zama-lake)
-
----
-
----

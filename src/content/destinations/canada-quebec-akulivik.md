@@ -32,49 +32,33 @@ Akulivik is a remote community located in the far northwest region of Quebec alo
 
 Charter Flights To Adventure Featuring Links To Over 300 Adventures Across Canada
 
----
-
 Quebec Adventure Links
 
 Fishing and Hunting Adventures Throughout All Regions Of Quebec And Featuring Direct Flights To The Ungava Bay Region Located In The Far Northern Region Of The Province And Offers Exceptional Fishing For Arctic Char / Atlantic Salmon / Lake Trout & Sea Run Brook Trout
-
----
 
 Manitoba Adventure Links
 
 Links To Manitoba's World Class Fishing For Walleyes, Trophy Northern, Giant Lake Trout and Grayling Plus Churchill Polar Bear Adventures, Beluga Whale Adventures, Dog Sledding And Spectacular Northern Lights
 
----
-
 Nunavut Adventure Links
 
 Discover Canadian Arctic Adventures Featuring Whales / Narwhals / Polar Bears / Ring Seals / Massive Ice Bergs / Spectacular Nothern Lights / Dog Sledding / Igloo Building / Experience Inuit Culture With Visits To Remote Arctic Communities.
-
----
 
 Northwest Territories Adventure Links
 
 Canada's Northwest Territories offers some of North America's Most Unique and Spectacular Outdoor Adventures 12 months a Year. Become Awed By Spectacular Northrn Lights, Experience World Class Fishing / Nature and Wildlife Photo Tours / Endless Arts and Culture.
 
----
-
 Yukon Adventure Links
 
 Follow our Yukon Link and discover what makes this remote region of Canada unlike any other destination in the world. The Yukon is world famous for its breathtaking scenery / spectacular northern lights / world class fishing / exciting dog sledding, snowshoeing and cross country skiing adventures, plus experience the unique history of the gold rush era.
-
----
 
 British Columbia Adventure Links
 
 British Columbia Offers One Of Canada's Largest Selections Of Outdoor Adventures. Follow our direct links to coastal and and interior fishing lodges, charter services, outfitters and guides, plus links to ski and heli ski adventures
 
----
-
 Labrador Adventure Links
 
 We provide a selection of Labrador's finest fishing lodges all accessible only by float plane or helicopter. Plus, discover how you can book your charter flight to this amazing fishing adventure from departure points across Canada and USA
-
----
 
 Ontario Adventure Links
 
@@ -102,8 +86,6 @@ Kuujjuaq, Quebec J0M 1C0
 
 * Aerospatiale AS350B2
 
----
-
 **Johnny May's Air Charters (2009) Ltd**
 Kuujjuaq, QC
 
@@ -120,49 +102,35 @@ Montreal, QC H4S 0B1
 
 * Boeing 737 200, 300 / De Havilland DHC6 100, 300 Twin Otter / Beech King Air 300
 
----
-
 **[Skyservice Business Aviation Inc](http://clickmetertracking.com/SkyServicePQ)**
 Dorval QC H9P 1A2
 
 * Gulfstream GIV X / Gulfstream 150 / Learjet 45 / Pilatus PC12 / Raytheon Hawker 800 / Cessna 560 XL / Cessna 680 / Dassault Falcon 2000 EX, 900 / Beech King Air B100, B300 / Bombardier BD700 / Canadair CL600 / Piaggio P180 / Boeing 737 / Honda HA420
-
----
 
 **[Aviation Starlink Inc](http://clickmetertracking.com/StarLinkAvPQ)**
 Dorval, QC H9P 1A2
 
 * Learjet 45 / Beech King Air 300 / Gulfstream GIV X / Pilatus PC12 / Bombardier BD100, BD700 / Cessna 525 / Raytheon Hawker 800 / Pilatus PC24
 
----
-
 **[Air Tunilik Inc](http://clickmetertracking.com/AirTunilikPQ)**
 Laval, QC H7B
 
 * De Havilland Beaver / De Havilland Single Otter
-
----
 
 **[Foxair Heliservice - Helico Pro Inc](http://clickmetertracking.com/HelicoproPQ)**
 St-Charles-Sur-Richelieu, QC J0H 2G0
 
 * Hughes 269 D / Bell 206 B / Robinson R44 / Aerospatiale AS350 BA / Agusta A109 AII
 
----
-
 **[Heli Mistral Service Inc](http://clickmetertracking.com/HelimistralPQ)**
 Lachute, QC J8H 3R8
 
 * Bell 206 B, L / Robinson R44 II / Aerospatiale AS350 BA
 
----
-
 **[Passport Helico](http://clickmetertracking.com/PassportHelicoPQ)**
 Mascouche, QC J7K 3C1
 
 * Robinson R22 Beta / Robinson R44II / Robinson R66 / Aerospatiale AS350 BA, B2
-
----
 
 **[Canadian Helicopters Limited](https://www.canadianhelicopters.com/)**
 Les Cedres, QC J7T 1G1
@@ -180,49 +148,35 @@ Quebec City, Quebec G2G 2T6
 
 * Pilatus PC12 45, 47 / Beech 1900 / Beech 300 King Air
 
----
-
 **[Go Helico Inc](https://www.complexecapitalehelicoptere.com/en/helicopter-tours/)**
 Quebec City, Quebec G2G 0K1
 
 * Robinson R22 / Robinson R44II / Aerospaitle AS350 B2, B3 / Eurocopter EC120 B, 130 B4
-
----
 
 **[Helicarrier Inc](https://www.helicarrier.com/)**
 Quebec City, Quebec
 
 * Aerospatiale AS332 L / Aerospatiale AS350 B3 / Sikorsky S61 /
 
----
-
 **[Sky Jet M.G. Inc](https://www.skyjetaviation.ca/fr)**
 Quebec City, Quebec
 
 * Beech 1900 D / Beech 100 / Beech 200
-
----
 
 **[Heli Express Inc](https://heliexpress.net/)**
 Quebec City, QC G2G 2T6
 
 * Bell 205 A / Aerospatiale AS350 B2, BA / MBB BK117 A
 
----
-
 **[Kudlik Aviation Inc](http://kudlikaviation.com/)**
 Ancienne-Lorette, QC G2G 2P5
 
 * Pilatus PC12 47
 
----
-
 **[Montmagny Air Service Inc](https://www.airmontmagny.com/)**
 Montmagny, QC G5V 4??G9
 
 * Britten Norman BN2A 27, BN2B 26 / Cessna U206 / Partenavia P68
-
----
 
 **[Orizon Aviation Quebec Inc](http://www.orizonaviationqc.com/)**
 Quebec City, QC G2G 0M4
@@ -240,8 +194,6 @@ Contact The Following Air Charter Services For A No Obligation Quote For Charter
 Rouyn-Noranda, QC J9Y 0G1
 
 * Beech 1900 D / Beech 100 A
-
----
 
 Links To 86 Quebec Air Charter Destinations
 
@@ -337,16 +289,7 @@ Wheel Planes / Float Planes / Helicopters
 * [Waskaganish](/canada/quebec/waskaganish)
 * [Wemindji](/canada/quebec/wemindji)
 
----
-
-1100 Memorial Avenue
-Suite 424
-Thunder Bay, Ontario
-Email: phil@charterflightnetwork.com
-
 ## Other
-
-* [Marketing Partners](/operators/marketing-partners)
 
 **CharterFlightNetwork.com** is not a charter service provider. We do not own nor operate any aircraft.
 All charter quotes are generated by our charter network partners and forwarded directly to you for review. Should you decide to book a charter flight, you book directly with the charter network partner of your choice and all flight arrangements and payments are made directly with the [airline.](/directory/canadian-air-charter-directory-1)

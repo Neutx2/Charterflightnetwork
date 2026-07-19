@@ -11,14 +11,6 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Ucluelet BC"
 ---
-### Float plane charters can be arranged to Ucluelet located on the west central coast of Vancouver Island just under 300 km north of Victoria and 110 km west of Port Alberni.
-
-## Request A Charter Quote Directly From Any Of Our Featured Charter Airlines or Use Our Free Charter Quote Request Service an Receive Up To 3 Competitive Quotes
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
-### [Charter Flights To Ucluelet](#collapseOne1)
-
 ### **Ucluelet Airport**
 
 As an option, you can also take a private wheel plane charter flight to the Tofino / Ucluelet Long Beach Airport located about 25 km north of Ucluelet and 11 km south of Tofino. The most popular departure point for direct charter flights to Ucluelet is Vancouver, however you can arrange charter flights from virtually any departure point throughout BC, Canada or North America
@@ -31,8 +23,6 @@ Once you are here, there is plenty to see and do. You can spend the day hiking t
 
 For float plane charter services out of Ucluelet, contact West Coast Wild Adventures who operate a Cessna 180 float plane.You might also want to contact Tofino Air based in Tofino and operates a DeHvilland Beaver.
 
----
-
 ## Ucluelet Wheel Plane Charter Flights
 
 We make it easy and convenient to receive up to 3 competitive wheel plane charter quotes for flights to or from airports across BC, throughout Canada and into the USA
@@ -44,20 +34,6 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 ## Ucluelet Helicopter Charter Flights
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -202,9 +178,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

@@ -11,17 +11,9 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Fairmont Hot Springs"
 ---
-## Request A Charter Quote Directly From Any Of Our Featured Charter Airlines or Use Our Free Charter Quote Request Service an Receive Up To 3 Competitive Quotes
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
-### [Charter Flights To Fairmont Hot Springs](#collapseOne1)
-
 ### Fairmont Hot Springs is located in southeastern British Columbia not far from the border with Alberta. The community has an airport with a 6,000 foot asphalt runway making it accessible to virtually all charter aircraft throughout the region
 
 There are no scheduled flights to Fairmont Hot Springs, however charter flights are available from virtually any airport across North America. The most popular departure points are Calgary which is just 95 air miles north east, Edmonton which is 245 air miles north east and Vancouver which is 335 air miles west of this town. There is no Canadian Customs clearance services at this airport, so if your flight originates in the USA, you will need to land at a designated airport of entry prior to landing at Fairmont Hot Springs.
-
----
 
 ## Fairmont Hot Springs Wheel Plane Charter Flights
 
@@ -34,18 +26,6 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 ## Fairmont Hot Springs Helicopter Charter Flights
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -190,9 +170,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

@@ -12,18 +12,11 @@ CONTACT
 
 ###
 
-1100 Memorial Avenue
-Suite 424
-Thunder Bay, Ontario
-
 Email: phil@charterflightnetwork.com
 
 ---
 
 Search More North American Air Charter Destinations
-
-1100 Memorial Avenue
-Suite 424
 
 Thunder Bay, Ontario
 

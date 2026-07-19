@@ -14,19 +14,9 @@ Charter Flights To Cornwall, Ontario
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Cornwall](#collapseOne1)
-
 ### Location
 
 Cornwall is located on the north shore of the St Lawrence River just east of the provincial border with Quebec. New York and Vermont US states are located to the south. Cornwall is conveniently located to a region rich in industry, high tech as well as plenty of golf, skiing and other year round outdoor recreation making it a popular destination for business travel, conferences and client entertaining trips. You can fly private charter flights direct to the Cornwall Regional Airport located 8 miles east of town and is an airport of entry staffed by officers of the CBSA. The airport has a single runway 3500 feet long - asphalt.
-
-## Your Cornwall Air Charter Options
-
-## About Cornwall
 
 ### Location
 
@@ -34,15 +24,9 @@ There are no air charter services based in Cornwall. Your closest location for a
 
 [AIR CHARTER QUOTE](/quote)
 
----
-
-## About Cornwall Charter Flights To USA
-
 ### USA Charter Flights
 
 If you need to book a charter flight from Cornwall to the USA, you will need a charter service licenced to fly into the US. The closest location is Montreal. You will find it cheaper to travel to Montreal and take your charter flight from there. However, you can request that the charter flight positions over to Cornwall to pick you up. This additional flight and landing will be added to your charter costs.
-
----
 
 ## Cornwall Wheel Plane Charter Flights
 
@@ -56,22 +40,6 @@ There are no float plane charter services in the Cornwall Area. The closest floa
 
 Montreal is 60 miles east of Cornwall and is the closest helicopter charter base. There are a few choices in the Montreal region and we can get you up to 3 competitive quotes. Just let us know your requirements.
 
----
-
----
-
-## Cornwall Charter Quote Request Form
-
----
-
-### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
-
----
-
----
-
----
-
 ## Quick Links To Over 50 Air Charter Destinations Across Southern Ontario
 
 [Click Here For Links To Northern and Northwestern Ontario Destinations](/canada/northern-ontario)
@@ -80,7 +48,7 @@ Montreal is 60 miles east of Cornwall and is the closest helicopter charter base
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -100,7 +68,7 @@ Montreal is 60 miles east of Cornwall and is the closest helicopter charter base
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -132,12 +100,8 @@ Montreal is 60 miles east of Cornwall and is the closest helicopter charter base
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
----

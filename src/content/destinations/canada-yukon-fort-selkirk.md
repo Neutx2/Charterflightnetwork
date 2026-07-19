@@ -14,12 +14,6 @@ Charter Flights To Fort Selkirk, Yukon Territory
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Fort Selkirk](#collapseOne1)
-
 ### About Fort Selkirk Yukon and Location
 
 Fort Selkirk, Yukon, is a historical gem nestled in the vast wilderness of Canada's Yukon Territory. Renowned for its pristine landscapes, Fort Selkirk offers a plethora of attractions and activities such as kayaking, fishing, and hiking. Charter flights to Fort Selkirk provide unparalleled access to this remote destination, making it a must-visit for adventurers and history enthusiasts alike.
@@ -88,10 +82,6 @@ Experience the serene waters of the Yukon River with guided kayak trips, offerin
 
 Fort Selkirk offers some of the best Northern Lights viewing
 
----
-
-## Fort Selkirk Wheel Plane Charter Flights
-
 ### Tintina Air Inc.
 
 The Cessna Caravan Supervans operated by Tintina Air, can transport 9 passengers or up to 3,000 lbs of freight. Contact us for a no obligtion quote.
@@ -99,8 +89,6 @@ The Cessna Caravan Supervans operated by Tintina Air, can transport 9 passengers
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 Fort Selkirk can is located in central Yukon where the Pelly River meets the Yukon River. There is a small gravel airstrip which is 2,000 feet in length - which limits the types of aircraft able to operate in or out of this strip. Contact the charter airlines listed on this page for details on flights and the types of aircraft available for flights to Fort Selkirk.
-
-## Fort Selkirk Float Plane Charter Flights
 
 ### Alkan Air Ltd
 
@@ -110,19 +98,11 @@ Alkan Air's floatplane base in Whitehorse is located on Schwatka Lake, just minu
 
 Carmacks is the closest float plane base to Fort Selkirk and is located 60 air miles south. We may be able to set up an Amphibious aircraft that will pick you up from the Fort Selkirk runway and then take your group to the lake or river destination of your choice. Contact us and we will source out your requirements and find you the best option that meets your needs.
 
-## Fort Selkirk Helicopter Charter Flights
-
 ### Fireweed Helicopters Ltd
 
 Fireweed Helicopters Ltd. features a varied fleet with a wide range of services, making them one of the most versatile operator in Canada's north.
 
 If you have a long term project in the Fort Selkirk area of the Yukon that requires ongoing helicopter support we will put you in direct contact with both helicopter charter services that can support your project as well as fixed wing aircraft that will assist in establishing fuel cache transport up to your staging area.
-
----
-
----
-
----
 
 ## Quick Links To Over 20 Air Charter Destinations Across Yukon Territory
 
@@ -153,7 +133,3 @@ If you have a long term project in the Fort Selkirk area of the Yukon that requi
 * [Twin Creeks](charter_flights_Twin Creeks_yt.html)
 * [Watson Lake](/canada/yukon/watson-lake)
 * [Whitehorse](/canada/yukon/whitehorse)
-
----
-
----

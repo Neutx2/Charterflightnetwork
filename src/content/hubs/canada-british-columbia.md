@@ -17,8 +17,6 @@ From the Lower Mainland and Vancouver Island to the Cariboo, Okanagan and northe
 
 Float planes play a vital role in serving fishing lodges, wilderness resorts and isolated inlets along the Inside Passage and central coast. Helicopters support the forestry, mining, hydro-electric and film industries, as well as wildfire operations and power line inspections. Chartering an aircraft means your passengers, equipment and supplies travel together on a direct route, without the delays and multi-stop routings common on scheduled airlines.
 
-## Major Charter-Friendly Airports in British Columbia
-
 ## Vancouver International Airport (YVR) – Vancouver / Richmond
 
 Vancouver International Airport, located on Sea Island in Richmond, is British Columbia's primary gateway for domestic and international charter flights. Its long parallel runways can accommodate all categories of business jets, regional turboprops and wide-body aircraft. The south side of the airport hosts FBOs, a busy south terminal and a float plane facility, making YVR a natural hub for corporate travel, international arrivals and connections to smaller BC communities.
@@ -65,15 +63,6 @@ In addition to industrial support, helicopters are used for heli-skiing, sightse
 
 The following are just a few of the British Columbia destinations you can reach by charter aircraft. Each link takes you to a dedicated page with local airport details and charter operators that serve that community.
 
-* [Charter Flights to Vancouver, BC](/canada/british-columbia/vancouver)
-* [Charter Flights to Abbotsford, BC](/canada/british-columbia/abbotsford)
-* [Charter Flights to Campbell River, BC](/canada/british-columbia/campbell-river)
-* [Charter Flights to Prince Rupert, BC](/canada/british-columbia/prince-rupert)
-* [Charter Flights to Smithers, BC](/canada/british-columbia/smithers)
-* [Charter Flights to Bella Coola, BC](/canada/british-columbia/bella-coola)
-* [Charter Flights to Bella Bella, BC](/canada/british-columbia/bella-bella)
-* [Charter Flights to Dease Lake, BC](/canada/british-columbia/dease-lake)
-
 As additional community pages are completed, they can be added to this list so that the British Columbia hub becomes a complete index of all destinations in the province.
 
 ## Book a Charter Flight Anywhere in British Columbia
@@ -83,12 +72,6 @@ Submit one request and receive up to 3 competitive charter quotes from operators
 ## Charter Flights to Neighbouring Regions
 
 Many travellers combine British Columbia destinations with flights to neighbouring provinces and northern territories. You can continue planning your trip with these regional pages:
-
-* [Charter Flights in Alberta](/canada/alberta)
-* [Charter Flights in Yukon](/canada/yukon)
-* [Charter Flights in Manitoba](/canada/manitoba)
-
-## British Columbia Charter Flight FAQ
 
 ## How far in advance should I book a charter flight in British Columbia?
 

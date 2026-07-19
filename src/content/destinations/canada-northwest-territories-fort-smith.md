@@ -14,12 +14,6 @@ Charter Flights To Fort Smith, NWT
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Fort Smith](#collapseOne1)
-
 ### About Fort Smith Northwest Territories and Location
 
 Fort Smith is a picturesque town located on the border of the Northwest Territories and Alberta. Known for its stunning natural landscapes, including the Slave River and Wood Buffalo National Park, Fort Smith is a haven for outdoor enthusiasts. The town's rich history, vibrant indigenous culture, and welcoming community make it a must-visit destination for anyone looking to explore the Canadian North. With access to remote destinations made easier by charter flights, Fort Smith offers an unforgettable adventure into the wild.
@@ -78,22 +72,14 @@ Located in the heart of Fort Smith, Wood Buffalo Inn provides guests with cozy a
 
 Fort Smith is the ultimate destination for outdoor enthusiasts. From kayaking on the Slave River to hiking in Wood Buffalo National Park, the area is ripe with opportunities for adventure. Winter offers snowshoeing and aurora viewing, while summer invites fishing, bird watching, and canoe trips. Local companies like Northern Adventure Tours specialize in guided tours, ensuring visitors have a safe and memorable experience exploring the natural beauty of Fort Smith and its surroundings.
 
----
-
-## NWT Private Jet Charter Flights
-
 ### Charter Flight Network - Receive 3 Competitive Quotes
 
 The Fort Smith Airport (YSM) has a 6,000 foot asphalt runway, making it accessible to a private jet charter aircraft with departures available throughout Canada and USA. Contact us and receive up to 3 competitive quotes.
-
-## Turbo Prop / Piston Aircraft Charter Flights
 
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 **Simplified Pre-flight Procedures:**
 When passengers travel on private charter flights, they typically do not need to go through the same extensive security screenings required for commercial airline passengers. While there are still safety checks, the process is much quicker and more straightforward, saving valuable time before departure..
-
-## NWT Float Plane Charter Flights
 
 ### Float Plane Charters - Receive 3 Competitive Quotes
 
@@ -102,16 +88,6 @@ When passengers travel on private charter flights, they typically do not need to
 ## NWT Helicopter Charter Flights
 
 **Helicopters Provide Versatile Services:** By providing rapid, flexible, and extensive coverage, helicopters are invaluable tools for governments and natural resource companies throughout Northwest Territories, in their efforts to manage and conserve wildlife populations, forests, and other natural resources responsibly.
-
----
-
----
-
----
-
----
-
----
 
 ## Quick Links To Over 40 Air Charter Destinations Across Northwest Territories
 
@@ -159,7 +135,3 @@ When passengers travel on private charter flights, they typically do not need to
 * [Whati](/canada/northwest-territories/whati)
 * [Wrigley](/canada/northwest-territories/wrigley)
 * [Yellowknife](/canada/northwest-territories/yellowknife)
-
----
-
----

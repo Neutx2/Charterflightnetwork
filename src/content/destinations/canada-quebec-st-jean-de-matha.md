@@ -10,13 +10,9 @@ province: "Quebec"
 provinceSlug: "quebec"
 city: "St Jean de Matha"
 ---
----
-
 ### Flights To St-Jean-de-Matha
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
-
----
 
 ### Location
 
@@ -31,10 +27,6 @@ Trois Rivieres or Mascouche to the south are your closest airports for wheel pla
 With just one click, you can receive up to 3 competitive charter flight quotes directly from the airlines who provide service throughout St-Jean-de-Matha .
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
-
----
-
----
 
 ## Quick Links To 86 Air Charter Destinations Across Quebec
 
@@ -127,7 +119,3 @@ With just one click, you can receive up to 3 competitive charter flight quotes d
 * [Val-d`Or](/canada/quebec/val-d-or)
 * [Waskaganish](/canada/quebec/waskaganish)
 * [Wemindji](/canada/quebec/wemindji)
-
----
-
----

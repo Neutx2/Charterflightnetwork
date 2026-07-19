@@ -11,19 +11,11 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Elkin Creek"
 ---
-## Request A Charter Quote Directly From Any Of Our Featured Charter Airlines or Use Our Free Charter Quote Request Service an Receive Up To 3 Competitive Quotes
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
-### [Charter Flights To Elkin Creek](#collapseOne1)
-
 ### You can fly private charter flight to the airstrip at Elkin Creek Guest Ranch located in the western interior region of British Columbia 121 air miles east of Campbell River, 165 air miles north of Vancouver and 220 air miles north west of Kelowna.
 
 Although the runway is 4000 feet in length, the surface is a grass / turf surface which might make it inaccessible to some charter aircraft in the area. Check with your air charter company to determine if they can operate from this runway
 
 As an alternative, you may also be able to book a float plane charter flight to the Elkin Creek Guest Ranch. Contact the ranch to determine the logistics for arriving by float plane. If your charter flight originates in the USA, you will need to first land at a designated airport of entry to clear Canadian Customs prior to arrival at Elkin Creek.
-
----
 
 ## Elkin Creek Wheel Plane Charter Flights
 
@@ -36,20 +28,6 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 ## Elkin Creek Helicopter Charter Flights
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -194,9 +172,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

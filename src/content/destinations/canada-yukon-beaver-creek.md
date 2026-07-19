@@ -14,12 +14,6 @@ Charter Flights To Beaver Creek, Yukon Territory
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Beaver Creek](#collapseOne1)
-
 ### About Beaver Creek Yukon and Location
 
 Beaver Creek, a hidden gem in the Yukon, offers unparalleled attractions and activities for adventurous souls. From breathtaking landscapes to rich cultural history, Beaver Creek is an ideal destination for those seeking the unique and unexplored. Charter flights to Beaver Creek open the door to exploring remote destinations within the Yukon, making it accessible for all.
@@ -84,10 +78,6 @@ Embark on a charter flight to secluded lakes and rivers for the ultimate fishing
 
 Beaver Creek's remote location offers some of the best Northern Lights viewing opportunities. Charter flights can take you to the most ideal spots for this breathtaking natural phenomenon.
 
----
-
-## Beaver Creek Wheel Plane Charter Flights
-
 ### Tintina Air Inc.
 
 Tintina Air caters to a wide group of clients including mining and exploration inudstry, hunting and outfitting groups, sightseeing and glacier tours, rafting groups, film crews, government and tourist charters, and more.
@@ -96,23 +86,11 @@ Tintina Air caters to a wide group of clients including mining and exploration i
 
 Beaver Creek is located near the Alaskan Border at mile 1202 of the Alaskan Highway and is known as the most westerly community in Canada. The town is served by a public use airport located 1 mile northwest of the community. The single gravel runway is 3,745 feet long making it accessible to most types of charter aircraft operating in the area.
 
-## Beaver Creek Helicopter Charter Flights
-
 ### Fireweed Helicopters Ltd
 
 Another popular maching operated by Fireweed Helicopters is the MD 520N. This cost efficient helicopter features a NOTAR system and seats 4 passengers.
 
 For competitive helicopter charter quotes for the Beaver Creek Yukon area, use our charter quote request service and receive up to 3 competitive quotes.
-
----
-
----
-
----
-
----
-
----
 
 ## Quick Links To Over 20 Air Charter Destinations Across Yukon Territory
 
@@ -143,7 +121,3 @@ For competitive helicopter charter quotes for the Beaver Creek Yukon area, use o
 * [Twin Creeks](charter_flights_Twin Creeks_yt.html)
 * [Watson Lake](/canada/yukon/watson-lake)
 * [Whitehorse](/canada/yukon/whitehorse)
-
----
-
----

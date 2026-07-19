@@ -49,7 +49,7 @@ const description =
     <div class="rounded-2xl bg-white p-6 sm:p-8 ring-1 ring-birch-200 shadow-sm">
       <h2 class="font-display text-xl font-bold text-lake-900">Send us a message</h2>
       <!-- Posts to the legacy formmailer.php endpoint; TODO(deploy): Netlify Forms fallback -->
-      <form method="post" action="/formmailer.php" class="mt-5 grid gap-4">
+      <form method="post" action={SITE.formEndpoint} class="mt-5 grid gap-4">
         <div class="absolute -left-[5000px] h-px w-px overflow-hidden" aria-hidden="true">
           <label for="ct-website">Website</label>
           <input type="text" id="ct-website" name="website" tabindex="-1" autocomplete="off" />

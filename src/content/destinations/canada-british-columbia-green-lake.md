@@ -11,17 +11,9 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Green Lake"
 ---
-## Request A Charter Quote Directly From Any Of Our Featured Charter Airlines or Use Our Free Charter Quote Request Service an Receive Up To 3 Competitive Quotes
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
-### [Charter Flights To Green Lake](#collapseOne1)
-
 ### Direct charter flights to Green Lake situated in the central interior region of British Columbia between Kamloops and Williams Lake. There are no scheduled flights to Green Lake. There is a small airfield, however it has a turf surface making it accessible to a limited type of charter aircraft. The airfield is owned and operated by the Flying U Guest Ranch
 
 The Flying U Guest Ranch also operates a float plane base at this location, allowing float plane charter flights transporting guests to operate from this location. You can also drive to Green Lake rather than take a charter flight. From Kamloops which is the closest major city, the distance is a 75 km via hwy 1 W and BC Hwy 97 North and take an average of 2 hours to drive.
-
----
 
 ## Green Lake Wheel Plane Charter Flights
 
@@ -34,20 +26,6 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 ## Green Lake Helicopter Charter Flights
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -192,9 +170,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

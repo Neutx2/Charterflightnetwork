@@ -11,15 +11,11 @@ region: "canada"
 
 Wheel plane, float plane & helicopter operators serving Nunavut communities
 
----
-
 ## Nunavut Air Charter Directory
 
 Browse charter operators by community. Request quotes for passenger and cargo services, including remote and northern operations.
 
 [Back To Main Canadian Menu](/directory/canadian-air-charter-directory-1)
-
----
 
 ## Baker Lake Air Charter
 
@@ -105,8 +101,6 @@ P: (877) 879-8477
 
 Copyright © Charter Flight Network. All rights reserved.
 
----
-
 ### [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
 * Link to the main Canadian Air Charter Directory listing wheel plane, float plane & helicopter charter services in every province and territory of Canada.
@@ -123,10 +117,6 @@ Copyright © Charter Flight Network. All rights reserved.
 
 * When you are specifically looking for a float plane charter, this directory lists float plane charter airlines in every province and territory of Canada.
 
----
-
-## Receive 3 Competitive Charter Quotes With One Request
-
 ### Wheel Plane / Float Plane / Helicopter Charter Services In Every Province & Territory Of Canada
 
 Submit your charter quote request through our free quote request service and it forwards to up to three air charter services who are best positioned and equipped to provide the service you require.
@@ -134,9 +124,3 @@ Submit your charter quote request through our free quote request service and it 
 Each company prepares a competitive quote and sends it directly to your email.
 
 [REQUEST A QUOTE](/quote)
-
----
-
----
-
----

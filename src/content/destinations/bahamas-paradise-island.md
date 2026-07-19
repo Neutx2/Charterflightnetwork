@@ -49,8 +49,6 @@ Airlines that offer Charter Flights have no set departure or arrival times and n
 
 Your Contact Information
 
----
-
 Links To Bahamas Air Charter Destinations
 
 * [Abaco](/bahamas/abaco)
@@ -83,11 +81,6 @@ Links To Bahamas Air Charter Destinations
 You Can Request Competitive Charter Quotes For Any Departure Point or Destination In North America / Bahamas & Caribbean. Start Your Search By Clicking Any Of The Following Links
 
 Search More North American Air Charter Destinations
-
-1100 Memorial Avenue
-Suite 424
-Thunder Bay, Ontario
-Email: phil@charterflightnetwork.com
 
 ## Advertise - 1
 

@@ -14,10 +14,6 @@ Halifax Helicopter Charter Flights To Cabot Links
 
 Discover All Travel Options From Halifax Nova Scotia To Cabot Golf Resort
 
----
-
----
-
 ### [Charter Flights To Halifax](#collapseOne1)
 
 About Halifax Stanfield International Airport Nova Scotia
@@ -39,8 +35,6 @@ Halifax is known for its vibrant food scene, with a wide range of restaurants, c
 
 Overall, Halifax offers a perfect blend of history, culture, and outdoor adventure, making it an ideal destination for travelers seeking to experience the best of the Maritimes.
 
-## Location of Halifax Nova Scotia
-
 ### About Halifax
 
 Halifax is located on the southeastern Coastline of Nova Scotia. It is 140 air miles south of the Cabot Cape Breton Golf Resort or 220 highway miles.
@@ -48,10 +42,6 @@ Halifax is located on the southeastern Coastline of Nova Scotia. It is 140 air m
 Halifax, Nova Scotia is the capital city of Nova Scotia and the largest city in Atlantic Canada. Located on the east coast of Canada, Halifax sits on the shores of the North Atlantic Ocean and boasts one of the world's largest natural harbors. It serves as the economic, cultural, and historical hub of the region.
 
 Halifax is positioned on the southeastern coast of Nova Scotia, along Halifax Harbour. It is well-connected to other parts of Canada via highways, ferries, and an international airport. The city is known for its scenic coastline, rolling hills, and vibrant waterfront.
-
----
-
-## Fly Non Stop From Canadian & US Cities Direct To Halifax, Nova Scotia
 
 ### The Halifax International Airport
 
@@ -67,10 +57,6 @@ Canadian passengers can fly non stop to Halifax from Vancouver, Calgary, Edmonto
 
 US passengers can fly non stop to Halifax from Boston, Chicago, New York, Newark. Passengers on US flights will be required to clear Canadian Customs in Halifax,
 
----
-
-## Upon Arrival In Halifax, You Have 3 Travel Options To Cabot Cape Breton
-
 ### Golf Groups Can Choose From Thee Transportation Options From Halifax To Cabot Cape Breton
 
 Scroll Down For Details and Pricing on The Following Transportation Options to Cabot Cape Breton Golf Resort
@@ -79,10 +65,6 @@ Scroll Down For Details and Pricing on The Following Transportation Options to C
 * Helicopter In / Passenger Van Out
 * Passenger Van / SUV Service / Round Trip
 * Car Rental
-
----
-
-## #1. Helicopter Charter Flights From Halifax To Cabot Cape Breton
 
 ### Travel Option #1 - Round Trip Helicopter Charter
 
@@ -114,14 +96,6 @@ The Canadian / USA exchange rate fluctuates daily.So, using an estimated 1.38%, 
 
 [REQUEST AVAILABILITY & CONFIRMED PRICING](/quote/breton-air)
 
-### All prices are subject to change due to fuel pricing and other operational variations. Your guaranteed price will be confirmed prior to booking.
-
----
-
----
-
-## #2. Take Helicopter To Cabot Golf Resort and Return To Halifax By Passenger Van or SUV
-
 ### Take A Quick Helicopter Flight To Cabot Links / Cabot Cliffs On Arrival Day / Then A Scenic 3.5 - 4 Hour Drive Back To Halifax on Departure Day
 
 Breton Air also offers round trip Passenger Van Service between Sydney and Cabot Cape Breton for golfer looking for a more cost efficient travel option vs the helicopter charter. Also, it is good to know that you have an "Option B" available in the event that weather conditions prevent the helicopter from operating.
@@ -152,14 +126,6 @@ The Canadian / USA exchange rate fluctuates daily.So, using an estimated 1.38%, 
 
 [REQUEST AVAILABILITY & CONFIRMED PRICING](/quote/breton-air)
 
-### All prices are subject to change due to fuel pricing and other operational variations. Your guaranteed price will be confirmed prior to booking.
-
----
-
----
-
-## Round Trip Passenger Van / SUV Between Halifax and Cabot Cape Breton
-
 ### Book Your Ground Transportation Directly With Cape Concierge
 
 Here are current rates available through Cape Concierge for Round Trip Ground Transporation between Halifax and Cabot Cape Breton Golf Resort. Prices include all taxes and fees and are subject to change
@@ -176,19 +142,9 @@ Here is the aproximate US Dollar Equivalent, based on an exchange rate of 1.38%.
 
 [REQUEST AVAILABILITY & CONFIRMED PRICING](/quote/breton-air)
 
-### All prices are subject to change due to fuel pricing and other operational variations. Your guaranteed price will be confirmed prior to booking.
-
----
-
-## Halifax Car Rentals
-
 ### Travel Option #3 - Car / Van / SUV Rental
 
 The third and final travel option between Sydney is arranging a rental car or SUV. There is a selection of national brand rental cars available at the Sydney Airport. We suggest you make your car reservations well in advance to ensure availabilty.
-
----
-
-### More Travel Options
 
 ### 3 Travel Options From Sydney Nova Scotia To Cabot Cape Breton Golf Resort
 
@@ -199,16 +155,6 @@ Your quickest and most efficient travel option
 * ###### Take the 2 hour drive from Sydney to Cabot Links with passenger van service or car rental.
 
 [DEPARTURES FROM SYDNEY](/canada/nova-scotia/sydney)
-
----
-
-## Request More Details On Travel To Cabot Cape Breton Golf Resort
-
----
-
----
-
----
 
 ## Quick Links To Over A Dozen Air Charter Destinations Across Nova Scotia
 
@@ -230,7 +176,3 @@ Your quickest and most efficient travel option
 * [Trenton](/canada/nova-scotia/trenton)
 * [Waterville](/canada/nova-scotia/waterville)
 * [Yarmouth](/canada/nova-scotia/yarmouth)
-
----
-
----

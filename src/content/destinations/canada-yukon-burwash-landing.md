@@ -14,12 +14,6 @@ Charter Flights To Burwash Landing, Yukon Territory
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Burwash Landing](#collapseOne1)
-
 ### About Burwash Landing Yukon and Location
 
 Located in the scenic wilderness of Yukon, Burwash Landing is an ideal destination for adventurers and nature lovers. Known for its breathtaking landscapes, rich wildlife, and cultural heritage, it offers numerous attractions and activities. From fishing and hunting to canoe and kayak trips, the area is perfect for those seeking outdoor adventures. Charter flights to Burwash Landing provide easy access to this remote paradise, making it an unforgettable escape.
@@ -84,10 +78,6 @@ This resort offers a range of accommodations from cozy cabins to RV parking spot
 
 Explore the abundant waters and forests of Burwash Landing with guided fishing and hunting expeditions, perfect for those seeking the thrill of the wilderness.
 
----
-
-## Burwash Landing Wheel Plane Charter Flights
-
 ### Alkan Air Ltd
 
 The Beechcraft 1900D operated by Alkan Air can carry 19 passengers and offers a range of 1200 miles with an average cruise speed of 275 knots​​.
@@ -96,13 +86,9 @@ The Beechcraft 1900D operated by Alkan Air can carry 19 passengers and offers a 
 
 Burwash Landing is located on the northwest shores of Kluane Lake on the Alaskan Highway and is just outside of the Kluane National Park. The community is served by a small public use airport situated about 4 miles northwest of town. The single gravel runway, which is 5,000 feet in length is accessible by most of the charter aircraft which operate in the region.
 
-## Burwash Landing Float Plane Charter Flights
-
 ### Float Plane Charters - Receive 3 Competitive Quotes
 
 Are you looking for fly-out adventures in the Burwash area. Rocking Star Adventures operates both wheel and float plane charter services out of Burwash with aircraft types that include Cessna 172 / Cessna U206 / Piper PA 18 150. Use our quote request service and we will put you in touch.
-
-## Burwash Landing Helicopter Charter Flights
 
 ### Fireweed Helicopters Ltd
 
@@ -113,12 +99,6 @@ Fireweed Helicopters' expertise spans across several critical services, includin
 Kluane Helicopters fleet of Astar helicopters is known not only known for its versatility in passenger transport but their impressive cargo and lifting tasks​​ as well
 
 You are encouraged to contact the helicopter charter services listed on this page. However, if you find it more convenient, just use our charter quote request service and we will source out your inquiry to all helicotper charter services in the region to find the company that best matches your requirements and provide you with competitive quotes.
-
----
-
----
-
----
 
 ## Quick Links To Over 20 Air Charter Destinations Across Yukon Territory
 
@@ -149,7 +129,3 @@ You are encouraged to contact the helicopter charter services listed on this pag
 * [Twin Creeks](charter_flights_Twin Creeks_yt.html)
 * [Watson Lake](/canada/yukon/watson-lake)
 * [Whitehorse](/canada/yukon/whitehorse)
-
----
-
----

@@ -14,12 +14,6 @@ Charter Flights To Cut Knife, Saskatchewan
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Cut Knife](#collapseOne1)
-
 ### About Cut Knife, Saskatchewan and Location
 
 Cut Knife, Saskatchewan, offers visitors a unique glimpse into both the natural beauty and rich history of the region. Ideal for history buffs and nature enthusiasts alike, the town is a perfect destination for those looking to explore Saskatchewan's diverse landscapes and historical sites via charter flights.
@@ -76,10 +70,6 @@ Enjoy hiking and wildlife observation in the stunning Claybank Hills, easily acc
 
 A favorite for fishing, swimming, and boating, Atton's Lake provides a refreshing outdoor escape, a short drive from Cut Knife.
 
----
-
-## Cut Knife Turbo Prop / Piston Aircraft Charter Flights
-
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 The community of Cut Knife SK has public use airport located adjacent to the town. Although the runway is 4,000 feet in length, it has a grass / turf surface which means there may be restrictions for the types of aircraft approved for operation in and out of this airport. Use our free charter quote request service and receive competitive quotes for charter flights in and out of this airport.
@@ -87,14 +77,6 @@ The community of Cut Knife SK has public use airport located adjacent to the tow
 ## Cut Knife Helicopter Charter Flights
 
 If you have a project in the Cut Knife region that requires helicopter support, contact us with your details and we will source out to the charter services in the region and find you the most cost efficient option,
-
----
-
----
-
----
-
----
 
 ## Quick Links To Over 70 Air Charter Destinations Across Saskatchewan
 
@@ -174,7 +156,3 @@ If you have a project in the Cut Knife region that requires helicopter support, 
 * [Wollaston Lake](/canada/saskatchewan/wollaston-lake)
 * [Wynyard](/canada/saskatchewan/wynyard)
 * [Yorkton](/canada/saskatchewan/yorkton)
-
----
-
----

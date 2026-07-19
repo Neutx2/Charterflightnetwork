@@ -13,17 +13,9 @@ Charter Flights To Toronto Buttonville Airport, Ontario
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
 ### [Charter Flights To Toronto Buttonville Airport](#collapseOne1)
 
 The area north of Toronto such as Markham, Richmond Hill, Aurora, Vaughan, etc is where all the action is happening in industrial and high tech development. If you have clients or offices to visit in this region your most convenient airport is the Toronto Buttonville Airport located between Markham and Richmond Hill 18 miles north of Toronto's downtown. The airport has a 3897 foot asphalt runway making it accessible to medium size charter aircraft and small jets.
-
-## More Toronto Buttonville Airport Air Charter Options
-
-## Charter Flights To Geraldton From Toronto Buttonville Airport
 
 ### Charter Flights Toronto - Geraldton
 
@@ -33,10 +25,6 @@ The Geraldton area of Northwestern Ontario is becoming a busy mining center. Whe
 
 [View All Southern Ontario Chater Destinations](#BC Charter Destinations)
 
----
-
-## Charter Flights From Toronto Buttonville Airport To Killarney Mountain Lodge
-
 ### Charter Flights Toronto - Killarney Mountain Lodge
 
 The Killarney Mountain Lodge is a very popular destination for personal vacation and corporate travel goups. The lodge has its own private air strip so guests can fly private charter flight direct to Killarney Mountain Lodge from Buttonville by wheel plane or float plane. It is 180 air miles from Buttonville to Killarney Mountain Lodge.
@@ -44,10 +32,6 @@ The Killarney Mountain Lodge is a very popular destination for personal vacation
 [CHARTER QUOTE](/canada/northern-ontario/killarney)
 
 [View All Southern Ontario Chater Destinations](#BC Charter Destinations)
-
----
-
-## Charter Flights From Montreal to Toronto Buttonville
 
 ### Charter Flights Montreal and Buttonville
 
@@ -57,19 +41,11 @@ There are dozens of schedulded flights between Toronto and Montreal each day. Ho
 
 [View All Southern Ontario Chater Destinations](#BC Charter Destinations)
 
----
-
-## Charter Flights To Moosonee From Toronto Buttonville Airport
-
 ### Charter Flights Toronto and Moosonee
 
 Moosonee can be a difficult destination to reach from Toronto. You would first need to take a scheduled flight from Toronto to Timmins. You might need to overnight in Timmins before connecting with a regional flight up to Moosonee. If you want to fly up to Moosonee and return the same day, or avoid the delays of scheduled service, use our quote request form to arrange a private charter flight.
 
 [CHARTER QUOTE](/canada/northern-ontario/moosonee)
-
----
-
-## Charter Flights To Ottawa
 
 ### Charter Flights Ottawa and Toronto
 
@@ -77,19 +53,11 @@ There are no shortage of scheduled flights between Ottawa and Toronto. However i
 
 [CHARTER QUOTE](/canada/nunavut/ottawa)
 
----
-
-## Charter Flights To Red Lake
-
 ### Charter Flights Buttonville and Red Lake
 
 Red Lake is famous for its dozens of fly-in fishing and hunting services, but is probably even more famous as a gold mining center. No matter what your reason is for visitng Red Lake, you can save days of travel and switchng planes, with a direct charter flight from the Buttonville airport. Fly according to your own schedule.
 
 [CHARTER QUOTE](/canada/northern-ontario/red-lake)
-
----
-
-## Charter Flights From Toronto Buttonville Airport To Thunder Bay
 
 ### Charter Flights Toronto and Thunder Bay
 
@@ -97,13 +65,7 @@ Thunder Bay is 570 air miles north west of Buttonville Airport. The city is serv
 
 [CHARTER QUOTE](/canada/northern-ontario/thunder-bay)
 
----
-
 [View All Southern Ontario Chater Destinations](#BC Charter Destinations)
-
----
-
-## Charter Flights To Timmins
 
 ### Charter Flights Toronto and Timmins
 
@@ -111,29 +73,17 @@ Timmins is well known as Northern Ontario's largest gold mining center. Numerous
 
 [CHARTER QUOTE](/canada/northern-ontario/timmins)
 
----
-
-## Charter Flights To Wawa
-
 ### Charter Flights Wawa and Toronto
 
 The main attractions that bring visitors to the Wawa area, are fishing, hunting and mining. Wawa is a jumping off spot for numerous fly-in fishing lodges and outpost camps. It is also becoming a busy hub for gold mining. If you are looking for a quick and efficient travel solution to Wawa, request a no obligation charter quote today.
 
 [CHARTER QUOTE](/canada/northern-ontario/wawa)
 
----
-
-## Charter Flights To USA
-
 ### Charter Flights Between Buttonville and USA
 
 With all the delays and hassles associated with cross border airline travel, more and more business travellers are turning to the private air charter industry to provide them with quick and efficient flight options. You can fly from Buttonville Airport to virtually any USA destination, conduct your business and return home that evening. See how convenient and cost effective a charter flight can be for your next business trip.
 
 [CHARTER QUOTE](/directory/usa-charter-quote)
-
----
-
-## Featured Charter Airlines Serving Destinations Across Ontario, Throughout Canada and USA
 
 ### [Cottage Air](/directory/northern-ontario-float-plane-6#Cottage)
 
@@ -159,8 +109,6 @@ Our Main Directory Includes 3 Sub Directories To Ensure You Zero In On Not Only 
 
 * Link To The Main Canadian Air Charter Directory Listing Every Wheel Plane, Float Plane & Helicopter Charter Service in Every Province and Territory of Canada.
 
-### Sub Directories
-
 ### [Canadian Air Charter Airlines Licenced To Fly Into The USA](/directory/canadian-air-charter-licenced-flights-usa-directory)
 
 * This directory lists Canadian Air Charter Services that are licenced to provide charter flights into the USA. Charter Services are listed by province / territory and city so you can quickly locate the charter service best positioned that meets your needs.
@@ -181,7 +129,7 @@ Our Main Directory Includes 3 Sub Directories To Ensure You Zero In On Not Only 
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -201,7 +149,7 @@ Our Main Directory Includes 3 Sub Directories To Ensure You Zero In On Not Only 
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -233,12 +181,8 @@ Our Main Directory Includes 3 Sub Directories To Ensure You Zero In On Not Only 
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
----

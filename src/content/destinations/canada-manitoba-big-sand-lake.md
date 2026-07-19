@@ -15,8 +15,6 @@ Big Sand Lake Lodge is a remote northern Manitoba fly-in destination popular wit
 
 [Request Charter Quote](#QuoteForm)
 
----
-
 ## *Manitoba Charter Flight Links*
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
@@ -26,8 +24,6 @@ Big Sand Lake Lodge is a remote northern Manitoba fly-in destination popular wit
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 
 [Charter Flights St Andrews Airport](/canada/manitoba/st-andrews)
-
-## Flights to Big Sand Lake Lodge
 
 ## **About Big Sand Lake:**
 
@@ -62,8 +58,6 @@ Big Sand Lake Lodge is a true fly-in destination with its own private 3,450-foot
 
 * Big Sand Lake is designed for anglers and wilderness travelers seeking trophy northern pike, lake trout, walleye, and Arctic grayling. The setting also appeals to guests interested in fly-in hunting, scenic wilderness, and a true remote northern adventure.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 Wheel plane charters are often the most practical option for Big Sand Lake Lodge because the destination has its own private airstrip. This allows direct charter access from Winnipeg or other suitable gateways using aircraft well matched to northern lodge operations.
@@ -79,12 +73,6 @@ Float plane charter service may be useful for outpost access, lake-to-lake trans
 Helicopter charters can support remote scouting, specialty lodge access, equipment moves, and precise wilderness landings when a fixed-wing charter is not the best fit.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to Big Sand Lake Lodge or Any Destination Throughout Canada or the USA
-
-## Flights to Big Sand Lake Lodge, MB FAQ
 
 ## How do guests typically reach Big Sand Lake Lodge?
 
@@ -211,7 +199,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

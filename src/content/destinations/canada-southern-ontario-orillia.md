@@ -14,17 +14,9 @@ Charter Flights To Orillia, Ontario
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
 ### [Charter Flights To Orillia](#collapseOne1)
 
 Orillia is a popular vacation destination especially for residents of the Toronto region. Many weekend travelers however, choose to avoid the congested highway traffic heading north out of Toronto, by taking a private charter flight from any of the Toronto area airports. You can also arrange float plane charters to the Orillia area from the Toronto City Center airport using amphibious aircraft.
-
-## More Orillia Air Charter Options
-
-## Charter Flights to USA From Orillia
 
 ### USA Charter Flights
 
@@ -33,8 +25,6 @@ There are no air charter services based in Orillia that are licenced to fly into
 Use our Orillia Charter Quote Request form and receive up to 3 competitive quotes for charter flights into the USA.
 
 [USA CHARTER QUOTE](/directory/usa-charter-quote)
-
----
 
 ## Orillia Wheel Plane Charter Flights
 
@@ -48,20 +38,6 @@ Orillia has one of the largest float plane charter operations in the region. If 
 
 There are no helicopter charter services based in Orilia. If you are looking for a helicopter charter or sight seeing flight, we can bring a helicopter in from Toronto or Collingwood. Contact us with your details and we will source out. You will receive up to 3 competitive quotes.
 
----
-
-## Orillia Charter Quote Request Form
-
----
-
-### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
-
----
-
----
-
----
-
 ## Quick Links To Over 50 Air Charter Destinations Across Southern Ontario
 
 [Click Here For Links To Northern and Northwestern Ontario Destinations](/canada/northern-ontario)
@@ -70,7 +46,7 @@ There are no helicopter charter services based in Orilia. If you are looking for
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -90,7 +66,7 @@ There are no helicopter charter services based in Orilia. If you are looking for
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -122,12 +98,8 @@ There are no helicopter charter services based in Orilia. If you are looking for
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
----

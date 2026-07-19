@@ -12,14 +12,6 @@ city: "Taloyoak"
 ---
 Charter Flights To Taloyoak Nunavut
 
----
-
-## Receive Competitive Quotes For Any Taloyoak Charter Flight - You Book Directly With The Charter Service Of Your Choice, Ensuring You Receive The Best Available Flight & Price Option
-
----
-
-### [Charter Flights To Taloyoak, NU](#collapseOne1)
-
 ### Location
 
 Taloyoak was originally called Spence Bay and is located 300 miles east of Cambridge Bay and 750 miles northeast of Yellowknife on the Boothia Peninsula, Kitikmeot, in Canada's Nunavut Territory. Direct charter flights are available to Taloyoakfrom departure points across Nunavut and major Canadian cities to the south. In addition to charter flights, visitors to the area can also book scheduled airline flights with Canadian North and First Air. They operate flights between Taloyoak and Cambridge Bay, Gjoa Haven, Kugaaruk, Kugluktuk and Yellowknife.
@@ -32,10 +24,6 @@ The Taloyoak airport which is operated by the government of Nunavut has a 4000 f
 
 With just one click, you can receive up to 3 competitive charter flight quotes directly from the airlines who provide service throughout Taloyoak.
 
----
-
-## Private Jet Charters
-
 ### Jet Charters
 
 Ask about Private Jet Charters toTaloyoak, formerly known as Spence Bay, which is a small Inuit community located on the Boothia Peninsula in Nunavut, Canada. It is situated on the western shore of the Boothia Gulf, part of the Arctic Ocean. The community is known for its Arctic landscapes, wildlife, and Inuit culture. Receive up to 3 competitive quotes.
@@ -46,27 +34,11 @@ Book direct charter flights to Taloyoak and explore the unique Arctic landscapes
 
 There are no helicopter charter services based in Taloyoak, however if you have a project in the region that requires helicopter support, use our charter quote request service and receive responses directly from the charter services operating in Nunavut. Receive pricing and availability details.
 
-## Group Charters / Crew rotations
-
 ### Group Charters / Crew Rotations
 
 When you have 9 or more passengers to fly on a one time or ongoing basis, between Taloyoak and any destination throughout Nunavut or Canada, request a no obligation quote from our Group Air Charter Department
 
-[REQUEST GROUP QUOTE](/canada/northern-ontario/group)
-
----
-
-## Nunavut Charter Quote Request Form
-
----
-
-### We Are Proud To Highlight The Following Charter Airlines Who Provide Quotes For Our Clients Across Nunavut, NWT, Ontario, Manitoba, Quebec
-
----
-
----
-
----
+[REQUEST GROUP QUOTE](/quote)
 
 ## Quick Links To 31 Air Charter Destinations Across Nunavut
 
@@ -133,7 +105,3 @@ When you have 9 or more passengers to fly on a one time or ongoing basis, betwee
 [Tanquary Fiord](/canada/nunavut/tanquary-fiord)
 
 [Whale Cove](/canada/nunavut/whale-cove)
-
----
-
----

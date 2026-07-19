@@ -14,27 +14,15 @@ Charter Flights To Smiths Falls, Ontario
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
 ### [Charter Flights To Smiths Falls](#collapseOne1)
 
 Smiths Falls is located on Hwy 29 between Brockville on Lake Ontario and Ottawa to the north. Although the community has been home to some light manufacturing and processing companies in the past - tourism is the most significant long term industry. Smiths Falls is located on the Rideau Canal which brings a high volume of boat traffic to the area. The local Smiths Falls - Montague Airport has a 4000 foot asphalt runway which can accommodate most medium and large charter and corporate aircraft.
-
-## More Smiths Falls Air Charter Options
-
-## Charter Flights To USA
 
 ### USA Charter Flights
 
 There are no air charter services based in Smiths Falls, so if you need to book a charter flight from Smiths Falls to any destination in the US, you may need to arrange for a charter aircraft from Ottawa or Montreal
 
 On your return flight, you will need to first stop in Kingston Norman Rogers Airport to clear Canadian Customs
-
----
-
-## Charter Flights From Montreal To Smiths Falls
 
 ### Charter Flights From Montreal
 
@@ -45,10 +33,6 @@ Click the Air Charter Links Button for listings of wheel plane, float plane and 
 
 [View All Northern Ontario Chater Destinations](#BC Charter Destinations)
 
----
-
-## Charter Flights From Ottawa To Smiths Falls
-
 ### Charter Flights From Ottawa
 
 It is 35 air miles from Ottawa to Smiths Falls.
@@ -58,10 +42,6 @@ Click the Air Charter Links Button for listings of wheel plane, float plane and 
 
 [View All Northern Ontario Chater Destinations](#BC Charter Destinations)
 
----
-
-## Charter Flights From Toronto To Smiths Falls
-
 ### Charter Flights From Toronto
 
 It is 200 air miles from Toronto to Smiths Falls.
@@ -70,10 +50,6 @@ Click the Air Charter Links Button for listings of wheel plane, float plane and 
 [AIR CHARTER LINKS](/canada/southern-ontario/toronto-island)
 
 [View All Northern Ontario Chater Destinations](#BC Charter Destinations)
-
----
-
----
 
 ## Smiths Falls Wheel Plane Charter Flights
 
@@ -87,22 +63,6 @@ There is little demand for float plane charters out of the Smiths Falls region. 
 
 There are no helicopter charter services based in Smiths Falls. We can however, get you competitive quotes out of the Kingston area. Send us your details and will get you competitive quotes.
 
----
-
----
-
-## Smiths Falls Charter Quote Request Form
-
----
-
-### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
-
----
-
----
-
----
-
 ## Quick Links To Over 50 Air Charter Destinations Across Southern Ontario
 
 [Click Here For Links To Northern and Northwestern Ontario Destinations](/canada/northern-ontario)
@@ -111,7 +71,7 @@ There are no helicopter charter services based in Smiths Falls. We can however, 
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -131,7 +91,7 @@ There are no helicopter charter services based in Smiths Falls. We can however, 
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -163,12 +123,8 @@ There are no helicopter charter services based in Smiths Falls. We can however, 
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
----

@@ -10,13 +10,7 @@ province: "Quebec"
 provinceSlug: "quebec"
 city: "Umiujaq"
 ---
----
-
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
-
----
-
-### About Flights To Umiujaq
 
 ### Location
 
@@ -31,10 +25,6 @@ The local airport has a 3,500 foot gravel runway making it accessible to a wide 
 With just one click, you can receive up to 3 competitive charter flight quotes directly from the airlines who provide service throughout Umiujaq.
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
-
----
-
----
 
 ## Quick Links To 86 Air Charter Destinations Across Quebec
 
@@ -127,7 +117,3 @@ With just one click, you can receive up to 3 competitive charter flight quotes d
 * [Val-d`Or](/canada/quebec/val-d-or)
 * [Waskaganish](/canada/quebec/waskaganish)
 * [Wemindji](/canada/quebec/wemindji)
-
----
-
----

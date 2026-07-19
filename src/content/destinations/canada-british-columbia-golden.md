@@ -11,19 +11,11 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Golden"
 ---
-## Request A Charter Quote Directly From Any Of Our Featured Charter Airlines or Use Our Free Charter Quote Request Service an Receive Up To 3 Competitive Quotes
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
-### [Golden BC Charter Flights](#collapseOne1)
-
 ### **About Golden BC**
 
 The town of Golden BC is located in the south eastern region of British Columbia 160 miles west of Calgary and just under 450 miles east of Vancouver. The local airport has a 4500 foot asphalt runway, making it accessible to a wide range of charter aircraft
 
 Golden is a year round tourist destination offering a huge variety in outdoor activities 12 months a year. The summer months attract canoeing and kayaking enthusiasts, but is also famous for skydiving and gliding, climbing and montaineering, trail riding, golfing and fishing. In the winter, the town is busy catering to skiers, heli and cat skiing, ice climbing, ice fishing and snow shoeing.
-
----
 
 ## Golden Wheel Plane Charter Flights
 
@@ -36,20 +28,6 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 ## Golden Helicopter Charter Flights
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -194,9 +172,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

@@ -93,8 +93,6 @@ Click for a quick index of Ontario air charter locations
 [White River](/directory/ontario-air-charter-directory-6#WhiteRiver)
 [Windsor](/directory/ontario-air-charter-directory-6#Windsor)
 
-## Hornepayne Air Charter
-
 ## Forde Lake Air Services Ltd
 
 Hornepayne, ON P0M 1Z0
@@ -103,8 +101,6 @@ P: [807-868-2741](tel:+18078682741)
 **Aircraft Types:** de Havilland Beaver
 **Service Type:** Floats
 
-## Hudson Air Charter
-
 ## Tudhope Airways Ltd
 
 Hudson, ON P0V 1X0
@@ -112,8 +108,6 @@ P: [807-582-3206](tel:+18075823206)
 **Base Locations:** Hudson
 **Aircraft Types:** de Havilland Beaver / Found BBA-2C
 **Service Type:** Floats
-
-## Ignace Air Charter
 
 ## Ignace Airways (1969) Ltd
 
@@ -125,8 +119,6 @@ P: [1-807-934-2273](tel:+18079342273)
 
 Request a Quote
 
-## Keene Air Charter
-
 ## Elmhirst Vacation Air Ltd
 
 Keene, ON K0L 2G0
@@ -136,8 +128,6 @@ P: [705-295-4591](tel:+17052954591)
 **Service Type:** Floats
 
 Request a Quote
-
-## Kenora Air Charter
 
 ## Forest Helicopters Inc
 
@@ -155,8 +145,6 @@ P: [807-468-7104](tel:+18074687104)
 **Aircraft Types:** Cessna 180 / Cessna 185 / Cessna 206 / Cessna Caravan / de Havilland Beaver / de Havilland Otter
 **Service Type:** Floats
 
-## Kingston / Tamworth Air Charter
-
 ## Kingston Flying Club
 
 Kingston, ON K7M 9A1
@@ -172,8 +160,6 @@ P: [613-382-3888](tel:+16133823888)
 **Base Locations:** Tamworth / Kingston
 **Aircraft Types:** Robinson R44 / Bell 206 LongRanger
 **Service Type:** Helicopter
-
-## Kitchener / Waterloo Air Charter
 
 ## Aspen Air Charters
 
@@ -195,8 +181,6 @@ P: [519-648-9712](tel:+15196489712) / [226-220-0228](tel:+12262200228)
 
 Request a Quote
 
-## London Air Charter
-
 ## Flightexec
 
 London, ON N5V 0B1
@@ -207,8 +191,6 @@ P: [905-477-4434](tel:+19054774434)
 
 Request a Quote
 
-## Meaford Air Charter
-
 ## Heli-Worx Aviation
 
 Meaford, ON N4L 1W7
@@ -217,8 +199,6 @@ P: [519-374-5929](tel:+15193745929)
 **Aircraft Types:** Eurocopter AS350 B2
 **Service Type:** Helicopter
 
-## Moosonee Air Charter
-
 ## Bushland Airways Limited
 
 Moosonee, ON P0L 1Y0
@@ -226,8 +206,6 @@ P: [705-336-2966](tel:+17053362966)
 **Base Locations:** Moosonee
 **Aircraft Types:** Piper PA-32-260
 **Service Type:** Floats
-
-## Muskoka Air Charter
 
 ## Cottage Air Inc.
 
@@ -265,8 +243,6 @@ P: [705-687-5555](tel:+17056875555) / [705-706-5222](tel:+17057065222)
 
 [Next: Page 4](/directory/ontario-air-charter-directory-4)
 
-## Explore Related Directories
-
 ## [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
 Main directory listing every wheel plane, float plane, and helicopter charter service in every province and territory.
@@ -289,8 +265,6 @@ Submit your quote request and we forward it to up to 3 air charter services best
 
 [Request a Quote](/quote)
 
-## Ontario Air Charter Directory Page 3 FAQ
-
 ## Which communities are included on Ontario directory page 3?
 
 Page 3 includes Hornepayne, Hudson, Ignace, Keene, Kenora, Kingston and Tamworth, Kitchener-Waterloo, London, Meaford, Moosonee, and Muskoka.
@@ -302,8 +276,6 @@ Yes. Page 3 includes a mix of float plane, wheel plane, and helicopter charter l
 ## Can I request quotes from operators listed on this page?
 
 Yes. Some listings include direct quote request buttons, and Charter Flight Network also offers a quote request service to help source competitive charter quotes.
-
-P: [807-472-1955](tel:+18074721955)
 
 ## The Canadian Air Charter Directory
 

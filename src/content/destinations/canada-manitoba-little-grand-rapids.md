@@ -15,8 +15,6 @@ Little Grand Rapids is a remote eastern Manitoba community on Family Lake near t
 
 [Request Charter Quote](#QuoteForm)
 
----
-
 ## *Manitoba Charter Flight Links*
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
@@ -26,8 +24,6 @@ Little Grand Rapids is a remote eastern Manitoba community on Family Lake near t
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 
 [Charter Flights St Andrews Airport](/canada/manitoba/st-andrews)
-
-## Flights to Little Grand Rapids
 
 ## **About Little Grand Rapids:**
 
@@ -62,8 +58,6 @@ Little Grand Rapids Airport is located on the edge of the community and serves a
 
 * The area appeals to travelers interested in remote wilderness, waterways, fishing, hunting, and access to nearby outcamps and protected lands. Traditional travel routes and natural scenery make it notable for northern outdoor travel.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 Wheel plane charters are the main practical way to reach Little Grand Rapids, using northern utility aircraft suited to short crushed-rock runways and community supply routes.
@@ -79,12 +73,6 @@ Float plane charters can be useful for surrounding lakes and remote outcamps dur
 Helicopter charters can support remote access, medical transfer support, local logistics, and specialized trips where flexible landing capability is more important than using the airstrip.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to Little Grand Rapids or Any Destination Throughout Canada or the USA
-
-## Little Grand Rapids Charter Flight FAQ
 
 ## **What airport serves Little Grand Rapids, Manitoba?**
 
@@ -215,7 +203,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

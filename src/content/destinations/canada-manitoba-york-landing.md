@@ -15,8 +15,6 @@ York Landing is a remote northern Manitoba community on the Nelson River near Sp
 
 [Request Charter Quote](#QuoteForm)
 
----
-
 ## *Manitoba Charter Flight Links*
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
@@ -26,8 +24,6 @@ York Landing is a remote northern Manitoba community on the Nelson River near Sp
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 
 [Charter Flights St Andrews Airport](/canada/manitoba/st-andrews)
-
-## Flights to York Landing, Manitoba
 
 ## **About York Landing:**
 
@@ -62,8 +58,6 @@ York Landing Airport sits directly beside the community and provides practical f
 
 * York Landing appeals to travelers interested in remote northern scenery, boating, fishing, river travel, and access to the Split Lake and Nelson River area. It also serves as a practical destination for community visits and regional work travel.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 Wheel plane charters are the most practical way to reach York Landing, using turboprop and utility aircraft suited to remote northern routes and crushed-rock runway operations.
@@ -79,12 +73,6 @@ Float plane charters can be useful around the Split Lake and Nelson River area d
 Helicopter charters can assist with remote site access, short-range regional transfers, community support travel, and custom trips where direct landing flexibility matters more than runway access.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to York Landing or Any Destination Throughout Canada or the USA
-
-## York Landing Charter Flight FAQ
 
 ## **What airport serves York Landing, Manitoba?**
 
@@ -215,7 +203,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

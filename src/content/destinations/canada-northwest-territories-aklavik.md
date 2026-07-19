@@ -14,12 +14,6 @@ Charter Flights To Aklavik, NWT
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Aklavik](#collapseOne1)
-
 ### About Aklavik Northwest Territories and Location
 
 Aklavik, nestled in the vast wilderness of the Northwest Territories, offers a unique blend of cultural heritage and natural beauty. This remote community, accessible only by "charter flights" and waterways during the summer, is a gateway to exploring the untouched landscapes of the North. Visitors are drawn to Aklavik for its rich history, traditional lifestyles, and the opportunity to witness the spectacular Northern Lights.
@@ -74,15 +68,9 @@ The River's Edge Inn in Aklavik provides cozy accommodations for travelers looki
 
 The area around Aklavik is a paradise for outdoor enthusiasts. With activities ranging from fishing in the pristine waters of the Taltson River to hunting, kayaking, and snowmobiling, there's no shortage of adventure. During the winter months, the Northern Lights provide a breathtaking natural display. Local companies like Arctic Adventure Tours offer guided experiences, ensuring visitors capture the full beauty and thrill of the Northwest Territories.
 
----
-
-## Turbo Prop / Piston Aircraft Charter Flights
-
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 The Aklavik Airport (YKD) is a public use airport owned and operated by the Northwest Territories Government. The gravel runway is 3,000 feet in length.
-
-## NWT Float Plane Charter Flights
 
 ### Float Plane Charters - Receive 3 Competitive Quotes
 
@@ -91,16 +79,6 @@ There is not much in the way of float plane activity in the Aklavik region. Most
 ## NWT Helicopter Charter Flights
 
 **Community Access and Support:** Helicopters provide vital links for First Nations communities, especially those without road access, enabling the transport of goods, medical supplies, and essential services.
-
----
-
----
-
----
-
----
-
----
 
 ## Quick Links To Over 40 Air Charter Destinations Across Northwest Territories
 
@@ -148,7 +126,3 @@ There is not much in the way of float plane activity in the Aklavik region. Most
 * [Whati](/canada/northwest-territories/whati)
 * [Wrigley](/canada/northwest-territories/wrigley)
 * [Yellowknife](/canada/northwest-territories/yellowknife)
-
----
-
----

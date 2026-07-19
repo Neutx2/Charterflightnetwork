@@ -10,13 +10,10 @@ region: "canada"
 province: "Manitoba"
 provinceSlug: "manitoba"
 city: "Thompson"
-faqs: [{"q": "What airport serves Thompson, Manitoba?", "a": "Thompson Airport serves the city and is located about three nautical miles north of Thompson. It is one of the most important aviation gateways in northern Manitoba and supports a wide mix of charter and scheduled operations."}, {"q": "Can I arrange a charter flight to Thompson from Winnipeg?", "a": "Yes. Winnipeg is one of the most common starting points for Thompson charter flights, and other Manitoba airports can also be used depending on passenger count, payload needs, aircraft type, and trip timing."}, {"q": "What makes Thompson important for northern charter travel?", "a": "Thompson functions as a major hub for northern Manitoba travel, supporting mining and business aviation, cargo shipments, helicopter work, and onward access to many remote communities, lodges, and industrial locations."}, {"q": "What can visitors do in Thompson?", "a": "Visitors come to Thompson for northern lights viewing, fishing, snowmobiling, hiking, and trips to attractions such as Paint Lake Provincial Park and Pisew Falls. The city also has hotels, restaurants, and transportation services for overnight stays."}]
 ---
 The community of Thompson is located just over 400 air miles north of Winnipeg on the Nelson River. There are many reasons for taking a charter flight to Thompson Manitoba. Some fly to Thompson for business, others come to this far northern community to begin a unique and remote wilderness fishing adventure. Charter Flight Network can assist you with arranging charter flights from any airport across Canada or throughout the USA.
 
 [Request Charter Quote](#QuoteForm)
-
----
 
 ## *Manitoba Charter Flight Links*
 
@@ -27,8 +24,6 @@ The community of Thompson is located just over 400 air miles north of Winnipeg o
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 
 [Charter Flights St Andrews Airport](/canada/manitoba/st-andrews)
-
-## Flights to Thompson, Manitoba
 
 ## **About Thompson:**
 
@@ -63,8 +58,6 @@ Thompson Airport is located about three nautical miles north of the city and ser
 
 * Thompson draws visitors for northern lights viewing, fishing, hiking, skiing, snowmobiling, and day trips to Pisew Falls and Paint Lake Provincial Park. It also works well as a staging point for wilderness adventures and northern Manitoba lodge travel.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 Wheel plane charters to Thompson are ideal for mining travel, corporate trips, government work, cargo support, and fast northern access from Winnipeg and many regional Manitoba airports.
@@ -80,12 +73,6 @@ Float plane charters from the Thompson region can support fishing lodges, remote
 Helicopter charters around Thompson provide direct access for exploration crews, utility work, aerial surveys, remote camps, and sites where no runway or water landing area is available.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to Thompson or Any Destination Throughout Canada or the USA
-
-## Frequently Asked Questions About Charter Flights to Thompson
 
 ## What airport serves Thompson, Manitoba?
 
@@ -212,7 +199,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

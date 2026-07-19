@@ -11,18 +11,10 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Quilchena"
 ---
-## Request A Charter Quote Directly From Any Of Our Featured Charter Airlines or Use Our Free Charter Quote Request Service an Receive Up To 3 Competitive Quotes
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
-### [Charter Flights To Quilchena](#collapseOne1)
-
 ### Float Plane Charter flights to Quilchena located in south central interior region of British Columbia on the eastern shores of Nicola Lake south of Kamloops.
 
 There once was an operational airport located in Quilchena, however it appears that it is no longer a usable airport. The runway was 2300 feet long with a gravel surface making accessible to a small number of charter aircraft. Your best alternative for a private charter flight to the Quilchena region is to book a flight direct to the Kamloops airport and then take a rental car from that point. There is a small hotel and golf course located in Quilchena.
 You may however, be able to book a float plane charter flight direct to Nicola Lake and the town of Quilchena. Check with your air charter service provider for availability and pricing.
-
----
 
 ## Quilchena Wheel Plane Charter Flights
 
@@ -35,20 +27,6 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 ## Quilchena Helicopter Charter Flights
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -193,9 +171,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

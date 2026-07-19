@@ -12,10 +12,6 @@ city: "Voisey's Bay"
 ---
 Charter Flights To Voisey's Bay Newfoundland / Labrador
 
----
-
-### [Charter Flights To Voisey's Bay](#collapseOne1)
-
 ### About Voisey's Bay Newfoundland / Labrador
 
 If You Are In The Mining Or Mine Service Industry And You Need To Send Parts and/or Personnel To Voisey's Bay From Sudbury or Toronto - Charter Flight Network Can Provide You With The Most Convenient Travel Options.A One Day Sales or Service Visit To Voisey's Bay Usually Means 3 - 4 Days Away From The Office. Our Direct Charter Flights Can Save You Two Days Of Travel Time.
@@ -56,12 +52,6 @@ Voisey's Bay remains an important asset for the mining industry in Newfoundland 
 
 Overall, Voisey's Bay is a world-class mineral deposit that has played a significant role in the economic development of Newfoundland and Labrador. While it presents opportunities for economic growth and development, it also raises important environmental and social considerations that must be carefully managed.
 
----
-
----
-
-## Wheel Plane Charter Flights
-
 ### Chrono Aviation
 
 With a fleet of modern aircraft and experienced pilots, Chrono Aviation offers charter flights to a wide range of destinations across North America and beyond.
@@ -74,8 +64,6 @@ From their base in Grand Manan, NB, Atlantic Charters provides quality air chart
 
 Receive up to 3 competitive charter quotes directly from the airlines who operate wheel plane / float plane and helicopter charter services. We source your request to our Network Members who are best positioned and equipped to provide the service you require. Each company sends a competitive quote directly to your email..
 
----
-
 ### Breton Air Inc.
 
 Breton Air operates the Bell 206 L4 and the Bell 407 helicopters from its base in Sydney Nova Scotia. Breton air is considered as the #1 choice for helicopter charters and utility services in Atlantic Canada and provides charter flights to some of Atlantic Canada's most exclusive lodges, retreats and golf courses.
@@ -84,8 +72,6 @@ Breton Air operates the Bell 206 L4 and the Bell 407 helicopters from its base i
 
 Receive up to 3 competitive charter quotes directly from the helicopter charter companies best positioned and equipped to provide the services you require
 
-## Float Plane Charter Flights
-
 ### Norpaq Aviation
 
 Norpaq Aviation provides service to hunting and fishing groups, mining and exploration companies, natural resource, tourism, government agencies throughout all regions of northern Quebec / Nunavik. Aircraft include De Havilland Turbine Otters and Beavers operated on floats and wheel skis.
@@ -93,10 +79,6 @@ Norpaq Aviation provides service to hunting and fishing groups, mining and explo
 ### Float Plane Charters / 3 Competitive Quotes
 
 Use this link if you are searching for float plane charters anywhere in Newfoundland / Labrador and would like to receive up to 3 competitive quotes from the charter companies best positioned and equipped to provide the services you require
-
----
-
----
 
 ## Quick Links To 38 Air Charter Destinations Across Newfoundland and Labrador
 
@@ -142,7 +124,3 @@ Use this link if you are searching for float plane charters anywhere in Newfound
 * [Wabush](/canada/newfoundland/wabush)
 * [Williams Harbour](/canada/newfoundland/williams-harbour)
 * [Winterland](/canada/newfoundland/winterland)
-
----
-
----

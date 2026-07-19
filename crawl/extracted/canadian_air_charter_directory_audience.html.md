@@ -84,9 +84,6 @@ Search More North American Air Charter Destinations
 
 [MAXIMIZE EXPOSURE WITH PREMIUM LISTING](canadian_air_charter_directory_premium.html)
 
-1100 Memorial Avenue
-Suite
-
 Thunder Bay, Ontario
 
 ## Advertise

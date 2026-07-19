@@ -136,6 +136,8 @@ KILL_PREFIXES = (
     "here is how we do that",
     "when you complete and submit the form below",
     "request a free charter quote",
+    "option #2. with just one click",
+    "as additional northern ontario community pages are completed",
 )
 
 
@@ -215,11 +217,19 @@ def main():
     out.mkdir(exist_ok=True)
     for url, lines in page_lines.items():
         kept = []
+        killing_paragraph = False
         for ln in lines:
             if NAV_LINK_LINE.match(ln):
                 continue  # leftover nav on pages whose menu isn't a <nav>
+            if not ln.strip() or ln.lstrip().startswith("#"):
+                killing_paragraph = False
+            elif killing_paragraph:
+                continue  # continuation lines of a killed wrapped paragraph
             t = norm_line(ln)
             if t and (t in boiler or is_killed(t)):
+                # kill the rest of this wrapped paragraph too (until blank/heading)
+                if not ln.lstrip().startswith("#"):
+                    killing_paragraph = True
                 continue
             kept.append(ln)
         # collapse blanks again

@@ -11,21 +11,9 @@ province: "Quebec"
 provinceSlug: "quebec"
 city: "Val D Or"
 ---
----
-
-## Receive Competitive Charter Quotes Directly From The Airlines who Provide Wheel Plane / Float Plane or Helicopter Charter Flights To Val d'Or
-
-### No Cost, No Obligation. Review The Quotes and Then Deal Directly With The Charter Service Of Your Choice.
-
----
-
-### [Charter Flights To Val d'Or](#collapseOne1)
-
 ### About Flights To Val d'Or
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
-
----
 
 ### Competitive Charter Quotes
 
@@ -45,10 +33,6 @@ With just one click, you can receive up to 3 competitive charter flight quotes d
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
 
----
-
-## Private Jet Charters
-
 ### Jet Charters
 
 The Val d'Or airport has a 10,000 foot asphalt runway, making it accessible to all light, medium and large jet charter aircraft. Contact us for availability and competitive quotes.
@@ -62,8 +46,6 @@ The closest wheel plane charter service is based in Rouyn-Noranda which is 60 ai
 Temagami Ontario is the closest float plane charter service, located 120 air miles south west of Val D'Or. Lakeland Airways operates a De Havilland Beaver. Submit our Free Charter Quote Request Form and receive up to 3 Competitive Quotes.
 
 A company by the name of Helicopteres Transit Ltee operates a Bell 206L out of Val D'Or. If you would like to receive a selection of competitive quotes, submit our Free Charter Quote Request Form and receive up to 3 Competitive Quotes.
-
-## Popular Charter Flights To Val d'Or, Quebec
 
 ### [Chibougamau Charter Flights](/canada/quebec/chibougamau)
 
@@ -81,19 +63,9 @@ It is 315 air miles between Quebec City and Val d'Or. View Wheel Plane, Float Pl
 
 It is 175 air miles between Sudbury and Val d'Or. View Wheel Plane, Float Plane & Helicopter Charter Services based in Sudbury
 
----
-
----
-
 ### The Following Charter Airlines Provide Quotes For Our Clients Across Quebec, Ontario, Manitoba, Nova Scotia & Nunavut
 
----
-
----
-
 Charter Flight Network Has Been Online Since 2008 And Has Established The Largest Network Of Wheel Plane, Float Plane & Helicopter Charter Services In Every Province & Territory of Canada Who Participate In Our Charter Quote Request Service
-
----
 
 ## Quick Links To 86 Air Charter Destinations Across Quebec
 
@@ -186,7 +158,3 @@ Charter Flight Network Has Been Online Since 2008 And Has Established The Larges
 * [Val-d`Or](/canada/quebec/val-d-or)
 * [Waskaganish](/canada/quebec/waskaganish)
 * [Wemindji](/canada/quebec/wemindji)
-
----
-
----

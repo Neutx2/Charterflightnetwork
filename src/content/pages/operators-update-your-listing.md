@@ -6,16 +6,6 @@ slug: "operators/update-your-listing"
 thin: false
 region: "global"
 ---
----
-
-### If You Have Not Checked Out Your Free Canadian Air Charter Directory Listing - Do It Now!
-
-## How To Submit Changes / Corrections & Additions To Your Free Canadian Air Charter Directory Listing
-
-## Use This Form To
-
-### * Submit changes & corrections to your Free listing For Wheel Plane / Float Plane / Helicopter Charter Services * Add satellite bases * Submit changes to aircraft in your fleet * Submit changes to contact information * Submit a new listing
-
 ### Here Is What Is Included In Your Free Directory Listing
 
 * Your company name in **Bold Face Type**
@@ -39,10 +29,6 @@ If you have changes or additions to your Free Directory Listing - [Use This Form
 
 If your Charter Company is not listed, we apologize. We invite your to submit your Free Listing which will go live within 24 hours of receiving your information.
 
-### [Use this form to submit a new Free Listing](https://www.cfnmembers.com/free-charter-directory-listing)
-
----
-
 ### Upgrade To A Premium Listing
 
 * Feature Photo Image
@@ -50,9 +36,3 @@ If your Charter Company is not listed, we apologize. We invite your to submit yo
 * 150 Characters Of Descriptive Text
 * Feature Listings On Any 8 Charter Destination Pages In Charter Flight Network Website *(Subject To Availability)*
 * Includes Our Charter Quote Request Service
-
-### [Full Details On Premium Upgrade](/operators/listing-options)
-
----
-
----

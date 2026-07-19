@@ -97,8 +97,6 @@ P: [1-800-411-0330](tel:+18004110330)
 **Aircraft Types:** De Havilland Beaver / De Havilland Turbo Otter
 **Service Type:** Floats
 
-## Atikokan Float Plane Air Charter
-
 ## Atikokan Aero Services Limited
 
 Atikokan, ON P0T 1C0
@@ -149,8 +147,6 @@ P: [(705) 849-2389](tel:+17058492389)
 **Aircraft Types:** Cessna 180 / De Havilland Beaver
 **Service Type:** Floats
 
-## Chapleau Float Plane Air Charter
-
 ## Canadian Airways Ltd
 
 Chapleau, ON P0M 1K0
@@ -158,8 +154,6 @@ P: [705-864-0442 / 705-864-0448](tel:+17058640442)
 **Base Locations:** Chapleau
 **Aircraft Types:** De Havilland Beaver
 **Service Type:** Floats
-
-## Cochrane Float Plane Air Charter
 
 ## Cochrane Air Services
 
@@ -303,8 +297,6 @@ P: [(807) 482-2362](tel:+18074822362)
 
 [Back to Main Canadian Menu](/)
 
-## Explore Related Directories
-
 ## [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
 Link to the main Canadian Air Charter Directory listing wheel plane, float plane and helicopter charter services in every province and territory of Canada.
@@ -326,8 +318,6 @@ Browse float plane charter airlines in every province and territory and find the
 **Details:** Submit your charter quote request through our free service and it forwards to up to 3 charter operators best positioned and equipped for your flight.
 
 [Request a Quote](/quote)
-
-## Ontario Float Plane Charter Directory FAQ
 
 ## Which Ontario float plane locations are covered on Page 1?
 

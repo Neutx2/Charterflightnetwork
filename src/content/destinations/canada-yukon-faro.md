@@ -14,12 +14,6 @@ Charter Flights To Faro, Yukon Territory
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Faro](#collapseOne1)
-
 ### About Faro, Yukon and Location
 
 Located in the heart of the Yukon, Faro is a gateway to the pristine wilderness that defines Canada's North. This secluded town offers visitors a unique blend of natural beauty, wildlife, and quietude. Faro's stunning landscapes and the opportunity to explore untouched territories make it a perfect destination for those looking to escape the hustle and bustle of city life. With charter flights, reaching this remote haven has never been easier.
@@ -84,10 +78,6 @@ Embark on guided kayak and canoe trips through the pristine waterways surroundin
 
 Experience the magic of the Northern Lights in Faro
 
----
-
-## Faro Wheel Plane Charter Flights
-
 ### Tintina Air Inc.
 
 Tintina Air's versatile fleet allows them to offer a wide range of charter services, including IFR and VFR charter flights, with aircraft equipped to land on gravel runways, unprepared air strips as well as snow/ice surfaces.
@@ -96,29 +86,15 @@ Tintina Air's versatile fleet allows them to offer a wide range of charter servi
 
 Faro is a small community in central Yukon - along the Pelly River and just off the Robert Campbell Highway which runs north from Watson Lake. The town is served by a public use airport 1.5 miles south of town. The single gravel runway is 3,997 feet in length - making it accessible by most of the charter aircraft operating in the region.
 
-## Faro Float Plane Charter Flights
-
 ### Float Plane Charters - Receive 3 Competitive Quotes
 
 The closest float plane charter base to Faro is located 95 air miles west in Carmacks. You have access to a Cessna 185 if you have up to 3 passengers or a De Havilland Beaver if you have 4 - 6 passengers or more baggage that will fit in the Cessna. Use our free charter quote request service and receive up to 3 competitive quotes.
-
-## Faro Helicopter Charter Flights
 
 ### Fireweed Helicopters Ltd
 
 The smallest helicopter in the Fireweed fleet, is the Bell 206B JetRanger, suitable for sightseeing fllights or moving small work crews and gear, carries 4 passengers, with a maximum payload of 1000 lbs both internally and externally​​.
 
 If you have a project in Faro that requires Helicopter support, we can get you up to 3 competitive quotes directly from the helicopter charter services. Let us know your details and we will source out to all opertors in the region.
-
----
-
----
-
----
-
----
-
----
 
 ## Quick Links To Over 20 Air Charter Destinations Across Yukon Territory
 
@@ -149,7 +125,3 @@ If you have a project in Faro that requires Helicopter support, we can get you u
 * [Twin Creeks](charter_flights_Twin Creeks_yt.html)
 * [Watson Lake](/canada/yukon/watson-lake)
 * [Whitehorse](/canada/yukon/whitehorse)
-
----
-
----

@@ -9,8 +9,6 @@ region: "global"
 ---
 Private charters between Toronto and Chicago link two major business capitals in about ninety minutes, with schedule control, privacy, and direct access to dedicated FBO lounges. Choose your preferred Toronto departure—Pearson or Billy Bishop—and arrive at O'Hare or Midway based on proximity to your final meeting location.
 
-## Toronto Departure Airports
-
 ## Toronto Pearson International (CYYZ)
 
 About 22 km west of downtown, Pearson's south-field general aviation area groups leading FBOs (Skyservice, Signature, Execaire) with customs, hangars, and crew services. Aircraft range from efficient turboprops (PC-12, King Air) to midsize and long-range jets (Citation XLS, Challenger, Gulfstream) suitable for any passenger count or runway requirement.
@@ -28,8 +26,6 @@ Just minutes from the financial district via the pedestrian tunnel or ferry, Bil
 ## Your Toronto → Chicago Charter Experience
 
 Set your own wheels-up time, board directly from a private lounge, and fly nonstop in quiet cabins with Wi-Fi and catering on request. Typical flight time is about 1h25, often faster curb-to-curb than commercial even on light traffic days.
-
-## Chicago Arrival Airports
 
 ## O'Hare International (KORD)
 

@@ -14,12 +14,6 @@ Charter Flights To Brantford, Ontario
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Toronto Brantford Airport](#collapseOne1)
-
 ### Brantford Float Plane Tours & Charters
 
 There are no float plane charter services available out of the Brantford Airport. The closest float plane charter is based at the Billy Bishop airport. You can however request that an amphibious float plane picks you up at the Brantford Airport.
@@ -32,19 +26,11 @@ You can fly Wheel Plane charter flights direct to the Brantford Airport located 
 
 Helicopter charter flights or sight seeing tours can be arranged out of the Brantford Airport. You can receive up to 3 competitive quotes directly from the helicopter charter services using our no cost no obligation Charter Quote Request Service.
 
-## Brantford Charter Flight Options
-
-## About Brantford
-
 ### Location Of Brantford
 
 Brantford is located on Hwy 403 about half way between Hamilton and Woodstock and south of Kitchener. The area is well known for agriculture and light industrial and tech firms.
 
 [View All Southern Ontario Chater Destinations](#BC Charter Destinations)
-
----
-
-## Charter Flights To Windsor
 
 ### Charter Flights From Brantford to Windsor
 
@@ -54,10 +40,6 @@ It is 150 air miles from Brantford to Windsor. A direct charter flight will allo
 
 [View All Southern Ontario Chater Destinations](#BC Charter Destinations)
 
----
-
-## Charter Flights To Ottawa From Brantford
-
 ### Brantford Charter Flights To Ottawa
 
 It is 280 air miles from Brantford to Ottawa. Depending on the type of aircraft, the flight time would be just over one hour. If you only have a few hours of business in Ottawa, you can fly from Brantford in the morning, conduct your business and return home that afternoon
@@ -66,19 +48,11 @@ It is 280 air miles from Brantford to Ottawa. Depending on the type of aircraft,
 
 [View All Southern Ontario Chater Destinations](#BC Charter Destinations)
 
----
-
-## Sudbury Charter Flights To Brantford
-
 ### Charter Flights From Sudbury
 
 It is 250 air miles from Brantford to Sudbury with an average flight time of just under one hour. Compare this to 5 hours of driving and it is easy to see why a private charter flight saves you time and money. You can easily cut a two day trip down to just a matter of hours.
 
 [View All Southern Ontario Chater Destinations](#BC Charter Destinations)
-
----
-
-## Charter Flights To USA from Brantford
 
 ### Charter Flights Between Brantford and USA
 
@@ -89,10 +63,6 @@ When you fly private charter flights to the USA there is no waiting in line, no 
 [CHARTER QUOTE](/quote)
 
 [View All Southern Ontario Chater Destinations](#BC Charter Destinations)
-
----
-
----
 
 ## Brantford Wheel Plane Charter Flights
 
@@ -106,22 +76,6 @@ There are no float plane charter services in Brantford. Toronto Billy Bishop is 
 
 There are no helicopter charter services based in Brantford. We can however, bring one in from the Kitchener area. Let us know your needs and we will get you price quotes and availability.
 
----
-
----
-
-## Brantford Charter Quote Request Form
-
----
-
-### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
-
----
-
----
-
----
-
 ## Quick Links To Over 50 Air Charter Destinations Across Southern Ontario
 
 [Click Here For Links To Northern and Northwestern Ontario Destinations](/canada/northern-ontario)
@@ -130,7 +84,7 @@ There are no helicopter charter services based in Brantford. We can however, bri
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -150,7 +104,7 @@ There are no helicopter charter services based in Brantford. We can however, bri
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -182,15 +136,11 @@ There are no helicopter charter services based in Brantford. We can however, bri
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
----
 
 <div class="card mb-3" style="max-width: 750px;">
 <div class="row no-gutters">

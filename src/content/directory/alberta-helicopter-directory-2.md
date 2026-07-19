@@ -49,8 +49,6 @@ Click for a quick index of Alberta helicopter charter locations
 **Details:** Submit one charter quote request and it will forward to the air charter services best positioned and equipped to provide your required Alberta helicopter charter service.
 Each company prepares a competitive quote for your review. If you receive an acceptable quote, you finalize scheduling and payment directly with the charter airline of your choice.
 
-## Fort McMurray Helicopter Air Charter
-
 ## Vortex Helicopters
 
 Fort McMurray, AB
@@ -95,8 +93,6 @@ P: [(780) 539-4417](tel:+17805394417)
 **Aircraft Types:** Bell 206 L / Eurocopter AS350 B2
 **Service Type:** Helicopter
 
-## High River, Alberta Helicopter Air Charter
-
 ## Ram Head Outfitters Ltd
 
 High River, AB
@@ -104,8 +100,6 @@ P: [780-446-8774](tel:+17804468774)
 **Base Locations:** High River, AB
 **Aircraft Types:** Robinson R44 II
 **Service Type:** Helicopter
-
-## Manning, Alberta Helicopter Air Charter
 
 ## Valley B Aviation
 
@@ -127,8 +121,6 @@ P: [403-528-3406](tel:+14035283406)
 **Aircraft Types:** Bell 206 L / MBB BK117 B
 **Service Type:** Helicopter
 
-## Nordegg Helicopter Air Charter
-
 ## Ahlstrom Air Ltd.
 
 Nordegg, AB
@@ -136,8 +128,6 @@ P: [(403) 721-2203](tel:+14037212203)
 **Base Locations:** Nordegg, AB
 **Aircraft Types:** Eurocopter AS350 B2
 **Service Type:** Helicopter
-
-## Okotoks Helicopter Air Charter
 
 ## Advanced Airborne Applicators Ltd
 
@@ -164,8 +154,6 @@ P: [403-350-1590](tel:+14033501590)
 **Base Locations:** Okotoks, AB
 **Aircraft Types:** Aerospatiale AS350 BA / Robinson R22 Beta / Robinson R44 II
 **Service Type:** Helicopter
-
-## Red Deer, Alberta Helicopter Air Charter
 
 ## Heli Source Ltd.
 
@@ -223,8 +211,6 @@ P: [(780) 849-2222](tel:+17808492222)
 **Aircraft Types:** Aerospatiale AS350 B2 / Bell 205 / Bell 206 B / Bell 212
 **Service Type:** Helicopter
 
-## Whitecourt, Alberta Helicopter Air Charter
-
 ## Airborne Energy Solutions Inc
 
 Whitecourt, AB
@@ -259,8 +245,6 @@ P: [780-778-6600](tel:+17807786600)
 
 [Back to Main Canadian Menu](/directory/canadian-air-charter-directory-1)
 
-## Explore Related Directories
-
 ## [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
 Link to the main Canadian Air Charter Directory listing wheel plane, float plane and helicopter charter services in every province and territory of Canada.
@@ -282,8 +266,6 @@ When you need a float plane charter, find float plane operators across Canada in
 **Details:** Submit your charter quote request through our free quote request service. It forwards to up to 3 air charter services best positioned and equipped to provide the service you require.
 
 [Request a Quote](/quote)
-
-## Alberta Helicopter Charter Directory FAQ
 
 ## Which Alberta helicopter locations are covered on page 2?
 

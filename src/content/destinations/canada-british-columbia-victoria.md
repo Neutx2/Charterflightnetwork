@@ -12,10 +12,6 @@ provinceSlug: "british-columbia"
 city: "Victoria"
 airportCode: "YYJ"
 ---
-## This Page Features Charter Airlines Serving Victoria — Wheel Plane / Float Plane / Helicopter
-
----
-
 ### About Flights To Victoria, BC
 
 Victoria, British Columbia blends coastal scenery with vibrant capital-city culture,
@@ -80,10 +76,6 @@ Receive multiple competitive quotes for jets, turboprops, and floatplanes throug
 Your request is sent to multiple charter airlines best equipped to provide service. Each prepares a competitive quote, and you deal directly with the carrier you choose.
 
 **\*Privacy:** We do not share personal information. Airlines receive only a request ID.
-
-## Submit Form Below or Phone (807) 472-1955
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -229,11 +221,5 @@ Search charter flights to any of the following British Columbia destinations
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
 
----
-
 Every quote request is forwarded to charter airlines best equipped to provide the flight.
 [Learn how your airline can join our list](/operators).
-
-### CharterFlightNetwork.com is not a charter service provider. We do not own or operate aircraft. All bookings occur directly between the client and the air carrier.
-
----

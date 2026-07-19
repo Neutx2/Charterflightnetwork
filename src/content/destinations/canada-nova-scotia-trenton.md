@@ -14,10 +14,6 @@ Charter Flights To Trenton, Nova Scotia
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
 ### [Charter Flights To Trenton](#collapseOne1)
 
 About Trenton Nova Scotia - There is a public use airport for Wheel Plane Charters.
@@ -32,15 +28,11 @@ Trenton is a town located in Pictou County, Nova Scotia, Canada. It is situated 
 
 In addition to the East River Trail, Trenton and the surrounding area offer opportunities for outdoor activities such as hiking, fishing, and boating. Nearby parks and natural areas provide scenic spots for picnicking and wildlife viewing..
 
-## Wheel Plane Charter Flights
-
 ### Atlantic Charters
 
 Trenton has a rich history closely tied to its industrial roots. The town was established in the mid-19th century, primarily as a center for coal mining and manufacturing. Coal mining played a significant role in the local economy for many years, attracting settlers and workers to the area. In the early 20th century.
 
 Historically, Trenton's economy has been centered around coal mining and steel manufacturing. However, like many industrial towns, Trenton has undergone economic changes over the years. While coal mining has declined, other sectors such as healthcare, retail, and services have become increasingly important.
-
----
 
 ## Quick Links To Over A Dozen Air Charter Destinations Across Nova Scotia
 
@@ -62,7 +54,3 @@ Historically, Trenton's economy has been centered around coal mining and steel m
 * [Trenton](/canada/nova-scotia/trenton)
 * [Waterville](/canada/nova-scotia/waterville)
 * [Yarmouth](/canada/nova-scotia/yarmouth)
-
----
-
----

@@ -10,13 +10,7 @@ province: "Quebec"
 provinceSlug: "quebec"
 city: "Sherbrooke"
 ---
----
-
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
-
----
-
-### About Flights To Sherbrooke
 
 ### Location
 
@@ -31,10 +25,6 @@ If you are traveling to Sherbrooke and want to avoid the crowds and congestion o
 With just one click, you can receive up to 3 competitive charter flight quotes directly from the airlines who provide service throughout Sherbrooke .
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
-
----
-
----
 
 ## Quick Links To 86 Air Charter Destinations Across Quebec
 
@@ -127,7 +117,3 @@ With just one click, you can receive up to 3 competitive charter flight quotes d
 * [Val-d`Or](/canada/quebec/val-d-or)
 * [Waskaganish](/canada/quebec/waskaganish)
 * [Wemindji](/canada/quebec/wemindji)
-
----
-
----

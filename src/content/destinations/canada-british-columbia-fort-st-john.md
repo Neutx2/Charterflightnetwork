@@ -11,12 +11,6 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Fort St John"
 ---
-### You can book charter flights to the Fort St John Airport located in the northeastern region of British Columbia near the border with Alberta. The airport has two runways each of which are asphalt surface with a length of just over 6,600 feet.
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
-### [Charter Flights To Fort St John](#collapseOne1)
-
 ### **Scheduled Flights To Fort St John**
 
 In addition to charter flights, there are also scheduled flights to Fort St John operated by regional and domestic Airlines. The airport has service from Air Canada Express, Central Mountain Air, North Cariboo Air and WestJet Encore. Direct flights are available between Fort St John and Vancouver, Dawson Creek, Edmonton, Fort Nelson and Prince George,
@@ -35,8 +29,6 @@ If you require helicopter charter service contact Bailey Helicopters in Fort St 
 
 There are numerous adventure destinations available by wheel plane, float plane and helicopter charter flights out of Fort St John. Use the above link to discover your ideal adventure vacation.
 
----
-
 ## Fort St John Wheel Plane Charter Flights
 
 We make it easy and convenient to receive up to 3 competitive wheel plane charter quotes for flights to or from airports across BC, throughout Canada and into the USA
@@ -48,20 +40,6 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 ## Fort St John Helicopter Charter Flights
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -206,9 +184,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

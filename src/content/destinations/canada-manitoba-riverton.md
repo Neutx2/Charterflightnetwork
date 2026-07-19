@@ -15,8 +15,6 @@ Riverton is an Interlake community near the Icelandic River and Lake Winnipeg, k
 
 [Request Charter Quote](#QuoteForm)
 
----
-
 ## *Manitoba Charter Flight Links*
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
@@ -26,8 +24,6 @@ Riverton is an Interlake community near the Icelandic River and Lake Winnipeg, k
 [Charter Flights Gimli](/canada/manitoba/gimli)
 
 Charter Flights Arborg
-
-## Flights to Riverton, Manitoba
 
 ## **About Riverton:**
 
@@ -62,8 +58,6 @@ Riverton is a small Interlake community on the Icelandic River, north of Gimli a
 
 * Visitors to Riverton can enjoy Sandy Bar Beach, see Lundi the Moose, and explore heritage displays in the restored train station museum. These attractions make Riverton a worthwhile stop for both leisure visits and regional travel.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 Wheel plane charter flights to Riverton require aircraft suited to a smaller grass and gravel aerodrome. Charter Flight Network can help source quotes from operators able to work with that runway surface and length.
@@ -79,12 +73,6 @@ Seasonal float plane access may still be practical for the broader Riverton and 
 For quick and flexible air transportation direct to Riverton, helicopter charter can be a practical alternative when fixed-wing aircraft are limited by runway conditions or when direct point-to-point access is preferred.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to Riverton or Any Destination Throughout Canada or the USA
-
-## Flights to Riverton, MB FAQ
 
 ## What airport serves Riverton, Manitoba?
 
@@ -205,7 +193,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

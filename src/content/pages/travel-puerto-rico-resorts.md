@@ -8,8 +8,6 @@ thin: false
 quoteSubject: "Puerto Rico Charters"
 region: "global"
 ---
-## Featured Puerto Rico Resorts / Hotels
-
 ### [The St. Regis Bahia Beach Resort in Puerto Rico](https://www.marriott.com/en-us/hotels/sjuxr-the-st-regis-bahia-beach-resort-puerto-rico/overview/)
 
 The St. Regis Bahia Beach Resort in Puerto Rico is a luxurious beachfront property nestled within a nature reserve on the northeastern coast of the island. Here's an overview of what you can expect:
@@ -43,8 +41,6 @@ The resort offers a range of activities and amenities to keep guests entertained
 **Tennis:** Tennis enthusiasts can take advantage of the resort's tennis courts for a friendly match or private lesson.
 **Spa:** The Remède Spa offers a range of indulgent treatments and therapies designed to promote relaxation and rejuvenation.
 
-## Other Puerto Rico Resorts & Hotels
-
 ### Dorado Beach, a Ritz-Carlton Reserve:
 
 This luxurious resort offers stunning beachfront accommodations, world-class dining, and access to exclusive amenities such as championship golf courses and a renowned spa
@@ -69,8 +65,6 @@ Located in the vibrant Condado district, this stylish resort features modern acc
 
 Set on 500 acres of lush tropical landscape in Rio Grande, this resort offers spacious rooms and suites, two championship golf courses, a sprawling pool complex, tennis courts, and a variety of restaurants and bars.
 
-## Video Links To Featured Puerto Rico Resorts / Activities / Adventures
-
 ### [Video: Featured Puerto Rico Golf Course](/travel/puerto-rico-golf)
 
 Plus Listings and Links to golf courses throughout Puerto Rico
@@ -82,12 +76,6 @@ Plus listings and links to numerous Puerto Rico charter fishing boat services
 ### [Video: Featured Private Sailboat & Yacht Charters](/travel/puerto-rico-yachts)
 
 Plus listings and links to Puerto Rico Sailboat & Yacht Charter Services.
-
----
-
----
-
----
 
 ## Links To Caribbean Air Charter Destinations
 
@@ -121,11 +109,3 @@ Seach Charter Flights To Any Of The Following Caribbean Destinations
 * [Virgin Islands (British)](/caribbean/british-virgin-islands)
 * [Virgin Islands (U.S.)](/caribbean/us-virgin-islands)
 * [Trinidad & Tobago](/caribbean/trinidad-tobago)
-
----
-
----
-
----
-
----

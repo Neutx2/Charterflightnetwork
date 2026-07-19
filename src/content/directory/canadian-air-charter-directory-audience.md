@@ -71,12 +71,6 @@ Mining Companies / Executive Team and Procurment Managers
 
 Mining Contractors
 
----
-
----
-
----
-
 Search More North American Air Charter Destinations
 
 [THE CANADIAN AIR CHARTER DIRECTORY](/directory/canadian-air-charter-directory-1)
@@ -90,9 +84,6 @@ Search More North American Air Charter Destinations
 [OUR AUDIENCE / YOUR TARGET MARKET](/directory/canadian-air-charter-directory-audience)
 
 [MAXIMIZE EXPOSURE WITH PREMIUM LISTING](/directory/canadian-air-charter-directory-premium)
-
-1100 Memorial Avenue
-Suite
 
 Thunder Bay, Ontario
 

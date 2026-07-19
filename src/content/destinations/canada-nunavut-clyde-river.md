@@ -12,14 +12,6 @@ city: "Clyde River"
 ---
 Charter Flights To Clyde River Nunavut
 
----
-
-## Receive Competitive Quotes For Any Clyde River Charter Flight - You Book Directly With The Charter Service Of Your Choice, Ensuring You Receive The Best Available Flight & Price Option
-
----
-
-### [Charter Flights To Clyde River, NU](#collapseOne1)
-
 ### Location
 
 The Inuit name for Clyde River is Kangiqtugaapik which translates to mean nice little inlet and is locate on the northeastern coastal area of Baffin Island. It is a very picturesque location with magnificient fiords surrounded by high mountains and steep cliffs. The majestic scenery of the area draws tourists from around the world who arrive by either scheduled flights or private charter flights. Private charter flights are the most convenient and quickest travel option but unless you have a group of 6 - 8 passengers the cost of a charter flight from many of the major Canadian cities to the south could be very cost prohibitive. Scheduled flights however are not cheap either. Airlines to the south enjoy a mass market which allows them to keep fares competitive, however airlines in the north have much higher operating costs and do not enjoy the same mass market and therefore the costs are much higher.
@@ -27,10 +19,6 @@ The Inuit name for Clyde River is Kangiqtugaapik which translates to mean nice l
 ### Clyde River Airport
 
 The airport is located 2.5 miles northeast of the community and has a single 3,500 foot runway making it accessible to a wide range of charter aircraft approved for gravel runway operations
-
----
-
-## Private Jet Charters
 
 ### Air Nunavut - Smooth Air Charter
 
@@ -40,8 +28,6 @@ Given its northern location, Clyde River offers excellent opportunities to witne
 
 Use our Free Charter Quote Request Service to receive up to 3 competitive Jet Charter Quotes for flights to Clyde River which is a small Inuit community located on the northeastern coast of Baffin Island in Nunavut, Canada. It is situated along Patricia Bay and is surrounded by the stunning Arctic landscapes characteristic of the region.
 
-## Turbo Prop Charter Flights
-
 ### Panorama Aviation
 
 Panorama Aviation provides charter flights to Clyde River located on the eastern coast of Baffin Island in Nunavut, Canada. It is situated on the shores of Patricia Bay, part of Davis Strait. Contact us for a no obligation quote
@@ -50,25 +36,11 @@ Visitors can book charter flights to Clyde River and experience numerous opportu
 
 There are no helicopter charter services based in Clyde River however charter flights are available from other Nunavut communities and southern Canada. You can receive up to 3 competitive quotes directly from the helicopter charter services when you complete and submit our charter quote request form.
 
-## Group Charters / Crew rotations
-
 ### Group Charters / Crew Rotations
 
 When you have 9 or more passengers to fly on a one time or ongoing basis, between Clyde River and any destination throughout Nunavut or Canada, request a no obligation quote from our Group Air Charter Department
 
-[REQUEST GROUP QUOTE](/canada/northern-ontario/group)
-
-## Nunavut Charter Quote Request Form
-
----
-
-### We Are Proud To Highlight The Following Charter Airlines Who Provide Quotes For Our Clients Across Nunavut, NWT, Ontario, Manitoba, Quebec
-
----
-
----
-
----
+[REQUEST GROUP QUOTE](/quote)
 
 ## Quick Links To 31 Air Charter Destinations Across Nunavut
 
@@ -135,7 +107,3 @@ When you have 9 or more passengers to fly on a one time or ongoing basis, betwee
 [Tanquary Fiord](/canada/nunavut/tanquary-fiord)
 
 [Whale Cove](/canada/nunavut/whale-cove)
-
----
-
----

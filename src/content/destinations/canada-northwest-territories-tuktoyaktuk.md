@@ -14,12 +14,6 @@ Charter Flights To Tuktoyaktuk, NWT
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Tuktoyaktuk](#collapseOne1)
-
 ### About Tuktoyaktuk Northwest Territories and Location
 
 Tuktoyaktuk, a unique coastal community in the Northwest Territories, stands on the shores of the Arctic Ocean. Renowned for its distinctive pingos, rich Inuvialuit culture, and the iconic ice road, Tuktoyaktuk is a gateway to unparalleled Arctic experiences. Accessible via charter flights, it offers visitors a chance to explore remote ice landscapes, engage with traditional ways of life, and witness the spectacular phenomenon of the midnight sun and northern lights.
@@ -78,22 +72,14 @@ End of the Road Inn features charming rooms and traditional Arctic hospitality, 
 
 Tuktoyaktuk is a paradise for adventure seekers, offering activities such as ice fishing, dog sledding, and snowmobile tours in winter, alongside kayaking, bird watching, and cultural tours in summer. The community's unique location allows for incredible wildlife sightings, including caribou, seals, and migratory birds. Local outfitters, such as Arctic Adventure Tours, provide guided experiences to explore the natural beauty and traditional lifestyle
 
----
-
-## NWT Private Jet Charter Flights
-
 ### Charter Flight Network - Receive 3 Competitive Quotes
 
 The Tuktoyaktuk/James Gruben Airport (YUB) has a 4,600 foot gravel runway and may be accessible to private jet charter aircraft that are certified for gravel operations. Ask us for jet charter quotes out of Calgary, Edmonton or any departure point across Canada and even USA.
-
-## Turbo Prop / Piston Aircraft Charter Flights
 
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 **Advantages for Business, Government and Service Operations**
  Charter Flights provide Direct Access to Remote Locations: such as Tuktoyaktuk or simply referred to as "Tuk" to locals. Wheel planes can land on short, unpaved airstrips closer to remote work sites, reducing or eliminating the need for additional ground transportation.
-
-## NWT Float Plane Charter Flights
 
 ### Float Plane Charters - Receive 3 Competitive Quotes
 
@@ -102,16 +88,6 @@ The Tuktoyaktuk/James Gruben Airport (YUB) has a 4,600 foot gravel runway and ma
 ## NWT Helicopter Charter Flights
 
 **Aerial Photography:** The remote regions of Canada are often the subject of of photo journlism projects and helicopters, especially when equipped with specialized mounts and stabilization systems, can provide a stable platform for high-quality, high-resolution photography and video recording.
-
----
-
----
-
----
-
----
-
----
 
 ## Quick Links To Over 40 Air Charter Destinations Across Northwest Territories
 
@@ -159,7 +135,3 @@ The Tuktoyaktuk/James Gruben Airport (YUB) has a 4,600 foot gravel runway and ma
 * [Whati](/canada/northwest-territories/whati)
 * [Wrigley](/canada/northwest-territories/wrigley)
 * [Yellowknife](/canada/northwest-territories/yellowknife)
-
----
-
----

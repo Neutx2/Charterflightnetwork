@@ -14,17 +14,9 @@ Charter Flights To Brockville, Ontario
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
 ### [Charter Flights To Brockville](#collapseOne1)
 
 Brockville is located along the St Lawrence River and Hwy 401 about half way between Cornwall and Kingston and south of Smiths Falls. The state of New York is just across the river to the south. If you have business meetings in the area, you can fly private charter flights direct to the Brockville Regional Tackaberry Airport located just 5 miles northwest of town. The airport has a 4500 foot asphalt runway which can accommodate a wide range of medium to large charter and corporate aircraft.
-
-## Brockville Air Charter Options
-
-## Charter Flights From Brockville
 
 ### Charter Flights
 
@@ -33,10 +25,6 @@ There are no air charter services based in Brockville. If you need a charter fli
 The quickest way to locate the air service and receive a quote for exactly what you require - is to use our no cost, no obligation charter quote request service. You will receive up to 3 competitive quotes.
 
 [AIR CHARTER QUOTE](/quote)
-
----
-
----
 
 ## Brockville Wheel Plane Charter Flights
 
@@ -50,22 +38,6 @@ There are no float plane charter services available in the Brockville area.
 
 The closest helicopter charter service is available out of the Kingston area. Let us know your requirements and we will get you competitive pricing and options.
 
----
-
----
-
-## Brockville Charter Quote Request Form
-
----
-
-### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
-
----
-
----
-
----
-
 ## Quick Links To Over 50 Air Charter Destinations Across Southern Ontario
 
 [Click Here For Links To Northern and Northwestern Ontario Destinations](/canada/northern-ontario)
@@ -74,7 +46,7 @@ The closest helicopter charter service is available out of the Kingston area. Le
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -94,7 +66,7 @@ The closest helicopter charter service is available out of the Kingston area. Le
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -126,15 +98,11 @@ The closest helicopter charter service is available out of the Kingston area. Le
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
----
 
 <div class="card mb-3" style="max-width: 750px;">
 <div class="row no-gutters">

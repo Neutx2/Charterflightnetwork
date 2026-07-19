@@ -11,18 +11,12 @@ region: "canada"
 
 Browse helicopter charter operators by region, review aircraft types, and connect directly for quotes.
 
----
-
 ## Newfoundland & Labrador Helicopter Operators
 
 Newfoundland and Labrador's helicopter charter operators support offshore operations, remote community access, industrial work sites, and time-critical passenger movements.
 Use this directory to identify providers by base location and quickly compare aircraft types for medevac support, sling work, aerial survey, crew changes, and executive travel.
 Listings include direct links to operator websites where available, along with fleet highlights to help you shortlist the right aircraft for your mission.
 If your schedule is tight or your destination is hard to reach, start here and connect directly to request availability and charter pricing.
-
-### Page 1
-
-### [Back To Main Canadian Menu](/directory/canadian-air-charter-directory-1)
 
 ## Clarenville Helicopter Charter Directory
 
@@ -57,8 +51,6 @@ P: 000000
 
 Copyright © Charter Flight Network. All rights reserved.
 
----
-
 ### [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
 * Link to the main Canadian Air Charter Directory listing every wheel plane, float plane & helicopter charter service across Canada.
@@ -75,17 +67,9 @@ Copyright © Charter Flight Network. All rights reserved.
 
 * Find float plane charter airlines across Canada and locate suitable operators quickly by region.
 
----
-
-## Receive 3 Competitive Charter Quotes With Just One Click
-
 ### Wheel Plane / Float Plane / Helicopter Charter Services In Every Province & Territory Of Canada
 
 Submit your charter quote request through our free quote request service and it forwards to up to 3 air charter services best positioned and equipped to provide the service you require.
 Each company prepares a competitive quote and sends it directly to your email.
 
 [REQUEST A QUOTE](/quote)
-
----
-
----

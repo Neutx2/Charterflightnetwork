@@ -11,19 +11,10 @@ province: "Northern Ontario"
 provinceSlug: "northern-ontario"
 city: "Pickle Lake"
 airportCode: "YPL"
-faqs: [{"q": "How do I clear Canadian customs when flying to Pickle Lake?", "a": "International flights must first clear Canadian customs at Thunder Bay before continuing on to Pickle Lake. After clearing customs, passengers connect with a direct charter flight north."}, {"q": "Can I connect directly to fishing lodges from Pickle Lake?", "a": "Yes. Float plane operators based at Pickle Lake provide direct transfers to lodges and outpost camps, including Birch Bark Lodge and North Caribou Lake outposts."}, {"q": "What types of aircraft are available for Pickle Lake charters?", "a": "Options range from light jets operated by Fast Air, to turboprops such as the PC‑12, Cessna Caravan, ATR 72‑500 freighter, and Dash 8, as well as float planes and helicopters."}, {"q": "Is Pickle Lake known for its mining and exploration opportunities?", "a": "Absolutely. Mining and exploration companies regularly charter flights into Pickle Lake to move crews, equipment, and supplies. Aircraft are available for both passenger and heavy cargo transport."}, {"q": "What makes Pickle Lake popular with anglers?", "a": "Pickle Lake is the launch point for some of Ontario's best fly‑in fishing. North Caribou Lake, in particular, is famous for producing trophy northern pike and outstanding walleye fishing. ---"}]
 ---
----
-
-### Charter Flight Network - 100% **Canadian** Owned & Operated. Finding Clients The Most Cost Efficient Air Charter Options Since 2008
-
----
-
 ## Your Guide To All Pickle Lake Air Charter Services
 
 Listed below is a comprhensive guide to all air charter services available in the Pickle Lake Ontario region. The guide includes Turboprop charters, float plane charters, heliicotper charters, air cargo charters as well as charter flight to remote fly-in fishing trips to remote outpost camps and lodges. Fly-in canoe trips.
-
----
 
 ## Turboprop Charters
 
@@ -33,15 +24,11 @@ Pickle Lake is a key hub for turboprop aircraft, offering a wide selection of op
 
 **Fast Air**, is one of the closest Jet Charter operators to Pickle Lake and provides business jet charter service, with convenient access to Pickle Lake for both corporate and leisure clients. For fishing parties arriving from the United States looking to experience Ontario's spectacular remote fly‑in fishing, jet charters can be arranged from major U.S. cities. These flights typically stop in Thunder Bay to clear Canadian Customs before continuing on to Pickle Lake. Upon arrival, guests seamlessly connect with float‑plane charters that fly direct to lodges or outpost camps. Mining and exploration companies can also rely on Charter Flight Network to coordinate executive jet charters direct to Pickle Lake from virtually any Canadian departure point. An alternative option is to fly your team commercially into Winnipeg, then connect with a dedicated charter straight to Pickle Lake—ensuring efficient, private travel tailored to your schedule.
 
----
-
 From Pickle Lake, float plane charters operated by Osnaburgh Airways offer direct access to some of Ontario's most pristine and secluded lakes. Outfitter and lodge guests regularly connect here to begin their wilderness adventure, boarding float planes that land right at the doorstep of remote fishing lodges and outpost cabins. Whether it's a short hop to a nearby lake teeming with walleye and northern pike or a longer journey deep into the boreal forest, float planes provide unmatched flexibility and immersion in the Canadian wilderness. These aircraft are equally valuable for moving supplies, supporting survey crews, or providing aerial access to camps well beyond the reach of road networks. Charter Flight Network ensures your request is matched with the most capable float plane operator for your route and requirements.
 
 ## Helicopter Charters
 
 Pickle Lake is also served by Forest Helicopters, which maintains a satellite base here in addition to its main hub in Kenora. The company operates a fleet of twelve AS350 B2 and H125 series helicopters—high‑performance aircraft recognized worldwide for their power, versatility, and reliability in challenging northern conditions. These helicopters are fully equipped to support a broad spectrum of missions, including wildfire suppression, mining and exploration transport, power line and utility survey, search and rescue, environmental monitoring, and even film crew logistics. For lodge transfers, site inspections, or urgent project needs, helicopter charters offer pinpoint access to areas with no road or runway access. Charter Flight Network can quickly connect your request to Forest Helicopters or another capable operator, ensuring you receive competitive options for your specialized mission.
-
----
 
 ## Pickle Lake Outdoor Adventures
 
@@ -63,14 +50,6 @@ Pickle Lake is widely recognized as the gateway to Ontario's Far North and offer
 
 Depending on itinerary and aircraft, travelers may also use Red Lake Airport, Sioux Lookout Airport, or Dryden Regional Airport for direct charter connections closer to their final destination.
 
----
-
-## Complete and Submit the Following No‑Obligation Charter Quote Request Form and Receive Up To 3 Competitive Quotes
-
----
-
-## Frequently Asked Questions (FAQ)
-
 ## How do I clear Canadian customs when flying to Pickle Lake?
 
 International flights must first clear Canadian customs at Thunder Bay before continuing on to Pickle Lake. After clearing customs, passengers connect with a direct charter flight north.
@@ -90,12 +69,6 @@ Absolutely. Mining and exploration companies regularly charter flights into Pick
 ## What makes Pickle Lake popular with anglers?
 
 Pickle Lake is the launch point for some of Ontario's best fly‑in fishing. North Caribou Lake, in particular, is famous for producing trophy northern pike and outstanding walleye fishing.
-
----
-
-### Charter Flight Network - 100% Canadian Owned & Operated. Finding Clients The Most Cost Efficient Air Charter Options Since 2008
-
----
 
 ## Links To Northern Ontario Air Charter Destinations
 
@@ -147,7 +120,7 @@ Pickle Lake is the launch point for some of Ontario's best fly‑in fishing. Nor
 * [Marathon](/canada/northern-ontario/marathon)
 * [Moosonee](/canada/northern-ontario/moosonee)
 * [Muskrat Dam](/canada/northern-ontario/muskrat-dam)
-* [Nakina](/canada/southern-ontario/nakina)
+* [Nakina](/canada/northern-ontario/nakina)
 * [Nestor Falls](/canada/northern-ontario/nestor-falls)
 * [North Bay](/canada/northern-ontario/north-bay)
 * [Ogoki Post](/canada/northern-ontario/ogoki-post)
@@ -180,10 +153,4 @@ Pickle Lake is the launch point for some of Ontario's best fly‑in fishing. Nor
 * [White River](/canada/northern-ontario/white-river)
 * [Wunnumin Lake](/canada/northern-ontario/wunnumin-lake)
 
----
-
 Every quote request generated forwards to the charter airlines best positioned and equipped to provide the service. Each company prepares a competitive quote and sends it directly to your email. [Discover how to link your charter airline to our distribution list](/operators)
-
-### CharterFlightNetwork.com is not a charter service provider. We do not own nor operate any aircraft. All charter quotes are generated by the charter airlines who are best positioned and equipped to provide the service requested. Should you decide to book a charter flight, you book directly with the charter airline of your choice and all flight arrangements and payments are made directly with the airline.
-
----

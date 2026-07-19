@@ -14,27 +14,15 @@ Charter Flights To Goderich , Ontario
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
 ### [Charter Flights To Charter Flights To Goderich](#collapseOne1)
 
 Goderich is a popular business and vacation destination located along the eastern shores of Lake Huron, south of Kincardine and north of Grand Bend. the area has plenty to offer business and vacation travelers with accommodations, restaurants, golf and outdoor recreation. Best of all, you can fly private charter flights direct to the Goderich "Sky Harbour" Airport located about 2 miles north of town. The longest runway is 5034 feet asphalt, allowing it to accommodate most medium to large charter and corporate aircraft.
-
-## Goderich Air Charter Options
-
-## Charter Flights From Goderich
 
 ### Charter Flights
 
 There are no air charter services based in Goderich. You can however arrange a charter flight pick up with charter services based in Oqwen Sound, London, Orrillia or Barrie. Tell us the number of passengers and your destination and we will have the charter companies who are best positioned and equipped to provide your service, contact you with a quote.
 
 [AIR CHARTER QUOTE](/quote)
-
----
-
----
 
 ## Goderich Wheel Plane Charter Flights
 
@@ -48,22 +36,6 @@ There are no float plane charter services available to or from the Goderich area
 
 There are no Helicopter charter services based in Goderich. If you are looking for a helicopter sight seeing trip, we can bring one in from Grand Bend or Kitchener. Let us know your requirements and we will send you some options and pricing
 
----
-
----
-
-## Goderich Charter Quote Request Form
-
----
-
-### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
-
----
-
----
-
----
-
 ## Quick Links To Over 50 Air Charter Destinations Across Southern Ontario
 
 [Click Here For Links To Northern and Northwestern Ontario Destinations](/canada/northern-ontario)
@@ -72,7 +44,7 @@ There are no Helicopter charter services based in Goderich. If you are looking f
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -92,7 +64,7 @@ There are no Helicopter charter services based in Goderich. If you are looking f
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -124,12 +96,8 @@ There are no Helicopter charter services based in Goderich. If you are looking f
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
----

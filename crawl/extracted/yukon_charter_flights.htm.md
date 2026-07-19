@@ -51,9 +51,6 @@ Link To The Air Charter Websites / Request A Quote / Book Your Flight Direct Wit
 
 ---
 
-1100 Memorial Avenue
-Suite
-
 Thunder Bay, Ontario
 
 ## Advertise

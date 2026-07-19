@@ -11,17 +11,9 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Castlegar"
 ---
-## Request A Charter Quote Directly From Any Of Our Featured Charter Airlines or Use Our Free Charter Quote Request Service an Receive Up To 3 Competitive Quotes
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
-### [Charter Flights To Castlegar](#collapseOne1)
-
 ### Private charter flights are available direct to Castlegar BC which is located in south eastern British Columbia where the Kootenay River meets the Columbia River.
 
 The Selkirk Mountains surround the city which depends on the forestry, mining and torurism industry to fuel its economy. Charter flight passengers will arrive at the Castlegar airport which is located 2.5 miles south east of the city and has a 5300 foot aspalt runway - making it accessible to a wide variety of charter aircraft. If your flight originates in the USA, you can fly direct to Castlegar and clear Canadian customs upon your arrival, providing there is no more than 15 passengers. The airport also has scheduled airline service provided by Air Canada Express with scheduled flight service to Calgary and Vancouver.
-
----
 
 ## Castlegar Wheel Plane Charter Flights
 
@@ -34,20 +26,6 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 ## Castlegar Helicopter Charter Flights
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -192,9 +170,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

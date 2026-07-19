@@ -12,13 +12,9 @@ city: "Angling Lake"
 ---
 Charter Flights To Angling Lake
 
----
-
 ### [Charter Flights To Angling Lake](#collapseOne1)
 
 Click The Above Title To Hide This Text Window
-
-### About Flights To Angling Lake
 
 ### Location
 
@@ -36,8 +32,6 @@ With just one click, you can receive up to 3 competitive charter flight quotes d
 
 Our Charter Quote Request Service ensures you receive the most convenient and cost efficient charter flight option to Angling Lake from any departure point including Red Lake, Sioux Lookout, Sandy Lake, Winnipeg, Pickle Lake or Thunder Bay
 
----
-
 ## Angling Lake Wheel Plane Charter Flights
 
 Wheel plane charters to Angling Lake are available out of Pickle Lake, Red Lake, Sioux Lookout, Thunder Bay and Winnipeg - plus dozens of other departure points.
@@ -50,9 +44,7 @@ The closest float plane charter services to Angling Lake are based in Weagamow, 
 
 Helicopter charters are available out of Pickle Lake, Red Lake and Thunder Bay. You can receive competitive quotes from all locations with just one click.
 
-## Popular Charter Flights To Angling Lake
-
-### [Flights From Nakina](/canada/southern-ontario/nakina)
+### [Flights From Nakina](/canada/northern-ontario/nakina)
 
 Nakina is 280 air miles south of Angling Lake. Contact us for competitive quotes for Wheel Plane, Float Plane or Helicopter charter flights.
 
@@ -75,22 +67,6 @@ Thunder Bay is 380 air miles south of Angling Lake. Contact us for competitive q
 ### [Flights From Winnipeg](/canada/manitoba/winnipeg)
 
 Winnipeg is 425 air miles southwest of Angling Lake. Contact us for competitive quotes for Wheel Plane, Float Plane or Helicopter charter flights.
-
----
-
----
-
-## Angling Lake Charter Quote Request Form
-
----
-
-### We Are Proud To Highlight The Following Charter Airlines Who Provide Quotes For Our Clients Across Ontario, Manitoba, Quebec, Nova Scotia & Nunavut
-
----
-
----
-
----
 
 ## Quick Links To 70 Air Charter Destinations Across Northern and Northwestern Ontario
 
@@ -138,7 +114,7 @@ Winnipeg is 425 air miles southwest of Angling Lake. Contact us for competitive 
 * [Marathon](/canada/northern-ontario/marathon)
 * [Moosonee](/canada/northern-ontario/moosonee)
 * [Muskrat Dam](/canada/northern-ontario/muskrat-dam)
-* [Nakina](/canada/southern-ontario/nakina)
+* [Nakina](/canada/northern-ontario/nakina)
 * [Nestor Falls](/canada/northern-ontario/nestor-falls)
 * [North Bay](/canada/northern-ontario/north-bay)
 * [Ogoki Post](/canada/northern-ontario/ogoki-post)
@@ -171,7 +147,3 @@ Winnipeg is 425 air miles southwest of Angling Lake. Contact us for competitive 
 * [Webequie](/canada/northern-ontario/webequie)
 * [White River](/canada/northern-ontario/white-river)
 * [Wunnumin Lake](/canada/northern-ontario/wunnumin-lake)
-
----
-
----

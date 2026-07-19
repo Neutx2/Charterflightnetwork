@@ -10,13 +10,9 @@ province: "Quebec"
 provinceSlug: "quebec"
 city: "Aupaluk"
 ---
----
-
 ### Flights To Aupaluk
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
-
----
 
 ### Charter Flights From Chibougamau
 
@@ -35,10 +31,6 @@ The town has a public use airport which is located less than a mile east of Aupa
 With just one click, you can receive up to 3 competitive charter flight quotes directly from the airlines who provide service throughout Aupaluk .
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
-
----
-
----
 
 ## Quick Links To 86 Air Charter Destinations Across Quebec
 
@@ -131,7 +123,3 @@ With just one click, you can receive up to 3 competitive charter flight quotes d
 * [Val-d`Or](/canada/quebec/val-d-or)
 * [Waskaganish](/canada/quebec/waskaganish)
 * [Wemindji](/canada/quebec/wemindji)
-
----
-
----

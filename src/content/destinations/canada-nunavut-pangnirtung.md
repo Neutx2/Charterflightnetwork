@@ -12,19 +12,9 @@ city: "Pangnirtung"
 ---
 Charter Flights To Pangnirtung Nunavut
 
----
-
----
-
-### [Charter Flights To Pangnirtung, NU](#collapseOne1)
-
 ### Location
 
 The translation for the Inuit name of Pangnirtung is Place of the Bull Caribou and is located 50 miles south of the Arctic Circle at the north end of Cumberland Sound. If you want to travel to Pangnirtung or Pang for short, you can fly First Air or Canadian North between Pang and Iqaluit, Qikiqtarjuaq. The most convenient and quickest way to reach Pangnirtung from Canadian cities to the south, is to take a private charter flight. If there are only two or three people traveling, this may be more expensive than scheduled airlines but much more direct. If you have a larger group of 8 - 10 passengers, the private charter option may be more cost effecient
-
----
-
-## Turbo Prop Charter Flights
 
 ### Panorama Aviation
 
@@ -34,17 +24,11 @@ Contact us for competitive quotes for direct charter flights to the Pangnirtung 
 
 If you have a construction or natural resource project in the Pangnirtung region that requires helicopter support, use our Charter Quote Request Service to outline your requirements. You will receive response directly from the charter companies operating in the area with pricing and availability details.
 
-## Group Charters / Crew rotations
-
 ### Group Charters / Crew Rotations
 
 When you have 9 or more passengers to fly on a one time or ongoing basis, between Pangnirtung and any destination throughout Nunavut or Canada, request a no obligation quote from our Group Air Charter Department
 
-[REQUEST GROUP QUOTE](/canada/northern-ontario/group)
-
----
-
-## Popular Pangnirtung, Nunavut Charter Flights
+[REQUEST GROUP QUOTE](/quote)
 
 ### Flights From Iqaluit to Pangnirtung
 
@@ -69,18 +53,6 @@ Thompson Manitoba is 1,275 air miles southwest of Pangnirtung. both cargo and pa
 Winnipeg is 1,582 air miles south of Pangnirtung. This would be a very long and very expensive charter flight, depending on weather and size of aircraft required. We can arrange charter flights for 4 - 100 passengers or more.
 
 [CHARTER QUOTE](/canada/manitoba/winnipeg)
-
-## Nunavut Charter Quote Request Form
-
----
-
-### We Are Proud To Highlight The Following Charter Airlines Who Provide Quotes For Our Clients Across Nunavut, NWT, Ontario, Manitoba, Quebec
-
----
-
----
-
----
 
 ## Quick Links To 31 Air Charter Destinations Across Nunavut
 
@@ -147,7 +119,3 @@ Winnipeg is 1,582 air miles south of Pangnirtung. This would be a very long and 
 [Tanquary Fiord](/canada/nunavut/tanquary-fiord)
 
 [Whale Cove](/canada/nunavut/whale-cove)
-
----
-
----

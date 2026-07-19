@@ -75,8 +75,6 @@ P: [(403) 885-5220](tel:+14038855220)
 **Aircraft Types:** Aerospatiale AS350 BA / AS355 F2, NP / Bell 205A-1 / Bell 212 / Bell 214 / Bell 407 / Fuji 205B
 **Service Type:** Helicopter
 
-## Blue Ridge, Alberta Helicopter Air Charter
-
 ## Ridge Rotors Inc.
 
 Blue Ridge, AB
@@ -139,8 +137,6 @@ P: [(403) 295-1811](tel:+14032951811)
 **Aircraft Types:** Agusta AW139 / Airbus BK117 D
 **Service Type:** Helicopter
 
-## Cold Lake, Alberta Helicopter Air Charter
-
 ## Star Helicopters Ltd
 
 Cold Lake, AB
@@ -191,8 +187,6 @@ P: [(780) 914-1338](tel:+17809141338)
 
 [Back to Main Canadian Menu](/directory/canadian-air-charter-directory-1)
 
-## Explore Related Directories
-
 ## [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
 Link to the main Canadian Air Charter Directory listing wheel plane, float plane and helicopter charter services in every province and territory of Canada.
@@ -214,8 +208,6 @@ When you need a float plane charter, find float plane operators across Canada in
 **Details:** Submit your charter quote request through our free quote request service. It forwards to up to 3 air charter services best positioned and equipped to provide the service you require.
 
 [Request a Quote](/quote)
-
-## Alberta Helicopter Charter Directory FAQ
 
 ## Which Alberta helicopter locations are covered on page 1?
 

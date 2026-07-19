@@ -14,12 +14,6 @@ Charter Flights To Carcross, Yukon Territory
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Carcross](#collapseOne1)
-
 ### About Carcross Yukon and Location
 
 Carcross, Yukon, is a hidden gem located in the vast wilderness of Canada's Yukon Territory. Known for its stunning landscapes, historic significance, and plethora of outdoor activities, Carcross is an ideal destination for adventure seekers and nature enthusiasts. Access to Carcross is made convenient and efficient through charter flights, connecting visitors to this breathtakingly remote destination.
@@ -84,10 +78,6 @@ Experience the serene beauty of Bennett Lake by kayak. These guided tours offer 
 
 For the adventure enthusiasts, Montana Mountain offers some of the best mountain biking trails in Yukon, with routes suitable for all skill levels.
 
----
-
-## Carcross Wheel Plane Charter Flights
-
 ### Tintina Air Inc.
 
 Tintina Air's destinations span across the Yukon, Northwest Territories, Northern BC, and Alaska, covering key locations like Dawson City, Old Crow, Mayo, and international destinations including Anchorage and Fairbanks.
@@ -100,8 +90,6 @@ Alkan Air has been in business for over 40 years, showcasing a long-standing com
 
 Carcross is located south of Whitehorse on the north shore of Bennett and Tagish Lakes - both of which share the border with British Columbia. Tourists to the region will find a limited selection of accommodations and lodges in the region. The community is served by a small 2,200 foot gravel air strip - which is only accessible to limited types of charter aircraft in the region. Contact the charter operators on this page for details on flights and types of aircraft available
 
-## Carcross Float Plane Charter Flights
-
 ### Alkan Air Ltd
 
 Alkan Air operations include floatplane charters, catering to a wide range of clients such as canoe trippers, hikers, mineral exploration companies, wilderness outfitters, big game outfitters, fishing lodges, and resident hunters and anglers.
@@ -109,8 +97,6 @@ Alkan Air operations include floatplane charters, catering to a wide range of cl
 ### Float Plane Charters - Receive 3 Competitive Quotes
 
 There is no float plane charter service located in Carcross. The town however, is just 40 air miles south of Whitehorse where there is a choice of float plane charter services that can easily fly down to Carcross to pick you up. Use our free charter quote request service and receive up to 3 competitive quotes.
-
-## Carcross Helicopter Charter Flights
 
 ### Fireweed Helicopters Ltd
 
@@ -121,12 +107,6 @@ Fireweed Heliocpters demonstrates a strong commitment to providing high-quality,
 Kluane Helicopters serve a wide variety of locations across the Yukon territory, especially areas within or around Kluane National Park.
 
 Contact any of the helicopter services listed above - or use our free charter quote request service and receive competitive quotes from all helicopter charter services throughout the region.
-
----
-
----
-
----
 
 ## Quick Links To Over 20 Air Charter Destinations Across Yukon Territory
 
@@ -157,7 +137,3 @@ Contact any of the helicopter services listed above - or use our free charter qu
 * [Twin Creeks](charter_flights_Twin Creeks_yt.html)
 * [Watson Lake](/canada/yukon/watson-lake)
 * [Whitehorse](/canada/yukon/whitehorse)
-
----
-
----

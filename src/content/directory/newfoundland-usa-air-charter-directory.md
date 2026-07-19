@@ -11,16 +11,10 @@ region: "canada"
 
 Find Newfoundland-based charter operators offering cross-border flight capability and request quotes directly.
 
----
-
 ## Newfoundland Charter Flights to the USA
 
 This directory highlights charter operators based in Newfoundland and Labrador with the capability to support flights into the United States.
 Use the listings to identify base location, aircraft types, and direct contact options.
-
-### Page 1
-
-### [Back To Main Canadian Menu](/directory/canadian-air-charter-directory-1)
 
 ## St. John's Air Charter to USA
 
@@ -35,11 +29,7 @@ P: 000000
 
 ### [Back To Main Canadian Menu](/directory/canadian-air-charter-directory-1)
 
----
-
 Copyright © Charter Flight Network. All rights reserved.
-
----
 
 ### [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
@@ -57,17 +47,9 @@ Copyright © Charter Flight Network. All rights reserved.
 
 * Find float plane charter airlines across Canada and locate suitable operators quickly by region.
 
----
-
-## Receive 3 Competitive Charter Quotes With Just One Click
-
 ### Wheel Plane / Float Plane / Helicopter Charter Services In Every Province & Territory Of Canada
 
 Submit your charter quote request through our free quote request service and it forwards to up to 3 air charter services best positioned and equipped to provide the service you require.
 Each company prepares a competitive quote and sends it directly to your email.
 
 [REQUEST A QUOTE](/quote)
-
----
-
----

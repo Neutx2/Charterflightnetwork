@@ -12,12 +12,6 @@ city: "Torngat Mountains Park"
 ---
 Torngat Mountains / Saglek Airstrip Charter Flights Newfoundland / Labrador
 
----
-
-### [Charter Flights To Torngat Mountains / Saglek Airstrip](#collapseOne1)
-
-### Direct Charter Flights To The Saglek Airstrip Labrador:
-
 ### History:
 
 The Torngat Mountains have significant cultural and historical importance to the indigenous peoples of Labrador, particularly the Inuit. The park's establishment in 2005 aimed to protect the cultural heritage, unique ecology, and natural beauty of the region. It is managed collaboratively by Parks Canada and the Nunatsiavut Government, representing the Inuit people of Labrador.
@@ -46,12 +40,6 @@ Hiking opportunities in the park vary from easy walks to challenging treks throu
 
 Fishing is permitted in designated areas within the park, subject to regulations and restrictions set by Parks Canada and the Nunatsiavut Government. Anglers may catch Arctic char, salmon, and other freshwater fish in the park's rivers and lakes.
 
----
-
----
-
-## Wheel Plane Charter Flights
-
 ### Chrono Aviation
 
 Access to Torngat Mountains National Park is primarily by air and sea. Visitors typically fly into Goose Bay, Labrador, and then take a charter flight to the park's base camp. Charter flights are also available from Quebec, Ontario as well as USA.
@@ -63,10 +51,6 @@ Atlantic Charters can provide direct flights to the Saglek Airstrip, which is a 
 Visitors to Torngat Mountains National Park can engage in a variety of activities, including wildlife viewing, birdwatching, photography, cultural experiences with Inuit guides, boat tours, kayaking, and learning about the region's natural and cultural heritage. Receive up to 3 Competitive Charter Quotes from any departure point.
 
 Ask us about Helicopter sight seeing trips in and around Torngat Mountains National Park, located in the northern part of Labrador in Newfoundland and Labrador, Canada. It encompasses a vast area along the coast of the Labrador Sea, spanning approximately 9,700 square kilometers.
-
----
-
----
 
 ## Quick Links To 38 Air Charter Destinations Across Newfoundland and Labrador
 
@@ -112,7 +96,3 @@ Ask us about Helicopter sight seeing trips in and around Torngat Mountains Natio
 * [Wabush](/canada/newfoundland/wabush)
 * [Williams Harbour](/canada/newfoundland/williams-harbour)
 * [Winterland](/canada/newfoundland/winterland)
-
----
-
----

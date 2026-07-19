@@ -15,8 +15,6 @@ Brochet is a remote northern Manitoba community near the north end of Reindeer L
 
 [Request Charter Quote](#QuoteForm)
 
----
-
 ## *Manitoba Charter Flight Links*
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
@@ -26,8 +24,6 @@ Brochet is a remote northern Manitoba community near the north end of Reindeer L
 [Charter Flights Lynn Lake](/canada/manitoba/lynn-lake)
 
 [Charter Flights Thompson](/canada/manitoba/thompson)
-
-## Flights to Brochet, Manitoba
 
 ## **About Brochet:**
 
@@ -62,8 +58,6 @@ Brochet is a remote northern Manitoba community near the north end of Reindeer L
 
 * Brochet is better suited to travelers seeking remote northern access than conventional tourism infrastructure. Its strongest appeal comes from nearby Reindeer Lake, fishing and boating opportunities, traditional land use, and the surrounding wilderness landscape of far northern Manitoba.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 Wheel plane charter flights to Brochet are practical for passenger, freight, and community travel, especially because the airport's crushed rock runway is built for northern utility operations.
@@ -79,12 +73,6 @@ Float plane charter service for the Brochet region may need to be positioned in 
 Helicopter charter quotes can also be sourced for the Brochet region when project support, remote site access, or specialized landing flexibility is needed beyond standard airport service.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to Brochet or Any Destination Throughout Canada or the USA
-
-## Flights to Brochet, MB FAQ
 
 ## What airport serves Brochet, Manitoba?
 
@@ -205,7 +193,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

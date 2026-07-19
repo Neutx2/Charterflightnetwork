@@ -94,12 +94,8 @@ Click for a quick index of Ontario air charter locations
 [Windsor](/directory/ontario-air-charter-directory-6#Windsor)
 
 Eliminate the searching. With just one click you can receive up to 3 competitive quotes directly from the airlines best positioned and equipped to provide the service required.
-**Quote Sourcing:** Every Province and Territory of Canada
-**Aircraft Types:** All Wheel Planes (Jet, Turbine, Piston) / Float Planes / Helicopter Quotes
 
 [Request A Quote](/quote)
-
-## Elliot Lake Air Charter
 
 ## Glassy Bay Outfitters
 
@@ -118,8 +114,6 @@ P: [705-356-1887](tel:+17053561887)
 **Base Locations:** Blind River
 **Aircraft Types:** Cessna U206 / de Havilland Beaver / Pilatus PC-12
 **Service Type:** Floats / Wheels
-
-## Emo Air Charter
 
 ## Pipestone Air Inc
 
@@ -147,8 +141,6 @@ P: [807-482-2362](tel:+18074822362)
 **Aircraft Types:** de Havilland Beaver
 **Service Type:** Floats
 
-## Eva Lake Air Charter
-
 ## Sapawe Air Ltd
 
 Eva Lake / Atikokan, Ontario
@@ -159,8 +151,6 @@ P: [807-929-2140](tel:+18079292140)
 
 Request a Quote
 
-## Foleyet Air Charter
-
 ## Air Ivanhoe Limited
 
 Foleyet, ON P0M 1T0
@@ -168,8 +158,6 @@ P: [705-899-2155](tel:+17058992155) or [1-800-955-2951](tel:+18009552951)
 **Base Locations:** Foleyet
 **Aircraft Types:** de Havilland Beaver
 **Service Type:** Floats
-
-## Fort Frances Air Charter
 
 ## Rusty Myers Flying Service (1986) Limited
 
@@ -189,8 +177,6 @@ P: [807-274-3666](tel:+18072743666)
 **Aircraft Types:** de Havilland Otter
 **Service Type:** Floats
 
-## Geraldton (Nakina) Air Charter
-
 ## Leuenberger Air Service Limited
 
 Nakina, ON P0T 2H0
@@ -209,8 +195,6 @@ P: (807) 329-5752
 **Aircraft Types:** Cessna Caravan / Cessna 185 / de Havilland Otter
 **Service Type:** Floats / Wheels
 
-## Goderich Air Charter
-
 ## Papple Aviation
 
 Seaforth, ON N0K 1W0
@@ -220,8 +204,6 @@ P: [519-318-4224](tel:+15193184224)
 **Service Type:** Wheels
 
 [Request a Quote](/quote/papple)
-
-## Hamilton Air Charter
 
 ## Hamilton Jetport Limited
 
@@ -238,8 +220,6 @@ P: [905-631-7700](tel:+19056317700)
 **Base Locations:** Hamilton
 **Aircraft Types:** Aérospatiale AS355 F2 / MD Helicopters 369E
 **Service Type:** Helicopter
-
-## Hearst Air Charter
 
 ## Hearst Air Service Limited
 
@@ -269,8 +249,6 @@ P: [1-866-844-5700](tel:+18668445700)
 
 [Next: Page 3](/directory/ontario-air-charter-directory-3)
 
-## Explore Related Directories
-
 ## [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
 Link to the main Canadian Air Charter Directory listing wheel plane, float plane and helicopter charter services in every province and territory of Canada.
@@ -294,8 +272,6 @@ Submit your charter quote request through our free quote request service and it 
 Each company prepares a competitive quote and sends it directly to your email.
 
 [Request A Quote](/quote)
-
-P: [807-472-1955](tel:+18074721955)
 
 ## The Canadian Air Charter Directory
 

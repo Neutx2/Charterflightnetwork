@@ -14,12 +14,6 @@ Charter Flights To Tin Cup Lake, Yukon Territory
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Tin Cup Lake](#collapseOne1)
-
 ### About Tin Cup Lake Yukon and Location
 
 Explore the untouched wilderness of Tin Cup Lake, Yukon. A treasure trove of natural beauty, this remote location offers breathtaking landscapes, pristine lakes, and abundant wildlife. Accessible primarily through charter flights, Tin Cup Lake is an adventurer's paradise, promising unique attractions and activities such as fishing, hiking, and the Northern Lights.
@@ -80,8 +74,6 @@ Charter flights bring anglers to Tin Cup Lake, where the waters teem with pike a
 
 The remote location of Tin Cup Lake, free from light pollution, presents an ideal setting for viewing the spectacular Northern Lights.
 
----
-
 ### Alkan Air Ltd
 
 When you require a float plane with big capcity, Alkan's Cessna 208 and 208B float plane Caravans are based in Yukon and designed for remote locations.
@@ -89,8 +81,6 @@ When you require a float plane with big capcity, Alkan's Cessna 208 and 208B flo
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 TinCup Lake is located in western Yukon - north of Burwash Landing and the Alaskan Highway and east of the Alaska Border. The lake is home to the Tincup Wilderness Lodge which is accessible only by float plane - there is no land airport here. Float plane charters are arranged for guests from Whitehorse which is a 250 kilometer flight.
-
-## Tin Cup Lake Float Plane Charter Flights
 
 ### Alkan Air Ltd
 
@@ -103,10 +93,6 @@ TinCup Lake is located in western Yukon - north of Burwash Landing and the Alask
 ## Tin Cup Lake Helicopter Charter Flights
 
 If you have a project in the Tin Cup Lake region that requires Helicopter support, you can receive up to 3 competitive quotes when you use our free charter quote request service.
-
----
-
----
 
 ## Quick Links To Over 20 Air Charter Destinations Across Yukon Territory
 
@@ -137,7 +123,3 @@ If you have a project in the Tin Cup Lake region that requires Helicopter suppor
 * [Twin Creeks](charter_flights_Twin Creeks_yt.html)
 * [Watson Lake](/canada/yukon/watson-lake)
 * [Whitehorse](/canada/yukon/whitehorse)
-
----
-
----

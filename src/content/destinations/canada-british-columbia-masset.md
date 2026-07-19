@@ -11,14 +11,6 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Masset"
 ---
-### Charter Flights to Masset are available from Prince Rupert, Vancouver and numerous other departure points across British Columbia. Masset is located on the north end of Haida Gwai and is about 30 miles west of mainland BC
-
-## Request A Charter Quote Directly From Any Of Our Featured Charter Airlines or Use Our Free Charter Quote Request Service an Receive Up To 3 Competitive Quotes
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
-### [Charter Flights To Masset](#collapseOne1)
-
 ### **Masset Airport**
 
 The Masset Airport is located just under 2 miles northeast of town and features a 4,924 ft asphalt runway, making it easily accessible to a wide variety of charter aircraft . Pacific Coastal Airlines provides scheduled service between Vancouver and the Masset Airport.
@@ -35,8 +27,6 @@ The closest helicopter charter service is based in Sandspit which is a 2 hour dr
 
 Haida Gwai is world famous for its amazing scenery, ocean tours, whale watching, spectacular fishing and miles of hiking trails. Masset is a popular jumping off point to Langara Island
 
----
-
 ## Masset Wheel Plane Charter Flights
 
 We make it easy and convenient to receive up to 3 competitive wheel plane charter quotes for flights to or from airports across BC, throughout Canada and into the USA
@@ -48,22 +38,6 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 ## Masset Helicopter Charter Flights
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -208,9 +182,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

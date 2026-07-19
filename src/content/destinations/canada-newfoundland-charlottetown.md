@@ -12,17 +12,9 @@ city: "Charlottetown"
 ---
 Charter Flights To Charlottetown Newfoundland / Labrador
 
----
-
-### [Charter Flights To Charlottetown](#collapseOne1)
-
 ### About Charlottetown Newfoundland / Labrador
 
 Discover The Convenience and Affordability of Flying Direct to or From Charlottetown Newfoundland Labrador In The Speed Comfort and Security of A Private Charter Flight. Charlottetown (not to be confused with the capital of Prince Edward Island) is a small community of under 400 residents and is located on the south eastern coast of Labrador on the Trans-Labrador Highway. The quickest access to the town however is by aircraft. There is a small public use airport located adjacent to town with a single gravel runway, 2,500 feet in length.
-
----
-
-## Wheel Plane Charter Flights
 
 ### Chrono Aviation
 
@@ -35,8 +27,6 @@ Accessing Charlottetown by Air Charter: Experience the convenience and flexibili
 ### Wheel Plane Charters / 3 Competitive Quotes
 
 Embark on a memorable journey to Charlottetown with charter flights from nearby airports in St. John's and other major cities. Enjoy the comfort and convenience of private air travel, ensuring a seamless and stress-free travel experience.
-
-## Float Plane Charter Flights
 
 ### Clarenville Aviation
 
@@ -53,10 +43,6 @@ Experience warm hospitality and comfortable accommodations at local bed and brea
 ### Helicopter Charter Flights / 3 Competitive Quotes
 
 Plan Your Charlottetown Adventure Today: Whether you're seeking outdoor exploration, cultural immersion, or simply want to relax and unwind amidst stunning coastal scenery, Charlottetown offers something for everyone. Start planning your trip to this hidden gem of Newfoundland and Labrador today!
-
----
-
----
 
 ## Quick Links To 38 Air Charter Destinations Across Newfoundland and Labrador
 
@@ -102,7 +88,3 @@ Plan Your Charlottetown Adventure Today: Whether you're seeking outdoor explorat
 * [Wabush](/canada/newfoundland/wabush)
 * [Williams Harbour](/canada/newfoundland/williams-harbour)
 * [Winterland](/canada/newfoundland/winterland)
-
----
-
----

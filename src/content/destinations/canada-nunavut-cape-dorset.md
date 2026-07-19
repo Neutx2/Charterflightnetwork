@@ -26,10 +26,6 @@ Save time and use our no-obligation charter quote request form to receive up to 
 
 ## Request Quotes Directly From The Airlines Listed Below or Use Our Free Quote Request Service and Receive Up To 3 Competitive Quotes
 
----
-
----
-
 [Choose Any Nunavut Community And Request A Charter Flight Quote](#Communities)
 
 ### Discover Kinngait (Cape Dorset): A Coastal Gem in Nunavut
@@ -42,8 +38,6 @@ Kinngait's geography is defined by its rugged coastline, rolling tundra, and dra
 
 [Request A Quote](#quote)
 
----
-
 ### A Coastal Community
 
 As a coastal community, Kinngait's proximity to the ocean is central to the lives of its residents. For centuries, the Inuit people have relied on the ocean for sustenance, hunting seals, fish, and whales. These traditional practices remain integral to the community's culture and economy. The ocean also supports travel and trade, as small boats connect nearby communities during the open-water season. Additionally, the coastal location inspires much of the artwork produced in Kinngait, with many sculptures and prints depicting Arctic marine life and seascapes.
@@ -55,8 +49,6 @@ The interplay of ocean and tundra makes Kinngait a place of extraordinary natura
 Planning your first trip to Nunavut? Get ready for an unforgettable journey to one of Canada's most breathtaking destinations! If you're considering taking a charter flight to Kinngait, also known as Cape Dorset, you're in for a treat. Known as the "Capital of Inuit Art," Kinngait offers a unique blend of stunning natural landscapes and rich cultural heritage.
 
 Immerse yourself in Kinngait's vibrant arts scene by visiting the world-famous Kinngait Studios. Discover exquisite Inuit prints, sculptures, and carvings created by local artists. Outdoor enthusiasts will love exploring the surrounding tundra, where you can hike, fish, or simply marvel at the Arctic wildlife. Winter offers the magic of the Northern Lights and dog sledding adventures.
-
----
 
 ### Explore the Renowned Kinngait Studios in Cape Dorset, Nunavut
 
@@ -83,22 +75,6 @@ Kinngait (Cape Dorset) experiences a true Arctic climate, with dramatic seasonal
 Summer temperatures range from 5°C to 15°C (41°F to 59°F), with long daylight hours and occasional bursts of sunshine. Cool breezes from the Hudson Strait are common, and rain or misty conditions can occur. Pack lightweight but insulating layers, waterproof jackets, sturdy hiking boots, and sunglasses to protect against snow glare or bright summer light.
 
 Winters in Kinngait are frigid, with temperatures often dipping below -30°C (-22°F), compounded by Arctic winds. The area is covered in snow and experiences extended darkness during the polar night. Be sure to pack heavy-duty winter clothing, including a down parka, insulated boots, thermal base layers, windproof pants, gloves, hats, and scarves. Goggles or face masks are also recommended for outdoor activities.
-
----
-
-## Request A Quote For Any Of The Following Popular Flight Routes
-
----
-
----
-
----
-
-## Cape Dorset / Kinngait Nunavut Charter Quote Request Form
-
----
-
----
 
 ## Quick Links To 31 Destinations Across Nunavut
 
@@ -165,7 +141,3 @@ Winters in Kinngait are frigid, with temperatures often dipping below -30°C (-2
 [Tanquary Fiord](/canada/nunavut/tanquary-fiord)
 
 [Whale Cove](/canada/nunavut/whale-cove)
-
----
-
----

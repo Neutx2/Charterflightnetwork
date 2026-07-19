@@ -2,6 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import QuoteForm from '../components/QuoteForm.astro';
+import { SITE } from '../lib/site';
 
 const title = 'Empty Leg Charter Flights — Save up to 50% | Charter Flight Network';
 const description =
@@ -46,6 +47,44 @@ const description =
         <li><strong>Book direct</strong> — as always, you confirm scheduling and payment directly with the charter airline.</li>
       </ul>
     </article>
+
+    <section class="mt-14">
+      <div class="rounded-2xl bg-boreal-800 text-white p-6 sm:p-10">
+        <h2 class="font-display text-2xl sm:text-3xl font-bold">Get empty leg alerts</h2>
+        <p class="mt-2 text-boreal-100 max-w-2xl">
+          Leave your email and preferred routes — we'll flag matching empty leg and
+          split charter opportunities from the network.
+        </p>
+        <!-- Posts to the shared form endpoint with a distinct subject tag so CFN
+             can build an alert list separate from quote requests. -->
+        <form method="post" action={SITE.formEndpoint} class="mt-6 grid gap-4 sm:grid-cols-2">
+          <div class="absolute -left-[5000px] h-px w-px overflow-hidden" aria-hidden="true">
+            <label for="el-website">Website</label>
+            <input type="text" id="el-website" name="website" tabindex="-1" autocomplete="off" />
+          </div>
+          <div>
+            <label class="block text-sm font-semibold text-boreal-100 mb-1.5" for="el-name">Name</label>
+            <input class="w-full rounded-lg border border-white/20 bg-white px-3.5 py-2.5 text-slate-900" type="text" id="el-name" name="Name" autocomplete="name" required />
+          </div>
+          <div>
+            <label class="block text-sm font-semibold text-boreal-100 mb-1.5" for="el-email">Email</label>
+            <input class="w-full rounded-lg border border-white/20 bg-white px-3.5 py-2.5 text-slate-900" type="email" id="el-email" name="Email" autocomplete="email" required />
+          </div>
+          <div class="sm:col-span-2">
+            <label class="block text-sm font-semibold text-boreal-100 mb-1.5" for="el-routes">Preferred routes or regions (optional)</label>
+            <input class="w-full rounded-lg border border-white/20 bg-white px-3.5 py-2.5 text-slate-900" type="text" id="el-routes" name="OtherInfo" placeholder="e.g. Thunder Bay ⇄ Toronto, anywhere in Northwestern Ontario" />
+          </div>
+          <div class="sm:col-span-2">
+            <button type="submit" class="rounded-lg bg-ember-500 px-8 py-3 font-bold text-lake-950 hover:bg-ember-400 transition-colors">
+              Sign Up For Alerts
+            </button>
+          </div>
+          <input type="hidden" name="recipient" value="phil@charterflightnetwork.com" />
+          <input type="hidden" name="redirect" value="https://charterflightnetwork.com/quote-confirmation" />
+          <input type="hidden" name="subject" value="Empty Leg Alert Signup" />
+        </form>
+      </div>
+    </section>
 
     <section id="quote" class="mt-14 scroll-mt-24">
       <div class="rounded-2xl bg-white p-6 sm:p-10 ring-1 ring-birch-200 shadow-sm">

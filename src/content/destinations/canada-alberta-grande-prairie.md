@@ -14,12 +14,6 @@ Charter Flights To Grande Prairie, Alberta
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Grande Prairie](#collapseOne1)
-
 ### About Grande Prairie Alberta
 
 Grande Prairie is located in northwestern Alberta about 280 miles north west of Edmonton. The city is considered as the economic and agricultural center for northern Alberta. If you are a golfer, you may want to bring along your clubs as there are about 8 top rated courses all within a 15 mile radius of downtown Grande Prairie..
@@ -58,23 +52,11 @@ There are numerous car rental agencies available at the Grande Prairie Airport. 
 **Blue Sky Limos:** Blue Sky Limos offers a fleet of elegant limousines for airport transfers and special occasions. You can book their limo service in advance or request one upon arrival at Grande Prairie Airport..
 **Crown Taxi and Limo:** Crown Taxi and Limo provides limousine services as well, catering to passengers arriving at Grande Prairie Airport. You can arrange for a limo pick-up by contacting them ahead of time or upon arrival.
 
----
-
-## Alberta Private Jet Charter Flights
-
-### Charter Flight Network - Receive 3 Competitive Quotes
-
-## Turbo Prop / Piston Aircraft Charter Flights
-
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 Take a charter flight to Grande Prairie, Alberta, and discover the perfect fusion of business efficiency and leisure. Entertain your clients or relax at the Bear Creek Golf Club, where the lush greens offer a serene escape from the hustle of business life. For a luxurious stay, the Podollan Inn & Spa provides unmatched comfort with its upscale accommodations and spa services, catering to the needs of the discerning business traveler. Grande Prairie blends the excitement of professional opportunities with the tranquility of northern Alberta's landscape, making it an ideal destination for those looking to enrich their business travel experience
 
 Looking to experience the thrill of skiing in Alberta and British Columbia's stunning resorts? Network member's helicopter charters offer group transportation to some of the most renowned ski and heli-ski destinations in the region. Enjoy breathtaking views and seamless travel arrangements for your next ski adventure.
-
----
-
----
 
 ## Quick Links To 42 Air Charter Destinations Across Alberta
 
@@ -123,7 +105,3 @@ Looking to experience the thrill of skiing in Alberta and British Columbia's stu
 * [Wetaskiwin](/canada/alberta/wetaskiwin)
 * [Whitecourt](/canada/alberta/whitecourt)
 * [Zama Lake](/canada/alberta/zama-lake)
-
----
-
----

@@ -14,29 +14,17 @@ Charter Flights To Hanover, Ontario
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
 ### [Charter Flights To Charter Flights To Hanover](#collapseOne1)
 
 Hanover is located south of Owen Sound and east of Kincardine and is in the center of a region rich in agriculture. If you have clients or offices you need to visit as part of a corporate tour, you can fly private charter flights direct to the Hanover / Saugeen Municipal Airport located 2 miles west. The airport which is staffed by Canadian Border Services Agency officers can handle a wide range of charter and corporate aircraft with its 4000 foot asphalt runway.
 
 Hanover is a great destination to fly to with clients or key employees for a unique day of golf. There are about 15 courses all within a 30 minute drive and one course where you will want to book tee times, is the 18 hole Pike Lake Golf & Country Club course located in Clifford - less than 15 minutes from Hanover.
 
-## Hanover Air Charter Options
-
-## Charter Flights From Hanover
-
 ### Charter Flights
 
 If you are planning to spend a few days in the Hanover area and need overnight accommodations, you will find that our hotel section below provides links to all small independent hotels and motels as well as the large national chains, such as Best Western, Days Inn, Holiday Inn, Hilton, Hampton, Radisson, Travelodge and more. Find your most convenient location, the best rate and book with the hotel of your choice.
 
 [AIR CHARTER QUOTE](/quote)
-
----
-
----
 
 ## Hanover Wheel Plane Charter Flights
 
@@ -50,22 +38,6 @@ There are no float plane charter services available in or out of the Hanover are
 
 There is no helicopter charter service based in the Hanover Saugeen Airport. If you need helicopter charter service in the Hanover area, we would need to bring one in from Grand Bend, Kitchener or the Chatham Kent area. Contact us for price quotes and availability.
 
----
-
----
-
-## Hanover Charter Quote Request Form
-
----
-
-### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
-
----
-
----
-
----
-
 ## Quick Links To Over 50 Air Charter Destinations Across Southern Ontario
 
 [Click Here For Links To Northern and Northwestern Ontario Destinations](/canada/northern-ontario)
@@ -74,7 +46,7 @@ There is no helicopter charter service based in the Hanover Saugeen Airport. If 
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -94,7 +66,7 @@ There is no helicopter charter service based in the Hanover Saugeen Airport. If 
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -126,12 +98,8 @@ There is no helicopter charter service based in the Hanover Saugeen Airport. If 
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
----

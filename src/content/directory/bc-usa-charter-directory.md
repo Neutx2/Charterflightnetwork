@@ -71,8 +71,6 @@ P: [(604) 202-4244](tel:+16042024244)
 
 [Website](https://nautilusair.com/)
 
-## Chilliwack Air Charter To USA
-
 ## Upper Valley Aviation Ltd
 
 Chilliwack, BC V2P 8A7
@@ -160,8 +158,6 @@ BC / USA Directory
 
 [Back to Main Canadian Menu](/directory/canadian-air-charter-directory-1)
 
-## Explore Related Directories
-
 ## [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
 Link to the main Canadian Air Charter Directory listing wheel plane, float plane and helicopter charter services in every province and territory of Canada.
@@ -183,8 +179,6 @@ For float-plane trips specifically, quickly locate operators across Canada and c
 **Details:** Submit your charter quote request through our free quote request service. It forwards to up to 3 air charter services best positioned and equipped to provide the service you require.
 
 [Request a Quote](/quote)
-
-## British Columbia Air Charters to USA FAQ
 
 ## Which BC locations are covered on this USA charter page?
 

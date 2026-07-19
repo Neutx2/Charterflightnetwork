@@ -9,40 +9,9 @@ region: "canada"
 province: "Yukon"
 provinceSlug: "yukon"
 ---
----
-
 ## The Directory Features Over 100 Flight Route Maps Each With Links To Airlines Who Provide Charter Flights To More Than 20 Yukon Territory Destinations From Departure Points Throughout Yukon / British Columbia / Northwest Territories
 
----
-
-* [Beaver Creek](/canada/yukon/beaver-creek)
-* [Braeburn Lodge](/canada/yukon/braeburn-lodge)
-* [Burwash Landing](/canada/yukon/burwash-landing)
-* [Carcross](/canada/yukon/carcross)
-* [Carmacks](/canada/yukon/carmacks)
-
-* [Chapman Lake](/canada/yukon/chapman)
-* [Dawson City](/canada/yukon/dawson-city)
-* [Eagle Plains](/canada/yukon/eagle-plains)
-* [Faro](/canada/yukon/faro)
-* [Fort Selkirk](/canada/yukon/fort-selkirk)
-
-* [Haines Junction](/canada/yukon/haines-junction)
-* [Mayo](/canada/yukon/mayo)
-* [McQuesten](/canada/yukon/mcquesten)
-* [Minto](/canada/yukon/minto)
-* [Old Crow](/canada/yukon/old-crow)
-
-* [Pelly Crossing](/canada/yukon/pelly-crossing)
-* [Pine Lake](/canada/yukon/pine-lake)
-* [Ross River](/canada/yukon/ross-river)
-* [Silver City](/canada/yukon/silver-city)
-* [Teslin](/canada/yukon/teslin)
-
-* [Tincup W Lodge](/canada/yukon/tin-cup-lake)
 * [Twin Creeks](charter_flights_Twin Creeks_yt.html)
-* [Watson Lake](/canada/yukon/watson-lake)
-* [Whitehorse](/canada/yukon/whitehorse)
 
 ## Yukon Wheel Plane Charters
 
@@ -55,11 +24,6 @@ Link To The Air Charter Websites / Request A Quote / Book Your Flight Direct Wit
 ## Yukon Helicopter Charters
 
 Link To The Air Charter Websites / Request A Quote / Book Your Flight Direct With The Charter Service Of Your Choice
-
----
-
-1100 Memorial Avenue
-Suite
 
 Thunder Bay, Ontario
 

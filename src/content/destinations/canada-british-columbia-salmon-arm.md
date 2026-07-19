@@ -11,14 +11,6 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Salmon Arm"
 ---
-### Private charter flights are the most convenient and efficient travel option for visiting Salmon Arm BC. The town is located on Shuswap Lake and the Trans Canada Highway, in the southern interior region of the province near the mouth of the Salmon River.
-
-## Request A Charter Quote Directly From Any Of Our Featured Charter Airlines or Use Our Free Charter Quote Request Service an Receive Up To 3 Competitive Quotes
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
-### [Charter Flights To Salmon Arm](#collapseOne1)
-
 ### **Salmon Arm Airport**
 
 The town has an airport located two and a half miles southeast of Salmon Arm and has a single asphalt runway 4,200 feet long, making it accessible by all charter flight aircraft types available in the area. The region is a highly popular tourism destination and most visitors who travel here by private charter flight come here for the many beaches, great water activities and the picture perfect scenery
@@ -30,8 +22,6 @@ The closest wheel plane charter service is located in nearby Kamloops. Passenger
 Float plane charter service is available out of Kelowna.Air Hart Aviation provides float plane charter service with a Cessna 180
 
 Helicopter charter service is available out of Kamloops with Summit Air. The next closest helicopter charter service is in Revelstoke where you will find 1. Glacier Helicopters who operate Bell 206 B, l / Aerospatiale AS350 BA / 2. Arrow Helicopters Aerospatiale operating AS350 B2 / and 3. Selkirk Mountain Helicopters featurieng Aerospatiale AS350 BA, B2, B3. These companies specialize in Heli Ski Adventures
-
----
 
 ## Salmon Arm Wheel Plane Charter Flights
 
@@ -45,39 +35,17 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
 
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
-
 ## Charter Flights To Salmon Arm Adventures, Activities and Accommodations
 
 Charter Flight Network Is Currently Developing Marketing Partnerships With Lodges, Resorts, Hotels, Golf Courses, Tour Operators and Numerous Adventure Destinations Throughout British Columbia. We Look Forward To Sharing Many Of These Facilities With Our Viewers Over The Months Ahead.
-
-## Prestige Hotels & Resorts
 
 ### Prestige Hotels and Resorts in Salmon Arm provides upscale accommodations and features a convention centre, pool, hot tub, spa, restaurant, complimentary WiFi
 
 [CHARTER FLIGHTS TO ADVENTURE](/travel/charter-flights-to-adventure)
 
-## Salmon Arm Golf Club
-
 ### Salmon Arm Golf Club features a challenging 18 hole championship course as well as a 9 hole heritage course. Ideal for entertaining prioritiy clients or reqarding key employees
 
 [CHARTER FLIGHTS TO ADVENTURE](/travel/charter-flights-to-adventure)
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -222,9 +190,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

@@ -15,8 +15,6 @@ The community of St Theresa Point is located just under 300 air miles north of W
 
 [Request Charter Quote](#QuoteForm)
 
----
-
 ## *Manitoba Charter Flight Links*
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
@@ -26,8 +24,6 @@ The community of St Theresa Point is located just under 300 air miles north of W
 [Charter Flights Wasagamack](/canada/manitoba/wasagamack)
 
 [Charter Flights Garden Hill](/canada/manitoba/garden-hill)
-
-## Flights to St Theresa Point Airport (YST)
 
 ## **About St Theresa Point:**
 
@@ -47,8 +43,6 @@ This Page Features Wheel Plane / Float Plane / Helicopter Charter Flights To St 
 * [Thompson](/canada/manitoba/thompson)
 * [Red Lake, On](/canada/northern-ontario/red-lake)
 * [Sandy Lake, On](/canada/northern-ontario/sandy-lake)
-
----
 
 ## **Wheel Plane Charter Flights**
 
@@ -81,10 +75,6 @@ In addition to passenger charter flights, Charter Flight Network can also assist
 **Helicopter Charters**
 
 * Use our quote request service to locate helicopter charter services when you require direct access to remote Northern Manitoba locations where there are no roads, runways, or reliable ground transportation options.
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to St Theresa Point or Any Destination Throughout Canada or the USA
-
-## Flights to St Theresa Point, MB FAQ
 
 ## What is the airport code for St Theresa Point, Manitoba?
 
@@ -211,7 +201,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

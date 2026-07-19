@@ -7,14 +7,6 @@ slug: "directory/quebec-float-plane-charter-directory"
 thin: false
 region: "canada"
 ---
----
-
-## Quebec Float Plane Air Charter Directory
-
-### Page 1
-
-### [Back To Main Canadian Menu](/directory/canadian-air-charter-directory-1)
-
 ## Kuujjuaq Float Plane Air Charter
 
 **Johnny May's Air Charters (2009) Ltd**
@@ -154,8 +146,6 @@ P: 819 609-9358
 
 Copyright © Charter Flight Network. All rights reserved.
 
----
-
 ### [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
 * Link to the main Canadian Air Charter Directory listing every wheel plane, float plane and helicopter charter service in every province and territory of Canada.
@@ -172,18 +162,8 @@ Copyright © Charter Flight Network. All rights reserved.
 
 * When you are specifically looking for a float plane charter, this directory lists float plane charter airlines in every province and territory of Canada so you can find exactly what you need in minutes.
 
----
-
-## Receive 3 Competitive Charter Quotes With Just One Click
-
 ### Wheel Plane / Float Plane / Helicopter Charter Services In Every Province & Territory Of Canada
 
 Submit your charter quote request through our free quote request service and it forwards to up to three air charter services that are best positioned and equipped to provide the service you require. Each company prepares a competitive quote and sends it directly to your email.
 
 [REQUEST A QUOTE](/quote)
-
----
-
----
-
----

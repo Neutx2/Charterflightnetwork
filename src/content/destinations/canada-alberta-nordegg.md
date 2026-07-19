@@ -14,12 +14,6 @@ Charter Flights To Nordegg, Alberta
 
 Request Charter Quotes From The Our Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Nordegg](#collapseOne1)
-
 ### About Nordegg, Alberta and Location
 
 Nordegg, Alberta, nestled in the heart of the Canadian Rockies, stands as a prime destination for those seeking adventure and tranquility. This hidden gem offers a plethora of attractions, from breathtaking hiking trails and scenic helicopter charters to the rich history of its mining heritage. Nordegg provides an idyllic setting for private jet charter clients looking to explore the pristine wilderness. With activities ranging from fishing in crystal-clear lakes to golfing amidst stunning mountain vistas, Nordegg invites visitors to discover its unique charm and why it's a perfect hub for air charter adventures.
@@ -78,15 +72,9 @@ Boasting breathtaking mountain views, the Nordegg Mountain View Inn & Suites off
 
 Located on the banks of a serene river, The Rustic River Resort offers a unique 4-star experience with access to outdoor activities and the option for helicopter landings for those on charter flights looking for an adventure.
 
----
-
-## Alberta Private Jet Charter Flights
-
 ### Charter Flight Network - Receive 3 Competitive Quotes
 
 **Health and Hygiene:** In the current climate, private jets offer a more controlled environment, reducing exposure to crowds and potential health risks. This aspect is increasingly important for travelers prioritizing health and safety.
-
-## Turbo Prop / Piston Aircraft Charter Flights
 
 ### Wheel Plane Charters - 3 Competitive Quotes
 
@@ -95,10 +83,6 @@ Fly into Nordegg, Alberta, on a charter flight designed for the business travele
 ### Services Offered by Our Network Helicopter Charter Members
 
 **Ahlstrom Air Ltd.** is based in Nordegg, Alberta and provides helicopter charter services using their Eurocopter AS350 B2 model. They can be reached at (403) 721-2203
-
----
-
----
 
 ## Quick Links To 42 Air Charter Destinations Across Alberta
 
@@ -147,7 +131,3 @@ Fly into Nordegg, Alberta, on a charter flight designed for the business travele
 * [Wetaskiwin](/canada/alberta/wetaskiwin)
 * [Whitecourt](/canada/alberta/whitecourt)
 * [Zama Lake](/canada/alberta/zama-lake)
-
----
-
----

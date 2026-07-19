@@ -11,17 +11,9 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Princeton"
 ---
-## Request A Charter Quote Directly From Any Of Our Featured Charter Airlines or Use Our Free Charter Quote Request Service an Receive Up To 3 Competitive Quotes
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
-### [Charter Flights To Princeton](#collapseOne1)
-
 ### Charter Flights to Princeton BC, a small town of just under 3000 residents located in the far south central region of British Columbia about half way between Hope to the West and Penticton to the East.
 
 There are no commercial flights to Princeton, however the town does have a small airport adjacent to the town with a 3900 foot ashphalt runway. This makes the airport accessible to a wide range of charter aircraft which can be arranged from Abbotsford, Vancouver, Kelowna and Penticton just to name a few. If you are traveling to Princeton from outside the British Columbia area, you can take Air Canada or WestJet to Kelowna and then either take a rental car for the 3 hour drive to Princeton or take a direct charter flight to Princeton and arrive in around 35 minutes.
-
----
 
 ## Princeton Wheel Plane Charter Flights
 
@@ -34,20 +26,6 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 ## Princeton Helicopter Charter Flights
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -192,9 +170,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

@@ -3,25 +3,17 @@ title: "Charter Flights To Kitchener / Waterloo - 3 Competitive Quotes"
 description: "Charter Flights To Kitchener / Waterloo Ontario.  Float / Wheel Plane Helicopter Charter Flights To Kitchener / Waterloo Ontario"
 h1: "Kitchener / Waterloo Charter Flights"
 legacyUrl: "/waterloo_ontario_charter_flights.htm"
-slug: "canada/southern-ontario/waterloo-ontario"
+slug: "canada/southern-ontario/waterloo"
 thin: false
 quoteSubject: "Kitchener Charter"
 region: "canada"
 province: "Southern Ontario"
 provinceSlug: "southern-ontario"
-city: "Waterloo Ontario"
+city: "Waterloo"
 ---
----
-
-## Kitchener / Waterloo Charter Flights - With Just One Click Receive Up To 3 Competitive Charter Quotes Directly From The Airlines who Provide Wheel Plane / Float Plane or Helicopter Charter Services Throughout The Kitchener / Waterloo Area
-
 ### No Cost, No Obligation. Review The Quotes and Then Deal Directly With The Charter Service Of Your Choice.
 
 Charter Flight Network Is Proudly Canadian Owned & Operated
-
----
-
-### [Charter Flights To Kitchener / Waterloo / Guelph](#collapseOne1)
 
 ### The Kitchener Waterloo Airport
 
@@ -58,10 +50,6 @@ If you are flying to Kitchener / Waterloo region to meet with clients or to make
 
 These are just a few examples of the golf courses in the Kitchener-Waterloo, Guelph, and surrounding areas. Each course has its own unique features and challenges, catering to golfers of various skill levels. It's recommended to contact the individual golf courses for more information on their amenities, tee times, and course conditions.
 
----
-
-## Kitchener / Waterloo Jet Charters
-
 ### Chartright Air Group
 
 When you require private charter flight services out of the Kitchener Waterloo region to any destination across Canada, the USA or around the world, Contact Chartright Air Group featuring a full suite of private jet options.
@@ -69,8 +57,6 @@ When you require private charter flight services out of the Kitchener Waterloo r
 ### Jet Charters - Charter Flight Network
 
 Fly in the speed, comfort and security of a private Jet Charter out of Kitchener / Waterloo to destinations across Canada, the USA or Bahamas and Caribbean. Contact us if you would like to compare available aircraft, flight times and pricing and receive up to 3 competitive quotes.
-
-## Kitchener / Waterloo Turbo Prop / Piston Aircraft Charters
 
 ### Fast Air
 
@@ -80,8 +66,6 @@ Fast Air operates a VIP class, 9 passenger Beechcraft King Air 350 out of the Bi
 
 For shorter flights from Kitchener to destinations across Ontario, into western Quebec or north eastern USA, you may find that a high performance turbo prop such as the King Air or Pilatus PC12 is your most cost efficient option. Simply tell us your destination , travel dates and number of passengers and you will receive up to 3 competitive quotes.
 
-## Kitchener / Waterloo Float Plane Charter Flights
-
 ### Cotttage Air
 
 Cottage Air can pick your golf or vacation group up at the Kitchener / Waterloo airport and fly you direct to either the Muskoka Airport, or the aircraft can arrive at your cottage dock as well as many of the area resorts.
@@ -90,13 +74,9 @@ Cottage Air can pick your golf or vacation group up at the Kitchener / Waterloo 
 
 Although there are no float plane charter services based in Kitchener / Waterloo, we can get you competitive quotes for float plane charters to the Muskoka area, French River, Manitoulin or Killarney area. If you are planning a trip to a fly-in fishing lodge in remote regions of Northern Ontario, we can provide you with several float plane options.
 
-## Kitchener / Waterloo Helicopter Charter Flights
-
 ### Helicopter Charter Flights - Charter Flight Network
 
 A helicopter charter is a great way to take priotry clients out for a day or a weekend of challenging golf. Fly direct to courses throughout the Kitchener / Waterloo area or as far north as the many challenging courses in and around Muskoka. Let us get you a few competitive quotes
-
-## Popular Kitchener / Waterloo Charter Flights
 
 ### Kitchener/Waterloo and Quebec
 
@@ -131,8 +111,6 @@ Request A Charter Quote Between Kitchener/Waterloo and Destinations Across North
 
 [CHARTER QUOTE](/canada/northern-ontario/thunder-bay)
 
-## Kitchener / Waterloo Charter Flights To USA / Bahamas / Caribbean
-
 ### Charter Flights Between Kitchener / Waterloo and USA
 
 Request A Charter Quote Between Kitchener/Waterloo and Destinations Across USA
@@ -146,21 +124,9 @@ Request A Charter Quote Between Kitchener/Waterloo and Destinations Across USA
 
 [USA CHARTER QUOTE](/directory/ontario-usa-charter-airlines)
 
----
-
-## Kitchener / Waterloo Charter Quote Request Form
-
----
-
 ### The Following Charter Airlines Provide Quotes For Our Clients Across Ontario, Manitoba, Quebec, Nova Scotia & Nunavut
 
----
-
----
-
 Charter Flight Network Has Been Online Since 2008 And Has Established The Largest Network Of Wheel Plane, Float Plane & Helicopter Charter Services In Every Province & Territory of Canada Who Participate In Our Charter Quote Request Service
-
----
 
 ## Links To Southern Ontario Air Charter Destinations
 
@@ -170,7 +136,7 @@ Charter Flight Network Has Been Online Since 2008 And Has Established The Larges
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -190,7 +156,7 @@ Charter Flight Network Has Been Online Since 2008 And Has Established The Larges
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -222,16 +188,10 @@ Charter Flight Network Has Been Online Since 2008 And Has Established The Larges
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
 
----
-
 Every quote request generated, forwards to the charter airlines best positioned and equipped to provide the service. Each company prepares a competitive quote and sends it directly to your email. [Discover how to link your charter airline to our distribution list](/operators)
-
-### CharterFlightNetwork.com is not a charter service provider. We do not own nor operate any aircraft. All charter quotes are generated by the charter airlines who are best positioned and equipped to provide the service requested. Should you decide to book a charter flight, you book directly with the charter airline of your choice and all flight arrangements and payments are made directly with the airline
-
----

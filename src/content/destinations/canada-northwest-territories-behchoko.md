@@ -14,12 +14,6 @@ Charter Flights To Bechoko, NWT
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Bechoko](#collapseOne1)
-
 ### About Bechoko Northwest Territories and Location
 
 Bechoko, nestled in the heart of the Northwest Territories, is a community rich in culture and surrounded by breathtaking natural landscapes. This serene location offers visitors a unique blend of traditional lifestyle and outdoor adventure. From the pristine waters of Great Slave Lake to the endless boreal forests, Bechoko is the perfect starting point for exploring the vast wilderness of the North.
@@ -78,16 +72,10 @@ Perfect for those seeking a rustic experience, Bechoko Wilderness Lodge offers d
 
 Bechoko is a haven for outdoor enthusiasts, offering a wide range of activities from ice fishing and dog sledding in the winter to canoeing and bird watching in the summer. Local outfitters, such as Bechoko Adventure Tours, specialize in guided expeditions to remote locations, ensuring visitors have a safe and memorable experience in the Northwest Territories.
 
----
-
-## Turbo Prop / Piston Aircraft Charter Flights
-
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 **Security and Privacy**
 The Rae/Edzo Airport (CRE2) has a 3,372 foot gravel runway and is located about a mile and a half from the community of Bechoko. Passengers using private charter flights often experience a more streamlined security process compared to commercial flights. The security measures are still thorough but can be less time-consuming and stressful, as these flights typically depart from private terminals or smaller airports where the procedures are more personalized.
-
-## NWT Float Plane Charter Flights
 
 ### Float Plane Charters - Receive 3 Competitive Quotes
 
@@ -96,16 +84,6 @@ The Rae/Edzo Airport (CRE2) has a 3,372 foot gravel runway and is located about 
 ## NWT Helicopter Charter Flights
 
 **Photography and Filming:** Many of our helicopter charter network members provides unique opportunities for photographers and filmmakers to capture the stunning landscapes and natural beauty of the North from the air.
-
----
-
----
-
----
-
----
-
----
 
 ## Quick Links To Over 40 Air Charter Destinations Across Northwest Territories
 
@@ -153,7 +131,3 @@ The Rae/Edzo Airport (CRE2) has a 3,372 foot gravel runway and is located about 
 * [Whati](/canada/northwest-territories/whati)
 * [Wrigley](/canada/northwest-territories/wrigley)
 * [Yellowknife](/canada/northwest-territories/yellowknife)
-
----
-
----

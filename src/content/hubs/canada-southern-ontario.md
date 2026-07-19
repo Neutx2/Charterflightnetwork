@@ -17,8 +17,6 @@ Whether you are travelling for corporate meetings, manufacturing plant visits, m
 
 Charter flights are also ideal for group travel to conferences, sporting events, cottages and resort areas. Your group can travel together on one aircraft, with departure times built around your schedule and ground transfers pre-arranged at both ends. For urgent cargo, critical parts and time-sensitive documents, charter aircraft can be dispatched quickly to move freight when next-day courier or airline schedules are not fast enough.
 
-## Major Charter-Friendly Airports in Southern Ontario
-
 ## Toronto Pearson International Airport (YYZ)
 
 Toronto Pearson is Canada's largest airport and a major hub for business and private aviation. Multiple FBOs provide full-service facilities for business jets, turboprops and charter operations, including fueling, hangar space and customs services. Charter flights from Pearson serve destinations across North America and beyond, making it a key base for corporate travel and long-range trips originating in Southern Ontario.
@@ -49,8 +47,6 @@ When needed, charter flights can be coordinated to connect Southern Ontario hubs
 
 The following Southern Ontario destinations have dedicated Charter Flight Network pages with more detailed information on local airports and charter operators serving each community:
 
-* [Charter Flights to Toronto (Billy Bishop), Ontario](/canada/southern-ontario/toronto-island)
-* [Charter Flights to Barrie, Ontario](/canada/southern-ontario/barrie)
 * [Toronto Charter Flights to Montreal](/flights/toronto-to-montreal)
 * [Toronto Charter Flights to Chicago](/flights/toronto-to-chicago)
 * [Toronto Charter Flights to Boston](/flights/toronto-to-boston)
@@ -65,12 +61,7 @@ Submit one request and receive up to 3 competitive charter quotes from operators
 
 Many travellers combine Southern Ontario trips with visits to Northern Ontario, Quebec, Manitoba and U.S. destinations. Continue planning your travel with these regional pages:
 
-* [Charter Flights in Northern Ontario](/canada/northern-ontario)
-* [Charter Flights in Quebec](/canada/quebec)
-* [Charter Flights in Manitoba](/canada/manitoba)
 * [USA Charter Flight Network](/usa)
-
-## Southern Ontario Charter Flight FAQ
 
 ## How far in advance should I book a Southern Ontario charter flight?
 

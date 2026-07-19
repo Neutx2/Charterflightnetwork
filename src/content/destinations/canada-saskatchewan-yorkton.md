@@ -14,12 +14,6 @@ Charter Flights To Yorkton, Saskatchewan
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Yorkton](#collapseOne1)
-
 ### About Yorkton, Saskatchewan and Location
 
 Yorkton, a vibrant city nestled in the heart of Saskatchewan, is renowned for its rich cultural heritage and breathtaking natural landscapes. This dynamic city offers a plethora of attractions, activities, and events that cater to visitors of all ages. From its historical sites and art galleries to lush parks and recreational facilities, Yorkton is an ideal destination for those seeking adventure and relaxation. Accessible via charter flights, Yorkton serves as a gateway to exploring the untapped beauty of remote Saskatchewan destinations.
@@ -84,10 +78,6 @@ Experience the great outdoors at Duck Mountain Provincial Park, with activities 
 
 Yorkton boasts several golf courses where enthusiasts can enjoy a round in scenic surroundings. Deer Park Municipal Golf Course and York Lake Regional Park Golf Course are among the local favorites.
 
----
-
-## Yorkton Turbo Prop / Piston Aircraft Charter Flights
-
 ### Good Spirit Air Service
 
 Consider Good Spirit Air Service as another valuable business tool that you can call upon whenever you need to be in two or more plances at once. Let us demonstrate how we can save you time and money.
@@ -99,14 +89,6 @@ No matter what destination you choose and no matter what is you most convenient 
 ## Yorkton Helicopter Charter Flights
 
 If you have a project in the central region of Saskatchewan that requires helicopter support, contact us for competitive quotes.
-
----
-
----
-
----
-
----
 
 ## Quick Links To Over 70 Air Charter Destinations Across Saskatchewan
 
@@ -186,7 +168,3 @@ If you have a project in the central region of Saskatchewan that requires helico
 * [Wollaston Lake](/canada/saskatchewan/wollaston-lake)
 * [Wynyard](/canada/saskatchewan/wynyard)
 * [Yorkton](/canada/saskatchewan/yorkton)
-
----
-
----

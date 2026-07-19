@@ -14,15 +14,9 @@ Charter Flights To Stratford, Ontario
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
 ### [Charter Flights To Stratford](#collapseOne1)
 
 Stratford is located on Hwy 8, west of Kitchener and north of London. The town best known for its live theater and is home to the Stratford Shaespeare Festival. The area is rich in history and culture and every year hundreds of thousands of visitors spend time in the area. You can fly private charter flights direct to the Stratford Airport which has a 5000 foot asphalt runway and is an airport of entry with officers from the CBSA staffing the local airport office
-
-## Stratford Air Charter Options
 
 ## Charter Flights From Stratford
 
@@ -31,10 +25,6 @@ Passengers arriving by private charter flight at the Stratford Airport can arran
 While the family is taking in live theater, or touring the numerous antique shops - you and your associates can be enjoying a round or two of golf on one of the more than two dozen courses in the area. The Stratford Country club has a challenging 18 hole course located in town or you can take a 15 minute drive west to St Marys and play the St Marys Golf Club 18 hole semi-private course which receives great reviews from all who play it.
 
 [AIR CHARTER QUOTE](/quote)
-
----
-
----
 
 ## Stratford Wheel Plane Charter Flights
 
@@ -48,22 +38,6 @@ There is no float plane charter service base in Stratford. The closest float pla
 
 The closest helicopter charter services to Stratford would be located in the Chatham-Kent area. If you require helicopter charter services or sight seeing flights, let us know your details and we will get you up to 3 competitive quotes.
 
----
-
----
-
-## Stratford Charter Quote Request Form
-
----
-
-### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
-
----
-
----
-
----
-
 ## Quick Links To Over 50 Air Charter Destinations Across Southern Ontario
 
 [Click Here For Links To Northern and Northwestern Ontario Destinations](/canada/northern-ontario)
@@ -72,7 +46,7 @@ The closest helicopter charter services to Stratford would be located in the Cha
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -92,7 +66,7 @@ The closest helicopter charter services to Stratford would be located in the Cha
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -124,12 +98,8 @@ The closest helicopter charter services to Stratford would be located in the Cha
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
----

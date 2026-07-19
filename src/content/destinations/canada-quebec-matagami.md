@@ -11,21 +11,9 @@ province: "Quebec"
 provinceSlug: "quebec"
 city: "Matagami"
 ---
----
-
-## Receive Competitive Charter Quotes Directly From The Airlines who Provide Wheel Plane / Float Plane or Helicopter Charter Flights To Matagami
-
-### No Cost, No Obligation. Review The Quotes and Then Deal Directly With The Charter Service Of Your Choice.
-
----
-
-### [Charter Flights To Matagami](#collapseOne1)
-
 ### Flights To Matagami
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
-
----
 
 ### About Flights To Matagami
 
@@ -45,10 +33,6 @@ With just one click, you can receive up to 3 competitive charter flight quotes d
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
 
----
-
-## Private Jet Charters
-
 ### Jet Charters
 
 The Matagami airport has a 5,000 foot asphalt runway, making it accessible to a selection of jet charters. Montreal is the closest airport with Jet Charter services. Contact us for availability and competitive quotes.
@@ -62,8 +46,6 @@ There are no charter services based in Matagami. The closest air charter bases a
 The closest float plane charter base is located in La Tuque which is 275 air miles south, which means a float plane charter to Matagami would be extremely expensive. Submit our Free Charter Quote Request Form and receive up to 3 Competitive Quotes.
 
 La Sarre is located 90 air miles south west and is the closest helicopter charter base to Matagami. There is also a helicopter base in Val d'Or located 110 air miles south. Submit our Free Charter Quote Request Form and receive up to 3 Competitive Quotes
-
-## Popular Charter Flights To Matagami, Quebec
 
 ### [Montreal Charter Flights](/canada/quebec/montreal)
 
@@ -81,19 +63,9 @@ It is 430 air miles between Toronto and Matagami. View Wheel Plane, Float Plane 
 
 It is 115 air miles between Val d'Or and Matagami. View Wheel Plane, Float Plane & Helicopter Charter Services based in Val d'Or
 
----
-
----
-
 ### The Following Charter Airlines Provide Quotes For Our Clients Across Quebec, Ontario, Manitoba, Nova Scotia & Nunavut
 
----
-
----
-
 Charter Flight Network Has Been Online Since 2008 And Has Established The Largest Network Of Wheel Plane, Float Plane & Helicopter Charter Services In Every Province & Territory of Canada Who Participate In Our Charter Quote Request Service
-
----
 
 ## Quick Links To 86 Air Charter Destinations Across Quebec
 
@@ -186,7 +158,3 @@ Charter Flight Network Has Been Online Since 2008 And Has Established The Larges
 * [Val-d`Or](/canada/quebec/val-d-or)
 * [Waskaganish](/canada/quebec/waskaganish)
 * [Wemindji](/canada/quebec/wemindji)
-
----
-
----

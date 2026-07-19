@@ -14,12 +14,6 @@ Charter Flights To Teslin, Yukon Territory
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Teslin](#collapseOne1)
-
 ### About Teslin Yukon and Location
 
 Teslin, Yukon, is a picturesque locale known for its stunning landscapes, vibrant wildlife, and rich cultural heritage. Nestled in the heart of Yukon, it offers an array of attractions and activities such as fishing, kayaking, and northern lights viewing, making it a must-visit for those seeking adventure and relaxation. Charter flights to Teslin provide an exclusive gateway to exploring this remote paradise.
@@ -88,10 +82,6 @@ Explore the serene waters of Teslin Lake by kayak, an adventure that brings you 
 
 Witness the ethereal beauty of the Northern Lights in Teslin, where the clear night sky will keep you entertained for hours with specatacular views.
 
----
-
-## Teslin Wheel Plane Charter Flights
-
 ### Tintina Air Inc.
 
 The Piper Navajo PA31 operated by Tintina Air twin-is quick and versatile aircraft designed for various transport needs, including operating off shorter gravel strips​​.
@@ -100,25 +90,15 @@ The Piper Navajo PA31 operated by Tintina Air twin-is quick and versatile aircra
 
 Teslin is located in southern Yukon at mile 804 of the Alaskan highway on the eastern shore of Teslin Lake. Teslin Lake is in both BC and Yukon. From Watson Lake, the Alaskan highway re-enters British Columbia just past Swift River and then heads back north into the Yukon just south of Teslin, which is just north of the border with British Columbia. The local airport has a single gravel runway - 5,000 feet in length - making it accessible to most charter aircraft in the region. Contact us for competitive quotes.
 
-## Teslin Float Plane Charter Flights
-
 ### Float Plane Charters - Receive 3 Competitive Quotes
 
 Float plane charters are available to Teslin which is located about 3/4 of the way up eastern shoreline of Teslin Lake. The closest float plane charter service is located 90 air miles northwest of Teslin in Whitehorse. Contact us with your requirements and we will source out to the float plane charter services best positioned and equipped to provide the services you require.
-
-## Teslin Helicopter Charter Flights
 
 ### Fireweed Helicopters Ltd
 
 With their highly diversified fleet, Fireweed Helicopters specializes in supporting the mining industry with drill moves, camp mobilization, and staking​​.
 
 If you have a project in the Teslin area that requires helicopter support, contact us with your requirements. We will source out to the helicopter charter service who operate in the region. You will receive up to 3 competitive quotes.
-
----
-
----
-
----
 
 ## Quick Links To Over 20 Air Charter Destinations Across Yukon Territory
 
@@ -149,7 +129,3 @@ If you have a project in the Teslin area that requires helicopter support, conta
 * [Twin Creeks](charter_flights_Twin Creeks_yt.html)
 * [Watson Lake](/canada/yukon/watson-lake)
 * [Whitehorse](/canada/yukon/whitehorse)
-
----
-
----

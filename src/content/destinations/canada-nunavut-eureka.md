@@ -12,12 +12,6 @@ city: "Eureka"
 ---
 Charter Flights To Eureka Nunavut
 
----
-
-## Receive Competitive Quotes For Any Eureka Charter Flight - You Book Directly With The Charter Service Of Your Choice, Ensuring You Receive The Best Available Flight & Price Option
-
-### [Charter Flights To Eureka, NU](#collapseOne1)
-
 ### Location
 
 Eureka is not a community, but rather a research base located is located on Ellesmere Island south of Alert. Direct charter flights are available to Eureka from departure points across Nunavut and major Canadian cities to the south. Unless you are part of the research program, you probably would have no reason to visit Eureka - but just to know - there are no commercial flights to this location. You would need to charter a private charter flight to Eureka and the cost would be fairly prohibitive.
@@ -25,12 +19,6 @@ Eureka is not a community, but rather a research base located is located on Elle
 ### Eureka Airport
 
 The Eureka airport which is operated by the government of Nunavut has a 4800 foot runway, making it accessible to a wide range of charter aircraft approved for gravel runway operations
-
-### Discover Our Unique Charter Quote Request Service
-
----
-
-## Private Jet Charters
 
 ### Jet Charters
 
@@ -42,27 +30,11 @@ Eureka is a research station located on Ellesmere Island in Nunavut, Canada and 
 
 Eureka is a significant site for scientific research, particularly in atmospheric sciences, climate studies, and polar research. Any helicopters that operate in the area, would be working on behalf of ongoing reserach projects. Visitors may have the opportunity to learn about ongoing research projects.
 
-## Group Charters / Crew rotations
-
 ### Group Charters / Crew Rotations
 
 When you have 9 or more passengers to fly on a one time or ongoing basis, between Eureka and any destination throughout Nunavut or Canada, request a no obligation quote from our Group Air Charter Department
 
-[REQUEST GROUP QUOTE](/canada/northern-ontario/group)
-
----
-
-## Nunavut Charter Quote Request Form
-
----
-
-### We Are Proud To Highlight The Following Charter Airlines Who Provide Quotes For Our Clients Across Nunavut, NWT, Ontario, Manitoba, Quebec
-
----
-
----
-
----
+[REQUEST GROUP QUOTE](/quote)
 
 ## Quick Links To 31 Air Charter Destinations Across Nunavut
 
@@ -129,7 +101,3 @@ When you have 9 or more passengers to fly on a one time or ongoing basis, betwee
 [Tanquary Fiord](/canada/nunavut/tanquary-fiord)
 
 [Whale Cove](/canada/nunavut/whale-cove)
-
----
-
----

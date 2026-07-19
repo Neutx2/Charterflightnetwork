@@ -14,12 +14,6 @@ Charter Flights To La Loche, Saskatchewan
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To La Loche](#collapseOne1)
-
 ### About La Loche Saskatchewan and Location
 
 La Loche, Saskatchewan, a community rich in natural beauty and cultural heritage, offers an unparalleled gateway to the unspoiled wilderness of Northern Saskatchewan. Accessible through charter flights, La Loche is an inviting destination for adventurers and nature lovers alike. With attractions like the Clearwater River Provincial Park nearby, visitors can enjoy a plethora of outdoor activities such as fishing, kayaking, and hiking, making La Loche a must-visit for those seeking the tranquility and adventure of remote destinations.
@@ -88,10 +82,6 @@ Embark on a canoeing adventure on the Clearwater River, renowned for its clear w
 
 Discover the breathtaking landscapes of La Loche through its network of hiking trails. From leisurely walks to challenging hikes, these trails offer an immersive experience into the area's diverse ecosystems and stunning vistas.
 
----
-
-## La Loche Turbo Prop / Piston Aircraft Charter Flights
-
 ### Transwest Air / Rise Air
 
 Request a no obligation charter quote from Rise Air for a charter flight direct to La Loche from Saskatooon, located 315 air miles south.
@@ -100,8 +90,6 @@ Request a no obligation charter quote from Rise Air for a charter flight direct 
 
 La Loche is located near the Alberta border which means we can source out for competitive charter quote requests from both Saskatchewan as well as Alberta charter companies.
 
-## La Loche Float Plane Charter Flights
-
 ### Voyage Air
 
 Voyage Air is located 60 air miles south of La Loche at Buffalo Narrows. Their fleet includes 1 DHC3T DeHavilland Turbo-Otter Floatplane
@@ -109,14 +97,6 @@ Voyage Air is located 60 air miles south of La Loche at Buffalo Narrows. Their f
 ## La Loche Helicopter Charter Flights
 
 If you have a project in the La Loche region that requires helicopter support we can source out your request to helicopter charter companies in the region including Fort McMurray ensuring you receive a selection of competitive quotes.
-
----
-
----
-
----
-
----
 
 ## Quick Links To Over 70 Air Charter Destinations Across Saskatchewan
 
@@ -196,7 +176,3 @@ If you have a project in the La Loche region that requires helicopter support we
 * [Wollaston Lake](/canada/saskatchewan/wollaston-lake)
 * [Wynyard](/canada/saskatchewan/wynyard)
 * [Yorkton](/canada/saskatchewan/yorkton)
-
----
-
----

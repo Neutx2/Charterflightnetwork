@@ -11,17 +11,9 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Douglas Lake"
 ---
-## Request A Charter Quote Directly From Any Of Our Featured Charter Airlines or Use Our Free Charter Quote Request Service an Receive Up To 3 Competitive Quotes
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
-### [Charter Flights To Douglas Lake](#collapseOne1)
-
 ### Diret charter flights to Douglas Lake located south of Vancouver and west of Abbotsford and lies on the border with British Columbia and the State of Washington USA. It is actually part of Surrey and is the location of the Peace Arch Border Crossing between USA and Canada
 
 There are no direct charter flights to Douglas Lake as there is no airport in Douglas but there are several airports nearby such as: The King George Airpark in Surrey / the Langley Regional Airport in Langley / Abbotsford International and Bellingham International located in Bellingham Washington. If you looking for a charter flight to this region, request your no obligation charter quote to one of the above mentioned airports.
-
----
 
 ## Douglas Lake Wheel Plane Charter Flights
 
@@ -34,20 +26,6 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 ## Douglas Lake Helicopter Charter Flights
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -192,9 +170,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

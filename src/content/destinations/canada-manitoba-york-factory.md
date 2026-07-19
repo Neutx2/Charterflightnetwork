@@ -15,8 +15,6 @@ York Factory is a remote National Historic Site near the mouth of the Hayes Rive
 
 [Request Charter Quote](#QuoteForm)
 
----
-
 ## *Manitoba Charter Flight Links*
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
@@ -26,8 +24,6 @@ York Factory is a remote National Historic Site near the mouth of the Hayes Rive
 [Charter Flights Gillam](/canada/manitoba/gillam)
 
 [Charter Flights Churchill](/canada/manitoba/churchill)
-
-## Flights to York Factory, Manitoba
 
 ## **About York Factory:**
 
@@ -62,8 +58,6 @@ York Factory is reached more as a fly-in historic destination than as a conventi
 
 * York Factory is best known for self-guided walks, boardwalk exploration, historic interpretation, and the rare chance to experience an isolated fur-trade landscape in polar bear country. The site appeals more to history and wilderness travelers than conventional tourists.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 There is no land airport located at York Factory. Visitors will need to use either Float Plane or Helicopter charters to York Factory.
@@ -79,12 +73,6 @@ Float plane charters can be a useful seasonal option for York Factory when water
 Helicopter charters may be suitable for York Factory access, site support, or specialized remote operations where flexible landing options are required, since there is no land airport at York Factory.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to York Factory or Any Destination Throughout Canada or the USA
-
-## Flights to York Factory, MB FAQ
 
 ## How do you get to York Factory, Manitoba?
 
@@ -211,7 +199,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

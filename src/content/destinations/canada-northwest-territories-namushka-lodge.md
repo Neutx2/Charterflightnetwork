@@ -14,12 +14,6 @@ Charter Flights To Namushka Lodge, NWT
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Namushka Lodge](#collapseOne1)
-
 ### About Namushka Lodge Northwest Territories and Location
 
 Float plane charter flights are available to Nanushka Lodge NWT which is located on the north east shores of Harding Lake - which in turn is locatd north east of Great Slave Lake. There is no land airport here and the lodge is open from Mid June to October. Guests usually fly from Yellowknife which has the closest float plane charter base.
@@ -72,21 +66,13 @@ Namushka Lodge offers a range of accommodation options from cozy lodge rooms to 
 
 The area around Namushka Lodge is a playground for outdoor enthusiasts. From fishing in crystal-clear lakes, hunting in the dense forests, to kayaking and experiencing the awe-inspiring northern lights, the lodge offers an array of activities. Local outfitters, such as Wilderness Excursions and Aurora Adventures, provide expert guidance and equipment, ensuring an unforgettable experience in the Northwest Territories.
 
----
-
-## NWT Private Jet Charter Flights
-
 ### Charter Flight Network - Receive 3 Competitive Quotes
 
 Guests heading for Namushka Lodge NWT can take a private jet charter to Yellowknife and then connect with the float plane charter flight direct to the lodge. We can arrange jet charters out of Chicago, Minneapolis, Calgary, Edmonton and others.
 
-## Turbo Prop / Piston Aircraft Charter Flights
-
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 We can arrange a high performance turbo prop charter flight direct to Yellowknife from virtually any departure point throughout Canada or USA. Upon arrival in Yellowknife, you will connect with the float plane charter direct to Namushka Lodge.
-
-## NWT Float Plane Charter Flights
 
 ### Float Plane Charters - Receive 3 Competitive Quotes
 
@@ -95,16 +81,6 @@ We can arrange a high performance turbo prop charter flight direct to Yellowknif
 ## NWT Helicopter Charter Flights
 
 There are no helicopter charter services based in Nanushka Lodge, Guests however can arrange for helicopter pick up at the lodge and fly to even more remote lakes or rivers for a unique and spectacular day of heli-fishing. Contact us for details.
-
----
-
----
-
----
-
----
-
----
 
 ## Quick Links To Over 40 Air Charter Destinations Across Northwest Territories
 
@@ -152,7 +128,3 @@ There are no helicopter charter services based in Nanushka Lodge, Guests however
 * [Whati](/canada/northwest-territories/whati)
 * [Wrigley](/canada/northwest-territories/wrigley)
 * [Yellowknife](/canada/northwest-territories/yellowknife)
-
----
-
----

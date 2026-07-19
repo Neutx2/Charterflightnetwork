@@ -11,21 +11,9 @@ province: "Quebec"
 provinceSlug: "quebec"
 city: "La Macaza"
 ---
----
-
-## Receive Competitive Charter Quotes Directly From The Airlines who Provide Wheel Plane / Float Plane or Helicopter Charter Flights To La Macaza
-
-### No Cost, No Obligation. Review The Quotes and Then Deal Directly With The Charter Service Of Your Choice.
-
----
-
-### [Charter Flights To La Macaza](#collapseOne1)
-
 ### Flights To La Macaza
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
-
----
 
 ### About Flights To La Macaza
 
@@ -41,10 +29,6 @@ With just one click, you can receive up to 3 competitive charter flight quotes d
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
 
----
-
-## Private Jet Charters
-
 ### Jet Charters
 
 The La Macaza airport has a 5900 foot asphalt runway, making it accessible to a large selection of light and medium size jet charters out of Montreal, Toronto or throughout the USA. Contact us for availability and competitive quotes.
@@ -59,8 +43,6 @@ There are two float plane charter services based in the Mont Tremblant area and 
 
 Heli Tremblant provides area sight seeing flights in the Mont Tremblant area as well as heli shuttle services from the La Macaza Airport to Mont Tremblant. They operate Bell 206 L / Guimbal Cabri G2 / Robinson R44 helicopters. Submit our Free Charter Quote Request Form and receive up to 3 Competitive Quotes.
 
-## Popular Charter Flights To La Macaza, Quebec
-
 ### [Quebec City Charter Flights](/canada/quebec/quebec-city)
 
 It is 170 air miles between Quebec City and La Macaza. View Wheel Plane, Float Plane & Helicopter Charter Services based in Quebec City
@@ -69,19 +51,9 @@ It is 170 air miles between Quebec City and La Macaza. View Wheel Plane, Float P
 
 It is 300 air miles between Toronto and La Macaza. View Wheel Plane, Float Plane & Helicopter Charter Services based in Toronto
 
----
-
----
-
 ### The Following Charter Airlines Provide Quotes For Our Clients Across Quebec, Ontario, Manitoba, Nova Scotia & Nunavut
 
----
-
----
-
 Charter Flight Network Has Been Online Since 2008 And Has Established The Largest Network Of Wheel Plane, Float Plane & Helicopter Charter Services In Every Province & Territory of Canada Who Participate In Our Charter Quote Request Service
-
----
 
 ## Quick Links To 86 Air Charter Destinations Across Quebec
 
@@ -174,7 +146,3 @@ Charter Flight Network Has Been Online Since 2008 And Has Established The Larges
 * [Val-d`Or](/canada/quebec/val-d-or)
 * [Waskaganish](/canada/quebec/waskaganish)
 * [Wemindji](/canada/quebec/wemindji)
-
----
-
----

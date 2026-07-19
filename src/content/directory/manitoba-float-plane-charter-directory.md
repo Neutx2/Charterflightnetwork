@@ -41,8 +41,6 @@ Click for a quick index of Manitoba float plane charter locations
 **Details:** Complete and submit the Charter Quote Request Form. Your request is forwarded to the charter airlines best positioned and equipped to provide the float plane, wheel plane, or helicopter service you require.
 Each company prepares a competitive quote and sends it directly to your email. If you receive an acceptable quote, you deal directly with the charter airline of your choice to confirm scheduling and payment.
 
-## Flin Flon Float Plane Charter
-
 ## Wings Over Kississing
 
 **Wings Over Kississing**
@@ -52,8 +50,6 @@ P: 000000
 **Aircraft Types:** Cessna 208B / Cessna 185 / Cessna 206 / Beech 100 / Beech 200 / Beech 99 / De Havilland Beaver / De Havilland Otter
 **Service Type:** Floats / Wheels
 
-## Lac du Bonnet Float Plane Charter
-
 ## Adventure Air
 
 **Adventure Air**
@@ -62,8 +58,6 @@ P: 000000
 **Base Locations:** Lac du Bonnet, MB
 **Aircraft Types:** Cessna 208 Caravan / Cessna 337 Skymaster / Cessna 185 / Cessna U206 / De Havilland Beaver / De Havilland Single Otter
 **Service Type:** Floats / Wheels
-
-## Lynn Lake Float Plane Charter
 
 ## McGavock Lake Air Service
 
@@ -82,8 +76,6 @@ P: 000000
 **Base Locations:** Flin Flon, MB / Thompson, MB / Lynn Lake, MB / Churchill, MB
 **Aircraft Types:** Cessna 208B / Cessna 185 / Cessna 206 / Beech 100 / Beech 200 / Beech 99 / De Havilland Beaver / De Havilland Otter
 **Service Type:** Floats / Wheels
-
-## Pine Falls Float Plane Charter
 
 ## Blue Water Aviation Services
 
@@ -108,8 +100,6 @@ P: 000000
 **Service Type:** Floats
 
 [Website](https://kitchiisland.com/)
-
-## Snow Lake Float Plane Charter
 
 ## Gogal Air Services
 
@@ -143,8 +133,6 @@ P: (204) 339-2310
 **Base Locations:** St Andrews, MB
 **Aircraft Types:** Pilatus PC-12 (47E) / Cessna 208
 **Service Type:** Floats / Wheels
-
-## St Theresa Point Float Plane Charter
 
 ## MHA Enterprises
 
@@ -200,8 +188,6 @@ Use the main Canadian Air Charter Directory to browse wheel plane, float plane, 
 
 [Back to Main Canadian Menu](/directory/canadian-air-charter-directory-1)
 
-## Explore Related Directories
-
 ## [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
 Link to the main Canadian Air Charter Directory listing wheel plane, float plane and helicopter charter services in every province and territory of Canada.
@@ -223,8 +209,6 @@ When you need a float plane charter, find float plane operators across Canada in
 **Details:** Submit one quote request and receive responses from air charter operators best positioned and equipped for your flight requirements.
 
 [Request Charter Quotes](/quote)
-
-## Manitoba Float Plane Charter Directory FAQ
 
 ## Which Manitoba float plane locations are included?
 

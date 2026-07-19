@@ -14,25 +14,13 @@ Charter Flights To Brampton, Ontario
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
 ### [Charter Flights To Toronto Brampton Airport](#collapseOne1)
 
 If you have a meeting in the region north west of Toronto, such as Brampton, Woodbridge, Caledon or Halton Hills area - you may be able to take a direct charter flight to the Brampton Airport. The airport has a 3500 foot asphalt runway which is a combination asphalt/turf and may be limited to the size and types of aircraft that can use this airport. Complete and submit the adjacent charter quote request form to learn availability of this airport for your travel mission along with pricing, and alternative airports.
 
-## Your Brampton Air Charter Options
-
-## About Brampton
-
 ### Location
 
 There are no air charter services located at the Brampton Airport. The closest airports with available charter aircraft are Pearson, Buttonville and Billy Bishop. You can arrange a charter flight pick up at the Brampton Airport, however you will pay the cost of the aircraft flying over to Brampton for the pick-up which may be quite expensive.
-
----
-
-## Brampton Charter Flights to USA
 
 ### USA Charter Flights
 
@@ -43,8 +31,6 @@ With a private charter flight you can conduct business en route in a private and
 You arrive relaxed and refreshed, ready to meet the challenges of the day
 
 You can conduct your business throughout the day and return home that evening.
-
----
 
 ## Brampton Airport Wheel Plane Charter Flights
 
@@ -58,20 +44,6 @@ There are no float plane charter services based out of Brampton. We can bring an
 
 There is a good selection of Helicopter Charter services available out of Brampton. Some of the helicopter types include: Bell 429 / Eurocopter AS350B2 / Sikorsky S76C / Aerospatiale AS355 F1 / Bell 206B. Let us know your requirements either for charter or sight seeing and we will get you up to 3 competitive quotes.
 
----
-
----
-
-## Brampton Airport Charter Quote Request Form
-
----
-
-### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
-
----
-
----
-
 ## Quick Links To Over 50 Air Charter Destinations Across Southern Ontario
 
 [Click Here For Links To Northern and Northwestern Ontario Destinations](/canada/northern-ontario)
@@ -80,7 +52,7 @@ There is a good selection of Helicopter Charter services available out of Brampt
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -100,7 +72,7 @@ There is a good selection of Helicopter Charter services available out of Brampt
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -132,15 +104,11 @@ There is a good selection of Helicopter Charter services available out of Brampt
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
----
 
 <div class="card mb-3" style="max-width: 750px;">
 <div class="row no-gutters">

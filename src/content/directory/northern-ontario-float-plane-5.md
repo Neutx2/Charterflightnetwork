@@ -135,8 +135,6 @@ P: 807-737-0038
 **Aircraft Types:** IAI Westwind / Piper PA-31 / Swearingen SA226 / SA227
 **Service Type:** Wheels
 
-## St. Catharines Air Charter
-
 ## St. Catharines Flying Club
 
 Niagara-on-the-Lake, ON
@@ -144,8 +142,6 @@ P: xxxx
 **Base Locations:** St. Catharines
 **Aircraft Types:** Cessna 172 / Piper PA-28
 **Service Type:** Wheels
-
-## Sudbury Air Charter
 
 ## Air Bravo
 
@@ -185,8 +181,6 @@ P: 519-374-5929
 **Aircraft Types:** Aerospatiale AS350 BA / Bell 205 A1 / Eurocopter AS350 B2 / Eurocopter AS350 B3
 **Service Type:** Helicopter
 
-## Temagami Air Charter
-
 ## Lakeland Airways Limited
 
 Temagami, ON P0H 2H0
@@ -194,8 +188,6 @@ P: 705-569-3455
 **Base Locations:** Temagami
 **Aircraft Types:** De Havilland Beaver
 **Service Type:** Floats
-
-## Thunder Bay Air Charter
 
 ## Air Bravo
 
@@ -272,8 +264,6 @@ P: 416-930-6092
 **Aircraft Types:** Canadair CL-600 / Cessna 550 / Cessna 560XL / Cessna 650 / Cessna 680 / Pilatus PC-12 (45, 47)
 **Service Type:** Wheels
 
-## Timmins Air Charter
-
 ## Thunder Air
 
 Timmins / Thunder Bay, ON
@@ -302,8 +292,6 @@ Get up to 3 competitive quotes for your next charter flight
 
 [Next: Page 6](/directory/ontario-air-charter-directory-6)
 
-## Explore Related Directories
-
 ## [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
 Link to the main Canadian Air Charter Directory listing every wheel plane, float plane, and helicopter charter service in every province and territory of Canada.
@@ -326,8 +314,6 @@ Submit your charter quote request through our free service and it forwards to up
 
 [Request a Quote](/quote)
 
-## Ontario Air Charter Directory Page 5 FAQ
-
 ## Which Ontario communities are included on page 5?
 
 Page 5 includes Sioux Lookout, St. Catharines, Sudbury, Temagami, Thunder Bay, and Timmins.
@@ -339,9 +325,6 @@ Yes. Page 5 includes a mix of float plane, wheel plane, amphibious, and helicopt
 ## Can I request quotes from operators listed on this page?
 
 Yes. Many featured listings include direct quote request links, and Charter Flight Network also provides a quote request service to help source competitive charter quotes.
-
-Thunder Bay, ON P7E 5Y1
-P: [807-472-1955](tel:+18074721955)
 
 ## The Canadian Air Charter Directory
 

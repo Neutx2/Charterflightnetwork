@@ -11,21 +11,9 @@ province: "Quebec"
 provinceSlug: "quebec"
 city: "Quebec City"
 ---
----
-
-## Receive Competitive Charter Quotes Directly From The Airlines who Provide Wheel Plane / Float Plane or Helicopter Charter Flights To Quebec City
-
-### No Cost, No Obligation. Review The Quotes and Then Deal Directly With The Charter Service Of Your Choice.
-
----
-
-### [Charter Flights To Quebec City](#collapseOne1)
-
 ### Flights To Quebec City
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
-
----
 
 ### Quebec City Charter Flights
 
@@ -49,15 +37,9 @@ With just one click, you can receive up to 3 competitive charter flight quotes d
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
 
----
-
-## Private Jet Charters
-
 ### Jet Charters
 
 The longest runway at the Quebec City airport 9,000 feet, making it accessible to all jet charter aircraft from across Canada or the USA. Contact us for availability and competitive quotes
-
-## Turbo Prop / Piston Aircraft Charters
 
 ### Panorama Aviation
 
@@ -70,8 +52,6 @@ There are 7 wheel plane charter services operating out of the Quebec City area. 
 Nordplus 1998 Ltee is a float plane charter service based in Quebec City and operates a De Havilland DHC 3 Otter. Submit our Free Charter Quote Request Form and receive up to 3 Competitive Quotes.
 
 There are 4 helicopter charter services operating in the Quebc City area. Helicopters available include:Aerospatiale AS350 / AS332 / Airbus EC 130 / Robinson R44 / Sikorsky S61 N / Eurocopter EC120 B, EC130 B4 / Robinson R22 / Robinson R44 II / Bell 205. Submit our Free Charter Quote Request Form and receive up to 3 Competitive Quotes.
-
-## Popular Charter Flights To Quebec City, Quebec
 
 ### [Chibougamau Charter Flights](/canada/quebec/chibougamau)
 
@@ -97,19 +77,9 @@ It is 540 air miles between Sydney and Quebec City. View Wheel Plane, Float Plan
 
 It is 450 air miles between Toronto and Quebec City. View Wheel Plane, Float Plane & Helicopter Charter Services based in Toronto
 
----
-
----
-
 ### The Following Charter Airlines Provide Quotes For Our Clients Across Quebec, Ontario, Manitoba, Nova Scotia & Nunavut
 
----
-
----
-
 Charter Flight Network Has Been Online Since 2008 And Has Established The Largest Network Of Wheel Plane, Float Plane & Helicopter Charter Services In Every Province & Territory of Canada Who Participate In Our Charter Quote Request Service
-
----
 
 ## Quick Links To 86 Air Charter Destinations Across Quebec
 
@@ -202,7 +172,3 @@ Charter Flight Network Has Been Online Since 2008 And Has Established The Larges
 * [Val-d`Or](/canada/quebec/val-d-or)
 * [Waskaganish](/canada/quebec/waskaganish)
 * [Wemindji](/canada/quebec/wemindji)
-
----
-
----

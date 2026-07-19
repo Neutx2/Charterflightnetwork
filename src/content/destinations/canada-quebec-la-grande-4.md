@@ -11,21 +11,9 @@ province: "Quebec"
 provinceSlug: "quebec"
 city: "La Grande 4"
 ---
----
-
-## Receive Competitive Charter Quotes Directly From The Airlines who Provide Wheel Plane / Float Plane or Helicopter Charter Flights To La Grande-4
-
-### No Cost, No Obligation. Review The Quotes and Then Deal Directly With The Charter Service Of Your Choice.
-
----
-
-### [Charter Flights To La Grande-4](#collapseOne1)
-
 ### Flights To La Grande-4
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
-
----
 
 ### Location
 
@@ -41,15 +29,9 @@ With just one click, you can receive up to 3 competitive charter flight quotes d
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
 
----
-
-## Private Jet Charters
-
 ### Jet Charters
 
 The La Grande-4 airport has a 5,000 foot asphalt runway, making it accessible to a selection of jet charters, however prior permission from Hydro Quebec is required before landing. Contact us for availability and competitive quotes.
-
-## Turbo Prop / Piston Aircraft Charters
 
 ### Panorama Aviation
 
@@ -63,19 +45,9 @@ There are no float plane charter services in the La Grande 4 region and bringing
 
 Helicopter charters may operate in the area from time to time. There is however, no full time helicopter charter service based in La Grande 4. If you require helicopter support, contact us and we will source out your requirements to the charter companies operating in the area. They in turn, will send you pricing and availability details.
 
----
-
----
-
 ### The Following Charter Airlines Provide Quotes For Our Clients Across Quebec, Ontario, Manitoba, Nova Scotia & Nunavut
 
----
-
----
-
 Charter Flight Network Has Been Online Since 2008 And Has Established The Largest Network Of Wheel Plane, Float Plane & Helicopter Charter Services In Every Province & Territory of Canada Who Participate In Our Charter Quote Request Service
-
----
 
 ## Quick Links To 86 Air Charter Destinations Across Quebec
 
@@ -168,7 +140,3 @@ Charter Flight Network Has Been Online Since 2008 And Has Established The Larges
 * [Val-d`Or](/canada/quebec/val-d-or)
 * [Waskaganish](/canada/quebec/waskaganish)
 * [Wemindji](/canada/quebec/wemindji)
-
----
-
----

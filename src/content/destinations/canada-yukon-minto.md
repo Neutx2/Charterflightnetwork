@@ -14,12 +14,6 @@ Charter Flights To Minto, Yukon Territory
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Minto](#collapseOne1)
-
 ### About Minto, Yukon
 
 Minto Explorations operates the Minto copper-gold mine, located about 240km northwest of Whitehorse in the Yukon Territory, Canada. This mine, under the management of Minto Explorations Ltd., a subsidiary of Capstone Mining Corp, began production in October 2007. It was initially operated as an open-pit mine but has since transitioned to 100% underground mining. The primary product of the mine is copper concentrate, with gold and silver as by-products.
@@ -40,10 +34,6 @@ If Minto is not the most convenient airport for your travel needs, youmay find o
 
 Dawson City is located 125 air miles northwest of Minto and is 50 air miles east of the Alaska USA border. The Dawson City Airport is just over 9 miles east of the town and has a 5000 foot asphalt runway making it accessible to all charter aircraft that operate throughout the area.
 
----
-
-## Minto Wheel Plane Charter Flights
-
 ### Tintina Air Inc.
 
 Our aircraft are equipped for operations on wheels and skis, allowing for versatile landing and takeoff options across various terrains and seasons. This adaptability ensures we can offer services year-round, regardless of the changing northern conditions​​.
@@ -51,8 +41,6 @@ Our aircraft are equipped for operations on wheels and skis, allowing for versat
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 The Minto airport is a private use airport operated by Minto Explorations in support of their copper and gold mining project north of Whitehorse and located on the Klondike Highway and the Yukon River. The single gravel runway has a length of 4,495 feet. Prior permission is required for flights into this strip. If you are travelling on mine business and would like a competitive charter quote, we can work out the details and get you quotes directly from the charter airlines.
-
-## Minto Float Plane Charter Flights
 
 ### Alkan Air Ltd
 
@@ -62,23 +50,11 @@ Check with Alkan Air for the option of flying float plane direct to Minto on the
 
 For competitive charter quotes to Minto located along the Yukon River, submit our free no obligation charter quote request form and receive up to 3 competitive quotes.
 
-## Minto Helicopter Charter Flights
-
 ### Fireweed Helicopters Ltd
 
 Bell 206 LongRanger L4 which is a more powerful variant of the LongRanger, carries 6 passengers making it a very cost efficient option for either siteseeing flights or small work crew rotations. Contact us for quotes.
 
 If you have a project in the Minto area that requires Helicopter support and you would like to receive competitive quotes, use our free charter quote request service and receive a selection of quotes directly from the charter services.
-
----
-
----
-
----
-
----
-
----
 
 ## Quick Links To Over 20 Air Charter Destinations Across Yukon Territory
 
@@ -109,7 +85,3 @@ If you have a project in the Minto area that requires Helicopter support and you
 * [Twin Creeks](charter_flights_Twin Creeks_yt.html)
 * [Watson Lake](/canada/yukon/watson-lake)
 * [Whitehorse](/canada/yukon/whitehorse)
-
----
-
----

@@ -11,17 +11,9 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Grand Forks"
 ---
-## Request A Charter Quote Directly From Any Of Our Featured Charter Airlines or Use Our Free Charter Quote Request Service an Receive Up To 3 Competitive Quotes
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require.
-
-### [Charter Flights To Grand Forks](#collapseOne1)
-
 ### Direct Charter flights to Grand Forks located in south central British Columbia near the Canadian Border with the US state of Washington.
 
 There are no commercial flights to Grand Forks. You can however arrange a direct charter flight to the Grand Forks Airport from any airport across BC or other regions of Canada. There are no Canadian customs services here, so if your charter flight originates in the USA, you will need to land at a designated airport for customs clearance prior to your arrival in Grand Forks. The airport has a 4300 foot asphalt runway, which makes it accessible to most charter aircraft from single engine piston to multi engine high performance turbine powered aircraft.
-
----
 
 ## Grand Forks Wheel Plane Charter Flights
 
@@ -34,20 +26,6 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 ## Grand Forks Helicopter Charter Flights
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -192,9 +170,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

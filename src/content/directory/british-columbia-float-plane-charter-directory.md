@@ -61,8 +61,6 @@ Each company prepares a competitive quote for your review. If you receive an acc
 
 Receive competitive quote options for your next BC float plane charter
 
-## Burns Lake Float Plane Air Charter
-
 ## Lakes District Air Services Ltd
 
 Burns Lake, BC V0J 1E2
@@ -93,8 +91,6 @@ Campbell River, BC V9W 6J3
 **Service Type:** Floats
 
 [Request Charter Quote](/quote)
-
-## Coal Harbour Float Plane Air Charter
 
 ## Air Cab
 
@@ -141,8 +137,6 @@ P: [(250) 491-1885](tel:+12504911885)
 
 [Request Charter Quote](/quote/northern-rockies)
 
-## Fort St John Float Plane Air Charter
-
 ## Upper Winds Air Ltd
 
 Fort St John, BC V1J 4J2
@@ -152,8 +146,6 @@ P: [(250) 787-9719](tel:+12507879719)
 **Service Type:** Floats
 
 [Request Charter Quote](/quote)
-
-## Garibaldi Highlands Float Plane Air Charter
 
 ## Sea To Sky Air Ltd
 
@@ -165,8 +157,6 @@ P: [(604) 898-1975](tel:+16048981975)
 
 [Request Charter Quote](/quote)
 
-## Gold River Float Plane Air Charter
-
 ## Air Nootka Ltd
 
 Gold River, BC V0P 1G0
@@ -176,8 +166,6 @@ P: [(250) 283-2255](tel:+12502832255)
 **Service Type:** Floats
 
 [Request Charter Quote](/quote)
-
-## Kelowna Float Plane Air Charter
 
 ## Air Hart Aviation Inc
 
@@ -241,8 +229,6 @@ P: [1-250-742-3388](tel:+12507423388)
 
 [Request Charter Quote](/quote)
 
-## Penticton Float Plane Air Charter
-
 ## Dal Aviation
 
 Penticton, BC V2A 6J9
@@ -265,8 +251,6 @@ P: [(250) 809-1837](tel:+12508091837)
 
 [Back to Main Canadian Menu](/directory/canadian-air-charter-directory-1)
 
-## Explore Related Directories
-
 ## [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
 Link to the main Canadian Air Charter Directory listing wheel plane, float plane and helicopter charter services in every province and territory of Canada.
@@ -288,8 +272,6 @@ When you need a float plane charter, find float plane operators across Canada in
 **Details:** Submit your float plane charter quote request through our free quote request service. It forwards to air charter services best positioned and equipped to provide the service you require.
 
 [Request a Float Plane Quote](/quote)
-
-## British Columbia Float Plane Charter Directory FAQ
 
 ## Which British Columbia locations are covered on Page 1?
 

@@ -15,8 +15,6 @@ Pauingassi is a remote Ojibwe First Nation in eastern Manitoba near the Ontario 
 
 [Request Charter Quote](#QuoteForm)
 
----
-
 ## *Manitoba Charter Flight Links*
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
@@ -26,8 +24,6 @@ Pauingassi is a remote Ojibwe First Nation in eastern Manitoba near the Ontario 
 [Charter Flights Little Grand Rapids](/canada/manitoba/little-grand-rapids)
 
 [Charter Flights Bloodvein River](/canada/manitoba/bloodvein-river)
-
-## Flights to Pauingassi, Manitoba
 
 ## **About Pauingassi:**
 
@@ -62,8 +58,6 @@ Pauingassi is generally reached through nearby Little Grand Rapids Airport rathe
 
 * Pauingassi is best known for its boreal setting, Indigenous culture, and access to wilderness travel rather than formal tourism infrastructure. The surrounding Pimachiowin Aki region is recognized for protected forests, lakes, rivers, wildlife, and traditional land-based experiences.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 Wheel plane charter flights to Pauingassi are usually routed through Little Grand Rapids Airport, giving travelers a practical northern access point for passenger, freight, and community travel.
@@ -79,12 +73,6 @@ Float plane charter service may be arranged seasonally to the Pauingassi area wh
 Helicopter charter flights can be useful for Pauingassi-area access where direct landing flexibility, remote site work, or specialized travel needs make runway-based service less practical.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to Pauingassi or Any Destination Throughout Canada or the USA
-
-## Flights to Pauingassi, MB FAQ
 
 ## How do you get to Pauingassi, Manitoba?
 
@@ -211,7 +199,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

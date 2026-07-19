@@ -15,8 +15,6 @@ St Andrews Airport is located just north of Winnipeg and is one of Manitoba's mo
 
 [Request Charter Quote](#QuoteForm)
 
----
-
 ## *Manitoba Charter Flight Links*
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
@@ -26,8 +24,6 @@ St Andrews Airport is located just north of Winnipeg and is one of Manitoba's mo
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 
 [Charter Flights St Andrews Airport](/canada/manitoba/st-andrews)
-
-## Flights to St Andrews
 
 ## **About St Andrews:**
 
@@ -62,8 +58,6 @@ Winnipeg / St. Andrews Airport is a fully controlled public airport in the heart
 
 * St Andrews works best as a departure hub, but the surrounding area also offers heritage and recreation options such as Lower Fort Garry, Selkirk, golf, and day trips along the Red River corridor before or after a charter flight.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 Wheel plane charters from St Andrews are ideal for direct travel to northern communities, mining sites, business destinations, and private lodge airstrips across Manitoba and Northwestern Ontario.
@@ -79,12 +73,6 @@ Amphibious float plane charter service from the St Andrews area can connect angl
 Helicopter charters from St Andrews can support remote camp access, exploration work, emergency transport, and flexible landings where fixed-wing or float plane service is not the best fit.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to St Andrews Airport or Any Destination Throughout Canada or the USA
-
-## Flights to St Andrews Airport, MB FAQ
 
 ## How do I book a charter flight from St Andrews Airport, Manitoba?
 
@@ -211,7 +199,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

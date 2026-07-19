@@ -87,12 +87,8 @@ Click for a quick index of British Columbia air charter locations
 [Whistler](/directory/bc-air-charter-directory-6#Whistler)
 
 Eliminate the searching. With just one click you can receive up to 3 competitive quotes directly from the airlines best positioned and equipped to provide the service required.
-**Quote Sourcing:** Every Province and Territory of Canada
-**Aircraft Types:** All Wheel Planes (Jet, Turbine, Piston) / Float Planes / Helicopters
 
 [Request A Quote](/quote)
-
-## Delta Air Charter
 
 ## Nautilus Air Ltd
 
@@ -122,8 +118,6 @@ P: (604) 940-0202
 **Service Type:** Helicopter
 
 [Request Charter Quote](/quote)
-
-## Fort Nelson Air Charter
 
 ## Northern Rockies Air Charter Ltd
 
@@ -155,8 +149,6 @@ Fort Nelson, BC V0C 1R0
 
 [Request A Quote](/quote)
 
-## Fort St James Air Charter
-
 ## Interior Helicopters Ltd
 
 Fort St. James, BC V0J 1P0
@@ -166,8 +158,6 @@ P: (250) 996-8644
 **Service Type:** Helicopter
 
 [Request Charter Quote](/quote)
-
-## Fort St John Air Charter
 
 ## North Cariboo Air
 
@@ -215,8 +205,6 @@ Fort St. John, BC V1J 8E2
 
 [Request A Quote](/quote)
 
-## Garibaldi Highlands Air Charter
-
 ## Sea To Sky Air Ltd
 
 Garibaldi Highlands, BC V0N 1T0
@@ -226,8 +214,6 @@ P: (604) 898-1975
 **Service Type:** Floats
 
 [Request A Quote](/quote)
-
-## Golden Air Charter
 
 ## Kicking Horse Aviation Ltd
 
@@ -239,8 +225,6 @@ P: (250) 939-9082
 
 [Request A Quote](/quote)
 
-## Gold River Air Charter
-
 ## Air Nootka Ltd
 
 Gold River, BC V0P 1G0
@@ -251,8 +235,6 @@ P: (250) 283-2255
 
 [Request A Quote](/quote)
 
-## Hope Air Charter
-
 ## Valley Helicopters Ltd
 
 Hope, BC V0X 1L2
@@ -262,8 +244,6 @@ P: (604) 869-2131
 **Service Type:** Helicopter
 
 [Request Charter Quote](/quote)
-
-## Kamloops Air Charter
 
 ## Streak Air
 
@@ -284,8 +264,6 @@ P: (250) 376-7790
 **Service Type:** Helicopter
 
 [Request Charter Quote](/quote/summit)
-
-## Kelowna Air Charter
 
 ## Air Hart Aviation Inc
 
@@ -397,8 +375,6 @@ P: (250) 769-9093
 
 [Request Charter Quote](/quote)
 
-## Muncho Lake Air Charter
-
 ## Northern Rockies Air Charter Ltd
 
 Pitt Meadows / Muncho Lake / Fort Nelson, BC
@@ -425,8 +401,6 @@ P: (250) 491-1885
 
 [Next Page](/directory/bc-air-charter-directory-3)
 
-## Explore Related Directories
-
 ## [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
 Link to the main Canadian Air Charter Directory listing wheel plane, float plane and helicopter charter services in every province and territory of Canada.
@@ -450,8 +424,6 @@ Submit your charter quote request through our free quote request service and it 
 Each company prepares a competitive quote and sends it directly to your email.
 
 [Request A Quote](/quote)
-
-## British Columbia Air Charter Directory Page 2 FAQ
 
 ## What charter destinations are featured on page 2 of the BC directory?
 

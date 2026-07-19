@@ -83,8 +83,6 @@ P: [(807) 929-2140](tel:+18079292140)
 
 Charter Quote Request
 
-## Foleyet Float Plane Air Charter
-
 ## Air Ivanhoe Limited
 
 Foleyet, Ontario P0M 1T0
@@ -151,8 +149,6 @@ P: [1-866-844-5700](tel:+18668445700)
 
 [Charter Quote Request](/quote/hearst)
 
-## Hornepayne Float Plane Air Charter
-
 ## Forde Lake Air Services Ltd
 
 Hornepayne, Ontario P0M 1Z0
@@ -160,8 +156,6 @@ P: [(807) 868-2741](tel:+18078682741)
 **Base Locations:** Hornepayne
 **Aircraft Types:** DeHavilland Beaver
 **Service Type:** Floats
-
-## Hudson Float Plane Air Charter
 
 ## Tudhope Airways Ltd
 
@@ -199,8 +193,6 @@ P: [(705) 295-4591](tel:+17052954591)
 
 Charter Quote Request
 
-## Kenora Float Plane Air Charter
-
 ## River Air Limited
 
 Kenora, Ontario P9N 3X3
@@ -208,8 +200,6 @@ P: [807-468-7104](tel:+18074687104)
 **Base Locations:** Kenora
 **Aircraft Types:** Cessna 180 / Cessna Caravan / Cessna 185 / Cessna 206 / DeHavilland Beaver / DeHavilland Otter
 **Service Type:** Floats
-
-## Moosonee Float Plane Air Charter
 
 ## Bushland Airways Limited
 
@@ -293,8 +283,6 @@ Charter Quote Request
 
 [Back to Main Canadian Menu](/)
 
-## Explore Related Directories
-
 ## [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
 Link to the main Canadian Air Charter Directory listing wheel plane, float plane and helicopter charter services in every province and territory of Canada.
@@ -316,8 +304,6 @@ Browse float plane charter airlines in every province and territory and find the
 **Details:** Submit your charter quote request through our free service and it forwards to up to 3 charter operators best positioned and equipped for your flight.
 
 [Request a Quote](/quote)
-
-## Ontario Float Plane Charter Directory FAQ
 
 ## Which Ontario float plane locations are covered on Page 2?
 

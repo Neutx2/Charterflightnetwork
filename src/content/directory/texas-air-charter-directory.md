@@ -8,15 +8,9 @@ region: "canada"
 ---
 Charter Flights To Houston Texas
 
-## Houston Texas Charter Flights - Receive Competitive Charter Quotes Directly From The Charter Network Members Who Provide Service To Houston and Airports Throughout Texas
-
 ### Or Search The Canadian Air Charter Directory And Link Direct To Wheel Plane, Float Plane and Helicopter Charter Services In Every Province & Territory of Canada.
 
 Charter Flight Network Is Proudly Canadian Owned & Operated
-
----
-
-## We Provide Direct Links To All Canadian Charter Airlines Licenced To Fly Into The USA
 
 ### To View A List of Charter Airlines best positioned and equipped to provide your next charter flight to Illinois or throughout USA, start by selecting the province you will be departing from
 
@@ -51,16 +45,8 @@ The Following Destinations Are Each Linked To A Google Map To Help You Determine
 * George Bush Intercontinental Airport / 2800 N Terminal Road, Houston, Texas
 * Brownsville South Padre Island Airport / 700 S Amelia Earhart Dr, Brownsville, Texas
 
----
-
 ## Corporate Meetings and Sales Trips
 
 Discover how you can depart in the morning, fly direct to Houston, meet with clients and return home that evening.
 
----
-
 [Return To USA Air Charter Directory - Search Charter Flights To Other US States](/usa)
-
----
-
----

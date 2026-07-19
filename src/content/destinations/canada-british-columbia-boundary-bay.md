@@ -11,19 +11,11 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Boundary Bay"
 ---
-### Charter Flights to Boundary Bay Airport are a popular alternative to arriving at the much larger Vancouver International Airport and is just a short drive to downtown Vancouver.
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
-### [Charter Flights To Boundary Bay](#collapseOne1)
-
 ### **Boundary Bay Airport**
 
 The Boundary Bay Airport is located about 10 miles south of the downtown Vancouver area - so if you have business in the Surrey BC area, this will be a perfect airport to arrive at
 
 The airport has two asphalt runways, 5,600 feet and the other is 4,400 feet in length, making the airport accessible to a wide range of charter aircraft.
-
----
 
 Nautilus Air is based at the Boundary Bay airport and provides Charter Flights To Destinations throught BC, Alberta and USA using a 5 passenger, twin engine Cessna 421 Golen Eagle.
 
@@ -36,10 +28,6 @@ The Coast Tsawwassen Inn is less than 7 km from the Boundary Bay Airport and a 3
 ### **[Book A Charter Flight To Adventure](/travel/charter-flights-to-adventure)**
 
 Link to Charter Flights To Adventure to view a full inventory of Adventure Destinations throughout British Columbia. Search coastal lodges and fishing charters for salmon, halibut, steelhead or take a Grizzly Bear Adventure tour out of Bella Bella, Bella Coola or Prince Rupert.
-
----
-
-## Boundary Bay Wheel Plane Charter Flights
 
 ### BC Air
 
@@ -54,20 +42,6 @@ You could fly amphibious float plane into the Boundary Bay airport. But if your 
 ## Boundary Bay Helicopter Charter Flights
 
 Helicopter charter flights are available out of Vancouver, Abbotsford and Pitt Meadows. Our huge data base can connect you with any helicopter service across BC or all of Canada. Simply tell us when and where you need to go and we will source out your request.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -212,9 +186,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

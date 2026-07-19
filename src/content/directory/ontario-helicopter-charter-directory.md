@@ -199,11 +199,7 @@ P: [905-505-2151](tel:+19055052151)
 
 [Back To Main Canadian Menu](/)
 
-P: [807-472-1955](tel:+18074721955)
-
 Copyright © Charter Flight Network. All rights reserved.
-
----
 
 ### [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
@@ -220,10 +216,6 @@ Copyright © Charter Flight Network. All rights reserved.
 ### [4. Canadian Float Plane Charter Directory](/directory/canadian-float-plane-air-charter-directory)
 
 * When you need a float plane charter, find operators in every province and territory in minutes.
-
----
-
-## Receive 3 Competitive Charter Quotes With One Request
 
 ### Wheel Plane / Float Plane / Helicopter Charter Services in Canada
 

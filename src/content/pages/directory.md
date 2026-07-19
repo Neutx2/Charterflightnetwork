@@ -20,8 +20,6 @@ Find wheel plane, float plane, and helicopter charter operators across every pro
 
 Each directory focuses on a specific charter market so you can identify the best-positioned operator faster and with less guesswork.
 
-## Links to Our 4 Air Charter Directories
-
 ## 1. Canadian Air Charter Directory
 
 * The main directory lists wheel plane, float plane, and helicopter charter services in every province and territory of Canada. Start your search by selecting a province or territory below.
@@ -52,15 +50,11 @@ Alberta
 
 * Canadian charter operators licensed to provide flights into the USA, organized by province or territory and city to help you quickly find the best-positioned provider.
 
-## Attention Canadian Charter Airlines
-
 ## Update Your Listing or Add a New Listing
 
 After reviewing your listing, if you need to submit changes or additions—or if we do not yet have you listed—use the link below to submit updates at no cost.
 
 [Submit Free Listing / Changes](/operators)
-
----
 
 ## Premium Listings
 

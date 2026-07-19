@@ -14,17 +14,9 @@ Charter Flights To Huntsville, Ontario
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
 ### [Charter Flights To Charter Flights To Huntsville](#collapseOne1)
 
 Huntsville is located on Hwy 11 north of Toronto and is one of the most popular destinations for Toronto area residents for year round outdoor recreation and summer homes. It is also a popular business destination for meetings, client entertainment and team building. Small groups can fly float plane to the Huntsville water base or larger groups can fly wheel planes direct to the Muskoka airport (6000 feet asphalt)
-
-## Your Huntsville Air Charter Options
-
-## Charter Flights From USA to Huntsville, Ontario
 
 ### Location
 
@@ -33,8 +25,6 @@ Each year hundreds of visitors to the Huntsville / Muskoka area arrive from nume
 If you would like to find the very best options available for charter flights from the US to the Muskoka / Huntsville area, we suggest that you register for free access to our complete Air Charter Network. Here you may find flight options that could save you 50% or more on flight costs.
 
 [USA CHARTER QUOTE](/directory/usa-charter-quote)
-
----
 
 ## Huntsville Wheel Plane Charter Flights
 
@@ -48,20 +38,6 @@ Float plane charters can take you direct to your cottage or resort in the Huntsv
 
 Helicopter sight seeing flights or other charter requirements can be arranged out of the Muskoka Airport. Send us your requirements and receive pricing options and availability.
 
----
-
-## Huntsville Charter Quote Request Form
-
----
-
-### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
-
----
-
----
-
----
-
 ## Quick Links To Over 50 Air Charter Destinations Across Southern Ontario
 
 [Click Here For Links To Northern and Northwestern Ontario Destinations](/canada/northern-ontario)
@@ -70,7 +46,7 @@ Helicopter sight seeing flights or other charter requirements can be arranged ou
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -90,7 +66,7 @@ Helicopter sight seeing flights or other charter requirements can be arranged ou
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -122,12 +98,8 @@ Helicopter sight seeing flights or other charter requirements can be arranged ou
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
----

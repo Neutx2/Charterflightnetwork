@@ -15,8 +15,6 @@ Poplar River is a remote Manitoba First Nation community located roughly 450 kil
 
 [Request Charter Quote](#QuoteForm)
 
----
-
 ## *Manitoba Charter Flight Links*
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
@@ -26,8 +24,6 @@ Poplar River is a remote Manitoba First Nation community located roughly 450 kil
 [Charter Flights Thompson,MB](/canada/manitoba/thompson)
 
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
-
-## Flights to Poplar River, Manitoba
 
 ## **About Poplar River:**
 
@@ -62,8 +58,6 @@ Poplar River is a remote Anishinaabe community on the east side of Lake Winnipeg
 
 * Poplar River is best known for wilderness, culture, and land-based travel rather than mainstream tourism infrastructure. Its appeal is closely tied to boreal forest scenery, major waterways, and the broader Pimachiowin Aki cultural landscape.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 Wheel plane charter flights to Poplar River are practical for passengers and freight, provided the aircraft is suitable for the airport's shorter crushed rock runway.
@@ -79,12 +73,6 @@ Seasonal float plane charters may also be arranged for the Poplar River region d
 Helicopter charter flights can be useful for the Poplar River area when direct access to remote sites, shoreline locations, or specialized work areas is required beyond standard runway service.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to Poplar River or Any Destination Throughout Canada or the USA
-
-## Flights to Poplar River, MB FAQ
 
 ## What airport serves Poplar River, Manitoba?
 
@@ -205,7 +193,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

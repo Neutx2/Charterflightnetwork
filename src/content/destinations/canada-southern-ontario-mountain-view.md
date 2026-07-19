@@ -14,17 +14,9 @@ Charter Flights To Mountain View, Ontario
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
 ### [Charter Flights To Mountain View](#collapseOne1)
 
 Mountain View is located on the north shore of Lake Ontario just south of Belleville. If you have clients or offices that you need to visit in the Mountain View area, you can fly direct to the Trenton / Mountain View Airport located 6 miles southeast of town. The Airport has a 5000 foot asphalt surface runway making it accessible by a wide range of charter aircraft up to mid size corporate jets.
-
-## Mountain View Air Charter Options
-
-## Charter Flights From Mountain View
 
 ### Charter Flights
 
@@ -33,10 +25,6 @@ There are no air charter services based in Mountarin View. If you prefer to fly 
 To receive up to 3 competitive quotes, use our no cost, no obligation charter quote request service.
 
 [AIR CHARTER QUOTE](/quote)
-
----
-
----
 
 ## Mountain View Wheel Plane Charter Flights
 
@@ -50,22 +38,6 @@ There are no float plane charter services operating in nor around the Trenton / 
 
 There are no helicopter charter services based in the Trenton / Mountain View Airport
 
----
-
----
-
-## Mountain View Charter Quote Request Form
-
----
-
-### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
-
----
-
----
-
----
-
 ## Quick Links To Over 50 Air Charter Destinations Across Southern Ontario
 
 [Click Here For Links To Northern and Northwestern Ontario Destinations](/canada/northern-ontario)
@@ -74,7 +46,7 @@ There are no helicopter charter services based in the Trenton / Mountain View Ai
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -94,7 +66,7 @@ There are no helicopter charter services based in the Trenton / Mountain View Ai
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -126,12 +98,8 @@ There are no helicopter charter services based in the Trenton / Mountain View Ai
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
----

@@ -87,12 +87,8 @@ Click for a quick index of British Columbia air charter locations
 [Whistler](/directory/bc-air-charter-directory-6#Whistler)
 
 Eliminate the searching. With just one click you can receive up to 3 competitive quotes directly from the airlines best positioned and equipped to provide the service required.
-**Quote Sourcing:** Every Province and Territory of Canada
-**Aircraft Types:** All Wheel Planes (Jet, Turbine, Piston) / Float Planes / Helicopters
 
 [Request A Quote](/quote)
-
-## Nanaimo Air Charter
 
 ## Gulf Island Seaplanes
 
@@ -115,8 +111,6 @@ P: (250) 616-5858
 
 [Request A Quote](/quote)
 
-## Naramata Air Charter
-
 ## Finnair Ltd
 
 Naramata, BC V0H 1N0
@@ -126,8 +120,6 @@ P: (250) 351-4289
 **Service Type:** Helicopter
 
 [Request Charter Quote](/quote)
-
-## Nelson Air Charter
 
 ## Dam Helicopters Inc
 
@@ -169,8 +161,6 @@ P: (250) 354-8445
 
 [Request Charter Quote](/quote)
 
-## Nimpo Lake Air Charter
-
 ## Tweedsmuir Air Services Ltd
 
 Nimpo Lake, BC V0L 1R0
@@ -181,8 +171,6 @@ P: (250) 742-3388
 
 [Request A Quote](/quote)
 
-## Oliver Air Charter
-
 ## Transwest Helicopters Ltd
 
 Oliver, BC V0H 1T0
@@ -192,8 +180,6 @@ P: (250) 498-6691
 **Service Type:** Helicopter
 
 [Request Charter Quote](/quote)
-
-## Parksville Air Charter
 
 ## Ascent Helicopters Ltd
 
@@ -215,8 +201,6 @@ P: (250) 248-2565
 
 [Request Charter Quote](/quote)
 
-## Parson Air Charter
-
 ## Whitetooth Helicopters Ltd
 
 Parson, BC V0A 1L0
@@ -226,8 +210,6 @@ P: (250) 344-2266 | (807) 597-6086
 **Service Type:** Helicopter
 
 [Request Charter Quote](/quote)
-
-## Penticton Air Charter
 
 ## BP Aviation Ltd
 
@@ -258,8 +240,6 @@ P: (250) 492-5221
 **Service Type:** Helicopter
 
 [Request Charter Quote](/quote)
-
-## Pitt Meadows Air Charter
 
 ## AC Airways Ltd
 
@@ -311,8 +291,6 @@ P: (604) 239-0760
 
 [Request Charter Quote](/quote)
 
-## Port Alberni Air Charter
-
 ## Coulson Aircrane Ltd
 
 Port Alberni, BC V9Y 8E9
@@ -322,8 +300,6 @@ P: (250) 724-7600
 **Service Type:** Helicopter
 
 [Request Charter Quote](/quote)
-
-## Port Hardy Air Charter
 
 ## Wilderness Seaplanes Ltd.
 
@@ -335,8 +311,6 @@ P: (250) 949-6353
 
 [Request A Quote](/quote)
 
-## Port McNeill Air Charter
-
 ## West Coast Helicopters
 
 Port McNeill, BC
@@ -346,8 +320,6 @@ P: (250) 956-2244
 **Service Type:** Helicopter
 
 [Request Charter Quote](/quote)
-
-## Powell River Air Charter
 
 ## Oceanview Helicopters Ltd
 
@@ -375,8 +347,6 @@ P: (604) 485-7135
 
 [Next Page](/directory/bc-air-charter-directory-4)
 
-## Explore Related Directories
-
 ## [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
 Link to the main Canadian Air Charter Directory listing wheel plane, float plane and helicopter charter services in every province and territory of Canada.
@@ -400,8 +370,6 @@ Submit your charter quote request through our free quote request service and it 
 Each company prepares a competitive quote and sends it directly to your email.
 
 [Request A Quote](/quote)
-
-## British Columbia Air Charter Directory Page 3 FAQ
 
 ## Which communities are covered on page 3 of the BC Air Charter Directory?
 

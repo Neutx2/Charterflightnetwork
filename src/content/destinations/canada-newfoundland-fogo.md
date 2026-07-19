@@ -12,10 +12,6 @@ city: "Fogo"
 ---
 Fogo Island Charter Flights
 
----
-
-### [Charter Flights To Fogo Island](#collapseOne1)
-
 ### Location
 
 Fogo Island is located just off the northeastern coastline of Newfoundland. There is not bridge to the island making the only accessible travel by ferry boat or aircraft. The Island does have a 3,000 foot asphalt runway making it acccessible to a variety of private and charter aircraft. There is no scheduled airline service to the airport, however private air charter flights can be arranged from numerous departure points throughout Canada and the USA.
@@ -36,12 +32,6 @@ Fogo Island is a very popular travel and tourism destination with hundreds of vi
 
 Depending on the size of your group traveling and the type of aircraft - jet or turbine - the flight time direct from Toronto will be 3.5 - 4 hours. If you want to reduce the cost of your charter flight per person, it helps to have a larger group. Most charter aircraft in the Toronto area are designed to take anywhere from 4 - 8 passengers. However, larger groups of 12 - 30 passengers can also be accommodated.
 
----
-
----
-
-## Wheel Plane Charter Flights
-
 ### Chrono Aviation
 
 Experience the convenience and flexibility of air charter services when traveling to Fogo Island. Charter flights offer direct access to the island, allowing you to customize your travel itinerary to suit your schedule and preferences.
@@ -61,10 +51,6 @@ Breton Air operates the Bell 206 L4 and the Bell 407 helicopters from its base i
 ### Helicopter Charter Flights / 3 Competitive Quotes
 
 Take a helicopter charter direct to Fogo Island.Paddle along the pristine shores of Fogo Island, exploring secluded coves, sea caves, and towering sea stacks. Guided kayaking tours offer opportunities to encounter marine wildlife such as whales, seals, and seabirds.
-
----
-
----
 
 ## Quick Links To 38 Air Charter Destinations Across Newfoundland and Labrador
 
@@ -110,7 +96,3 @@ Take a helicopter charter direct to Fogo Island.Paddle along the pristine shores
 * [Wabush](/canada/newfoundland/wabush)
 * [Williams Harbour](/canada/newfoundland/williams-harbour)
 * [Winterland](/canada/newfoundland/winterland)
-
----
-
----

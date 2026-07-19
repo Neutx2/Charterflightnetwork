@@ -3,24 +3,13 @@ title: "Charter Flights From Winnipeg To Red Lake, Ontario"
 description: "Wheel Plane and Float Plane Charter Flights From Winnipeg To Red Lake Ontario"
 h1: "Charter Flights From Winnipeg To Red Lake, Ontario"
 legacyUrl: "/charter_flights_winnipeg_red_lake_ontario.html"
-slug: "canada/northern-ontario/winnipeg-red-lake"
+slug: "flights/winnipeg-to-red-lake"
 thin: false
-region: "canada"
-province: "Northern Ontario"
-provinceSlug: "northern-ontario"
-city: "Winnipeg Red Lake"
+region: "global"
 ---
-## Your Same Day Red Lake Connection With Canadian & US Airline Flights Arriving In Winnipeg
-
----
-
-## Winnipeg to Red Lake Charter Flights - With Just One Click Receive Up To 3 Competitive Charter Quotes. Any Departure Point / Any Destination.
-
 ### You Receive Quotes Prepared By The Charter Airlines. No Commissions / No Brokerage Fees Added To Your Quotes. You Receive Your Best Price Directly From The Charter Airlines
 
  Charter Flight Network Is Proudly Canadian Owned & Operated
-
----
 
 ### Winnipeg To Red Lake Wheel Plane Charters
 
@@ -42,14 +31,6 @@ Fly Wheel Plane From Winnipeg To Red Lake and Connect With Helicopter Charter Se
 
 Charter Flight Network Has Been Online Since 2008 And Has Established The Largest Network Of Wheel Plane, Float Plane & Helicopter Charter Services In Every Province & Territory of Canada Who Participate In Our Charter Quote Request Service
 
----
-
-## Winnipeg / Red Lake Air Charter Options
-
-## Winnipeg To Red Lake Charter Flights
-
-### [Discover How You Can Fly Private Charter Flights From Minneapolis, Direct to Red Lake](/flights/minneapolis-to-red-lake-ontario)
-
 ### Wheel Plane Charters Fly Direct To Red Lake According To Your Schedule
 
 Depending on the arrival time of your scheduled flight into Winnipeg, you can pre arrange to connect with a wheel plane charter flight from either the Winnipeg International Airport or the St Andrews Airport located about 20 - 30 minutes north of Winnipeg.
@@ -62,10 +43,6 @@ If your destination is a Red Lake area fly-in fishing lodge or outpost, it may b
 
 [View All Northern / Northwestern Ontario Chater Destinations](#BC Charter Destinations)
 
----
-
-## Float Plane Charter Flights Winnipeg to Red Lake
-
 ### Float Plane From Winnipeg Direct To Your Red Lake Area Fishing Lodge
 
 Departures for float plane charter flights are primarily available out of the St Andrews Airport, located 20 - 30 minutes north of the Winnipeg International Airport.
@@ -75,10 +52,6 @@ Amphibious aircraft can fly you from the St Andrews Airport direct to your Red L
 [CHARTER QUOTE](/quote)
 
 [View All Northern / Northwestern Ontario Chater Destinations](#BC Charter Destinations)
-
----
-
-## Winnipeg Charter Flights To Red Lake Area Fishing Lodges
 
 ### Red Lake Fishing Adventures
 
@@ -92,10 +65,6 @@ This works well when connecting with a float plane charter out of Red Lake.
 
 [View All Northern / Northwestern Ontario Chater Destinations](#BC Charter Destinations)
 
----
-
-## Winnipeg - Red Lake Mining & Business Flights
-
 ### Mining & Exploration Groups / Sales & Business / Personal Travel Trips
 
 When you want to keep travel time to a minimum, a private charter flight will depart according to your schedule. In many cases you may find the need to fly from Winnipeg to Red Lake in the morning, conduct a few hours of buiness and fly back to Winnipeg that afternoon. With a private charter flight the aircraft and flight crew are at your disposal.
@@ -104,12 +73,6 @@ When you want to keep travel time to a minimum, a private charter flight will de
 
 [View All Northern / Northwestern Ontario Chater Destinations](#BC Charter Destinations)
 
----
-
-## Flights From USA - Winnipeg - Red Lake, Ontario
-
-### [Discover How You Can Fly Private Charter Flights From Minneapolis, Direct to Red Lake](/flights/minneapolis-to-red-lake-ontario)
-
 ### Fly From Any USA City To Red Lake, Ontario
 
 Seasonal airline flights are available from the USA to Winnipeg. Depending on the airline and fight schedules, you may be able to depart major cities such as Chicago or Minneapolis in the morning, arrive in Winnipeg and then after clearing Canadina Customs, connect with your charter flight direct to Rec Lake.
@@ -117,14 +80,6 @@ Seasonal airline flights are available from the USA to Winnipeg. Depending on th
 [CHARTER QUOTE](/quote)
 
 [View All Northern / Northwestern Ontario Chater Destinations](#BC Charter Destinations)
-
-## Charter Flights To Adventure
-
-### Discover Direct Flights To Exceptional Adventure Destinations Across Canada
-
-### [Corporate Golf Getaways](/quote)
-
----
 
 ### Trophy Fishing Adventures - Choose A Province or Territory
 
@@ -137,16 +92,6 @@ Seasonal airline flights are available from the USA to Winnipeg. Depending on th
 * [QUEBEC](/travel/charter-flights-to-adventure)
 * [YUKON](/travel/charter-flights-to-adventure)
 
----
-
-### [British Columbia Heli-Ski Adventures](/directory/british-columbia-adventure-destinations)
-
----
-
-### [Churchill Manitoba Polar Bear Adventures](/canada/manitoba/churchill)
-
----
-
 ### [Charter Flights To Canadian Arctic Adventures](/canada/nunavut)
 
 * Northern Lights
@@ -156,8 +101,6 @@ Seasonal airline flights are available from the USA to Winnipeg. Depending on th
 * Dog Sledding
 * Arctic Char Fishing
 * Ice Bergs
-
----
 
 ## Links To Northern / Northwestern Ontario Air Charter Destinations
 
@@ -213,7 +156,7 @@ Seasonal airline flights are available from the USA to Winnipeg. Depending on th
 | [Marathon](/canada/northern-ontario/marathon) |
 | [Moosonee](/canada/northern-ontario/moosonee) |
 | [Muskrat Dam](/canada/northern-ontario/muskrat-dam) |
-| [Nakina](/canada/southern-ontario/nakina) |
+| [Nakina](/canada/northern-ontario/nakina) |
 | [Nestor Falls](/canada/northern-ontario/nestor-falls) |
 | [North Bay](/canada/northern-ontario/north-bay) |
 | [Ogoki Post](/canada/northern-ontario/ogoki-post) |
@@ -253,10 +196,4 @@ Seasonal airline flights are available from the USA to Winnipeg. Depending on th
 | |
 | |
 
----
-
 Every quote request generated, forwards to the charter airlines best positioned and equipped to provide the service. Each company prepares a competitive quote and sends it directly to your email. [Discover how to link your charter airline to our distribution list](/operators)
-
-### CharterFlightNetwork.com is not a charter service provider. We do not own nor operate any aircraft. All charter quotes are generated by the charter airlines who are best positioned and equipped to provide the service requested. Should you decide to book a charter flight, you book directly with the charter airline of your choice and all flight arrangements and payments are made directly with the airline
-
----

@@ -15,8 +15,6 @@ South Indian Lake is a remote northern Manitoba community on the southeast shore
 
 [Request Charter Quote](#QuoteForm)
 
----
-
 ## *Manitoba Charter Flight Links*
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
@@ -26,8 +24,6 @@ South Indian Lake is a remote northern Manitoba community on the southeast shore
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 
 [Charter Flights St Andrews Airport](/canada/manitoba/st-andrews)
-
-## Flights to South Indian Lake, Manitoba
 
 ## **About South Indian Lake:**
 
@@ -62,8 +58,6 @@ South Indian Lake Airport is the main fixed-wing gateway for this remote norther
 
 * South Indian Lake appeals to travelers interested in remote northern scenery, boating, fishing, and access to the vast Southern Indian Lake area. It can also serve as a practical gateway for work crews and outdoor-oriented travel.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 Wheel plane charters to South Indian Lake are well suited to direct fixed-wing service using turboprop aircraft capable of operating efficiently on remote northern crushed-rock runways.
@@ -79,12 +73,6 @@ Float plane charters can be useful around the Southern Indian Lake area during o
 Helicopter charters help with remote site access, regional transfers, survey work, and specialized trips where direct landing flexibility is more important than using a prepared runway.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to South Indian Lake or Any Destination Throughout Canada or the USA
-
-## South Indian Lake Charter Flight FAQ
 
 ## **What airport serves South Indian Lake, Manitoba?**
 
@@ -215,7 +203,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

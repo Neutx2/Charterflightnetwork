@@ -12,12 +12,6 @@ city: "St Johns"
 ---
 Charter Flights To St John's Newfoundland / Labrador
 
----
-
-### [Charter Flights To St John's](#collapseOne1)
-
-### Explore St. John's, Newfoundland and Labrador: Your Ultimate Travel Guide
-
 ### Location:
 
 Located on the eastern tip of Newfoundland Island, St. John's is the vibrant capital city of Newfoundland and Labrador, Canada.
@@ -67,12 +61,6 @@ The airport is located 3.5 miles northwest of downtown and operates 3 main runwa
 
 With just one click, you can receive up to 3 competitive charter flight quotes directly from the airlines who provide service throughout St John`s.
 
----
-
----
-
-## Wheel Plane Charter Flights
-
 ### Chrono Aviation
 
 Experience unparalleled luxury and flexibility with Chrono Aviation's air charter services, offering personalized travel experiences tailored to your schedule and preferences.
@@ -84,8 +72,6 @@ From their base in Grand Manan, NB, Atlantic Charters provides quality air chart
 ### Wheel Plane Charters / 3 Competitive Quotes
 
 Receive up to 3 competitive charter quotes directly from the airlines who operate wheel plane / float plane and helicopter charter services. We source your request to our Network Members who are best positioned and equipped to provide the service you require. Each company sends a competitive quote directly to your email..
-
-## Float Plane Charter Flights
 
 ### Clarenville Aviation
 
@@ -102,10 +88,6 @@ Breton Air operates the Bell 206 L4 and the Bell 407 helicopters from its base i
 ### Helicopter Charter Flights / 3 Competitive Quotes
 
 Receive up to 3 competitive charter quotes directly from the helicopter charter companies best positioned and equipped to provide the services you require
-
----
-
----
 
 ## Quick Links To 38 Air Charter Destinations Across Newfoundland and Labrador
 
@@ -151,7 +133,3 @@ Receive up to 3 competitive charter quotes directly from the helicopter charter 
 * [Wabush](/canada/newfoundland/wabush)
 * [Williams Harbour](/canada/newfoundland/williams-harbour)
 * [Winterland](/canada/newfoundland/winterland)
-
----
-
----

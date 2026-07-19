@@ -14,17 +14,9 @@ Charter Flights To Parry Sound , Ontario
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
 ### [Charter Flights To Parry Sound](#collapseOne1)
 
 Parry Sound is a great year round destination for business and pleasure. The town is located on the eastern shores of Parry Sound which is on the central eastern shores of Georgian Bay which is part of Lake Huron. Sudbury is located 100 miles to the north and Toronto is 140 to the south east. See the links below for information on wheel plane and float plane charter flights to and from Parry Sound.
-
-## Links To Parry Sound Air Charter Options
-
-## Charter Flights Parry Sound / Ottawa
 
 ### Charter Flights Between Ottawa
 
@@ -34,10 +26,6 @@ Ottawa is located just over 200 air miles north east of Parry Sound. If you need
 
 [View All Southern Ontario Chater Destinations](#BC Charter Destinations)
 
----
-
-## Charter Flights Parry Sound To Toronto
-
 ### Charter Flights Toronto / Parry Sound
 
 Parry Sound is located 115 air miles north of Toronto. Charter flights direct to Parry Sound can be arranged from Pearson, Buttonville or Billy Bishop Airport. If you are flying direct to your cottage in the Parry Sound / French River area, float plane charters can conveniently be arranged out of Billy Bishop or Buttonville Airport.
@@ -45,10 +33,6 @@ Parry Sound is located 115 air miles north of Toronto. Charter flights direct to
 [CHARTER QUOTE](/canada/southern-ontario/toronto-island)
 
 [View All Southern Ontario Chater Destinations](#BC Charter Destinations)
-
----
-
-## Float Plane Charter Flights From Parry Sound
 
 ### Parry Sound Float Plane Charter Flights
 
@@ -58,17 +42,11 @@ Float plane charter flights can be arranged out of Parry Sound to destinations t
 
 [View All Southern Ontario Chater Destinations](#BC Charter Destinations)
 
----
-
-## Charter Flights To Parry Sound From USA
-
 ### Charter Flights From USA
 
 Wheel plane charter flights can be arranged from virtually any departure point throughout the USA. All flights originating in the US will need to first stop at a designated Canadian Airport of Entry for Canadian Customs clearance, prior to landing at the Parry Sound airport. Use our free charter quote request service and receive competitive quotes for flights to Parry Sound from departure points across the USA
 
 [CHARTER QUOTE](/directory/usa-charter-quote)
-
----
 
 ## Parry Sound Wheel Plane Charter Flights
 
@@ -82,20 +60,6 @@ The following float plane types are available for charter out of Parry Sound: Ce
 
 There are no helicopter charter services based in Parry Sound. If you require helicopter charters or sight seeing trips, just let us know your requirements and you will receive up to 3 competitive quotes directly from the helicopter charter services.
 
----
-
----
-
-## Parry Sound Charter Quote Request Form
-
----
-
-### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
-
----
-
----
-
 ## Quick Links To Over 50 Air Charter Destinations Across Southern Ontario
 
 [Click Here For Links To Northern and Northwestern Ontario Destinations](/canada/northern-ontario)
@@ -104,7 +68,7 @@ There are no helicopter charter services based in Parry Sound. If you require he
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -124,7 +88,7 @@ There are no helicopter charter services based in Parry Sound. If you require he
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -156,12 +120,8 @@ There are no helicopter charter services based in Parry Sound. If you require he
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
----

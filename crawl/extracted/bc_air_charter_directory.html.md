@@ -368,8 +368,6 @@ Dease Lake, BC V0C 1L0
 [Request A Quote](float_plane_charter_quote.html)
 
 Eliminate the searching. With just one click you can receive up to 3 competitive quotes directly from airlines best positioned and equipped to provide the service required.
-**Quote Sourcing:** Every Province and Territory of Canada
-**Aircraft Types:** All Wheel Planes (Jet, Turbine, Piston) / Float Planes / Helicopters
 
 [Request A Quote](charter_quote.html)
 

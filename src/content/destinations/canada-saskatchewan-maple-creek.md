@@ -14,12 +14,6 @@ Charter Flights To Maple Creek, Saskatchewan
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Maple Creek](#collapseOne1)
-
 ### About Maple Creek Saskatchewan and Location
 
 Maple Creek is nestled in the southwestern part of Saskatchewan, boasting a rich cultural heritage and stunning natural landscapes. This charming town is an ideal destination for those seeking adventure in the great outdoors, with attractions ranging from historical sites to breathtaking natural parks. Accessible via charter flights, Maple Creek serves as a gateway to the unique beauty and remote destinations of Saskatchewan, offering an unforgettable experience for visitors.
@@ -92,10 +86,6 @@ Step back in time at Fort Walsh National Historic Site, where visitors can learn
 
 Explore the Great Sandhills, one of Saskatchewan's natural wonders, offering spectacular landscapes for photography, bird watching, and nature walks.
 
----
-
-## Maple Creek Turbo Prop / Piston Aircraft Charter Flights
-
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 Maple Creek is located in the far south western corner of Saskatchewan and features an airport with a 3,500 foot runway making it accessible to a large variety of charter aircraft. Contact us to receive multiple charter quote requests that meet your needs.
@@ -103,14 +93,6 @@ Maple Creek is located in the far south western corner of Saskatchewan and featu
 ## Maple Creek Helicopter Charter Flights
 
 The closest helicopter charter service is located just 60 air mies northwest in Medicine Hat Alberta. Rangeland Helicopters operates Bell 206 L / MBB BK117 B helicopters and can provide support for your requirements in southwest Saskatchewan. Contact us for details.
-
----
-
----
-
----
-
----
 
 ## Quick Links To Over 70 Air Charter Destinations Across Saskatchewan
 
@@ -190,7 +172,3 @@ The closest helicopter charter service is located just 60 air mies northwest in 
 * [Wollaston Lake](/canada/saskatchewan/wollaston-lake)
 * [Wynyard](/canada/saskatchewan/wynyard)
 * [Yorkton](/canada/saskatchewan/yorkton)
-
----
-
----

@@ -87,8 +87,6 @@ Locate Saskatchewan helicopter charter operators for resource, utility, inspecti
 
 Find Yukon helicopter charter services for wilderness, mining, tourism, survey and remote access missions.
 
-## Helicopter Charter Services Across Canada
-
 ## Remote Access
 
 Helicopters support travel to remote worksites, wilderness locations, lodges, exploration camps, islands and areas without road access.
@@ -109,8 +107,6 @@ Fleet details help visitors compare light, intermediate and medium helicopter ty
 
 **Details:** Submit one charter quote request and it will forward to the helicopter charter services best positioned and equipped to provide your requested service.
 Each company prepares a competitive quote for your review. If you receive an acceptable quote, you finalize scheduling and payment directly with the charter airline of your choice.
-
-## Explore Related Directories
 
 ## [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
@@ -133,8 +129,6 @@ Find float plane charter airlines across Canada when your trip requires water ae
 **Details:** Submit your charter quote request through our free quote request service. It forwards to up to 3 air charter services best positioned and equipped to provide the service you require.
 
 [Request a Quote](/quote)
-
-## Canadian Helicopter Charter Directory FAQ
 
 ## What is the Canadian Helicopter Air Charter Directory?
 

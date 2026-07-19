@@ -8,8 +8,6 @@ thin: false
 quoteSubject: "Puerto Rico Charters"
 region: "global"
 ---
-## Featured St Lucia Resorts / Hotels
-
 ### [Jade Mountain Resort](https://jademountain.com/)
 
 Jade Mountain Resort is a luxury resort located in Soufrière, Saint Lucia, renowned for its stunning architecture, breathtaking views of the Pitons, and unparalleled level of luxury and service. Here's everything you need to know about Jade Mountain Resort:
@@ -41,8 +39,6 @@ The resort offers a range of activities and amenities to keep guests entertained
 .
 **Adventure and Excursions:** Guests can explore the natural beauty of Saint Lucia through guided hikes, snorkeling trips, sailing excursions, and visits to nearby attractions such as the Sulphur Springs and Diamond Botanical Gardens.
 **Infinity Pool:** In addition to the private infinity pools in each sanctuary, the resort features an infinity-edge pool overlooking the Caribbean Sea, providing a tranquil space for relaxation and leisure.
-
-## Other Puerto Rico Resorts & Hotels
 
 ### Sugar Beach, A Viceroy Resort
 
@@ -86,8 +82,6 @@ The resort offers a range of activities and amenities to keep guests entertained
 A**Activities:** Water sports, land sports, golf nearby, scuba diving, snorkeling.
 **Beach Access:** The resort is situated on a peninsula with direct access to a stunning beach.
 
-## Video Links To Featured St Lucia Resorts / Activities / Adventures
-
 ### [Video: Featured St Lucia Golf Course](/travel/st-lucia-golf)
 
 Plus Listings and Links to golf courses throughout St Lucia
@@ -99,12 +93,6 @@ Plus listings and links to numerous St Lucia charter fishing boat services
 ### [Video: Featured Private Sailboat & Yacht Charters](/travel/st-lucia-sailing)
 
 Plus listings and links to St Lucia Sailboat & Yacht Charter Services.
-
----
-
----
-
----
 
 ## Links To Caribbean Air Charter Destinations
 
@@ -138,11 +126,3 @@ Seach Charter Flights To Any Of The Following Caribbean Destinations
 * [Virgin Islands (British)](/caribbean/british-virgin-islands)
 * [Virgin Islands (U.S.)](/caribbean/us-virgin-islands)
 * [Trinidad & Tobago](/caribbean/trinidad-tobago)
-
----
-
----
-
----
-
----

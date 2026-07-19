@@ -36,8 +36,6 @@ Icacos Island offers excellent opportunities for swimming, snorkeling, sunbathin
 
 While Icacos Island is largely undeveloped and uninhabited, there are typically no facilities or amenities available on the island itself. Visitors should bring their own food, water, sunscreen, and other essentials for their day trip.
 
-## Other Puerto Rico Sailboat & Yacht Charters
-
 ### Sail Caribe Yacht Charters:
 
 Sail Caribe offers crewed and bareboat yacht charters departing from Puerto Rico. They provide a range of sailboats and catamarans for exploring the waters around Puerto Rico and nearby islands like Culebra and Vieques.
@@ -62,8 +60,6 @@ Puerto Rico Yacht Charters offers crewed yacht charters departing from various m
 
 Nauti Adventures offers private yacht charters and sailing tours departing from Palmas del Mar in Humacao, Puerto Rico. They provide customized charters for snorkeling, fishing, beach hopping, and exploring the nearby islands.
 
-## Video Links To Featured Puerto Rico Resorts / Activities / Adventures
-
 ### [Video: Featured Puerto Rico Golf Course](/travel/puerto-rico-golf)
 
 Plus Listings and Links to golf courses throughout Puerto Rico
@@ -75,12 +71,6 @@ Plus listings and links to numerous Puerto Rico charter fishing boat services
 ### [Video: Featured Puerto Rico Resorts](/travel/puerto-rico-resorts)
 
 Plus listings and links to popular Puerto Rico Resorts and Hotels
-
----
-
----
-
----
 
 ## Links To Caribbean Air Charter Destinations
 
@@ -114,11 +104,3 @@ Seach Charter Flights To Any Of The Following Caribbean Destinations
 * [Virgin Islands (British)](/caribbean/british-virgin-islands)
 * [Virgin Islands (U.S.)](/caribbean/us-virgin-islands)
 * [Trinidad & Tobago](/caribbean/trinidad-tobago)
-
----
-
----
-
----
-
----

@@ -11,15 +11,9 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Hope"
 ---
-## Request A Charter Quote Directly From Any Of Our Featured Charter Airlines or Use Our Free Charter Quote Request Service an Receive Up To 3 Competitive Quotes
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require.
-
 ### [Charter Flights To Hope](#collapseOne1)
 
 This page provides links to Charter Flights to Hope, BC which is located on the Trans Canada Highway in southwestern British Columbia and is considered as the eastern end of the Fraser Valley.
-
----
 
 ## Hope Wheel Plane Charter Flights
 
@@ -33,20 +27,6 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
 
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
-
 ### **Hope Airport**
 
 You can book direct charter flights to Hope - however the airport which is 3 miles wet of town is a grass/turf surface and 3,900 feet long which restricts the types of aircraft that are accessible to this airport. The airport is used primarily as a base for local soaring and sailplane clubs
@@ -54,10 +34,6 @@ You can book direct charter flights to Hope - however the airport which is 3 mil
 If you want to charter a flight to the area but your charter company is not able to use this airport, your next alternative is the airport at Chilliwack located 53 km to the south west which is about a 35 minute drive along the Trans Canada Highway. The Chilliwack airport has an asphalt runway and is almost 4,000 feet in length making it accessible to a much wider range of charter aircraft.
 
 If you are flying from the USA, you will first need to land at a designated airport of entry to clear Canadian Customs prior to landing at either Hope or Chilliwack.
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -202,9 +178,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

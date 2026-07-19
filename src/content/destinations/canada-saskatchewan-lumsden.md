@@ -14,12 +14,6 @@ Charter Flights To Lumsden, Saskatchewan
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Lumsden;](#collapseOne1)
-
 ### About Lumsden Saskatchewan and Location
 
 Lumsden, Saskatchewan, nestled in the scenic Qu'Appelle Valley, is a picturesque town that offers a peaceful retreat from the hustle and bustle of city life. With its charming landscapes, vibrant local community, and access to a variety of outdoor activities, Lumsden is an appealing destination for those looking to explore Saskatchewan's natural beauty. The town's proximity to Regina makes it an ideal spot for charter flights, offering an easy gateway to Saskatchewan's remote destinations.
@@ -88,10 +82,6 @@ Explore the natural beauty of the Qu'Appelle Valley on its extensive network of 
 
 Experience the serene waters of the Lumsden River by kayak. Guided tours offer a unique perspective of the valley's landscapes and a chance to spot local wildlife.
 
----
-
-## Lumsden Turbo Prop / Piston Aircraft Charter Flights
-
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 The Lumsden SK airport is only accessible to aircraft that can safely operate to and from grass runways. If you need a charter flight to Lumsden, contact us and we will source out your request to the charter services that operate from shorter grass runways.
@@ -99,14 +89,6 @@ The Lumsden SK airport is only accessible to aircraft that can safely operate to
 ## Lumsden Helicopter Charter Flights
 
 A helicopter is another option you can consider for a quick flight to Lumsden. The grass runway is of no concern when you fly helicopter. If you would like competitive quotes, use our free charter quote request service.
-
----
-
----
-
----
-
----
 
 ## Quick Links To Over 70 Air Charter Destinations Across Saskatchewan
 
@@ -186,7 +168,3 @@ A helicopter is another option you can consider for a quick flight to Lumsden. T
 * [Wollaston Lake](/canada/saskatchewan/wollaston-lake)
 * [Wynyard](/canada/saskatchewan/wynyard)
 * [Yorkton](/canada/saskatchewan/yorkton)
-
----
-
----

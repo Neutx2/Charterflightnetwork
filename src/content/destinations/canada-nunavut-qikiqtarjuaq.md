@@ -12,12 +12,6 @@ city: "Qikiqtarjuaq"
 ---
 Charter Flights To Qikiqtarjuaq Nunavut
 
----
-
----
-
-### [Charter Flights To Qikiqtarjuaq, NU](#collapseOne1)
-
 ### Location
 
 Qikiqtarjuaq is is Nunavut's closest community to Greenland and is located off eastern Baffin Island. Direct charter flights are available to Qikiqtarjuaq from departure points across Nunavut and major Canadian cities to the south. In addition to charter flights, visitors to the area can also book scheduled airline flights with Canadian North . They operate flights between Qikiqtarjuaq and Iqaluit and Pangnirtung.
@@ -26,15 +20,9 @@ Qikiqtarjuaq is is Nunavut's closest community to Greenland and is located off e
 
 The Qikiqtarjuaq airport which is operated by the government of Nunavut has a 3800 foot runway, making it accessible to a wide range of charter aircraft approved for gravel runway operations. The airport is a popular stop for ferry flights between Canada and Europe.
 
----
-
-## Private Jet Charters
-
 ### Jet Charters
 
 Contact us to determine if Private Jet Charters are available to Qikiqtarjuaq, NU. The 3,900 foot gravel runway may be accessible to a select class of jet charter aircraft. If jet charters are not available, the closest airport available to jet aircraft is Iqaluit, located 300 air miles to the south.
-
-## Turbo Prop Charter Flights
 
 ### Panorama Aviation
 
@@ -44,17 +32,11 @@ A charter flight to Qikiqtarjuaq will take you north of the Arctic Circle, to Br
 
 There are no helicopter charter services based in Qikiqtarjuaq. We can however, source out your requirements to the helicopter charter services operating in Nunavut. You will receive response directly from the charter companies detailing pricing and availability
 
-## Group Charters / Crew rotations
-
 ### Group Charters / Crew Rotations
 
 When you have 9 or more passengers to fly on a one time or ongoing basis, between Qikiqtarjuaq and any destination throughout Nunavut or Canada, request a no obligation quote from our Group Air Charter Department
 
-[REQUEST GROUP QUOTE](/canada/northern-ontario/group)
-
----
-
-## Popular Qikiqtarjuaq, Nunavut Charter Flights
+[REQUEST GROUP QUOTE](/quote)
 
 ### Flights From Iqaluit to Qikiqtarjuaq Nunavut
 
@@ -79,18 +61,6 @@ The city is served by Thompson Airport (YTH), with regular flights between Thomp
 Winnipeg is 1,670 air miles southwest of Qikiqtarjuaq Nunavut. Both jet and turbo prop aircraft charters are available out of Winnipeg International Airport.
 
 [CHARTER QUOTE](/canada/manitoba/winnipeg)
-
-## Nunavut Charter Quote Request Form
-
----
-
-### We Are Proud To Highlight The Following Charter Airlines Who Provide Quotes For Our Clients Across Nunavut, NWT, Ontario, Manitoba, Quebec
-
----
-
----
-
----
 
 ## Quick Links To 31 Air Charter Destinations Across Nunavut
 
@@ -157,7 +127,3 @@ Winnipeg is 1,670 air miles southwest of Qikiqtarjuaq Nunavut. Both jet and turb
 [Tanquary Fiord](/canada/nunavut/tanquary-fiord)
 
 [Whale Cove](/canada/nunavut/whale-cove)
-
----
-
----

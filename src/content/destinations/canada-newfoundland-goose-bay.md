@@ -12,10 +12,6 @@ city: "Goose Bay"
 ---
 Charter Flights To Goose Bay Newfoundland / Labrador
 
----
-
-### [Charter Flights To Goose Bay](#collapseOne1)
-
 ### Location
 
 Goose Bay is located in east central Labrador on the south west shore of Lake Melville which is actually a saltwater tidal extension of Hamilton Inlet which stretches 140 km inland from the Atlantic Ocean and part of the Churchill River and Naskaupi River watersheds.
@@ -44,12 +40,6 @@ Goose Bay's economy is diverse, with sectors including transportation, governmen
 
 Following World War II, Goose Bay Air Base continued to be used by the Canadian and United States military for training exercises, air patrols, and other military activities. The base remains operational today, although its military significance has diminished over the years.
 
----
-
----
-
-## Wheel Plane Charter Flights
-
 ### Chrono Aviation
 
 From short hops to long-haul journeys, our charter services ensure seamless travel experiences from start to finish.
@@ -70,15 +60,9 @@ Breton Air operates the Bell 206 L4 and the Bell 407 helicopters from its base i
 
 Receive up to 3 competitive charter quotes directly from the helicopter charter companies best positioned and equipped to provide the services you require
 
-## Float Plane Charter Flights
-
 ### Float Plane Charters / 3 Competitive Quotes
 
 Float plane charter services cater to sport fishermen heading to the remote fishing lodges in the region. In addition float plane charters provide service to mineral exploration groups as well as remote Labrador communities.
-
----
-
----
 
 ## Quick Links To 38 Air Charter Destinations Across Newfoundland and Labrador
 
@@ -124,7 +108,3 @@ Float plane charter services cater to sport fishermen heading to the remote fish
 * [Wabush](/canada/newfoundland/wabush)
 * [Williams Harbour](/canada/newfoundland/williams-harbour)
 * [Winterland](/canada/newfoundland/winterland)
-
----
-
----

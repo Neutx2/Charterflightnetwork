@@ -48,8 +48,6 @@ P: 000000
 **Aircraft Types:** Airbus AS350 B3 / Bell 206 L / Bell 407
 **Service Type:** Helicopters
 
-## Daniel's Harbour Air Charter
-
 ## Daniel's Harbour Aviation Limited
 
 Daniel's Harbour, NL
@@ -57,8 +55,6 @@ P: 000000
 **Base Locations:** Daniel's Harbour, NL
 **Aircraft Types:** Cessna 185
 **Service Type:** Floats
-
-## Gander Air Charter
 
 ## Evas Air
 
@@ -75,8 +71,6 @@ P: 000000
 **Base Locations:** Gander, NL
 **Aircraft Types:** De Havilland Beaver
 **Service Type:** Floats
-
-## L'Anse-au-Clair Air Charter
 
 ## Birchy Lodge Labrador Venture Ltd.
 
@@ -148,8 +142,6 @@ Float Plane Directory
 
 [Back to Main Canadian Menu](/directory/canadian-air-charter-directory-1)
 
-## Explore Related Directories
-
 ## [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
 Link to the main Canadian Air Charter Directory listing wheel plane, float plane and helicopter charter services in every province and territory of Canada.
@@ -171,8 +163,6 @@ When you need a float plane charter, find float plane operators across Canada in
 **Details:** Submit your charter quote request through our free quote request service. It forwards to up to 3 air charter services best positioned and equipped to provide the service you require.
 
 [Request a Quote](/quote)
-
-## Newfoundland & Labrador Air Charter Directory FAQ
 
 ## Which communities are covered on this page?
 

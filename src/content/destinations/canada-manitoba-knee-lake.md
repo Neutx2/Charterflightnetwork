@@ -15,8 +15,6 @@ Knee Lake is a remote fly-in fishing destination roughly 365 air miles north of 
 
 [Request Charter Quote](#QuoteForm)
 
----
-
 ## *Manitoba Charter Flight Links*
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
@@ -26,8 +24,6 @@ Knee Lake is a remote fly-in fishing destination roughly 365 air miles north of 
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 
 [Charter Flights St Andrews Airport](/canada/manitoba/st-andrews)
-
-## Flights to Knee Lake, Manitoba
 
 ## **About Knee Lake:**
 
@@ -62,8 +58,6 @@ Knee Lake Airport is a private airstrip serving this remote lodge destination an
 
 * Knee Lake is known for trophy northern pike, strong walleye fishing, and fly-out opportunities for lake and brook trout. Guests come for low fishing pressure, remote wilderness scenery, and exclusive access to the lake.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 Wheel plane charters are the primary way to reach Knee Lake, using practical turboprop aircraft capable of operating from the lodge area's private crushed-rock runway.
@@ -79,12 +73,6 @@ Float plane charters can complement Knee Lake travel during open-water periods, 
 Helicopter charters may be useful for remote transfers, lodge logistics, survey work, and custom itineraries where flexible point-to-point landing access is more important than runway operations.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to Knee Lake or Any Destination Throughout Canada or the USA
-
-## Knee Lake Charter Flight FAQ
 
 ## **What airport serves Knee Lake Lodge, Manitoba?**
 
@@ -215,7 +203,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

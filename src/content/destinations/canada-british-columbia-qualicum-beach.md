@@ -12,10 +12,6 @@ provinceSlug: "british-columbia"
 city: "Qualicum Beach"
 airportCode: "XQU"
 ---
-## This Page Features Charter Airlines Serving Qualicum Beach Wheel Plane / Float Plane and Helicopter
-
----
-
 ### About Flights To Qualicum Beach, BC
 
 Qualicum Beach is a charming coastal community known for beaches, boutique shops, gardens, and a peaceful Vancouver Island atmosphere. The Qualicum Beach Airport (XQU) provides convenient access for private wheel-plane charters and regional travel throughout the Island. Outdoor visitors enjoy provincial parks, golf courses, hiking, cycling, and scenic viewpoints along the Oceanside Route. Float-plane charters offer direct access to remote lakes, Gulf Islands, and sheltered coastal destinations, while helicopter flights provide dramatic sightseeing over forested mountains and the Strait of Georgia.
@@ -72,8 +68,6 @@ Discover the convenience of private air travel with Charter Flight Network — o
 Charter Flight Network specializes in finding the most cost-efficient air charter options that match your needs. Your inquiry is sent to multiple charter airlines best equipped to provide the service you require. Each airline prepares a competitive quote, and you deal directly with your chosen carrier.
 
 **\*Privacy:** We do not share your personal information. Airlines receive a request ID only.
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -219,12 +213,6 @@ Search charter flights to any of the following British Columbia destinations
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
 
----
-
 Every request forwards to the charter airlines best positioned to provide service. Each airline prepares a competitive quote and sends it directly to your email.
 
 [Learn how to link your charter airline to our distribution list](/operators)
-
-### CharterFlightNetwork.com does not own or operate aircraft. All flights are arranged directly with the chosen charter airline.
-
----

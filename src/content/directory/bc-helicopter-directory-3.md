@@ -109,8 +109,6 @@ P: [(250) 354-8445](tel:+12503548445)
 
 [Website](https://www.highterrainhelicopters.com/)
 
-## Oliver Helicopter Air Charter
-
 ## Transwest Helicopters Ltd
 
 Oliver, BC V0H 1T0
@@ -118,8 +116,6 @@ P: [(250) 498-6691](tel:+12504986691)
 **Base Locations:** Oliver, BC
 **Aircraft Types:** Bell 412EP
 **Service Type:** Helicopter
-
-## Parksville Helicopter Air Charter
 
 ## Ascent Helicopters Ltd
 
@@ -137,8 +133,6 @@ P: [(250) 248-2565](tel:+12502482565)
 **Aircraft Types:** Bell 204B / Bell 206B, Eurocopter AS350 B2, Hughes 369D
 **Service Type:** Helicopter
 
-## Parson Helicopter Air Charter
-
 ## Whitetooth Helicopters Ltd
 
 Parson, BC V0A 1L0
@@ -147,8 +141,6 @@ P: [(250) 344-2266](tel:+12503442266)
 **Aircraft Types:** Aerospatiale AS350 BA / AS350 D / AS350 B2
 **Service Type:** Helicopter
 
-## Penticton Helicopter Air Charter
-
 ## Eclipse Helicopters Ltd
 
 Penticton, BC V2A 8X1
@@ -156,8 +148,6 @@ P: [(250) 492-5221](tel:+12504925221)
 **Base Locations:** Penticton, BC
 **Aircraft Types:** AS350 BA / B2 / B3, EC130 B4 (varies)
 **Service Type:** Helicopter
-
-## Pitt Meadows Helicopter Air Charter
 
 ## Bajo Reef Helicopters Ltd
 
@@ -175,8 +165,6 @@ P: [(604) 239-0760](tel:+16042390760)
 **Aircraft Types:** Bell 206B / 206L, Eurocopter AS350 B2, Robinson R44 II
 **Service Type:** Helicopter
 
-## Port Alberni Helicopter Air Charter
-
 ## Coulson Aircrane Ltd
 
 Port Alberni, BC V9Y 8E9
@@ -185,8 +173,6 @@ P: [(250) 724-7600](tel:+12507247600)
 **Aircraft Types:** Bell 206B / Sikorsky S-61N / S-76B (varies)
 **Service Type:** Helicopter
 
-## Port McNeill Helicopter Air Charter
-
 ## West Coast Helicopters
 
 Port McNeill, BC
@@ -194,8 +180,6 @@ P: [(250) 956-2244](tel:+12509562244)
 **Base Locations:** Port McNeill, BC
 **Aircraft Types:** AS350 (B/B2/BA/B3), Bell 206B / 206L, Hughes 369D (varies)
 **Service Type:** Helicopter
-
-## Powell River Helicopter Air Charter
 
 ## Oceanview Helicopters Ltd
 
@@ -255,8 +239,6 @@ P: [(250) 837-2455](tel:+12508372455)
 **Aircraft Types:** Aerospatiale AS350 B2 / BA / B3
 **Service Type:** Helicopter
 
-## Sechelt Helicopter Air Charter
-
 ## Airspan Helicopters Ltd
 
 Sechelt, BC V0N 3A1
@@ -264,8 +246,6 @@ P: [(604) 885-7474](tel:+16048857474)
 **Base Locations:** Sechelt, BC
 **Aircraft Types:** Bell 206B / 206L / 212, Eurocopter AS350 B2 / B3, MD900 (varies)
 **Service Type:** Helicopter
-
-## Smithers Helicopter Air Charter
 
 ## Aberdeen Helicopters Ltd
 
@@ -283,8 +263,6 @@ P: [(250) 877-1989](tel:+12508771989)
 **Aircraft Types:** Aerospatiale AS350 B2 / B3
 **Service Type:** Helicopter
 
-## Sparwood Helicopter Air Charter
-
 ## Hy-Ridge Helicopters Ltd
 
 Sparwood, BC V0B 2G0
@@ -292,8 +270,6 @@ P: [(250) 425-0068](tel:+12504250068)
 **Base Locations:** Sparwood, BC
 **Aircraft Types:** Eurocopter AS350 B2 / B3
 **Service Type:** Helicopter
-
-## Squamish Helicopter Air Charter
 
 ## Black Tusk Helicopters Inc
 
@@ -303,8 +279,6 @@ P: [(604) 898-4800](tel:+16048984800)
 **Aircraft Types:** Aerospatiale AS350 B2 / Bell 206B / Bell 214B1 / Kaman K1200
 **Service Type:** Helicopter
 
-## Tatla Lake Helicopter Air Charter
-
 ## White Saddle Air Services Ltd
 
 Tatla Lake, BC V0L 1V0
@@ -313,8 +287,6 @@ P: [(250) 476-1182](tel:+12504761182)
 **Aircraft Types:** Bell 407
 **Service Type:** Helicopter
 
-## Terrace Helicopter Air Charter
-
 ## Quantum Helicopters Ltd
 
 Terrace, BC V8G 0E9
@@ -322,8 +294,6 @@ P: [(250) 615-0168](tel:+12506150168)
 **Base Locations:** Terrace, BC
 **Aircraft Types:** Bell 206B / 206L
 **Service Type:** Helicopter
-
-## Tofino Helicopter Air Charter
 
 ## Atleo River Air Service Ltd
 
@@ -344,8 +314,6 @@ P: [(250) 725-2205](tel:+12507252205)
 [Page 4 >>](/directory/bc-helicopter-directory-4)
 
 [Back to Main Canadian Menu](/directory/canadian-air-charter-directory-1)
-
-## Explore Related Directories
 
 ## [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
@@ -368,8 +336,6 @@ Find float plane charter airlines in every province and territory and locate the
 **Details:** Submit your charter quote request through our free quote request service. It forwards to up to 3 air charter services best positioned and equipped to provide the service you require.
 
 [Request a Quote](/quote)
-
-## British Columbia Helicopter Charter Directory FAQ
 
 ## Which British Columbia helicopter locations are covered on Page 3?
 

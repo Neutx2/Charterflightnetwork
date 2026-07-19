@@ -11,8 +11,6 @@ city: "Makkovik"
 ---
 Charter Flights To Makkovik Newfoundland / Labrador
 
----
-
 * [Bell Island](/canada/newfoundland/bell-island)
 * [Black Tickle](/canada/newfoundland/black-tickle)
 * [Botwood](/canada/newfoundland/botwood)
@@ -56,8 +54,6 @@ Charter Flights To Makkovik Newfoundland / Labrador
 * [Williams Harbour](/canada/newfoundland/williams-harbour)
 * [Winterland](/canada/newfoundland/winterland)
 
----
-
 ## Quick Links To 38 Air Charter Destinations Across Newfoundland and Labrador
 
 * [Bell Island](/canada/newfoundland/bell-island)
@@ -100,7 +96,3 @@ Charter Flights To Makkovik Newfoundland / Labrador
 * [Wabush](/canada/newfoundland/wabush)
 * [Williams Harbour](/canada/newfoundland/williams-harbour)
 * [Winterland](/canada/newfoundland/winterland)
-
----
-
----

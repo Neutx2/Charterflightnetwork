@@ -14,12 +14,6 @@ Charter Flights To Great Bear Lake, NWT
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Great Bear Lake](#collapseOne1)
-
 ### About Great Bear Lake Northwest Territories and Location
 
 Great Bear Lake, situated in the serene wilderness of the Northwest Territories, is renowned for its pristine beauty and the array of outdoor activities it offers. From the majestic Northern Lights to the rich indigenous culture, this destination provides a perfect backdrop for adventure seekers and nature lovers alike, making it ideal for those looking to explore its vast landscapes through charter flights.
@@ -78,21 +72,13 @@ Experience the magic of the Northern Lights in luxury at this resort, which offe
 
 The area around Great Bear Lake is a haven for outdoor enthusiasts. From world-class fishing and hunting expeditions to kayaking through tranquil waters and hiking in untouched wilderness, there's no shortage of adventures. Companies like Arctic Adventures and Northern Wilderness Outfitters offer guided tours that take advantage of the region's natural beauty, providing unforgettable experiences in this unique corner of the world.
 
----
-
-## NWT Private Jet Charter Flights
-
 ### Charter Flight Network - Receive 3 Competitive Quotes
 
 Some of our Charter Network Members operate jet aircraft that are approved for gravel runway operations. The runway at Plummer's Great Bear Lake Lodge is just over 5,000 feet long which makes it long enough for a selection of jet aircraft that are certified for gravel runway operations. This however is a private airport and prior permission is required before landing.
 
-## Turbo Prop / Piston Aircraft Charter Flights
-
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 **Direct Charter Flights** can be arranged to a total three airports located on the shores of Great Bear Lake - Deline, Ford Bay and the Great Bear Lake Airport. The Great Bear Lake Airport is located on the north eastern shores of Great Bear Lake and is a private use airport owned and operated by Plummers Great Bear Lake Lodge. The single runway is 5,197 feet long with a gravel surface.
-
-## NWT Float Plane Charter Flights
 
 ### Float Plane Charters - Receive 3 Competitive Quotes
 
@@ -101,16 +87,6 @@ Some of our Charter Network Members operate jet aircraft that are approved for g
 ## NWT Helicopter Charter Flights
 
 **Adventure Tourism:** Helicopter tourism in Northern Canada offers a unique blend of adventure, exploration, and luxury, allowing fishermen to access remote and seldom fished waters while at the same time experiencing the awe-inspiring beauty and vastness of the Arctic in ways that ground-based travel cannot match.
-
----
-
----
-
----
-
----
-
----
 
 ## Quick Links To Over 40 Air Charter Destinations Across Northwest Territories
 
@@ -158,7 +134,3 @@ Some of our Charter Network Members operate jet aircraft that are approved for g
 * [Whati](/canada/northwest-territories/whati)
 * [Wrigley](/canada/northwest-territories/wrigley)
 * [Yellowknife](/canada/northwest-territories/yellowknife)
-
----
-
----

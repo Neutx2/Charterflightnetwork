@@ -24,13 +24,7 @@ Save time and use our no-obligation charter quote request form to receive up to 
 
 ## Request Quotes Directly From The Airlines Listed Below or Use Our Free Quote Request Service and Receive Up To 3 Competitive Quotes
 
----
-
----
-
 [Choose Any Nunavut Community And Request A Charter Flight Quote](#Communities)
-
-### Location of Coral Harbour
 
 ### We Arrange both Jet and Turbo Prop Aircraft
 
@@ -39,8 +33,6 @@ Coral Harbour is a picturesque community located on Southampton Island in Nunavu
 In addition to private charter flights, regularly scheduled flights to Coral Harbour are also available through airlines like Calm Air and Air North. These carriers provide dependable service, connecting Coral Harbour to other northern hubs such as Rankin Inlet and Winnipeg.
 
 [Request A Quote](#quote)
-
----
 
 ### Coral Harbour Airport
 
@@ -55,8 +47,6 @@ Coral Harbour offers a range of exciting activities and outdoor adventures for v
 The Northern Lights (Aurora Borealis) are a stunning natural phenomenon visible from Coral Harbour, particularly during the dark, clear nights of winter. The vibrant dancing lights provide an unforgettable spectacle for visitors who brave the Arctic chill.
 
 Whether you're exploring the tundra, marveling at the Northern Lights, or embarking on a wildlife adventure, Coral Harbour offers unique experiences that capture the essence of the Canadian Arctic.
-
----
 
 ### Air Cargo
 
@@ -81,22 +71,6 @@ Winters in Coral Harbour, lasting from October to May, are harsh and cold, with 
 Coral Harbour offers visitors a unique opportunity to immerse themselves in the rich traditions and culture of the Inuit people. Known locally as "Salliq," the community is deeply rooted in its heritage, and visitors are welcomed to experience the way of life that has sustained the Inuit for generations.
 
 One of the highlights of a visit to Coral Harbour is participating in Inuit cultural activities. Traditional throat singing performances, drumming, and storytelling sessions offer a glimpse into the oral history and artistic expression of the community. Elders often share captivating tales about the land, animals, and survival in the Arctic, providing an authentic and heartfelt connection to Inuit culture.
-
----
-
-## Request A Quote For Any Of The Following Popular Flight Routes
-
----
-
----
-
----
-
-## Coral Harbour Nunavut Charter Quote Request Form
-
----
-
----
 
 ## Quick Links To 31 Destinations Across Nunavut
 
@@ -163,7 +137,3 @@ One of the highlights of a visit to Coral Harbour is participating in Inuit cult
 [Tanquary Fiord](/canada/nunavut/tanquary-fiord)
 
 [Whale Cove](/canada/nunavut/whale-cove)
-
----
-
----

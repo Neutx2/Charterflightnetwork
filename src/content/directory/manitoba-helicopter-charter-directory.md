@@ -50,8 +50,6 @@ P: (204) 675-2576
 
 [REQUEST CHARTER QUOTE](https://hudsonbayheli.com/)
 
-## Gimli Helicopter Charter Directory
-
 ## Prairie Helicopters
 
 Gimli, MB
@@ -74,8 +72,6 @@ P: (204) 345-8332
 
 [WEBSITE](https://www.provincialhelicopters.ca/)
 
-## Snow Lake Helicopter Charter Directory
-
 ## Gogal Air Services
 
 Snow Lake, MB
@@ -83,8 +79,6 @@ P: (204) 358-2259
 **Base Locations:** Snow Lake, MB
 **Aircraft Types:** Piper PA-31-350 Navajo / Cessna 185 / De Havilland Beaver / Noorduyn Norseman V / Bell 206 L / Aérospatiale AS350 B2
 **Service Type:** Helicopter / Wheels / Floats
-
-## St Andrews Helicopter Charter Directory
 
 ## Custom Helicopters Ltd
 
@@ -94,8 +88,6 @@ P: (204) 338-7953
 **Aircraft Types:** Bell 205 A / Bell 206 B, L / Sikorsky S-76C / Aérospatiale AS350 B2, B3, BA / Eurocopter EC135 P2Plus
 **Service Type:** Helicopter
 
-## The Pas Helicopter Charter Directory
-
 ## J B Air
 
 The Pas, MB
@@ -103,8 +95,6 @@ P: (204) 815-0938
 **Base Locations:** The Pas, MB
 **Aircraft Types:** Bell 206 L / Agusta A119
 **Service Type:** Helicopter
-
-## Winnipeg / St Andrews Helicopter Charter Directory
 
 ## Taiga Air Services
 
@@ -121,8 +111,6 @@ Continue browsing the Manitoba air charter listings or return to the national Ca
 [Manitoba Air Charter Directory](/directory/manitoba-air-charter-directory-1)
 
 [Back to Main Canadian Menu](/directory/canadian-air-charter-directory-1)
-
-## Explore Related Directories
 
 ## [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
@@ -146,8 +134,6 @@ When you need a float plane charter, find float plane operators across Canada in
 Each company prepares a competitive quote and sends it directly to your email.
 
 [REQUEST A QUOTE](/quote)
-
-## Manitoba Helicopter Charter Directory FAQ
 
 ## Which Manitoba communities are included in this helicopter charter directory?
 

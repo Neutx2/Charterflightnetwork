@@ -12,10 +12,6 @@ provinceSlug: "british-columbia"
 city: "Port Hardy"
 airportCode: "YZT"
 ---
-## This Page Features Charter Airlines Serving Port Hardy – Wheel Plane / Float Plane / Helicopter
-
----
-
 ### About Flights To Port Hardy, BC
 
 Port Hardy sits at the northern tip of Vancouver Island and serves as the departure point for many of British Columbia's most remote coastal regions. Port Hardy Airport (YZT) accommodates private wheel-plane charters and provides fast access to the town, ferry terminal, fishing lodges, and wilderness areas. Visitors come for salmon fishing, bear-viewing tours, Cape Scott Provincial Park, and marine adventures along the Inside Passage. Float plane charters offer direct access to secluded lodges and offshore islands, while helicopter flights support sightseeing, forestry, mining exploration, and backcountry landings. Private air charter offers the flexibility needed for remote North Coast travel.
@@ -72,10 +68,6 @@ Charter Flight Network allows you to compare multiple operators and receive comp
 Your request is sent to multiple charter airlines best equipped to provide service. Each prepares a competitive quote, and you deal directly with the carrier you choose.
 
 **\*Privacy:** We do not share personal information. Airlines receive only a request ID.
-
-## Submit Form Below or Phone (807) 472-1955
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -221,12 +213,6 @@ Search charter flights to any of the following British Columbia destinations
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
 
----
-
 Every request forwards to the most suitable charter airlines. Each company prepares a competitive quote sent directly to your email.
 
 [Learn how to link your charter airline to our distribution list](/operators)
-
-### CharterFlightNetwork.com does not own or operate aircraft. All flights are arranged directly with the chosen charter airline.
-
----

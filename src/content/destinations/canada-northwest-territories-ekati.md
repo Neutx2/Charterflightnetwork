@@ -14,12 +14,6 @@ Charter Flights To Ekati, NWT
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Ekati](#collapseOne1)
-
 ### About Ekati Northwest Territories and Location
 
 Ekati, located in the pristine expanse of the Northwest Territories, is a gem for adventurers seeking the untouched beauty of the north. Renowned for its breathtaking landscapes, Ekati offers an array of attractions from the shimmering aurora borealis to the rugged wilderness that is home to an abundance of wildlife. Whether it's hiking, fishing, or simply embracing the serenity of its remote location, Ekati is the ultimate destination for those looking to explore the great outdoors.
@@ -68,21 +62,13 @@ Opening doors to the Western Arctic, Inuvik Mike Zubko Airport has a 6,000-foot 
 
 Ekati and its surrounding areas are a haven for outdoor enthusiasts. With exclusive access to some of the most remote fishing and hunting grounds in the world, visitors can enjoy unparalleled experiences. Companies like Northern Lights Outfitters offer guided tours for aurora viewing, while River's Edge Kayaking provides unforgettable trips through the region's waterways. For those seeking the thrill of winter sports, Ekati Winter Adventures specializes in snowmobiling and ice fishing expeditions. Each of these outfitters ensures a memorable adventure in Ekati's unique wilderness.
 
----
-
-## NWT Private Jet Charter Flights
-
 ### Charter Flight Network - Receive 3 Competitive Quotes
 
 The airport at Ekati is owned and operated by Arctic Canadian Diamond Company and features a gravel runway that is 6,400 feet in length. This makes it accessible to a wide range of jet aircraft that are certified for gravel strip operation. The airport however is only accessible to flights operated on behalf of the mining operation and requires prior approval before landing.
 
-## Turbo Prop / Piston Aircraft Charter Flights
-
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 **Crew Rotations:** Many of our Charter Flight Network Members specialize in facilitating the regular rotation of crews and transporting workers between their home bases and remote mining or exploration sites. Aircraft with seating capacity of 10 - 100 passengers or more are available.
-
-## NWT Float Plane Charter Flights
 
 ### Float Plane Charters - Receive 3 Competitive Quotes
 
@@ -91,16 +77,6 @@ The airport at Ekati is owned and operated by Arctic Canadian Diamond Company an
 ## NWT Helicopter Charter Flights
 
 **Helicopter Support For The Mining Industry:** In the rugged and remote landscapes of Northern Canada's Northwest Territories, helicopters are indispensable tools for mining and exploration companies. Their ability to access difficult terrain, coupled with their versatility, makes them essential for various aspects of mining and exploration operations.
-
----
-
----
-
----
-
----
-
----
 
 ## Quick Links To Over 40 Air Charter Destinations Across Northwest Territories
 
@@ -148,7 +124,3 @@ The airport at Ekati is owned and operated by Arctic Canadian Diamond Company an
 * [Whati](/canada/northwest-territories/whati)
 * [Wrigley](/canada/northwest-territories/wrigley)
 * [Yellowknife](/canada/northwest-territories/yellowknife)
-
----
-
----

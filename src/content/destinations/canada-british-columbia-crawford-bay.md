@@ -11,12 +11,6 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Crawford Bay"
 ---
-### Crawford Bay is a small community located in the southern interior region of British Columbia on the eastern shores of Kootenay Lake. The community is 120 air miles south east of Kelowna, 290 air miles east of Vancouver and 160 air miles south west of Calgary
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
-### [Charter Flights To Crawford Bay](#collapseOne1)
-
 ### **[Request A Charter Quote Direct to Crawford Bay From Any Departure Point](/quote)**
 
 Link to our Free Charter Quote Request Service. Receive up to 3 competitive quotes direct from the charter airlines best equipped and positioned to provide the service you require.
@@ -35,8 +29,6 @@ Float planes can take you direct to Crawford Bay,however we have no listings for
 
 The closest wheel plane charter service is located in Cranbrook offered by Babin Air
 
----
-
 ## Crawford Bay Wheel Plane Charter Flights
 
 We make it easy and convenient to receive up to 3 competitive wheel plane charter quotes for flights to or from airports across BC, throughout Canada and into the USA
@@ -48,20 +40,6 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 ## Crawford Bay Helicopter Charter Flights
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -206,9 +184,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

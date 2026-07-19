@@ -11,19 +11,11 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Marilla"
 ---
-## Request A Charter Quote Directly From Any Of Our Featured Charter Airlines or Use Our Free Charter Quote Request Service an Receive Up To 3 Competitive Quotes
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
-### [Charter Flights To Marilla](#collapseOne1)
-
 ### Direct Charter flights to the Marilla airstrip located in the central interior region of British Columbia on the Nechako Resevoir which turns into Whitesail Lake to the west and Tetachuck Lake to the south. Marilla is located within the Uncha Mountain Red Hills Provincial Park.
 
 There is an airstrip located here, however we are not certain of the status, length or surface of the airstrip. We are assuming it is a grss/turf strip under 3,000 feet in length. You may be able to book a charter flight to this airport with specialized aircraft such as the single or twin engine otter or similar aircraft.
 
 Flight distances from various other airports are: Prince Rupert is 195 air miles north west / Bella Coola is 100 air miles south west / Campbell River is 255 air miles south / Prince George is 125 air miles east / Vancouver is 325 air miles south and Grande Prairie is 300 air miles north east.
-
----
 
 ## Marilla Wheel Plane Charter Flights
 
@@ -36,20 +28,6 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 ## Marilla Helicopter Charter Flights
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -194,9 +172,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

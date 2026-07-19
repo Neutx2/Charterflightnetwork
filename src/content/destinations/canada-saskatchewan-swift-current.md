@@ -14,12 +14,6 @@ Charter Flights To Swift Current, Saskatchewan
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Swift Current](#collapseOne1)
-
 ### About Swift Current Saskatchewan and Location
 
 Swift Current, situated in the heart of Saskatchewan, is a bustling city with a rich cultural heritage and a gateway to unique outdoor adventures. Known for its vibrant community, scenic landscapes, and diverse wildlife, Swift Current offers a plethora of activities and attractions for all ages. Ideal for those seeking an escape into nature or to explore Saskatchewan's rural charm, charter flights to Swift Current provide an exclusive and convenient travel option.
@@ -92,10 +86,6 @@ Enjoy kayaking, canoeing, and paddle boarding on Swift Current Creek, a perfect 
 
 Explore the rich history of Swift Current with guided tours that take you through the city's heritage sites and historical landmarks.
 
----
-
-## Swift Current Turbo Prop / Piston Aircraft Charter Flights
-
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 If you require a charter flight to Swift Current from any departure point across Saskatchewan, throughout Canada or from the USA, use our free charter quote request service and receive up to 3 competitive quotes.
@@ -103,14 +93,6 @@ If you require a charter flight to Swift Current from any departure point across
 ## Swift Current Helicopter Charter Flights
 
 Medicine Hat Alberta is the closest helicopter charter service to Swift Current. We can however get you a slection of competitive quotes to review. Submit our charter quote request form.
-
----
-
----
-
----
-
----
 
 ## Quick Links To Over 70 Air Charter Destinations Across Saskatchewan
 
@@ -190,7 +172,3 @@ Medicine Hat Alberta is the closest helicopter charter service to Swift Current.
 * [Wollaston Lake](/canada/saskatchewan/wollaston-lake)
 * [Wynyard](/canada/saskatchewan/wynyard)
 * [Yorkton](/canada/saskatchewan/yorkton)
-
----
-
----

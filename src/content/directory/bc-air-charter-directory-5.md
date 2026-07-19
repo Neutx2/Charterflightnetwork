@@ -87,12 +87,8 @@ Click for a quick index of British Columbia air charter locations
 [Whistler](/directory/bc-air-charter-directory-6#Whistler)
 
 Eliminate the searching. With just one click you can receive up to 3 competitive quotes directly from the airlines best positioned and equipped to provide the service required.
-**Quote Sourcing:** Every Province and Territory of Canada
-**Aircraft Types:** All Wheel Planes (Jet, Turbine, Piston) / Float Planes / Helicopters
 
 [Request A Quote](/quote)
-
-## Toad River Air Charter
 
 ## Racing River Air Ltd
 
@@ -103,8 +99,6 @@ P: (250) 233-1344
 **Service Type:** Wheels
 
 [Request A Quote](/quote)
-
-## Tofino Air Charter
 
 ## Tofino Air
 
@@ -126,8 +120,6 @@ P: (250) 725-2205
 
 [Request A Quote](/quote)
 
-## Two Rivers Air Charter
-
 ## Mackenzie Mountain Aviation Corp
 
 Two Rivers, BC V0C 1C1
@@ -138,8 +130,6 @@ P: (250) 789-9494
 
 [Request A Quote](/quote)
 
-## Ucluelet Air Charter
-
 ## Westcoast Wild Adventures Ltd
 
 Ucluelet, BC V0R 3A0
@@ -149,8 +139,6 @@ P: (250) 726-8668
 **Service Type:** Floats
 
 [Request A Quote](/quote)
-
-## Valemount Air Charter
 
 ## Yellowhead Helicopters Ltd
 
@@ -382,8 +370,6 @@ P: (604) 230-4422
 
 [Next Page](/directory/bc-air-charter-directory-6)
 
-## Explore Related Directories
-
 ## [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
 Link to the main Canadian Air Charter Directory listing wheel plane, float plane and helicopter charter services in every province and territory of Canada.
@@ -407,8 +393,6 @@ Submit your charter quote request through our free quote request service and it 
 Each company prepares a competitive quote and sends it directly to your email.
 
 [Request A Quote](/quote)
-
-## British Columbia Air Charter Directory Page 5 FAQ
 
 ## Which areas are covered on page 5 of the BC Air Charter Directory?
 

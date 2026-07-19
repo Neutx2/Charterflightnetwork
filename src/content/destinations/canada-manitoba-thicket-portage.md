@@ -10,13 +10,10 @@ region: "canada"
 province: "Manitoba"
 provinceSlug: "manitoba"
 city: "Thicket Portage"
-faqs: [{"q": "Can I book direct charter flights to Thicket Portage, Manitoba?", "a": "Yes. Charter Flight Network can help arrange direct charter flights to Thicket Portage from departure points across Manitoba and other parts of Canada, depending on aircraft range, runway conditions, and charter availability."}, {"q": "What types of aircraft can use the Thicket Portage Airport?", "a": "The local crushed rock runway is suited to many northern wheel-equipped charter aircraft. Depending on trip requirements and seasonal conditions, helicopter support may also be arranged for specialized access."}, {"q": "Is there road access to Thicket Portage?", "a": "No permanent road access is typically available. Thicket Portage is better known for air access and for its connection to the Hudson Bay Railway, which remains an important transportation link for the community."}, {"q": "Can Charter Flight Network provide more than one quote for Thicket Portage flights?", "a": "Yes. Charter Flight Network works to provide up to 3 competitive quotes so clients can compare charter options, aircraft types, and pricing before making a final choice."}]
 ---
 You can book direct charter flights to Thicket Portage Airport, located just over 370 air miles north of Winnipeg. The airport sits less than a mile southwest of the community and serves this remote northern destination, which has no year-round road connection but is also linked by the Hudson Bay Railway.
 
 [Request Charter Quote](#QuoteForm)
-
----
 
 ## *Manitoba Charter Flight Links*
 
@@ -27,8 +24,6 @@ You can book direct charter flights to Thicket Portage Airport, located just ove
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 
 [Charter Flights St Andrews Airport](/canada/manitoba/st-andrews)
-
-## Flights to Thicket Portage, Manitoba
 
 ## **About Thicket Portage:**
 
@@ -63,8 +58,6 @@ Thicket Portage Airport provides an essential air link for this remote northern 
 
 * Thicket Portage appeals to travelers interested in remote northern scenery, rail-linked communities, wilderness photography, fishing country, and the quiet landscape surrounding the Nelson and Burntwood region. It suits practical travel and adventurous northern itineraries.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 Wheel plane charters are the most direct option for Thicket Portage, using the local runway to move passengers and supplies efficiently from Winnipeg, Thompson, and other northern departure points.
@@ -80,12 +73,6 @@ Float plane charters may suit nearby lake access during open-water periods, espe
 Helicopter charter service adds flexibility for remote site access, short-range transfers, and specialized northern travel where direct point-to-point landing is more useful than fixed-runway service.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to Thicket Portage or Any Destination Throughout Canada or the USA
-
-## Frequently Asked Questions About Charter Flights to Thicket Portage
 
 ## Can I book direct charter flights to Thicket Portage, Manitoba?
 
@@ -206,7 +193,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

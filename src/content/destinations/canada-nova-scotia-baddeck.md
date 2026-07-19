@@ -14,10 +14,6 @@ Charter Flights To Baddeck, Nova Scotia
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
 ### [Charter Flights To Baddeck](#collapseOne1)
 
 About Baddeck Nova Scotia - Privately Owned Airport
@@ -32,8 +28,6 @@ Baddeck is a small community located on the northeastern shore of Bras d'Or Lake
 
 Take a helicopter tour of Cape Breton Island and include a stop in Baddeck which has a rich cultural heritage influenced by its Scottish and Mi'kmaq roots. The area is known for its traditional music, dance, and storytelling. The Alexander Graham Bell National Historic Site, located in Baddeck, showcases the life and achievements of the renowned inventor and is a significant cultural attraction in the region..
 
-## Wheel Plane Charter Flights
-
 ### Atlantic Charters
 
 You will find plenty of activities in Baddeck including: Sailing and boating on Bras d'Or Lake, a UNESCO Biosphere Reserve. Hiking in nearby Cape Breton Highlands National Park. Golfing at one of the local golf courses. Exploring the Alexander Graham Bell National Historic Site. Shopping for local crafts and souvenirs, or just enjoying traditional music and dance performances..
@@ -42,8 +36,6 @@ Here are just some of the activities and attractions you will find in Baddeck, N
 **Alexander Graham Bell National Historic Site:** A museum dedicated to the life and work of the inventor.
 **Bras d'Or Lake:** A picturesque inland sea ideal for sailing, boating, and fishing.
 **Kidston Island Lighthouse:** A historic lighthouse accessible by foot or boat offering panoramic views of the surrounding area.
-
----
 
 ## Quick Links To Over A Dozen Air Charter Destinations Across Nova Scotia
 
@@ -65,7 +57,3 @@ Here are just some of the activities and attractions you will find in Baddeck, N
 * [Trenton](/canada/nova-scotia/trenton)
 * [Waterville](/canada/nova-scotia/waterville)
 * [Yarmouth](/canada/nova-scotia/yarmouth)
-
----
-
----

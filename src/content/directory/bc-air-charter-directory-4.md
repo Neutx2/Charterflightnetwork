@@ -87,12 +87,8 @@ Click for a quick index of British Columbia air charter locations
 [Whistler](/directory/bc-air-charter-directory-6#Whistler)
 
 Eliminate the searching. With just one click you can receive up to 3 competitive quotes directly from the airlines best positioned and equipped to provide the service required.
-**Quote Sourcing:** Every Province and Territory of Canada
-**Aircraft Types:** All Wheel Planes (Jet, Turbine, Piston) / Float Planes / Helicopters
 
 [Request A Quote](/quote)
-
-## Prince George Air Charter
 
 ## Buchanan & Son Aviation Ltd
 
@@ -156,8 +152,6 @@ P: (250) 000-0000
 
 Note: Phone number was blank in the source code. Replace (250) 000-0000 with the correct number if available.
 
-## Prince Rupert Air Charter
-
 ## Inland Air Charters Ltd
 
 Prince Rupert, BC V8J 3R5
@@ -167,8 +161,6 @@ P: (250) 624-2577 | (250) 746-8336
 **Service Type:** Floats
 
 [Request A Quote](/quote)
-
-## Qualicum Beach Air Charter
 
 ## Oceanside Air Ltd
 
@@ -180,8 +172,6 @@ P: (250) 594-6872
 
 [Request A Quote](/quote)
 
-## Quesnel Air Charter
-
 ## Fawnie Mountain Outfitters Ltd
 
 Quesnel, BC V2J 6R1
@@ -191,8 +181,6 @@ P: (250) 991-0841
 **Service Type:** Floats
 
 [Request A Quote](/quote)
-
-## Revelstoke Air Charter
 
 ## Arrow Helicopters Inc
 
@@ -234,8 +222,6 @@ P: (250) 837-8737
 
 [Request A Quote](/quote)
 
-## Sechelt Air Charter
-
 ## Sunshine Coast Air
 
 Sechelt, BC V0N 3A4
@@ -265,8 +251,6 @@ P: (604) 885-4422
 **Service Type:** Floats
 
 [Request A Quote](/quote)
-
-## Smithers Air Charter
 
 ## Aberdeen Helicopters Ltd
 
@@ -300,8 +284,6 @@ P: (250) 877-1989
 
 [Request Charter Quote](/quote)
 
-## Sparwood Air Charter
-
 ## Hy-Ridge Helicopters Ltd
 
 Sparwood, BC V0B 2G0
@@ -311,8 +293,6 @@ P: (250) 425-0068
 **Service Type:** Helicopter
 
 [Request Charter Quote](/quote)
-
-## Squamish Air Charter
 
 ## Black Tusk Helicopters Inc
 
@@ -334,8 +314,6 @@ P: (604) 898-9016
 
 [Request A Quote](/quote)
 
-## Tatla Lake Air Charter
-
 ## White Saddle Air Services Ltd
 
 Tatla Lake, BC V0L 1V0
@@ -346,8 +324,6 @@ P: (250) 476-1182
 
 [Request Charter Quote](/quote)
 
-## Telkwa Air Charter
-
 ## Alpine Lakes Air Ltd
 
 Telkwa, BC V0J 2X1
@@ -357,8 +333,6 @@ P: (250) 846-9488
 **Service Type:** Floats
 
 [Request A Quote](/quote)
-
-## Terrace Air Charter
 
 ## Quantum Helicopters Ltd
 
@@ -386,8 +360,6 @@ P: (250) 615-0168
 
 [Next Page](/directory/bc-air-charter-directory-5)
 
-## Explore Related Directories
-
 ## [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
 Link to the main Canadian Air Charter Directory listing wheel plane, float plane and helicopter charter services in every province and territory of Canada.
@@ -411,8 +383,6 @@ Submit your charter quote request through our free quote request service and it 
 Each company prepares a competitive quote and sends it directly to your email.
 
 [Request A Quote](/quote)
-
-## British Columbia Air Charter Directory Page 4 FAQ
 
 ## Which British Columbia communities are included on page 4?
 

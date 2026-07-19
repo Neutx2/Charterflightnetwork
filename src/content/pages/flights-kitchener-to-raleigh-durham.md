@@ -8,12 +8,6 @@ thin: false
 quoteSubject: "Kitchener Quote"
 region: "global"
 ---
-### Charter Flight Network — 100% **Canadian** owned & operated. Finding clients the most cost-efficient air charter options since 2008.
-
----
-
-## Corporate Charter Flights Kitchener to Raleigh–Durham, North Carolina
-
 ### When you need to be in the right place at the right time, a direct charter flight keeps you on schedule
 
 With a dedicated flight from Kitchener–Waterloo to Raleigh–Durham (RDU), you set the schedule. Same-day out-and-back is easy—and if meetings run long, hold the aircraft and return later.
@@ -24,8 +18,6 @@ With a dedicated flight from Kitchener–Waterloo to Raleigh–Durham (RDU), you
 * Major car rentals: Enterprise, Avis, Alamo, Hertz, and more.
 * Close to the Research Triangle; ~10 minutes to downtown Raleigh and downtown Durham.
 * Corporate FBOs include Signature Flight Support and Atlantic Aviation.
-
-## You have a wide choice of aircraft types
 
 ### Private Jet Charters to Raleigh–Durham
 
@@ -39,15 +31,11 @@ Popular turboprops include King Air and Pilatus PC-12. Configurations vary from 
 
 Piper Navajo and similar twins suit 4–6 passengers for budget-sensitive missions. The average flight time for a flight from YKF to RDU will be around 2.5 + hours and may require a fuel stop depending on weather and number of passengers.These aircraft may charter out in the $10 - $12 per mile range.
 
-## How to receive up to 3 competitive quotes for flights to Raleigh–Durham
-
 ## Your Quote Request Distributes To Multiple Airlines
 
 We're not an airline nor a charter broker. We specialize in finding clients the most cost efficient air charter options that best match client's needs. We do this by sourcing out each inquiry to the charter airlines who are best positioned and equipped to provide the service required. Each airline prepares and submits a competitive quote. If you receive a quote that meets your needs and is within your travel budget, you have the option of dealing directly with the airline of your choice to finalize all flight details, scheduling and payment.
 
 **\*To ensure your privacy,** we do not share your name, nor contact information with our airline sources. Your request is assigned a unique ID number and the airlines send us their quote for that specific ID number. We then forward these quotes to you.
-
----
 
 ## Quick Links To Over 50 Air Charter Destinations Across Southern Ontario
 
@@ -57,7 +45,7 @@ We're not an airline nor a charter broker. We specialize in finding clients the 
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -77,7 +65,7 @@ We're not an airline nor a charter broker. We specialize in finding clients the 
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -86,7 +74,7 @@ We're not an airline nor a charter broker. We specialize in finding clients the 
 
 * [Niagara Falls](/canada/southern-ontario/niagara-falls)
 * [Orillia](/canada/southern-ontario/orillia)
-* [Oshawa](/canada/northern-ontario/oshawa)
+* [Oshawa](/canada/southern-ontario/oshawa)
 * [Ottawa](/canada/nunavut/ottawa)
 * [Owen Sound](/canada/southern-ontario/owen-sound)
 * [Parry Sound](/canada/southern-ontario/parry-sound)
@@ -109,10 +97,8 @@ We're not an airline nor a charter broker. We specialize in finding clients the 
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----

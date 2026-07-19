@@ -15,8 +15,6 @@ The Pas is located about 325 air miles northwest of Winnipeg and is one of north
 
 [Request Charter Quote](#QuoteForm)
 
----
-
 ## *Manitoba Charter Flight Links*
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
@@ -26,8 +24,6 @@ The Pas is located about 325 air miles northwest of Winnipeg and is one of north
 [Charter Flights Flin Flon](/canada/manitoba/flin-flon)
 
 [Charter Flights Thompson](/canada/manitoba/thompson)
-
-## Flights to The Pas, Manitoba
 
 ## **About The Pas:**
 
@@ -62,8 +58,6 @@ The Pas is one of northern Manitoba's main service and transportation centres, l
 
 * Travel Manitoba highlights The Pas / OCN as a base for northern lakes, wildlife, and broader regional exploration, making it attractive for both business travelers extending a stay and leisure visitors heading north.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 Wheel plane charter flights to The Pas are well suited to business travel, regional connections, and group movements, with a public airport capable of handling a broad range of charter aircraft.
@@ -79,12 +73,6 @@ The Pas is a practical starting point for float plane trips into remote fishing 
 Helicopter charter flights from The Pas can support inspections, remote work sites, northern logistics, and specialized travel where flexible landing access is more important than airport-only service.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to The Pas or Any Destination Throughout Canada or the USA
-
-## Flights to The Pas, MB FAQ
 
 ## What airport serves The Pas, Manitoba?
 
@@ -211,7 +199,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

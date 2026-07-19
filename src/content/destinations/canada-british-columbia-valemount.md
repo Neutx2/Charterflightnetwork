@@ -11,19 +11,11 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Valemount"
 ---
-## Request A Charter Quote Directly From Any Of Our Featured Charter Airlines or Use Our Free Charter Quote Request Service an Receive Up To 3 Competitive Quotes
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
-### [Charter Flights To Valemount](#collapseOne1)
-
 ### Visitors can book direct charter flights to Valemount BC located near the border with Alberta and is less than a 90 minute drive from Jasper which is much closer than the 4 hour drive from Edmonton.
 
 There are however no scheduled flights into Valemount, but visitors to the area can arrange private charter flights direct the to Valemount Airport which has a 3,900 foot asphalt runway making it accessible to a wide range of charter aircraft from small single engine to high performance twin engine turbine aircraft.
 
 If you fly charter flights from the USA, you will need to stop at a Canadian airport designated as a port of entry and clear Canadian customs, as there is no customs clearance services at the Valemount Airport.
-
----
 
 ## Valemount Wheel Plane Charter Flights
 
@@ -36,20 +28,6 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 ## Valemount Helicopter Charter Flights
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -194,9 +172,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

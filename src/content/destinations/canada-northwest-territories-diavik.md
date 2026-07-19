@@ -14,12 +14,6 @@ Charter Flights To Diavik Airport, NWT
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Diavik Airport](#collapseOne1)
-
 ### About Diavik Airport Northwest Territories and Location
 
 The Diavik Diamond Mine, is owned and operated by Rio Tinto and comprises 4 diamond-bearing pipes that are mined using a combination of open pit and underground mining..
@@ -64,21 +58,13 @@ Strategically positioned on the south shore of Great Slave Lake, Hay River Airpo
 
 Fort Simpson Airport serves as an important link for communities and tourists looking to explore the upper reaches of the Northwest Territories, offering access to spectacular natural wonders and cultural heritage sites.
 
----
-
-## NWT Private Jet Charter Flights
-
 ### Charter Flight Network - Receive 3 Competitive Quotes
 
 Diavik Diamond mines operates the local airport which is used exclusively for the mining operations. The runway which is 5,200 feet in length is accessible to jet aircraft which are certified for gravel strip operations.
 
-## Turbo Prop / Piston Aircraft Charter Flights
-
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 **Custom Travel Schedules:** Dedicated charter flights enable mining executives and management to adhere to tight travel schedules by offering the flexibility to set flight times that align with their business needs, maximizing productivity.
-
-## NWT Float Plane Charter Flights
 
 ### Float Plane Charters - Receive 3 Competitive Quotes
 
@@ -87,16 +73,6 @@ Diavik Diamond mines operates the local airport which is used exclusively for th
 ## NWT Helicopter Charter Flights
 
 **Remote Site Access:** Helicopters provide critical access to remote mine operations, located throughout Northwest Territories where conventional transportation methods are impractical.
-
----
-
----
-
----
-
----
-
----
 
 ## Quick Links To Over 40 Air Charter Destinations Across Northwest Territories
 
@@ -144,7 +120,3 @@ Diavik Diamond mines operates the local airport which is used exclusively for th
 * [Whati](/canada/northwest-territories/whati)
 * [Wrigley](/canada/northwest-territories/wrigley)
 * [Yellowknife](/canada/northwest-territories/yellowknife)
-
----
-
----

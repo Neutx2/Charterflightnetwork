@@ -43,10 +43,6 @@ Your Basic Free Listing Will Appear In The Categories Of Aircraft You Operate (W
 * One Contact Phone Number
 * Your Website Address (not linked)
 
----
-
----
-
 We Offer A Basic Free Listing To All Licenced Air Charter Services Throughout Canada
 
 Here Is What A Basic Free Lising Includes
@@ -70,17 +66,11 @@ Your Basic Free Listing Will Appear In The Categories Of Aircraft You Operate (W
 * One Contact Phone Number
 * Your Website Address (not linked)
 
----
-
-## Example Of Free Listing
-
 ## For Charter Companies That Wish To Maximize Their Exposure Throughout Their Target Market - We Offer Two Upgrade Options To Our Directory Listings
 
 Basic Plus Link Listing - $125 + Tax Annual Listing
 
 Premium Listing - $275 + Tax Annual Listing
-
----
 
 More About Canadian Air Charter Directory
 
@@ -95,9 +85,6 @@ More About Canadian Air Charter Directory
 [OUR AUDIENCE / YOUR TARGET MARKET](/directory/canadian-air-charter-directory-audience)
 
 [MAXIMIZE EXPOSURE WITH PREMIUM LISTING](/directory/canadian-air-charter-directory-premium)
-
-1100 Memorial Avenue
-Suite
 
 Thunder Bay, Ontario
 

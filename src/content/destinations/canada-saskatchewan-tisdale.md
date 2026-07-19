@@ -14,12 +14,6 @@ Charter Flights To Tisdale, Saskatchewan
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Tisdale;](#collapseOne1)
-
 ### About Tisdale, Saskatchewan and Location
 
 Tisdale, Saskatchewan, renowned for its rich agricultural land and as the "Land of Rape and Honey," is a beacon of community and natural beauty. Its strategic location makes it an ideal starting point for charter flights to Saskatchewan's remote destinations, providing an intimate glimpse into the province's stunning landscapes and attractions.
@@ -88,10 +82,6 @@ Just a short drive away, the park offers hiking, fishing, and boating, perfect f
 
 Explore scenic walking paths along the Doghide River, ideal for birdwatching and leisurely strolls.
 
----
-
-## Tisdale Turbo Prop / Piston Aircraft Charter Flights
-
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 The Tisdale Airport has a 3,000 foot asphalt runway which means that most twin engine chartere aircraft in the region can easily access this airport. If you need a charter flight to or from the Tisdale airport, use our charter quote request service and receive up to 3 competitive quotes.
@@ -99,14 +89,6 @@ The Tisdale Airport has a 3,000 foot asphalt runway which means that most twin e
 ## Tisdale Helicopter Charter Flights
 
 The closest helicopter charter service to Tisdale is located in Smeaton which is just 60 air miles north. Heli-Recon Aerial Support Services Inc is based in Smeaton and operate Bell 206 Helicopters
-
----
-
----
-
----
-
----
 
 ## Quick Links To Over 70 Air Charter Destinations Across Saskatchewan
 
@@ -186,7 +168,3 @@ The closest helicopter charter service to Tisdale is located in Smeaton which is
 * [Wollaston Lake](/canada/saskatchewan/wollaston-lake)
 * [Wynyard](/canada/saskatchewan/wynyard)
 * [Yorkton](/canada/saskatchewan/yorkton)
-
----
-
----

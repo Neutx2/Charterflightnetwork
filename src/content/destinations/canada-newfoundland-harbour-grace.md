@@ -12,10 +12,6 @@ city: "Harbour Grace"
 ---
 Charter Flights To Harbour Grace Newfoundland / Labrador
 
----
-
-### [Charter Flights To Harbour Grace](#collapseOne1)
-
 ### About Harbour Grace Newfoundland / Labrador
 
 Discover The Convenience and Affordability of Flying Direct to or From Harbour Grace Newfoundland Labrador In The Speed Comfort and Security of A Private Charter Flight. Harbour Grace is a small town with about 3,000 residents, located on the south western shores of Conception Bay on the Avalon Peninsula. There is a very small airport with a 2,000 foot turf.grass runway - making it very limited to the types of aircraft that access this airport. Not many charter aircraft in the region would be able to provide charter flights to this airport.
@@ -36,10 +32,6 @@ Like many Newfoundland communities, Harbour Grace has faced economic challenges,
 
 Overall, Harbour Grace is a town with a rich history, particularly notable for its role in early European exploration and its ties to aviation history. Despite economic challenges, it remains an important cultural and historical center in Newfoundland and Labrador.
 
----
-
-## Float Plane Charter Flights
-
 ### Clarenville Aviation
 
 Throughout its history, Harbour Grace has been reliant on its maritime economy, including fishing and shipbuilding. The town's location on Conception Bay made it a strategic hub for fishing fleets and trading vessels.
@@ -55,10 +47,6 @@ Despite economic challenges, Harbour Grace attracts tourists interested in its h
 ### Helicopter Charter Flights / 3 Competitive Quotes
 
 Harbour Grace has modern amenities such as schools, healthcare facilities, and recreational areas. It is accessible by road and has connections to nearby communities and larger centers such as St. John's.
-
----
-
----
 
 ## Quick Links To 38 Air Charter Destinations Across Newfoundland and Labrador
 
@@ -104,7 +92,3 @@ Harbour Grace has modern amenities such as schools, healthcare facilities, and r
 * [Wabush](/canada/newfoundland/wabush)
 * [Williams Harbour](/canada/newfoundland/williams-harbour)
 * [Winterland](/canada/newfoundland/winterland)
-
----
-
----

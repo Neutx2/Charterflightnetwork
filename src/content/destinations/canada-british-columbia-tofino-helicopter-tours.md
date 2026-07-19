@@ -11,10 +11,6 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Tofino"
 ---
-## This Page Features Airlines Offering Tofino Helicopter Flights & Scenic Tours
-
----
-
 ### Tofino Helicopter Tours
 
 Helicopter flights and tours in the Tofino region offer a breathtaking way to experience Vancouver Island's wild Pacific coastline. From dramatic sea stacks and surf-pounded beaches to old-growth rainforest and the sheltered inlets of Clayoquot Sound, helicopter sightseeing provides soaring views that ground-based travellers never see. Tours often include Hot Springs Cove, Vargas Island, Flores Island and the rugged backcountry peaks east of town. Wildlife sightings—whales, sea lions and black bears—are common from the air.
@@ -54,8 +50,6 @@ Charter Flight Network works with helicopter operators throughout the Tofino reg
 
 **Helicopter Charters:** Campbell River–based operation providing AS350 B2 lift capability for coastal inlets, alpine ridges and remote job sites.
 
----
-
 ## Search Charter Flights To Tofino From Any Of The Following:
 
 Request a charter quote to Tofino from any of these British Columbia communities:
@@ -82,11 +76,5 @@ Charter Flight Network specializes in finding the most cost-efficient helicopter
 
 **\*Privacy:** We do not share your name or contact information with the airlines. Your request is assigned a unique ID, and all quotes arrive through our system before being forwarded to you.
 
----
-
 Every quote request is routed to charter airlines best positioned for your trip. Each company prepares a competitive quote and sends it directly to your email.
 [Learn how to join our distribution list](/operators)
-
-### CharterFlightNetwork.com is not a charter provider. We do not own or operate aircraft. All charter arrangements and payments are handled directly with the airline you choose.
-
----

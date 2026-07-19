@@ -47,15 +47,11 @@ Business & Fishing Trips
 [Flights to Tofino](/canada/british-columbia/tofino) |
 [Flights To Nanaimo](/canada/british-columbia/nanaimo)
 
----
-
 ## Discover The Quickest & Most Convenient Flight Options From Vancouver To Campbell River
 
 Using a private charter, travelers enjoy a fast, scenic, and highly flexible way to reach one of British Columbia's premier coastal destinations.
 The route covers approximately 120 air miles (193 km), with typical flight times of 45 to 60 minutes depending on aircraft type.
 Depart from Vancouver International (YVR) or convenient regional airports, skip ferry schedules and road delays, and enjoy sweeping views over the Strait of Georgia and the Sunshine Coast.
-
-## Designed for groups with a limited vacation window who need to minimize travel time and maximize salmon fishing time.
 
 ## Non-Stop Flights Arrive In Vancouver Between 8:30 am - 10:00 am
 
@@ -76,8 +72,6 @@ The above non-stop flight examples were valid at the time of publishing this pag
 
 Map data from [OpenStreetMap](https://www.openstreetmap.org/copyright)
 
-### Charter Flights Operate From 5 Vancouver Area Airports
-
 ### Depending On Availability And The Type And Size Of Aircraft You Require, Your Charter Flight May Depart From One Of The Following Airports
 
 * **Vancouver International South Terminal (YVR)** - Float Plane, Wheel Plane, And Helicopter Charters
@@ -89,8 +83,6 @@ Map data from [OpenStreetMap](https://www.openstreetmap.org/copyright)
 ## 45 Minute - 1 Hour Flight To Campbell River
 
 Map data from [OpenStreetMap](https://www.openstreetmap.org/copyright)
-
-### There Are Numerous Charter Airlines In The Vancouver Area That Provide Flight Service To Campbell River
 
 ### Here Is The Service We Provide: It Is Designed To Save You Time & Money While Ensuring You Find The Best Flight Option That Meets Your Needs.
 
@@ -115,15 +107,11 @@ Request Your Vancouver to Campbell River Charter Quote
 
 Map data from [OpenStreetMap](https://www.openstreetmap.org/copyright)
 
-### Depending On Your Departure City And Airline Schedule, Your Charter Flights Arrive In Campbell River Between 10:30 am And Noon
-
 ### You Will Fly By Private Charter From Vancouver To Campbell River In The Aircraft That Best Matches Your Group Size And Preferences
 
 * **Campbell River Airport (YBL/CYBL)** - Wheel Plane Charters arrive at Campbell River Airport, located 7 miles south of town. The airport features a 6,500-foot paved runway suitable for light twins through to executive jets. Van shuttle and taxi services are readily available for the short drive to your hotel or resort.
 * **Floatplane** operations in Campbell River are centered at Tyee Spit, a small peninsula situated just north of the downtown waterfront near Discovery Harbour Marina. From this location, charter operators including CorilAir Charters and Vancouver Island Air provide both sightseeing flights and scheduled floatplane transportation to destinations throughout the surrounding coastal region and nearby communities.
 * **Helicopter Charter Flights** to Campbell River operate from Tyee Spit as well as Campbell River Airport. The heliport on the spit is located a short distance north of the downtown core adjacent to Discovery Harbour Marina. Helicopter charter companies such as West Coast Helicopters operate from the spit, while Grizzly Helicopters operate from Campbell River Airport.
-
-## What Is The Cost To Fly From Vancouver To Campbell River, BC?
 
 ## See How Charter Flight Network Finds The Most Cost-Efficient Air Charter Option That Best Meets The Needs Of Every Client.
 
@@ -132,8 +120,6 @@ Charter flight costs will vary based on the number of passengers in your group, 
 We are not an airline and we are not acting as a direct charter operator. We specialize in finding clients the most cost-efficient air charter options that match their needs. We source each inquiry to the charter airlines best positioned and equipped to provide the flight. Each airline prepares and submits a competitive quote. If a quote meets your needs and budget, you deal directly with the airline of your choice to finalize all details, scheduling, and payment.
 
 **Privacy:** When we source your request, we do not share your name or contact information with airlines. Each quote request is assigned a unique ID. Each airline submits a quote for that ID. We forward each quote directly to your email. We only provide your name and contact information to the airline if and when you are ready to book your flight.
-
-## Vancouver to Campbell River Charter Flight FAQ
 
 ## How long is a charter flight from Vancouver to Campbell River?
 
@@ -342,7 +328,3 @@ Show BC Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----

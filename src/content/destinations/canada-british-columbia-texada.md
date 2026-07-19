@@ -11,19 +11,9 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Texada"
 ---
-## Request A Charter Quote Directly From Any Of Our Featured Charter Airlines or Use Our Free Charter Quote Request Service an Receive Up To 3 Competitive Quotes
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
-### [Charter Flights To Texada](#collapseOne1)
-
 ### Scheduled flights are operated between Qualicum Beach and the Gillies Bay Airport which is located on west central coasline of Texada Island. However if you are coming from the mainland, then a private charter flight direct to the Gillies Bay airport on Texada Island is you quickest and most convenient flight option. Charter flights can be arranged from Abbotsford, Vancouver, Powell River as well as dozens of other airports throughout BC. The airport has a 3000 foot asphalt runway, making it accessible to a wide range of charter aircraft.
 
 The northern tip of Texada Island which is the largest island in the Strait of Georgia is located about 5 miles from the city of Powell River. There are a few transportation options available to those who want to travel to Texada Island. The most popular travel mode is by Ferry boat and with 7 ferries a day, getting back and forth is easy and convenient. However, those that want to save time can fly to Texada Island and here you have two choices
-
----
-
-## Texada Wheel Plane Charter Flights
 
 ### Nautilus Air Ltd
 
@@ -42,20 +32,6 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 ## Texada Helicopter Charter Flights
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -200,9 +176,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

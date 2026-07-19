@@ -45,11 +45,7 @@ Your Basic Free Listing Will Appear In The Categories Of Aircraft You Operate (W
 * One Contact Phone Number
 * Your Website Address (not linked)
 
----
-
 ## A Digital e-publication distributed by email throughout the entire Canadian Mining Industry
-
----
 
 We Offer A Basic Free Listing To All Licenced Air Charter Services Throughout Canada
 
@@ -74,12 +70,6 @@ Your Basic Free Listing Will Appear In The Categories Of Aircraft You Operate (W
 * One Contact Phone Number
 * Your Website Address (not linked)
 
----
-
-## A Digital e-publication distributed by email throughout the entire Canadian Mining Industry
-
-## Example Of Each Provincial Territory Directory Page
-
 ## Here Is How To Find Your Best Price For All Pickle Lake Area Charter Flights - Float Planes / Wheel Planes Or Helicopter Charters
 
 Charter Flight Network is not an air charter service, but rather respresents a network of Charter Airlines throughout Canada and offers you two quick and convenient options to find your best price for any Pickle Lake area charter flight.
@@ -87,10 +77,6 @@ Charter Flight Network is not an air charter service, but rather respresents a n
 Search our Air Charter Directory in **Option #1** below. Determine your most convenient departure airport and then contact the air charter service closest to that airport listed in our directory and request a no obligation charter quote.
 
 Or Choose **Option #2** to save time and receive upt to 3 competitive quotes. Simply complete and submit our no obligation charter quote request form. You will receive competitive quotes directly from as many as 3 charter airlines best positioned to provide your flight service.
-
----
-
-## [Link To Southern Ontario Air Charter Destination & Departure Airports](/canada/southern-ontario)
 
 ## Charter Flight Network Extends Throughout North America With Network Members In Every Province Of Canada / 26 US States / Bahamas & Caribbean
 
@@ -107,9 +93,6 @@ More About The Canadian Air Charter Directory
 [OUR AUDIENCE / YOUR TARGET MARKET](/directory/canadian-air-charter-directory-audience)
 
 [MAXIMIZE EXPOSURE WITH PREMIUM LISTING](/directory/canadian-air-charter-directory-premium)
-
-1100 Memorial Avenue
-Suite
 
 Thunder Bay, Ontario
 

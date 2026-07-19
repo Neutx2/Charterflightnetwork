@@ -57,8 +57,6 @@ No. We connect you with licensed operators who send quotes directly; you book wi
 * [Charter Flights to Red Lake](/canada/northern-ontario/red-lake)
 * [Charter Flights to Thunder Bay](/canada/northern-ontario/thunder-bay)
 
-## Charter Flight Network Offers 2 Charter Quote Options
-
 ## Option #1. Request A Quote Directly From The Charter Airline of Your Choice
 
 Featured below are some of the air charter services that provide flight services out of Thunder Bay. Charter Flight Network makes it quick and convenient to request a no cost / no obligation charter quote directly from the airline of your choice.
@@ -67,13 +65,9 @@ Featured below are some of the air charter services that provide flight services
 
 Operating one of the largest fleets of the modern Pilatus PC12 turboprop aircraft in Canada, Air Bravo is a reliable choice for passenger, cargo and medevac flights across Northern Ontario and throughout Canada. Charters into the USA as well
 
----
-
 ### North Star Air - Passenger and Cargo Charters
 
 North Star Air provides scheduled and charter passenger flights as well as bulk cargo services throughout Northern Ontario, Northern Manitoba and Nunavut . They also are licenced to provide passenger charters into the USA
-
----
 
 ### Lakehead Airways - Float Plane Charters Throughout Northwestern Ontario
 
@@ -92,8 +86,6 @@ Superior Airways operates a diversified fleet of wheel plane and float plane cha
 We're not an airline nor a charter broker. We specialize in finding clients the most cost-efficient air charter options that match their needs. When you complete and submit the form below, we forward your inquiry to multiple charter airlines who are best positioned and equipped to provide the service you request. Each airline prepares and submits a competitive quote.
 
 **\*Privacy:** we don't share your name or contact info with airlines. Your request is assigned a unique ID; airlines submit quotes for that ID and we forward them to you.
-
----
 
 ## Summer Beaver Charter Quote Request
 

@@ -15,8 +15,6 @@ Dauphin is located about 140 air miles northwest of Winnipeg in Manitoba's Parkl
 
 [Request Charter Quote](#QuoteForm)
 
----
-
 ## *Manitoba Charter Flight Links*
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
@@ -26,8 +24,6 @@ Dauphin is located about 140 air miles northwest of Winnipeg in Manitoba's Parkl
 [Charter Flights Swan River](/canada/manitoba/swan-river)
 
 [Charter Flights The Pas](/canada/manitoba/the-pas)
-
-## Flights to Dauphin, Manitoba
 
 ## **About Dauphin:**
 
@@ -62,8 +58,6 @@ Dauphin is the main service centre of Manitoba's Parkland region, known for agri
 
 * Tourism Dauphin promotes the city as a base for history, biking, golf, Ukrainian culture, and broader regional exploration. That makes Dauphin appealing for both business travelers extending a stay and leisure visitors exploring Manitoba's Parkland region.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 Wheel plane charter flights to Dauphin are ideal for business, government, and regional trips, with direct airport access that can make same-day travel from Winnipeg especially efficient.
@@ -79,12 +73,6 @@ Float plane charters can be useful for travelers connecting beyond Dauphin into 
 Helicopter charter flights to Dauphin can support site visits, inspections, and specialized regional transport where flexible landing locations are more important than standard airport-to-airport travel.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to Dauphin or Any Destination Throughout Canada or the USA
-
-## Flights to Dauphin, MB FAQ
 
 ## What airport serves Dauphin, Manitoba?
 
@@ -205,7 +193,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

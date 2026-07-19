@@ -14,12 +14,6 @@ Charter Flights To Regina, Saskatchewan
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Regina](#collapseOne1)
-
 ### About Regina, Saskatchewan and Location
 
 Regina, the heart of Saskatchewan, is a vibrant city rich in history and natural beauty. Known for its lush parks, cultural attractions, and exciting activities, Regina offers a unique experience for visitors. With its convenient location, Regina serves as a gateway to exploring remote destinations in Saskatchewan through charter flights.
@@ -84,27 +78,13 @@ Explore one of North America's largest urban parks, offering outdoor activities 
 
 Experience the beauty of this indoor garden, offering a tranquil environment and a variety of plant species.
 
----
-
-## Regina Turbo Prop / Piston Aircraft Charter Flights
-
 ### Transwest Air / Rise Air
 
 When you need to fly 10 or more passengers to destinations across the province or across the country, Rise Air can meet your requirements with their Beech 1900 D or the ATR42 300 passenger aircraft
 
-### Wheel Plane Charters - 3 Competitive Quotes
-
 ## Regina Helicopter Charter Flights
 
 When you require helicopter charter service in the Regina region, you can receive up to 3 competitive quotes by using our charter quote request service.
-
----
-
----
-
----
-
----
 
 ## Quick Links To Over 70 Air Charter Destinations Across Saskatchewan
 
@@ -184,7 +164,3 @@ When you require helicopter charter service in the Regina region, you can receiv
 * [Wollaston Lake](/canada/saskatchewan/wollaston-lake)
 * [Wynyard](/canada/saskatchewan/wynyard)
 * [Yorkton](/canada/saskatchewan/yorkton)
-
----
-
----

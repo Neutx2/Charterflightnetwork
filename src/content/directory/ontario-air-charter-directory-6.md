@@ -91,8 +91,6 @@ Click for a quick index of Ontario air charter locations
 [White River](#WhiteRiver)
 [Windsor](#Windsor)
 
-## Toronto Air Charter
-
 ## Chartright Air
 
 Toronto Pearson
@@ -215,8 +213,6 @@ P: 905-475-2058
 **Aircraft Types:** De Havilland DHC-2 Beaver
 **Service Type:** Floats / Wheels
 
-## Vermilion Bay Air Charter
-
 ## Clark's Air Service
 
 Vermilion Bay, ON P0V 2V0
@@ -236,8 +232,6 @@ P: 807-227-5473
 **Service Type:** Floats
 
 Request a Quote
-
-## Wawa Air Charter
 
 ## Watson's Skyways Ltd
 
@@ -265,8 +259,6 @@ P: 705-889-2250 / 705-856-4438
 **Aircraft Types:** Cessna 180 / De Havilland Beaver / De Havilland Otter
 **Service Type:** Floats
 
-## Weagamow Air Charter
-
 ## Weagamow Corporation
 
 Weagamow, Ontario
@@ -275,8 +267,6 @@ P: xxxx
 **Aircraft Types:** Cessna 185 / De Havilland Beaver / Piper Navajo
 **Service Type:** Floats / Wheels
 
-## Whitby Helicopter Air Charter
-
 ## Fig Air Inc.
 
 Whitby, ON L1M 0B5
@@ -284,8 +274,6 @@ P: 905-505-2151
 **Base Locations:** Whitby, Ontario
 **Aircraft Types:** Sikorsky S-76C / S-76D
 **Service Type:** Helicopter
-
-## White River Air Charter
 
 ## White River Air
 
@@ -296,8 +284,6 @@ P: 807-822-2222
 **Service Type:** Floats
 
 [Request a Quote](/quote/white-river)
-
-## Windsor Air Charter
 
 ## Centaero Aviation Ltd
 
@@ -335,8 +321,6 @@ Get up to 3 competitive quotes for your next charter flight
 
 [Back to Page 5](/directory/ontario-air-charter-directory-5)
 
-## Explore Related Directories
-
 ## [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
 Link to the main Canadian Air Charter Directory listing wheel plane, float plane, and helicopter services.
@@ -360,8 +344,6 @@ Submit your charter request through our free quote service and it forwards to up
 Each operator prepares a competitive quote and sends it directly to your email.
 
 [Request a Quote](/quote)
-
-## Ontario Air Charter Directory Page 6 FAQ
 
 ## Which Ontario communities are included on page 6?
 

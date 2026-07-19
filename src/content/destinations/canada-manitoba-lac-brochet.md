@@ -15,8 +15,6 @@ Arrange wheel plane, float plane, or helicopter charter flights to Lac Brochet f
 
 [Request Charter Quote](#QuoteForm)
 
----
-
 ## *Manitoba Charter Flight Links*
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
@@ -26,8 +24,6 @@ Arrange wheel plane, float plane, or helicopter charter flights to Lac Brochet f
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 
 [Charter Flights St Andrews Airport](/canada/manitoba/st-andrews)
-
-## Flights to Lac Brochet
 
 ## **About Lac Brochet:**
 
@@ -62,8 +58,6 @@ Lac Brochet is home to the Northlands Denesuline First Nation, a Dene-speaking I
 
 * Fishing and hunting are a way of life here, and for those seeking an authentic northern adventure, Lac Brochet provides an ideal launching point for fly-in fishing expeditions, Indigenous cultural experiences, and wilderness photography.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 The Lac Brochet Airport supports land-based aircraft, making it accessible by fixed-wing wheel charter aircraft year-round. Flights typically originate from Thompson, The Pas, or Winnipeg, and can be arranged for passenger transport, cargo delivery, or medical evacuation.
@@ -79,12 +73,6 @@ During the open water months (typically June through September), float plane cha
 Helicopter charters can help with remote access, survey work, local logistics, and specialized northern travel where flexible landing locations matter more than using the community runway.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to Lac Brochet or Any Destination Throughout Canada or the USA
-
-## Lac Brochet Charter Flight FAQ
 
 ## **What airport serves Lac Brochet, Manitoba?**
 
@@ -215,7 +203,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

@@ -11,8 +11,6 @@ region: "canada"
 
 Yellowknife, Fort Simpson, Norman Wells, Inuvik, and across the NWT
 
----
-
 ## Northwest Territories Helicopter Air Charter Directory
 
 Page 1
@@ -63,8 +61,6 @@ Yellowknife, NT
 
 Copyright © Charter Flight Network. All rights reserved.
 
----
-
 ### [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
 * Link to the main directory listing wheel plane, float plane, and helicopter charter services across Canada.
@@ -81,10 +77,6 @@ Copyright © Charter Flight Network. All rights reserved.
 
 * Find float plane charter operators across Canada quickly, organized by region.
 
----
-
-## Receive 3 Competitive Charter Quotes With One Request
-
 ### Wheel Plane / Float Plane / Helicopter Charter Services In Every Province & Territory Of Canada
 
 Submit your request through our free quote service. We forward your inquiry to up to three charter operators
@@ -93,7 +85,3 @@ best positioned and equipped to support your mission.
 Each operator prepares a competitive quote and sends it directly to your email.
 
 [REQUEST A QUOTE](/quote)
-
----
-
----

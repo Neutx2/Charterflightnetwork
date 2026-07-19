@@ -14,10 +14,6 @@ Charter Flights To Waterville, Nova Scotia
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
 ### [Charter Flights To Waterville](#collapseOne1)
 
 About Waterville Nova Scotia - Wheel Plane Charter Access
@@ -55,19 +51,11 @@ Waterville is a small community located in Kings County, Nova Scotia, Canada. It
 
 Travelers can reach Waterville by road or fixed wing and helicopter charter flights. The local community airport is accessible to most types of charter aircraft operating in the region. The nearest major airport with scheduled airline flights is Halifax Stanfield International Airport, located approximately 120 kilometers southeast of Waterville. Additionally, there are smaller regional airports in nearby towns, such as the Greenwood Military Airport, which caters to private charter flights and general aviation..
 
-## Wheel Plane Charter Flights
-
 ### Atlantic Charters
 
 Contact Atlantic Charters for direct charter flights to Waterville from departure points across Eastern Canada. With a versatile fleet of charter aircraft, they can usually meet last minute demands for groups of up to 8 passengers.
 
 The Annapolis Valley offers plenty of opportunities for outdoor activities such as hiking, biking, birdwatching, and picnicking. Nearby parks, trails, and natural areas provide scenic spots for relaxation and exploration..
-
-## Waterville NS Charter Quote Request Form
-
----
-
----
 
 ## Quick Links To Over A Dozen Air Charter Destinations Across Nova Scotia
 
@@ -89,7 +77,3 @@ The Annapolis Valley offers plenty of opportunities for outdoor activities such 
 * [Trenton](/canada/nova-scotia/trenton)
 * [Waterville](/canada/nova-scotia/waterville)
 * [Yarmouth](/canada/nova-scotia/yarmouth)
-
----
-
----

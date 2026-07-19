@@ -1,96 +1,60 @@
 ---
-title: "Charter Flights To Oshawa"
-description: "Receive Up To Three Competitive Charter Quotes For Oshawa Charter Flights"
-h1: "Charter Flights To Oshawa Receive 3 Competitive Quotes"
-legacyUrl: "/oshawa_charter_flights.htm"
-slug: "canada/northern-ontario/oshawa"
+title: "Charter Flights To Burlington Ontario - 3 Competitive Quotes"
+description: "Charter Flights To Burlington Ontario.  Float / Wheel Plane Helicopter Charter Flights To Burlington"
+legacyUrl: "/charter_flights_to_burlington.htm"
+slug: "canada/southern-ontario/burlington"
 thin: false
-quoteSubject: "Oshawa Charter"
+quoteSubject: "Burlington Charter"
 region: "canada"
-province: "Northern Ontario"
-provinceSlug: "northern-ontario"
-city: "Oshawa"
+province: "Southern Ontario"
+provinceSlug: "southern-ontario"
+city: "Burlington"
 ---
----
-
-## Oshawa Charter Flights - With Just One Click Receive Up To 3 Competitive Charter Quotes Directly From The Charter Network Members Who Provide Service To Oshawa
+Charter Flights To Burlington
 
 ### Or Search The Canadian Air Charter Directory And Link Direct To Wheel Plane, Float Plane and Helicopter Charter Services In Every Province & Territory of Canada.
 
 Charter Flight Network Is Proudly Canadian Owned & Operated
 
----
+### [About Burlington Ontario Charter Flights](#collapseOne1)
 
-### [About Oshawa Charter Flights](#collapseOne1)
-
-Click Above Title To Hide This Text Window
-
-### About Charter Flights To Oshawa
+Click The Above Title To Hide This Text Window
 
 ### Location
 
-Located just east of Toronto, Oshawa Ontario is a popular destination for business travel and is the home to GM Canada. You can arrange private charter flights to and from Oshawa to virtually any destination in Canada, USA and beyond. Many Oshawa travelers find it more convenient to arrange a charter flight out of Oshawa, rather than make the drive to Toronto's Pearson Airport.
+Located about half way between Hamilton and Mississauga, Burlington is headquarters for many industrial and developing technical corporations which makes it a popular destination for business travelers from across North America.
 
-### Oshawa Airport
+Burlington is situated on the northwestern shores of Lake Ontario. It is approximately 20 kilometers southwest of Hamilton and 57 kilometers southwest of Toronto Pearson International Airport.
 
-The Oshawa Airport is located on the north end of the city and features two runways the longest of which is 4,250 feet, ashphalt.
+Burlington is located adjacent to Hamilton, making it easily accessible. The distance between Hamilton and Burlington is approximately 18 kilometers, which is about a 20-minute drive. Toronto Pearson International Airport, the largest airport in Canada, is approximately 57 kilometers northeast of Burlington. The driving time between Burlington and Toronto Pearson Airport is around 45 minutes to an hour, depending on traffic conditions.
 
-Taxis and rental cars are available for ground transportation to and from the airport. Local taxi services can be contacted for pick-up or drop-off, and rental cars can be arranged through various agencies in the Oshawa area.
+### Burlington Airport
 
-Oshawa Airport
-1200 Airport Blvd
-Oshawa, ON L1J 8P5
- Phone: (905) 576-8146
+Burlington does have its own airport with a 3763 foot runway that is listed as asphalt / turf. Depending on aircraft used, weather, and number of passengers you may be able to fly wheel plane charter direct to or from Burlington.
 
-### Charter Flights From Oshawa to Detroit
+Burlington Executive Airport
+5296 Bell School Line,
+Burlington, ON L7M 0P3
 
-Since Oshawa is the head office location for GM Canada, there are frequent charter flight requirements between Oshawa and Detroit which is the World Headquarters for General Motors.
+### Two Charter Quote Options
 
-**Charter Flights From Oshawa to Ingersoll**
+Search The Canadian Air Charter Directory to see a comprehensive listing of every Wheel Plane, Float Plane and Helicopter Charter Service operating in every province and territory of Canada. Link to any charter airline website and request a quote.
 
-GM Canada operates a CAMI Assembly plant in Ingersoll, Ontario which is the location of Canada's First All Electric Assembly Team. There is no airport in Ingersoll, so generally flights from Oshawa will land in nearby London Ontario airport. It is just a 30 minute drive from the London Airport to Ingersoll.
+You can avoid the searching when you use our Charter Quote Request Service. Simply complete and submit our Charter Quote Request Form and it will forward to the charter companies in Canada who are best positioned and equipped to provide the service you request. Each company prepares a competitive quote and sends it directly to your email. You review the quotes and deal with the company of your choice.
 
-**Charter Flights From Oshawa to Kapuskasing**
+### DB Air
 
-GM Canada operates an all weather proving facility in Kapuskasing Ontario which is located 420 air miles north of Oshawa. A direct charter flight from Oshawa to Kapuskasing can take between 1.5 - 2 hours depending on the type of aircraft available for the flight.
+DB Air provides competitively priced charter flights from their base in Burlington Ontario to destinations across Ontario, Quebec and north eastern, north central USA. Contact DB Air for competitive price quote and availability.
 
----
+It is a 30 minute drive from Pearson Airport to the Burlington Executive Airport where you can connect with very cost efficient charter flight options to destinations across USA and Canada. Use our Free quote request service and receive up to 3 competitive quotes
 
----
+## Burlington Float Plane Charter Flights
 
-## Oshawa Private Jet Charter Flights
+We can arrange for an amphibious float plane to pick you up at the Burlington Executive airport and fly you direct to your cottage in the Muskoka area, the French River area, Killarney or any remote lake or river of your choosing. Contact us today for competitive pricing and availability.
 
-We promote and source quotes for private jet charters out of Oshawa to destinations across Canada and USA. When you use our Free Quote service, you will receive up to 3 competitive quotes.
+## Burlington Helicopter Charter Flights
 
-## Oshawa Wheel Plane Charter Flights
-
-Now that the Buttonville Airport has closed, there is more demand for charter flights direct to Oshawa as an alternative to flying into Pearson Airport
-
-## Oshawa Float Plane Charter Flights
-
-There are no float plane charter services based in Oshawa. If you want to fly float plane direct to the Muskoka area or lakes and rivers just outside of the Algonquin Park, contact us and we will source out competitive quotes.
-
-## Oshawa Helicopter Charter Flights
-
-There are no helicopter charter services operating out of the Oshawa Airport. We can however get you up to 3 competitive quotes for helicopter sight seeing or charter flights. Just let us know you requirements.
-
----
-
----
-
-## Oshawa Charter Quote Request Form
-
----
-
-### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
-
----
-
----
-
-Charter Flight Network Has Been Promoting The Canadian Air Charter Industry and Generating High Quality Charter Quote Requests For Charter Airlines In Every Province and Territory of Canada Since 2008
-
----
+Helicopter sight seeing flights can be arranged out of the Burlington Executive Airport. Take an air Tour the Niagara region or Lake Ontario. We can source out your request and get you competitive quotes and availability.
 
 ## Quick Links To 120 Air Charter Destinations Across Ontario
 
@@ -105,7 +69,7 @@ Charter Flight Network Has Been Promoting The Canadian Air Charter Industry and 
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Cat Lake](/canada/northern-ontario/cat-lake)
 * [Chapleau](/canada/northern-ontario/chapleau)
@@ -151,7 +115,7 @@ Charter Flight Network Has Been Promoting The Canadian Air Charter Industry and 
 * [Kitchener](/canada/southern-ontario/kitchener)
 * [Lansdowne](/canada/northern-ontario/lansdowne-house)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitouwadge](/canada/northern-ontario/manitouwadge)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
@@ -162,7 +126,7 @@ Charter Flight Network Has Been Promoting The Canadian Air Charter Industry and 
 
 * [Muskoka](/canada/southern-ontario/muskoka-lakes)
 * [Muskrat Dam](/canada/northern-ontario/muskrat-dam)
-* [Nakina](/canada/southern-ontario/nakina)
+* [Nakina](/canada/northern-ontario/nakina)
 * [Nestor Falls](/canada/northern-ontario/nestor-falls)
 * [Niagara Falls](/canada/southern-ontario/niagara-falls)
 * [North Bay](/canada/northern-ontario/north-bay)
@@ -218,16 +182,8 @@ Charter Flight Network Has Been Promoting The Canadian Air Charter Industry and 
 * [Webequie](/canada/northern-ontario/webequie)
 * [White River](/canada/northern-ontario/white-river)
 * [Wunnumin Lake](/canada/northern-ontario/wunnumin-lake)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
-Every quote request generated, forwards to the charter airlines best positioned and equipped to provide the service. Each company prepares a competitive quote and sends it directly to your email. [Discover how to link your charter airline to our distribution list](/operators)
-
-### CharterFlightNetwork.com is not a charter service provider. We do not own nor operate any aircraft. All charter quotes are generated by the charter airlines who are best positioned and equipped to provide the service requested. Should you decide to book a charter flight, you book directly with the charter airline of your choice and all flight arrangements and payments are made directly with the airline
-
----

@@ -11,17 +11,9 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Scum Lake"
 ---
-## Request A Charter Quote Directly From Any Of Our Featured Charter Airlines or Use Our Free Charter Quote Request Service an Receive Up To 3 Competitive Quotes
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
-### [Charter Flights To Scum Lake](#collapseOne1)
-
 ### Scum Lake is located in the south central interior Chilcotin region of British Columbia. The lake is known for exceptional rainbow trout fishing and fishermen come from across the country to spend a few days during the spring and summer experiencing exceptional wilderness trout fishing.
 
 There is an airport at the east end of Scum Lake, however there are no scheduled flights to this destination. Charter Flights are available to the airstrip which has a length of 3500 feet with a gravel surface. Because the runway is gravel surface, this may restrict the types of aircraft capable of operating in and out of this location. Check with your air charter service provider Float plane charter flights are also available to Scum Lake..
-
----
 
 ## Scum Lake Wheel Plane Charter Flights
 
@@ -34,20 +26,6 @@ Float plane charter service is available out of Nimpo Lake located 80 air miles 
 ## Scum Lake Helicopter Charter Flights
 
 There are two helicopter charter services based in Williams Lake which is located 70 air miles east of Scum Lake. Helicopter types include: Aerospatiale AS350 BA / Bell 206 B. Contact us for competitive quotes.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To 133 British Columbia Air Charter Destinations
 
@@ -190,9 +168,3 @@ There are two helicopter charter services based in Williams Lake which is locate
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

@@ -3,31 +3,21 @@ title: "Charter Flights To London Ontario - 3 Competitive Quotes"
 description: "Charter Flights To London Ontario.  3 Competitive Quotes For Float / Wheel Plane Helicopter Charter Flights To London"
 h1: "Charter Flights To London Receive 3 Competitive Quotes"
 legacyUrl: "/london_ontario_charter_flights.htm"
-slug: "canada/southern-ontario/london-ontario"
+slug: "canada/southern-ontario/london"
 thin: false
 quoteSubject: "London Charter"
 region: "canada"
 province: "Southern Ontario"
 provinceSlug: "southern-ontario"
-city: "London Ontario"
+city: "London"
 ---
----
-
-## London Charter Flights - With Just One Click Receive Up To 3 Competitive Charter Quotes Directly From The Charter Network Members Who Provide Wheel Plane / Float Plane or Helicopter Charter Services Throughout The London Area
-
 ### No Cost, No Obligation. Review The Quotes and Then Deal Directly With The Charter Service Of Your Choice
 
 Charter Flight Network Is Proudly Canadian Owned & Operated
 
----
-
 ### [Charter Flights To London, Ontario](#collapseOne1)
 
----
-
 Click Above Title To Hide This Text Window
-
-### About Charter Flights To London, Ontario
 
 ### Location
 
@@ -58,12 +48,6 @@ A private charter flight may be your most convenient travel option from London, 
 
 Pelee Island is 120 air miles south west of London and a direct charter flight is your quickest and most efficient way of travelling to this unique island. Whether you just want to spend the day or enjoy a couple days exploring Pelee Island, contact the charter airlines on this page for pricing and availability for a direct charter flight.
 
----
-
----
-
-## London Private Jet Charter Flights
-
 ### Private Jet Charters
 
 Private jet charters are availabe to and from London, Ontario. Fly direct to destinations throughout Canada and USA. Just let us know your requirements and we will supply you with competitive price quotes and availability.
@@ -80,33 +64,13 @@ There are no float plane charter services based in London Ontario. If you want t
 
 There are no helicopter charter services based in London, Ontario. The closest is in the Chatham-Kent region. Available helicopters include: Bell 206 L3 / Eurocopter AS355F2, AS350BA / Robinson R44II. Let us know your requirements and we will supply you with price options and availability.
 
----
-
----
-
-## London Charter Quote Request Form
-
----
-
 ### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
 
----
-
----
-
----
-
 Charter Flight Network Has Been Online Since 2008 And Has Established The Largest Network Of Wheel Plane, Float Plane & Helicopter Charter Services In Every Province & Territory of Canada Who Participate In Our Charter Quote Request Service
-
----
 
 ## More London Air Charter Options
 
 [View All Southern Ontario Chater Destinations](#BC Charter Destinations)
-
----
-
-## Charter Flights London / Ottawa
 
 ### Flight Distances From London to Destinations In The Ottawa and Region
 
@@ -121,10 +85,6 @@ You Can Depart London In The Morning / Conduct Your Business / Return Home That 
 
 [View All Southern Ontario Chater Destinations](#BC Charter Destinations)
 
----
-
-## Charter Flights Northwestern Ontario
-
 ### Flight Distances From London to Northwestern Ontario
 
 Request A No Obligation Quote For A Direct Charter Flight To Any Destination Throughout Northwestern Ontario
@@ -138,10 +98,6 @@ Request A No Obligation Quote For A Direct Charter Flight To Any Destination Thr
 
 [View All Southern Ontario Chater Destinations](#BC Charter Destinations)
 
----
-
-## Charter Flights Timmins / Northern Ontario / Western Quebec
-
 ### Flight Distances From London to Northern Ontario & Quebec
 
 * Timmins - 385 Air Miles
@@ -153,10 +109,6 @@ Request A No Obligation Quote For A Direct Charter Flight To Any Destination Thr
 [CHARTER QUOTE](/canada/northern-ontario/timmins)
 
 [View All Southern Ontario Chater Destinations](#BC Charter Destinations)
-
----
-
-## Charter Flights London to USA
 
 ### Flight Distances From London to USA Destinations
 
@@ -171,28 +123,6 @@ Direct Charter Flights From London to Multiple Destinations Througout the USA
 
 [CHARTER QUOTE](/directory/usa-charter-quote)
 
----
-
-## Ontario Air Charter Directory
-
-### Your Direct Link To Wheel Plane / Float Plane / Helicopter Charter Services Across Ontario
-
-### [ONTARIO AIR CHARTER DIRECTORY](/directory/northern-ontario-float-plane-1)
-
----
-
----
-
-## Golfer Friendly Charter Flights
-
-### Discover Direct Flights To Golf Adventure Destinations Across Canada
-
-### [Corporate Golf Getaways](/quote)
-
----
-
-## Charter Flights To Adventure
-
 ### Trophy Fishing Adventures - Choose A Province or Territory
 
 * [BRITISH COLUMBIA](/travel/charter-flights-to-adventure)
@@ -204,16 +134,6 @@ Direct Charter Flights From London to Multiple Destinations Througout the USA
 * [QUEBEC](/travel/charter-flights-to-adventure)
 * [YUKON](/travel/charter-flights-to-adventure)
 
----
-
-### [British Columbia Heli-Ski Adventures](/directory/british-columbia-adventure-destinations)
-
----
-
-### [Churchill Manitoba Polar Bear Adventures](/canada/manitoba/churchill)
-
----
-
 ## Links To Southern Ontario Air Charter Destinations
 
 [Click Here For Links To Northern and Northwestern Ontario Destinations](/canada/northern-ontario)
@@ -222,7 +142,7 @@ Direct Charter Flights From London to Multiple Destinations Througout the USA
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -242,7 +162,7 @@ Direct Charter Flights From London to Multiple Destinations Througout the USA
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/ Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -274,16 +194,10 @@ Direct Charter Flights From London to Multiple Destinations Througout the USA
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
 
----
-
 Every quote request generated, forwards to the charter airlines best positioned and equipped to provide the service. Each company prepares a competitive quote and sends it directly to your email. [Discover how to link your charter airline to our distribution list](/operators)
-
-### CharterFlightNetwork.com is not a charter service provider. We do not own nor operate any aircraft. All charter quotes are generated by the charter airlines who are best positioned and equipped to provide the service requested. Should you decide to book a charter flight, you book directly with the charter airline of your choice and all flight arrangements and payments are made directly with the airline
-
----

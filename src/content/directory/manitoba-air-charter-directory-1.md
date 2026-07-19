@@ -43,8 +43,6 @@ Click for a quick index of Manitoba air charter locations
 
 **Details:** Simply complete and submit our Charter Quote Request Form. It will forward to the charter airlines best positioned and equipped to provide the service you require.
 
-## Bird River Air Charter
-
 ## Allard Air Ltd
 
 **Allard Air Ltd**
@@ -91,8 +89,6 @@ P: 1-855-4-FLY-WOK (1-855-435-9965)
 **Aircraft Types:** Cessna 208B / Cessna 185 / Cessna 206 / Beech 100 / Beech 200 / Beech 99 / De Havilland Beaver / De Havilland Otter
 **Service Type:** Wheels / Floats
 
-## Gimli Air Charter
-
 ## Prairie Helicopters
 
 **Prairie Helicopters**
@@ -126,8 +122,6 @@ P: (204) 345-8332
 **Aircraft Types:** Bell 205A / Bell 206B / Bell 206L / Bell 407
 **Service Type:** Helicopter
 
-## Lynn Lake Air Charter
-
 ## McGavock Lake Air Service
 
 **McGavock Lake Air Service**
@@ -147,8 +141,6 @@ P: 1-855-4-FLY-WOK (1-855-435-9965)
 **Base Locations:** Flin Flon, MB / Thompson, MB / Lynn Lake, MB / Churchill, MB
 **Aircraft Types:** Cessna 208B / Cessna 185 / Cessna 206 / Beech 100 / Beech 200 / Beech 99 / De Havilland Beaver / De Havilland Otter
 **Service Type:** Wheels / Floats
-
-## Pine Falls Air Charter
 
 ## Blue Water Aviation Services
 
@@ -171,8 +163,6 @@ P: 1-855-604-0567
 **Base Locations:** Riverton, MB
 **Aircraft Types:** Cessna 180 / Cessna U206 / De Havilland Beaver
 **Service Type:** Floats
-
-## Snow Lake Air Charter
 
 ## Gogal Air Services
 
@@ -236,8 +226,6 @@ P: (204) 339-2310
 **Aircraft Types:** Pilatus PC-12 (47E) / Cessna 208
 **Service Type:** Floats / Wheels
 
-## St Theresa Point Air Charter
-
 ## MHA Enterprises
 
 **MHA Enterprises**
@@ -246,8 +234,6 @@ P: 888-299-8307
 **Base Locations:** St Theresa Point, MB
 **Aircraft Types:** Piper PA-32-300 Cherokee / Cessna 185 / De Havilland Beaver
 **Service Type:** Floats / Wheels
-
-## The Pas Air Charter
 
 ## Missinippi Airways
 
@@ -312,8 +298,6 @@ P: 1-855-4-FLY-WOK (1-855-435-9965)
 **Base Locations:** Flin Flon, MB / Thompson, MB / Lynn Lake, MB / Churchill, MB
 **Aircraft Types:** Cessna 208B / Cessna 185 / Cessna 206 / Beech 100 / Beech 200 / Beech 99 / De Havilland Beaver / De Havilland Otter
 **Service Type:** Wheels / Floats
-
-## Virden Air Charter
 
 ## Air Andrew Ltd
 
@@ -416,8 +400,6 @@ This page lists Manitoba wheel plane, float plane, and helicopter charter operat
 
 [Back to Main Canadian Menu](/directory/canadian-air-charter-directory-1)
 
-## Explore Related Directories
-
 ## [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
 Link to the main Canadian Air Charter Directory listing wheel plane, float plane and helicopter charter services in every province and territory of Canada.
@@ -439,8 +421,6 @@ When you need a float plane charter, find float plane operators across Canada in
 **Details:** Submit one quote request and it forwards to up to three air charter services best positioned and equipped to provide the aircraft and routing you require.
 
 [Request Charter Quotes](/quote)
-
-## Manitoba Air Charter Directory Page 1 FAQ
 
 ## Which Manitoba communities are covered on page 1?
 

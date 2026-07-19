@@ -7,15 +7,7 @@ thin: false
 quoteSubject: "Free Listing Request"
 region: "canada"
 ---
----
-
 [Previous](#carouselExampleIndicators1) [Next](#carouselExampleIndicators1)
-
-## --- How To Submit Changes / Corrections & Additions To Your Free Canadian Air Charter Directory Listing
-
-## Use This Form To
-
-### * Submit changes & corrections to your Free listing For Wheel Plane / Float Plane / Helicopter Charter Services * Add satellite bases * Submit changes to aircraft in your fleet * Submit changes to contact information * Submit a new listing
 
 ### Here Is What Is Included In Your Free Directory Listing
 
@@ -41,11 +33,3 @@ Use the form below to submit corrections, additions and changes of any kind to y
 If your Charter Company is not listed, we apologize. We invite your to submit your Free Listing which will go live within 24 hours of receiving your information.
 
 Use the form below to submit a new Free Listing
-
-### Complete and Submit The Following Form To Request Changes, Additions to An Existing Listing or To Submit an Entirely New Listing
-
-### The Following 6 Details Are For Our Records and Is Not Displayed In Your Listing:
-
----
-
----

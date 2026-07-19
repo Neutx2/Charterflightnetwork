@@ -8,8 +8,6 @@ thin: false
 quoteSubject: "Puerto Rico Charters"
 region: "global"
 ---
-## Featured St Lucia Sailboat & Yacht Adventures:
-
 ### [Island Windjammers](https://www.islandwindjammers.com/)
 
 Island Windjammers offers unique sailing adventures aboard traditional tall ships and schooners. Their cruises provide a mix of relaxation, exploration, and adventure, with itineraries that include visits to secluded beaches, snorkeling spots, and charming Caribbean ports. Guests can sail to destinations like Saint Lucia, Grenada, and the Grenadines, experiencing the region's natural beauty and rich maritime history.
@@ -19,8 +17,6 @@ Island Windjammers offers unique sailing adventures aboard traditional tall ship
 These yacht charter services in St. Lucia offer various sailing experiences, from luxury crewed charters to adventurous bareboat rentals, allowing guests to tailor their Caribbean sailing vacation to their preferences and interests.
 
 Island Windjammers offers exciting and unique cruise expereinces for a variety of groups of 8 / 10 and 26 guests. Groups can book six, ten, and twelve-night sailings aboard our classic clipper ship Vela, schooner Diamant, and sailing yacht Lyra!
-
-## Other St Lucia Sailboat & Yacht Charters
 
 ### Dream Yacht Charter
 
@@ -41,8 +37,6 @@ Sunsail provides a range of sailing options, including bareboat charters and cre
 **Boat Types:**Catamarans, monohulls, luxury crewed yachts.
 Moorings offers sailing vacations tailored to guests' preferences, with options for bareboat charters or crewed charters. Their fleet features spacious and well-appointed vessels suitable for exploring the Caribbean islands. Guests can enjoy sailing to destinations such as Grenada, Saint Vincent, and the Grenadines, with opportunities for snorkeling, diving, and beach excursions along the way.
 
-## Video Links To Featured St Lucia Resorts / Activities / Adventures
-
 ### [Video: Featured St Lucia Golf Course](/travel/st-lucia-golf)
 
 Plus Listings and Links to golf courses throughout St Lucia
@@ -54,12 +48,6 @@ Plus listings and links to numerous St Lucia charter fishing boat services
 ### [Video: Featured St Lucia Resorts](/travel/st-lucia-resorts)
 
 Plus listings and links to popular St Lucia Resorts and Hotels
-
----
-
----
-
----
 
 ## Links To Caribbean Air Charter Destinations
 
@@ -93,11 +81,3 @@ Seach Charter Flights To Any Of The Following Caribbean Destinations
 * [Virgin Islands (British)](/caribbean/british-virgin-islands)
 * [Virgin Islands (U.S.)](/caribbean/us-virgin-islands)
 * [Trinidad & Tobago](/caribbean/trinidad-tobago)
-
----
-
----
-
----
-
----

@@ -10,13 +10,7 @@ province: "Quebec"
 provinceSlug: "quebec"
 city: "St Jean Richelieu"
 ---
----
-
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
-
----
-
-### Flights To Jean Richelieu
 
 ### Location
 
@@ -31,10 +25,6 @@ The town has a busy little airport and it is great for visitors who don't want t
 With just one click, you can receive up to 3 competitive charter flight quotes directly from the airlines who provide service throughout Jean Richelieu .
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
-
----
-
----
 
 ## Quick Links To 86 Air Charter Destinations Across Quebec
 
@@ -127,7 +117,3 @@ With just one click, you can receive up to 3 competitive charter flight quotes d
 * [Val-d`Or](/canada/quebec/val-d-or)
 * [Waskaganish](/canada/quebec/waskaganish)
 * [Wemindji](/canada/quebec/wemindji)
-
----
-
----

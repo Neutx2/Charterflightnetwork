@@ -24,8 +24,6 @@ Air Charter Listings For Every Province & Territory Throughout Canada
 
 Mining & Exploration Industry Edition
 
-## Viewers Begin Their Search By Clicking Any Province or Territory On The Map or On The List Below The Map.
-
 ## Listing Air Charter Services In Every Canadian Province and Territory
 
 Click The Following Links For An Interactive Example Of How Clients Locate Your Directory Listing
@@ -33,30 +31,18 @@ Click The Following Links For An Interactive Example Of How Clients Locate Your 
 * Clients Start Their Search By First Clicking Their Desired Province Or Territory
 * We Use [Manitoba](/directory/canadian-air-charter-directory-3) For This Example
 
----
-
 ## A Digital e-publication distributed by email throughout the entire Canadian Mining Industry
-
----
 
 Air Charter Listings For Every Province & Territory Throughout Canada
 
 Mining & Exploration Industry Edition
 
-## Viewers Begin Their Search By Clicking Any Province or Territory On The Map or On The List Below The Map.
-
 ## Listing Air Charter Services In Every Canadian Province and Territory
 
 Click The Following Links For An Interactive Example Of How Clients Locate Your Directory Listing
 
 * Clients Start Their Search By First Clicking Their Desired Province Or Territory
 * We Use [Manitoba](/directory/canadian-air-charter-directory-3) For This Example
-
----
-
-## A Digital e-publication distributed by email throughout the entire Canadian Mining Industry
-
----
 
 ## Here Is How To Find Your Best Price For All Pickle Lake Area Charter Flights - Float Planes / Wheel Planes Or Helicopter Charters
 
@@ -65,8 +51,6 @@ Charter Flight Network is not an air charter service, but rather respresents a n
 Search our Air Charter Directory in **Option #1** below. Determine your most convenient departure airport and then contact the air charter service closest to that airport listed in our directory and request a no obligation charter quote.
 
 Or Choose **Option #2** to save time and receive upt to 3 competitive quotes. Simply complete and submit our no obligation charter quote request form. You will receive competitive quotes directly from as many as 3 charter airlines best positioned to provide your flight service.
-
----
 
 More About The Canadian Air Charter Directory
 
@@ -81,9 +65,6 @@ More About The Canadian Air Charter Directory
 [OUR AUDIENCE / YOUR TARGET MARKET](/directory/canadian-air-charter-directory-audience)
 
 [MAXIMIZE EXPOSURE WITH PREMIUM LISTING](/directory/canadian-air-charter-directory-premium)
-
-1100 Memorial Avenue
-Suite
 
 Thunder Bay, Ontario
 

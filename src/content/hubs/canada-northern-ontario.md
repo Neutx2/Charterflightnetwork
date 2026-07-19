@@ -18,8 +18,6 @@ While major hubs such as Thunder Bay and Sudbury have scheduled airline service,
 
 For fly-in fishing, hunting, canoe trips and backcountry adventures, charter flights eliminate days of driving and boat travel. Guests can arrive in the morning, transfer directly to a float plane or wheel-plane charter, and be at their lodge or outpost camp the same day. For business and project work, charter aviation makes same-day visits practical to multiple communities and sites that would otherwise require overnight stays.
 
-## Major Charter-Friendly Airports in Northern Ontario
-
 ## Thunder Bay International Airport (YQT)
 
 Thunder Bay International Airport is a major aviation hub for northwestern Ontario. Its long paved runways and modern terminal support regional airliners, business jets, turboprops and cargo aircraft. Several charter operators are based in and around Thunder Bay, providing wheel-plane, float plane and helicopter services to communities along Lake Superior, inland lakes, northern mining projects and remote First Nation communities.
@@ -56,29 +54,7 @@ Helicopters are widely used for resource exploration, hydro line patrols, enviro
 
 The following Northern Ontario destinations have dedicated Charter Flight Network pages with more detailed information on local airports and charter operators serving each community:
 
-* [Charter Flights to Thunder Bay, Ontario](/canada/northern-ontario/thunder-bay)
-* [Charter Flights to Sudbury, Ontario](/canada/northern-ontario/sudbury)
-* [Charter Flights to Timmins, Ontario](/canada/northern-ontario/timmins)
-* [Charter Flights to Sault Ste Marie, Ontario](/canada/northern-ontario/sault-ste-marie)
-* [Charter Flights to Red Lake, Ontario](/canada/northern-ontario/red-lake)
-* [Charter Flights to Pickle Lake, Ontario](/canada/northern-ontario/pickle-lake)
-* [Charter Flights to Moosonee, Ontario](/canada/northern-ontario/moosonee)
-* [Charter Flights to Attawapiskat, Ontario](/canada/northern-ontario/attawapiskat)
-* [Charter Flights to Big Trout Lake, Ontario](/canada/northern-ontario/big-trout-lake)
-* [Charter Flights to Fort Severn, Ontario](/canada/northern-ontario/fort-severn)
-* [Charter Flights to Webequie, Ontario](/canada/northern-ontario/webequie)
-* [Charter Flights to Wunnumin Lake, Ontario](/canada/northern-ontario/wunnumin-lake)
-
-As additional Northern Ontario community pages are completed, they can be added to this list so that this hub becomes a complete index of destinations across the region.
-
-## Book a Charter Flight Anywhere in Northern Ontario
-
 ## Option #2. With Just One Click, Receive Competitive Quotes From All The Charter Airlines Listed On This Page.
-
-their needs. When you complete and submit the form below, we forward your inquiry to multiple charter airlines
-who are best positioned and equipped to provide the service you request. Each airline prepares and submits
-a competitive quote. If a quote meets your needs and budget, you deal directly with the airline of your choice
-to finalize all details, scheduling, and payment.
 
 **\*Privacy:** we don't share your name or contact info with airlines. Your request is assigned a unique ID;
 airlines submit quotes for that ID and we forward them to you.
@@ -86,12 +62,6 @@ airlines submit quotes for that ID and we forward them to you.
 ## Charter Flights to Neighbouring Regions
 
 Many travellers combine Northern Ontario destinations with trips to Manitoba, Southern Ontario and Nunavut. Continue planning your travel with these regional pages:
-
-* [Charter Flights in Southern Ontario](/canada/southern-ontario)
-* [Charter Flights in Manitoba](/canada/manitoba)
-* [Charter Flights in Nunavut](/canada/nunavut)
-
-## Northern Ontario Charter Flight FAQ
 
 ## How far in advance should I book a Northern Ontario charter flight?
 

@@ -192,8 +192,6 @@ P: [905-505-2151](tel:+19055052151)
 
 [Back To Main Canadian Menu](index.html)
 
-P: [807-472-1955](tel:+18074721955)
-
 Copyright © Charter Flight Network. All rights reserved.
 
 ---

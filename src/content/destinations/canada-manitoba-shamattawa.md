@@ -15,8 +15,6 @@ Shamattawa is a remote northeastern Manitoba community where the Echoing River m
 
 [Request Charter Quote](#QuoteForm)
 
----
-
 ## *Manitoba Charter Flight Links*
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
@@ -26,8 +24,6 @@ Shamattawa is a remote northeastern Manitoba community where the Echoing River m
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 
 [Charter Flights St Andrews Airport](/canada/manitoba/st-andrews)
-
-## Flights to Shamattawa
 
 ## **About Shamattawa:**
 
@@ -62,8 +58,6 @@ Shamattawa Airport is directly beside the community and provides the main year-r
 
 * Shamattawa appeals to travelers interested in remote northern rivers, wilderness scenery, boating, fishing, hunting, and community visits. It is more of a practical northern destination than a conventional tourism centre.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 Wheel plane charters are the main practical option for Shamattawa, using northern turboprop and utility aircraft suited to remote gravel runway operations and year-round access needs.
@@ -79,12 +73,6 @@ Float plane charters can be useful for surrounding waterways and remote outpost 
 Helicopter charters can support remote site access, medical movements, community logistics, and specialized northern trips where flexible landing capability matters more than airstrip use.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to Shamattawa or Any Destination Throughout Canada or the USA
-
-## Shamattawa Charter Flight FAQ
 
 ## **What airport serves Shamattawa, Manitoba?**
 
@@ -215,7 +203,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

@@ -14,10 +14,6 @@ Charter Flights To Fox Harbour, Nova Scotia
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
 ### [Charter Flights To Fox Harbour](#collapseOne1)
 
 About Fox Harbour Nova Scotia - Wheel Plane Access
@@ -32,15 +28,11 @@ The nearest airport to Fox Harbour is the Halifax Stanfield International Airpor
 
 Fox Harbour is a coastal community located on the Northumberland Shore of Nova Scotia, Canada, nestled along the shores of the Northumberland Strait. It is situated in Cumberland County, known for its scenic coastal landscapes and rural charm..
 
-## Wheel Plane Charter Flights
-
 ### Atlantic Charters
 
 You can take a wheel plane charter flight direct to Halifax and then either drive or take a helicopter charter to Fox Harbour. Contact us for a quote.
 
 If you are a golfer, headed for the nearby Fox Harb'r Golf Resort, we can arrange a direct charter flight tothe resort's private airstrip which will accommodate jet and turbo prop aircraft.
-
----
 
 ## Quick Links To Over A Dozen Air Charter Destinations Across Nova Scotia
 
@@ -62,7 +54,3 @@ If you are a golfer, headed for the nearby Fox Harb'r Golf Resort, we can arrang
 * [Trenton](/canada/nova-scotia/trenton)
 * [Waterville](/canada/nova-scotia/waterville)
 * [Yarmouth](/canada/nova-scotia/yarmouth)
-
----
-
----

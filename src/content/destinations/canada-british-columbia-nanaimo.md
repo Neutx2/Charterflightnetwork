@@ -11,18 +11,6 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Nanaimo"
 ---
----
-
-## Request A Charter Quote Directly From Any Of Our Featured Charter Airlines or Use Our Free Charter Quote Request Service an Receive Up To 3 Competitive Quotes
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require.
-
-### [Charter Flights To Nanaimo](#collapseOne1)
-
-## Links To Nanaimo Air Charter Options
-
-## About Nanaimo
-
 ### Location Of Nanaimo
 
 Visitors can fly wheel plane or float plane charter flights directly to Nanaimo BC which is located on the eastern coastal region of Vancouver Island. If you are flying wheel plane charter, you will arrive at the Nanaimo Airport located 8 miles southeast of the city.
@@ -30,10 +18,6 @@ Visitors can fly wheel plane or float plane charter flights directly to Nanaimo 
 The closest wheel plane charter service is based just south of Nanaimo at the Victoria airport in Sydney. Here you will find VIH Execujet who operate Cessna Caravan Amphibious / Challenger 604 / HondaJet Elite as well as helicopter charters with a Bell 407
 
 [View All British Columbia Chater Destinations](#BC Charter Destinations)
-
----
-
-## Charter Flights To Nanaimo From Abbotsford
 
 ### Charter Flights From Abbotsford
 
@@ -43,10 +27,6 @@ Wheel plane charter flights are available from the Abbotsford airport to the Nan
 
 [View All British Columbia Chater Destinations](#BC Charter Destinations)
 
----
-
-## Charter Flights From Calgary to Nanaimo
-
 ### Charter Flights From Calgary
 
 Calgary is 465 air miles east of Calgary with an average flying time of 2 - 2.5 hours depending on the type of aircraft. You can arrange to fly turbo prop or jet aircraft from Toronto to Nanaimo. Calgary charter services operate aircraft with seating capacity of 1 - 100 passengers.
@@ -54,10 +34,6 @@ Calgary is 465 air miles east of Calgary with an average flying time of 2 - 2.5 
 [CHARTER QUOTE](/quote)
 
 [View All British Columbia Chater Destinations](#BC Charter Destinations)
-
----
-
-## Charter Flights To Nanaimo From Campbell River
 
 ### Charter Flights From Campbell River
 
@@ -67,8 +43,6 @@ Campbell River is located 80 air miles north of Nanaimo. Average flight time is 
 
 [View All British Columbia Chater Destinations](#BC Charter Destinations)
 
-## Charter Flights To Nanaimo From Kelowna
-
 ### Charter Flights From Kelowna
 
 Kelowna is 215 air miles east of Nanaimo. Although both wheel plane and float plane charter aircraft are available for this route, your quickest and most practical option would be using a wheel plane. Single engine and twin engine aircraft are available.
@@ -76,12 +50,6 @@ Kelowna is 215 air miles east of Nanaimo. Although both wheel plane and float pl
 [CHARTER QUOTE](/quote)
 
 [View All British Columbia Chater Destinations](#BC Charter Destinations)
-
----
-
----
-
-## Charter Flights From Vancouver To Nanaimo
 
 ### Charter Flights From Vancouver To Nanaimo
 
@@ -91,21 +59,11 @@ Its just a short 35 air miles from Nanaimo to Vancouver. Float plane charters op
 
 [View All British Columbia Chater Destinations](#BC Charter Destinations)
 
----
-
-## USA Charter Flights To Nanaimo
-
 ### Nanaimo Charter Flights From USA
 
 The primary Nanaimo Harbour Water Airport is classified as an airport of entry, so if you are flying from the USA you can fly direct to this destination and clear Canadian Customs with prior notice provided. Both wheel plane and float plane charter flights are available from Seattle direct to Nanaimo. For 2 - 3 competitive quotes feel free to use our Charter Quote Request Service.
 
 [View All British Columbia Chater Destinations](#BC Charter Destinations)
-
----
-
----
-
-## Nanaimo Wheel Plane Charter Flights
 
 ### Liard Air
 
@@ -121,8 +79,6 @@ If you are planning a trip to Nanaimo, contact BC Air for a no obligation charte
 
 We make it easy and convenient to receive up to 3 competitive wheel plane charter quotes for flights to or from airports across BC, throughout Canada and into the USA
 
-## Nanaimo Float Plane Charter Flights
-
 ### Corilair Charters Limited
 
 Campbell River, BC V9W 5C5
@@ -136,20 +92,6 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 ## Nanaimo Helicopter Charter Flights
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -295,10 +237,4 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
 
----
-
 Every quote request generated, forwards to the charter airlines best positioned and equipped to provide the service. Each company prepares a competitive quote and sends it directly to your email. [Discover how to link your charter airline to our distribution list](/operators)
-
-### CharterFlightNetwork.com is not a charter service provider. We do not own nor operate any aircraft. All charter quotes are generated by the charter airlines who are best positioned and equipped to provide the service requested. Should you decide to book a charter flight, you book directly with the charter airline of your choice and all flight arrangements and payments are made directly with the airline.
-
----

@@ -18,7 +18,6 @@ Williams Lake Airport
 Visitors to the town of Williams Lake can take a private charter flight direct to the Williams Lake Airport located about 5 miles northwest of town. The airport has 7000 foot asphalt runway, making it accessible to a wide range of charter aircraft including high performance turbine aircraft and jets.
 Lodges, Resorts, Hotels
 This town of just under 11000 residents has plenty to offer those who come here for business or vacation. If you are flying into Williams Lake and need accommodations, you will find name brand hotels such as the Ramada Inn, Best Western, Super 8, as well as independent hotels and motels such as the Sandman Hotel, Coast Fraser Inn and the Drummond Lodge.
-If you need helicopter charter services in the region, contact Frontline Helicopters operating Bell 206 B / Aerospatiale AS350 B2
 
 ---
 

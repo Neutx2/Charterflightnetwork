@@ -74,8 +74,6 @@ Click for a quick index of British Columbia helicopter charter locations
 **Details:** Submit one charter quote request and it will forward to the helicopter charter services best positioned and equipped to provide your required British Columbia helicopter charter service.
 Each company prepares a competitive quote for your review. If you receive an acceptable quote, you finalize scheduling and payment directly with the charter airline of your choice.
 
-## 108 Mile Ranch Helicopter Air Charter
-
 ## Sarvair Aviation Ltd
 
 4807 Telqua Drive, 108 Mile Ranch, BC V0K 2Z0
@@ -164,8 +162,6 @@ P: [(250) 982-2181](tel:+12509822181)
 
 [Website](https://wcheli.ca/)
 
-## Campbell River Helicopter Air Charter
-
 ## 49 North Helicopters Ltd
 
 Campbell River, BC V9H 0E2
@@ -181,8 +177,6 @@ P: Phone not listed
 **Base Locations:** Campbell River, BC
 **Aircraft Types:** Eurocopter AS350 B2
 **Service Type:** Helicopter
-
-## Chilliwack Helicopter Air Charter
 
 ## Librico Helicopters Ltd
 
@@ -212,8 +206,6 @@ P: Phone not listed
 
 [Back to Main Canadian Menu](/directory/canadian-air-charter-directory-1)
 
-## Explore Related Directories
-
 ## [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
 Link to the main Canadian Air Charter Directory listing wheel plane, float plane and helicopter charter services in every province and territory of Canada.
@@ -235,8 +227,6 @@ Find float plane charter airlines in every province and territory and locate the
 **Details:** Submit your charter quote request through our free quote request service. It forwards to up to 3 air charter services best positioned and equipped to provide the service you require.
 
 [Request a Quote](/quote)
-
-## British Columbia Helicopter Charter Directory FAQ
 
 ## Which British Columbia helicopter locations are covered on Page 1?
 

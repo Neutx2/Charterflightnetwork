@@ -14,17 +14,9 @@ Charter Flights To Centralia, Ontario
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
 ### [Charter Flights To Centralia](#collapseOne1)
 
 Centralia is located less than an hours drive north of London and about half way between Grand Bend on Lake Huron to the west and Stratford to the east. The region is considered as prime agricultural land which is the main industry of the area. You can fly private charter flights direct to the Centralia / James T Field Memorial Airport however there may not be ground transportation and other passengers services readily available. Most business travelers would fly to London Airport and take a rental car from that point.
-
-## Centralia Air Charter Options
-
-## Charter Flights From Centralia
 
 ### Charter Flights
 
@@ -33,10 +25,6 @@ Depending on the size of aircraft you require - the number of passengers, the cl
 Click the Air Charter Quote Button and we will source your request out to the charter services best positioned and equipped to provide the service you require.
 
 [AIR CHARTER QUOTE](/quote)
-
----
-
----
 
 ## Centralia Wheel Plane Charter Flights
 
@@ -50,22 +38,6 @@ There are no float plane charter airlines based in nor around the Centralia / Ja
 
 The closest helicopter charter service is based in Grand Bend. Let us know your details and we will supply price and availability options for your review.
 
----
-
----
-
-## Centralia Charter Quote Request Form
-
----
-
-### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
-
----
-
----
-
----
-
 ## Quick Links To Over 50 Air Charter Destinations Across Southern Ontario
 
 [Click Here For Links To Northern and Northwestern Ontario Destinations](/canada/northern-ontario)
@@ -74,7 +46,7 @@ The closest helicopter charter service is based in Grand Bend. Let us know your 
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -94,7 +66,7 @@ The closest helicopter charter service is based in Grand Bend. Let us know your 
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -126,15 +98,11 @@ The closest helicopter charter service is based in Grand Bend. Let us know your 
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
----
 
 <div class="card mb-3" style="max-width: 750px;">
 <div class="row no-gutters">

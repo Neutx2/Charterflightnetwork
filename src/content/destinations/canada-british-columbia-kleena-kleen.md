@@ -11,15 +11,9 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Kleena Kleen"
 ---
-## Request A Charter Quote Directly From Any Of Our Featured Charter Airlines or Use Our Free Charter Quote Request Service an Receive Up To 3 Competitive Quotes
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
 ### [Charter Flights To Kleena Kleen](#collapseOne1)
 
 Direct Charter Flights to Kleena Kleene located about 210 air miles north west of Kamloops and just over 200 air miles northeast of Vancouver. Depending on the type of aircraft used, you can book direct charter flights from most airports across BC and Canada to three choices of airstrips in the Kleena Kleene area. There is the Puntzi Mountain Airport located east of Kleena Kleene / there is the Chilko Lake airstrip at Tsylos Park Lodge located south of Kleena Kleene / and the Anahim Lake Airport located north of Kleena Kleene.
-
----
 
 ## Kleena Kleene Wheel Plane Charter Flights
 
@@ -32,20 +26,6 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 ## Kleena Kleene Helicopter Charter Flights
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -190,9 +170,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

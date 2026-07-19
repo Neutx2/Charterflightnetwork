@@ -14,14 +14,6 @@ Charter Flights To Peterborough , Ontario
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Peterborough](#collapseOne1)
-
-### About Charter Flights To Peterborough
-
 ### Location
 
 Fly private charter flights direct to Peterborough which is located on Hwy 115 north east of Oshawa and offers the business traveler a great selection of accommodations, restaurants along with recreational activities such as golf and water sports.
@@ -41,8 +33,6 @@ Peterborough Airport
 Peterborough, ON K9J 0E7
  Phone: (705) 743-6708
 
----
-
 ## Peterborough Wheel Plane Charter Flights
 
 We can arrange your private charter flight direct to the Peterborough airport from dozens of departure points such as Toronto, Montreal and even USA airports. Contact us for all Peterborough charter flights and we will supply pricing options and availability.
@@ -55,20 +45,6 @@ If you wanted to fly float plane to your cottage in the Muskoka area or beyond, 
 
 When you require helicopter charter services in the Peterborough area, send us the details of your requirements and we will source it out and then supply you with pricing options and availability.
 
----
-
-## Peterborough Charter Quote Request Form
-
----
-
-### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
-
----
-
----
-
----
-
 ## Quick Links To Over 50 Air Charter Destinations Across Southern Ontario
 
 [Click Here For Links To Northern and Northwestern Ontario Destinations](/canada/northern-ontario)
@@ -77,7 +53,7 @@ When you require helicopter charter services in the Peterborough area, send us t
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -97,7 +73,7 @@ When you require helicopter charter services in the Peterborough area, send us t
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -129,12 +105,8 @@ When you require helicopter charter services in the Peterborough area, send us t
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
----

@@ -7,35 +7,18 @@ slug: "flights/minneapolis-to-red-lake-ontario"
 thin: false
 quoteSubject: "Minneapolis To Red Lake"
 region: "global"
-faqs: [{"q": "Where do we clear Canadian customs on a Minneapolis → Red Lake charter?", "a": "Most flights clear at Fort Frances (YAG) or Thunder Bay (YQT), then continue to Red Lake as a domestic leg."}, {"q": "How long is the flight from Minneapolis to Red Lake?", "a": "Depends on aircraft and winds. Jet: ~1h15m via customs stop; Turboprop: ~1h45m via customs stop."}, {"q": "Can we connect to a floatplane for a remote lodge?", "a": "Yes—after clearing customs, connect to floatplanes at Red Lake, Fort Frances, or Thunder Bay to reach outpost camps."}, {"q": "What documents do U.S. passengers need?", "a": "Valid passports for all passengers; other requirements depend on nationality (eTA/visa where applicable). --- ---"}]
 ---
----
-
 ## Fly Scheduled Airlines to Minneapolis (MSP), Then Connect With a Private Minneapolis Charter Flight to Red Lake Ontario (YRL)
 
 Flying from the United States to Red Lake, Ontario has never been more convenient. Whether you're heading north for an unforgettable fishing adventure at a fully modern fishing lodge or connecting to one of the many remote outpost camps beyond Red Lake, Charter Flight Network promotes travel solutions that makes the journey simple, fast, and seamless.
-
----
-
----
-
-## Flights From Minneapolis to Red Lake, Ontario
-
----
-
-## Minneapolis / St Paul Area Airports
 
 ### Fly Scheduled Airlines To Minneapolis From Cities Across USA and Beyond
 
 Travelers from across the United States can easily reach Minneapolis–St. Paul International Airport (MSP) on nonstop scheduled flights from dozens of major U.S. cities — including Chicago, Dallas, Denver, Atlanta, Phoenix, and Los Angeles. Minneapolis serves as one of the most efficient gateways to northwestern Ontario for anglers, outdoor adventurers, and groups flying to Canada's premier fishing destinations.
 
----
-
 ### Seamless Charter Flight Connections
 
 Upon arrival in Minneapolis, passengers collect their luggage at the main airline terminal and are greeted by a pre-arranged ground shuttle transfer that takes passengers direct to the nearby private air charter terminal, just minutes away, ensuring a quick and stress-free connection to your Canadian charter flight from Minneapolis to Red Lake.
-
----
 
 ### Clearing Canadian Customs
 
@@ -43,8 +26,6 @@ Because Red Lake does not have a Canada Border Services Agency (CBSA) customs of
 
 * **Fort Frances, Ontario** is directly across the border from International Falls, Minnesota, making it a convenient customs stop for smaller aircraft. Upon arrival, passengers disembark briefly to meet Canadian Customs officials, present passports, and declare any goods. Clearance is typically completed in 10–15 minutes, after which the aircraft departs immediately for Red Lake — a short 45-minute hop north.
 * **Thunder Bay International Airport** provides full customs and FBO facilities suitable for both jets and turboprops. Crews pre-file passenger manifests with CBSA, and inspections are typically quick and efficient. Once cleared, the onward flight to Red Lake takes about one hour.
-
-## Hundreds Of Remote Lakes North Of Red Lake Accessible Only By Float Plane
 
 ### Red Lake Airport
 
@@ -54,34 +35,22 @@ The Red Lake Airport is located 3.5 miles north of town and features a 5,000 foo
 
 For many travelers, the Red Lake region is only the beginning. Once in Canada, guests can board a floatplane charter directly from Red Lake, Fort Frances, or Thunder Bay to reach the countless lakes and lodges scattered across northwestern Ontario's boreal wilderness. Operators flying De Havilland Beavers, Otters, and Cessna Caravans offer daily service to hundreds of remote fishing destinations. Flights typically range from 20 minutes to one hour, depending on the lodge location.
 
----
-
 ### Guests Can Also Fly Direct To Red Lake From:
 
 * [Thunder Bay, Ontario](/canada/northern-ontario/thunder-bay)
-* [Winnipeg, Manitoba](/canada/northern-ontario/winnipeg-red-lake)
-
----
-
-## Charter Flight Network Offers 2 Charter Quote Request Options
+* [Winnipeg, Manitoba](/flights/winnipeg-to-red-lake)
 
 ### Option #1: Request A Quote Directly From The Charter Airlines That Provide The Service
 
 If you would like to receive a quote from one of the airlines listed below, choose the airline, then click the "REQUEST QUOTE" button. Your request will forward directly to that airline. They will prepare a quote and submit for your review
 
----
-
 ### Superior Airways - Charter Flights From USA To Canadian Adventure Destinations
 
 Superior Airways, based in Red Lake, Ontario, offers fast and economical charter service from Minneapolis to Red Lake aboard its reliable nine-passenger King Air turboprop. The aircraft's impressive speed and range make it ideal for small groups and anglers traveling north.
 
----
-
 ### Superior Airways - Float Plane Charters Out of Red Lake
 
 Superior Airways offers a diverse fleet of wheel planes and float planes. Upon your arrival in Red Lake, you will enjoy a seamless transition from your wheel plane charter from Minneapolis, to your float plane charter direct to the fishing lodge or remote outpost camp of your choice
-
----
 
 ### Excellent Air - Red Lake Float Plane Charters
 
@@ -93,10 +62,6 @@ We're not an airline nor a charter broker. We specialize in finding clients the 
 We source each inquiry to the charter airlines that are best positioned and equipped to provide your flight. Each airline prepares and submits a competitive quote.
 
 **\*Privacy:** we don't share your name or contact info with airlines. Your request is assigned a unique ID; airlines submit quotes for that ID and we forward them to you.
-
-## Submit Form or Phone Us (807) 472-1955
-
----
 
 ## Quick Links To 70 Air Charter Destinations Across Northern and Northwestern Ontario
 
@@ -143,7 +108,7 @@ We source each inquiry to the charter airlines that are best positioned and equi
 * [Marathon](/canada/northern-ontario/marathon)
 * [Moosonee](/canada/northern-ontario/moosonee)
 * [Muskrat Dam](/canada/northern-ontario/muskrat-dam)
-* [Nakina](/canada/southern-ontario/nakina)
+* [Nakina](/canada/northern-ontario/nakina)
 * [Nestor Falls](/canada/northern-ontario/nestor-falls)
 * [North Bay](/canada/northern-ontario/north-bay)
 * [Ogoki Post](/canada/northern-ontario/ogoki-post)
@@ -176,8 +141,6 @@ We source each inquiry to the charter airlines that are best positioned and equi
 * [White River](/canada/northern-ontario/white-river)
 * [Wunnumin Lake](/canada/northern-ontario/wunnumin-lake)
 
-## Minneapolis ⇄ Red Lake — Frequently Asked Questions
-
 ### Where do we clear Canadian customs on a Minneapolis → Red Lake charter?
 
 Most flights clear at **Fort Frances (YAG)** or **Thunder Bay (YQT)**, then continue to Red Lake as a domestic leg.
@@ -193,7 +156,3 @@ Yes—after clearing customs, connect to floatplanes at Red Lake, Fort Frances, 
 ### What documents do U.S. passengers need?
 
 Valid passports for all passengers; other requirements depend on nationality (eTA/visa where applicable).
-
----
-
----

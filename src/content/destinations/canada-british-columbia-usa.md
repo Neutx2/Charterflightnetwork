@@ -10,17 +10,11 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Usa"
 ---
----
-
----
-
 Do you need a quick flight between any British Columbia Departure Point and any Destination throughout the USA?
 
 Contact any of the air charter services listed below for a no obligation charter quote.
 
 Or use our no obligation Charter Quote Request Service and receive 2 - 3 competitive quotes.
-
----
 
 Links To 133 British Columbia Air Charter Destinations
 
@@ -163,16 +157,6 @@ Links To 133 British Columbia Air Charter Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
-1100 Memorial Avenue
-Suite 424
-Thunder Bay, Ontario
-Email: phil@charterflightnetwork.com
-
-## Other
-
-* [Marketing Partners](/operators/marketing-partners)
-* [Submit Your Directory Listing](/directory/canadian-directory-three-options)
 
 ## Air Charter Listings
 

@@ -75,8 +75,6 @@ Click for a quick index of British Columbia helicopter charter locations
 **Details:** Submit one charter quote request and it will forward to the helicopter charter services best positioned and equipped to provide your required British Columbia helicopter charter service.
 Each company prepares a competitive quote for your review. If you receive an acceptable quote, you finalize scheduling and payment directly with the charter airline of your choice.
 
-## Coldstream Helicopter Air Charter
-
 ## Mountain Air Helicopters Ltd
 
 Coldstream, BC V1B 3B9
@@ -84,8 +82,6 @@ P: Phone not listed
 **Base Locations:** Coldstream, BC
 **Aircraft Types:** Bell 212
 **Service Type:** Helicopter
-
-## Cranbrook Helicopter Air Charter
 
 ## Bighorn Helicopters Inc
 
@@ -115,8 +111,6 @@ P: [(604) 940-0202](tel:+16049400202)
 **Base Locations:** Delta, BC
 **Aircraft Types:** Bell 212
 **Service Type:** Helicopter
-
-## Fort Nelson Helicopter Air Charter
 
 ## Qwest Helicopters (2020) Ltd
 
@@ -154,8 +148,6 @@ P: Phone not listed
 
 [Website](https://www.baileyhelicopters.com/)
 
-## Hope Helicopter Air Charter
-
 ## Valley Helicopters Ltd
 
 Hope, BC V0X 1L2
@@ -164,8 +156,6 @@ P: [(604) 869-2131](tel:+16048692131)
 **Aircraft Types:** Bell 206 B / Bell 206 L / Bell 407
 **Service Type:** Helicopter
 
-## Kamloops Helicopter Air Charter
-
 ## Summit Helicopters Ltd
 
 Kamloops, BC V2B 7W8
@@ -173,8 +163,6 @@ P: [(250) 376-7790](tel:+12503767790)
 **Base Locations:** Kamloops, BC
 **Aircraft Types:** Bell 206 B / Bell 206 L / Bell 407 / Bell 412 EP
 **Service Type:** Helicopter
-
-## Kelowna Helicopter Air Charter
 
 ## Alpine Helicopters Inc
 
@@ -232,8 +220,6 @@ P: [(250) 769-9093](tel:+12507699093)
 **Aircraft Types:** Bell 212 / Bell 412 EP
 **Service Type:** Helicopter
 
-## Naramata Helicopter Air Charter
-
 ## Finnair Ltd
 
 Naramata, BC V0H 1N0
@@ -253,8 +239,6 @@ P: [250-351-4289](tel:+12503514289)
 [Page 4](/directory/bc-helicopter-directory-4)
 
 [Back to Main Canadian Menu](/directory/canadian-air-charter-directory-1)
-
-## Explore Related Directories
 
 ## [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
@@ -277,8 +261,6 @@ Find float plane charter airlines in every province and territory and locate the
 **Details:** Submit your charter quote request through our free quote request service. It forwards to up to 3 air charter services best positioned and equipped to provide the service you require.
 
 [Request a Quote](/quote)
-
-## British Columbia Helicopter Charter Directory FAQ
 
 ## Which British Columbia helicopter locations are covered on Page 2?
 

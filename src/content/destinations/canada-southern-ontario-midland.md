@@ -14,27 +14,15 @@ Charter Flights To Midland, Ontario
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
 ### [Charter Flights To Charter Flights To Midland](#collapseOne1)
 
 Midland is located at the southern end of Georgian Bay and north of Wasaga Beach and just a few miles west of Hwy 400. It offers a great location for corporate get togethers with great accommodations and activities including golf. You can fly direct to the Midland / Huronia Airport located 5 miles south of town and features a 4000 foot asphalt runway.
-
-## Midland Air Charter Options
-
-## Charter Flights From Midland
 
 ### Charter Flights
 
 There are no air charter services based in Midland. The closest charter service is located in Owen Sound where you can book a 2 - 3 passenger single engine Cessna for local destinations. If you need to charter a flight to the USA, or you prefer the speed and comfort of a turbine or twin engine aircraft, we will connect you with charter services out of London, Toronto or Sudbury.
 
 [AIR CHARTER QUOTE](/quote)
-
----
-
----
 
 ## Midland Wheel Plane Charter Flights
 
@@ -48,22 +36,6 @@ The closest float plane charter service is based in Parry Sound located 1 hour n
 
 There is no helicopter charter service based in Midland. The closest charter base is in Collingwood. If you would like to receive price options and availability, send us your flight details and we will supply competitive quotes.
 
----
-
----
-
-## Midland Charter Quote Request Form
-
----
-
-### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
-
----
-
----
-
----
-
 ## Quick Links To Over 50 Air Charter Destinations Across Southern Ontario
 
 [Click Here For Links To Northern and Northwestern Ontario Destinations](/canada/northern-ontario)
@@ -72,7 +44,7 @@ There is no helicopter charter service based in Midland. The closest charter bas
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -92,7 +64,7 @@ There is no helicopter charter service based in Midland. The closest charter bas
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -124,12 +96,8 @@ There is no helicopter charter service based in Midland. The closest charter bas
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
----

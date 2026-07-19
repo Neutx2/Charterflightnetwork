@@ -12,10 +12,6 @@ city: "Grand Falls Windsor"
 ---
 Charter Flights To Grand Falls Newfoundland / Labrador
 
----
-
-### [Charter Flights To Grand Falls](#collapseOne1)
-
 ### About Grand Falls Newfoundland / Labrador
 
 Discover The Convenience and Affordability of Flying Direct to or From Grand Falls Windsor Heliport Newfoundland Labrador In The Speed Comfort and Security of A Private Charter Flight. Grand Falls - Windsor is located in the north central region of Newfoundland and has a population of just under 14,000 residents. The closest airport is a 30 minute drive north (37 km) to Botwood or 100 drive 100 km east to Gander International Airport. Grand Falls-Windsor does have a public use heliport which is operated by the town. See helicopter charter services listed on this page for details on charter flights.
@@ -36,10 +32,6 @@ Grand Falls is accessible by road and rail. The Trans-Canada Highway passes thro
 
 Overall, Grand Falls is a thriving town with a strong industrial heritage, diverse economy, and vibrant community life. It remains an important hub of economic activity and cultural heritage in central Newfoundland and Labrador.
 
----
-
-## Wheel Plane Charter Flights
-
 ### Chrono Aviation
 
 Grand Falls is situated along the Exploits River in the Exploits Valley region of central Newfoundland. It is approximately 80 kilometers northeast of the provincial capital, St. John's
@@ -51,8 +43,6 @@ Grand Falls was founded in the early 20th century by the Anglo-Newfoundland Deve
 ### Wheel Plane Charters / 3 Competitive Quotes
 
 The pulp and paper mill in Grand Falls has been a key driver of economic activity in the region for over a century. The mill processes wood harvested from the surrounding forests into pulp, which is then used to manufacture paper products. Despite fluctuations in the forestry industry, the mill remains an important employer in the area.
-
-## Float Plane Charter Flights
 
 ### Clarenville Aviation
 
@@ -69,10 +59,6 @@ Breton Air operates the Bell 206 L4 and the Bell 407 helicopters from its base i
 ### Helicopter Charter Flights / 3 Competitive Quotes
 
 Receive up to 3 competitive charter quotes directly from the helicopter charter companies best positioned and equipped to provide the services you require
-
----
-
----
 
 ## Quick Links To 38 Air Charter Destinations Across Newfoundland and Labrador
 
@@ -118,7 +104,3 @@ Receive up to 3 competitive charter quotes directly from the helicopter charter 
 * [Wabush](/canada/newfoundland/wabush)
 * [Williams Harbour](/canada/newfoundland/williams-harbour)
 * [Winterland](/canada/newfoundland/winterland)
-
----
-
----

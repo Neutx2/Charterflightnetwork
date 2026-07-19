@@ -11,14 +11,6 @@ province: "British Columbia"
 provinceSlug: "british-columbia"
 city: "Coal Harbour"
 ---
-### Float plane charter flights are available to the small village of Coal Harbour situated on the far north central end of Vancouver Island on the shores of Holberg Inlet and south west of Port Hardy.
-
-## Request A Charter Quote Directly From Any Of Our Featured Charter Airlines or Use Our Free Charter Quote Request Service an Receive Up To 3 Competitive Quotes
-
-### Request Competitive Charter Quotes For Wheel Plane, Float Plane or Helicopter Charter Flights Directly From The Charter Airlines Best Positioned and Equipped To Provide The Service You Require
-
-### [Charter Flights To Coal Harbour](#collapseOne1)
-
 ### **About Coal Harbour**
 
 The town has seen many changes over the years. It derived its name from the local coal mine which operated in the 1800's and has long been shut down. The town then becam a Royal Canadian Air Force Station in the 1940's which operated for about 20 years. Then with the discovery of a copper deposit the town reverted back to its original mining heritage with the opening of a copper mine.
@@ -26,8 +18,6 @@ The town has seen many changes over the years. It derived its name from the loca
 ### **[Float Plane Charter Flights](/directory/float-plane-charters-vancouver-island-bc)**
 
 There is a Float Plane Base located on the waterfront in Coal Harbour which is operated by a company called Air Cab. However we could not find any website links or other contact information to provide for the purpose of this information page.
-
----
 
 ## Coal Harbour Wheel Plane Charter Flights
 
@@ -40,20 +30,6 @@ When you need a float plane charter, here is how you can receive up to 3 competi
 ## Coal Harbour Helicopter Charter Flights
 
 Submit our Free Charter Quote Request Form and receive up to 3 competitive helicopter charter quotes directly from the charter services who are best positioned and equipped to provide the service required.
-
----
-
----
-
----
-
-### The Following Charter Airlines Provide Quotes For Our Clients Across British Columbia, Alberta, Yukon and NWT
-
----
-
----
-
----
 
 ## Links To British Columbia Air Charter Destinations
 
@@ -198,9 +174,3 @@ Seach Charter Flights To Any Of The Following British Columbia Destinations
 * [Williams Lake](/canada/british-columbia/williams-lake)
 * [Woodcock](/canada/british-columbia/woodcock)
 * [Woss](/canada/british-columbia/woss)
-
----
-
----
-
----

@@ -11,8 +11,6 @@ region: "canada"
 
 Direct links to helicopter charter services serving Iqaluit and key Nunavut communities
 
----
-
 ## Nunavut Helicopter Air Charter Directory
 
 Locate helicopter charter operators in Nunavut for community support, resource projects, and remote-access travel.
@@ -22,8 +20,6 @@ Page 1
  | >>
 
 [Back To Main Canadian Menu](/directory/canadian-air-charter-directory-1)
-
----
 
 ## Iqaluit Helicopter Air Charter
 
@@ -52,8 +48,6 @@ P: 1 450 452 3000
 
 Copyright © Charter Flight Network. All rights reserved.
 
----
-
 ### [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
 * Link to the main Canadian Air Charter Directory listing wheel plane, float plane & helicopter charter services in every province and territory of Canada.
@@ -70,10 +64,6 @@ Copyright © Charter Flight Network. All rights reserved.
 
 * When you are specifically looking for a float plane charter, this directory lists float plane charter airlines in every province and territory of Canada.
 
----
-
-## Receive 3 Competitive Charter Quotes With One Request
-
 ### Wheel Plane / Float Plane / Helicopter Charter Services In Every Province & Territory Of Canada
 
 Submit your charter quote request through our free quote request service and it forwards to up to three air charter services who are best positioned and equipped to provide the service you require.
@@ -81,9 +71,3 @@ Submit your charter quote request through our free quote request service and it 
 Each company prepares a competitive quote and sends it directly to your email.
 
 [REQUEST A QUOTE](/quote)
-
----
-
----
-
----

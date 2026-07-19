@@ -14,12 +14,6 @@ Charter Flights To Whati, NWT
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Whati](#collapseOne1)
-
 ### About Whati Northwest Territories and Location
 
 Whati, nestled in the heart of the Northwest Territories, is a hidden gem waiting to be explored. This charming community is surrounded by stunning natural landscapes, offering a plethora of activities and attractions for every type of traveler. From fishing in crystal-clear lakes to hiking through untouched forests, Whati is the perfect destination for those seeking adventure and tranquility. Its remote location makes charter flights an ideal mode of transportation, providing unparalleled access to this breathtaking part of Canada.
@@ -78,15 +72,9 @@ Experience the ultimate escape at Whati Wilderness Retreat, providing cozy accom
 
 Whati is an outdoor enthusiast's paradise, featuring activities such as ice fishing, dog sledding, and aurora viewing in the winter, alongside kayaking, bird watching, and hiking in the summer months. Local outfitters, like Whati Adventure Tours, offer guided excursions to explore the region's natural beauty, ensuring an unforgettable experience in the wilds of the Northwest Territories.
 
----
-
-## Turbo Prop / Piston Aircraft Charter Flights
-
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 **First Nations Community Travel:** The Whati Airport is located just over 1 miles east of the community and has a gravel runway that is 2,999 feet in length. This makes it accessible by single engine and some twin engine aircraft. Charter Flights provide transportation for community members traveling between remote areas for family visits, cultural events, and inter-community meetings.
-
-## NWT Float Plane Charter Flights
 
 ### Float Plane Charters - Receive 3 Competitive Quotes
 
@@ -95,16 +83,6 @@ Whati is an outdoor enthusiast's paradise, featuring activities such as ice fish
 ## NWT Helicopter Charter Flights
 
 **Visits to Indigenous Communities and Historic Sites:** Helicopters provide access to remote Indigenous communities such as Whati and historic sites, offering tourists a chance to learn about the cultures and histories of Northern Canada's Indigenous peoples. These visits can include cultural demonstrations, traditional meals, and storytelling sessions.
-
----
-
----
-
----
-
----
-
----
 
 ## Quick Links To Over 40 Air Charter Destinations Across Northwest Territories
 
@@ -152,7 +130,3 @@ Whati is an outdoor enthusiast's paradise, featuring activities such as ice fish
 * [Whati](/canada/northwest-territories/whati)
 * [Wrigley](/canada/northwest-territories/wrigley)
 * [Yellowknife](/canada/northwest-territories/yellowknife)
-
----
-
----

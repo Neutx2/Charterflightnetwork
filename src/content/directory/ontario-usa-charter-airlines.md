@@ -13,8 +13,6 @@ region: "canada"
 
 Planning a charter flight from Ontario into the United States is significantly easier and more efficient when using the Canadian Air Charter Directory. Instead of spending hours searching the internet, comparing websites, and verifying operator credentials, the directory provides immediate access to charter airlines that are properly licensed to operate cross-border flights into the USA. Users can quickly identify operators departing from their most convenient Ontario city and flying directly to destinations throughout the United States. The directory also allows travelers to determine which aircraft type best suits their mission, whether a light or midsize jet for time-sensitive business travel, a turboprop for shorter regional routes, or a piston aircraft for cost-conscious trips. This streamlined approach eliminates guesswork, saves valuable time, and reduces planning stress. The Canadian Air Charter Directory is an ideal planning tool for business travelers, families, and individuals seeking a reliable, efficient, and professional way to arrange charter flights into the United States.
 
-### [Back to Main Canadian Menu](/directory/canadian-air-charter-directory-1)
-
 ## Jump to a City Section
 
 [Barrie](#Barrie)
@@ -289,8 +287,6 @@ Submit one request and receive up to 3 competitive quotes by email.
 ### [4. Canadian Float Plane Directory](/directory/canadian-float-plane-air-charter-directory)
 
 * Find float plane charter airlines in every province and territory of Canada in minutes.
-
-## Receive 3 Competitive Charter Quotes with One Request
 
 ### Wheel Plane / Float Plane / Helicopter in Every Province & Territory
 

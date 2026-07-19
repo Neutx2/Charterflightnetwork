@@ -51,13 +51,7 @@ region: "canada"
 
 ## Examples Of Premium Listings
 
----
-
----
-
 [Return to Previous Page - Premium Listing Info](/operators/listing-options)
-
----
 
 ### [1. Canadian Air Charter Directory](/directory)
 
@@ -74,9 +68,3 @@ region: "canada"
 ### [4. Canadian Float Plane Charter Directory](/directory/canadian-float-plane-air-charter-directory)
 
 * When you are specifically looking for a float plane charter, this directory lists float plane charter airlines in every province and territory of Canada. Find exactly what you need in minutes.
-
----
-
----
-
----

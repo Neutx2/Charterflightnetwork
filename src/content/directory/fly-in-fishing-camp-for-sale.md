@@ -7,14 +7,6 @@ slug: "directory/fly-in-fishing-camp-for-sale"
 thin: false
 region: "canada"
 ---
----
-
-## A Turn Key Opportunity That Can Be Run As A Stand Alone Business Or Added To An Existing Outpost Operation
-
----
-
-## Dora Lake Outpost is accessible only by float plane from a number of Northwestern Ontario Departure Points.
-
 ### #1 -Dora Lake Outpost
 
 The Dora Lake Outpost is located at the frollowing coordinates: 49°21'11.43"N 90°11'32.64"W
@@ -161,8 +153,6 @@ Modern outpost cabin accommodations on Dora Lake includes: Propane Cooking, Outd
 * Fully Insulated
 * Metal Roof
 
-### #20 - Outhouse
-
 ### #22 - Dora Lake Outpost / Kitchen and Dining Cabin
 
 * Separate Kitchen Cabin
@@ -215,13 +205,9 @@ Modern outpost cabin accommodations on Dora Lake includes: Propane Cooking, Outd
 * Finished Pine Interior
 * Metal Roof
 
----
-
 ## Contact For Price and Details
 
 **Bronko Stosic**
 Phone: 807 628-9366
 Email: bstosic@tbaytel.net
 Thunder Bay, Ontario
-
----

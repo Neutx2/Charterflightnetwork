@@ -14,12 +14,6 @@ Charter Flights To Watson Lake, Yukon Territory
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Watson Lake](#collapseOne1)
-
 ### About Watson Lake Yukon and Location
 
 Watson Lake is a serene gateway to the Yukon's spectacular wilderness, offering unique attractions such as the Sign Post Forest, the Northern Lights Space and Science Centre, and access to pristine natural parks. Its remote location makes charter flights an ideal mode of transportation for visitors seeking adventure and tranquility in the heart of Yukon.
@@ -80,10 +74,6 @@ Explore the serene waters of Watson Lake by kayak, an adventure made accessible 
 
 Discover the breathtaking hiking trails surrounding Watson Lake, offering unparalleled views and encounters with Yukon's wildlife.
 
----
-
-## Watson Lake Wheel Plane Charter Flights
-
 ### Tintina Air Inc.
 
 Alkan Air Ltd operates out of Whitehorse, Yukon, providing services across Yukon and northern Canada. They have over 40 years of experience in offering personalized chartered flights for companies and individuals​​.
@@ -96,8 +86,6 @@ Alkan operations are not restricted to paved airstrips. Their fleet includes air
 
 Watson Lake is located in south eastern Yukon, just across the border with British Columbia. The town is at mile 635 of the Alaskan Highway and the junction of Robert Campbell Highway. Watson Lake has a major airport and water aerodrome and is a busy air transportation center for both wheel planes, float planes and helicopter traffic. The Airport has a single Asphalt runway that is 5,500 feet in length, making it accessible by virtually all charter aircraft in the region.
 
-## Watson Lake Float Plane Charter Flights
-
 ### Alkan Air Ltd
 
 Alkan Air is an air charter service company based in Whitehorse, Yukon, with over 40 years of experience. They provide personalized chartered flights that support tourism, mining and exploration, government, natural resource, first nations communities and many more.
@@ -105,8 +93,6 @@ Alkan Air is an air charter service company based in Whitehorse, Yukon, with ove
 ### Float Plane Charters - Receive 3 Competitive Quotes
 
 When you require float plane charter services out of Watson Lake, it may be difficult finding an available charters service that matches your needs. You can however, use our charter quote request service and we will source out your request to float plane charter services in Yukon and British Columbia and find you up to 3 competitive prices and the aircraft that best meets your needs.
-
-## Watson Lake Helicopter Charter Flights
 
 ### Fireweed Helicopters Ltd
 
@@ -117,12 +103,6 @@ Fireweed Helicopter's expertise spans across several critical services, includin
 Established in 1992, Kluane Helicopters has been in the helicopter service industry for over three decades, demonstrating a long-standing experience and understanding of the local area and its operational requirements​​.
 
 Did you know that with just one click, you can use our charter quote request service and receive competitive quotes from the helicopter charter services that operate throughout the region.
-
----
-
----
-
----
 
 ## Quick Links To Over 20 Air Charter Destinations Across Yukon Territory
 
@@ -153,7 +133,3 @@ Did you know that with just one click, you can use our charter quote request ser
 * [Twin Creeks](charter_flights_Twin Creeks_yt.html)
 * [Watson Lake](/canada/yukon/watson-lake)
 * [Whitehorse](/canada/yukon/whitehorse)
-
----
-
----

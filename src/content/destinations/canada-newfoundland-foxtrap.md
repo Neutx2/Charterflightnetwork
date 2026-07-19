@@ -12,17 +12,9 @@ city: "Foxtrap"
 ---
 Charter Flights To Foxtrap - Long Pond Newfoundland / Labrador
 
----
-
-### [Charter Flights To Foxtrap - Long Pond](#collapseOne1)
-
 ### About Foxtrap - Long Pond Newfoundland / Labrador
 
 Discover The Convenience and Affordability of Flying Direct to or From Foxtrap - Long Pond Heliport Newfoundland Labrador In The Speed Comfort and Security of A Private Charter Flight. The Foxtrap / Long Pond Heliport is a private use heliport located in the town of Conception Bay South which is on the south east shores of Conception Bay on the Avalon Peninsula and south west of St John's. There is no land airport located here - the closest wheel plane airport is St John's. See our interactive map for locations.
-
----
-
-## Float Plane Charter Flights
 
 ### Clarenville Aviation
 
@@ -35,10 +27,6 @@ Accessing Foxtrap - Long Pond by Air Charter: Experience the convenience and fle
 ### Helicopter Charter Flights / 3 Competitive Quotes
 
 Discover the stunning coastline of Foxtrap - Long Pond with scenic drives, coastal walks, and beachcombing adventures. Explore hidden coves, sandy beaches, and rugged cliffs along the shoreline
-
----
-
----
 
 ## Quick Links To 38 Air Charter Destinations Across Newfoundland and Labrador
 
@@ -84,7 +72,3 @@ Discover the stunning coastline of Foxtrap - Long Pond with scenic drives, coast
 * [Wabush](/canada/newfoundland/wabush)
 * [Williams Harbour](/canada/newfoundland/williams-harbour)
 * [Winterland](/canada/newfoundland/winterland)
-
----
-
----

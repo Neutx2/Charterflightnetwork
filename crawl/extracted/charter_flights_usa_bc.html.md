@@ -156,15 +156,7 @@ Links To 133 British Columbia Air Charter Destinations
 * [Woodcock](charter_flights_woodcock_bc.html)
 * [Woss](charter_flights_woss_bc.html)
 
-1100 Memorial Avenue
-Suite 424
-Thunder Bay, Ontario
-Email: phil@charterflightnetwork.com
-
 ## Other
-
-* [Marketing Partners](marketing_partners.html)
-* [Submit Your Directory Listing](canadian_directory_three_options.html)
 
 ## Air Charter Listings
 

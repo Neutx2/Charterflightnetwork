@@ -14,10 +14,6 @@ Charter Flights To Yarmouth, Nova Scotia
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
 ### [Charter Flights To Yarmouth](#collapseOne1)
 
 About Yarmouth Nova Scotia - Wheel Plane Access
@@ -52,17 +48,11 @@ Yarmouth is a town located on the southwestern tip of Nova Scotia, Canada. It si
 
 Travelers can reach Yarmouth by road, air, or sea. The town is accessible via Highway 101, which connects Yarmouth to Halifax and other major centers in Nova Scotia. The Yarmouth International Airport is accessible by private charter flights (both fixed wing and helicopter) as well as scheduled domestic flights to and from Halifax and other destinations. Additionally, ferry services operate between Yarmouth and ports in Maine, USA, providing a scenic and convenient travel option for visitors from the United States..
 
-## Wheel Plane Charter Flights
-
 ### Atlantic Charters
 
 Yarmouth is home to several historic lighthouses, including the Cape Forchu Lighthouse, which offers guided tours and panoramic views of the coastline. Whale Watching: Visitors can embark on whale watching tours from Yarmouth to observe majestic marine mammals such as humpback whales, fin whales, and minke whales in their natural habitat..
 
 Yarmouth's economy has traditionally been based on fishing, shipbuilding, and maritime trade. While these industries remain important, the town has diversified its economy in recent years to include sectors such as tourism, healthcare, and services. Yarmouth is a popular tourist destination, attracting visitors with its scenic coastline, cultural attractions, and outdoor recreational opportunities.
-
-## Orillia Charter Quote Request Form
-
----
 
 ## Quick Links To Over A Dozen Air Charter Destinations Across Nova Scotia
 
@@ -84,7 +74,3 @@ Yarmouth's economy has traditionally been based on fishing, shipbuilding, and ma
 * [Trenton](/canada/nova-scotia/trenton)
 * [Waterville](/canada/nova-scotia/waterville)
 * [Yarmouth](/canada/nova-scotia/yarmouth)
-
----
-
----

@@ -18,8 +18,6 @@ Winnipeg serves as the province's main commercial hub, but many northern communi
 
 Charter flights in Manitoba can be configured for passengers, cargo or a combination of both. This makes it possible to move work crews, medical teams, replacement parts, groceries and time-sensitive freight directly between hubs and remote destinations with a single flight. For business, government and tourism, charter aviation turns multi-day road journeys into efficient same-day trips.
 
-## Major Charter-Friendly Airports in Manitoba
-
 ## Winnipeg James Armstrong Richardson International Airport (YWG)
 
 Winnipeg International Airport is the primary aviation gateway for Manitoba. Its long runways and modern terminal support business jets, regional turboprops and heavy cargo aircraft. Charter operators use YWG as a base for flights throughout the province and across Canada, as well as direct services to the United States. FBO facilities provide fuel, hangar, customs and passenger services for corporate and private charter clients.
@@ -56,66 +54,7 @@ Helicopter charters in Manitoba provide access to survey lines, hydro corridors,
 
 The following Manitoba destinations have dedicated Charter Flight Network pages with more detailed information on local airports and charter operators serving each community:
 
-* [Berens River](/canada/manitoba/berens-river)
-* [Big Sand Lake](/canada/manitoba/big-sand-lake)
-* [Bissett](/canada/manitoba/bissett)
-* [Bloodvein River](/canada/manitoba/bloodvein-river)
-* [Brandon](/canada/manitoba/brandon)
-* [Brochet](/canada/manitoba/brochet)
-* [Churchill](/canada/manitoba/churchill)
-* [Cross Lake](/canada/manitoba/cross-lake)
-* [Dauphin](/canada/manitoba/dauphin)
-* [Elk Island](/canada/manitoba/elk-island)
-* [Flin Flon](/canada/manitoba/flin-flon)
-* [Gillam](/canada/manitoba/gillam)
-
-* [Gimli](/canada/manitoba/gimli)
-* [Gods Lake Narrows](/canada/manitoba/gods-lake-narrows)
-* [Gods River](/canada/manitoba/gods-river)
-* [Grand Rapids](/canada/manitoba/grand-rapids)
-* [Gunisao Lake](/canada/manitoba/gunisao-lake)
-* [Ilford](/canada/manitoba/ilford)
-* [Jenpeg](/canada/manitoba/jenpeg)
-* [Knee Lake](/canada/manitoba/knee-lake)
-* [Lac Brochet](/canada/manitoba/lac-brochet)
-* [Lac du Bonnet](/canada/manitoba/lac-du-bonnet)
-* [Leaf Rapids](/canada/manitoba/leaf-rapids)
-* [Little Grand Rapids](/canada/manitoba/little-grand-rapids)
-
-* [Lynn Lake](/canada/manitoba/lynn-lake)
-* [Molson Lake](/canada/manitoba/molson-lake)
-* [Nejanilini Lake](/canada/manitoba/nejanilini)
-* [North Haven](/canada/manitoba/north-haven)
-* [North Seal River](/canada/manitoba/north-seal-river)
-* [Norway House](/canada/manitoba/norway-house)
-* [Oxford House](/canada/manitoba/oxford-house)
-* [Poplar River](/canada/manitoba/poplar-river)
-* [Pukatawagen](/canada/manitoba/pukatawagen)
-* [Red Sucker Lake](/canada/manitoba/red-sucker-lake)
-* [Riverton](/canada/manitoba/riverton)
-* [Roblin](/canada/manitoba/roblin)
-
-* [Shamattawa](/canada/manitoba/shamattawa)
-* [Silver Falls](/canada/manitoba/silver-falls)
-* [Snow Lake](/canada/manitoba/snow-lake)
-* [South Indian Lake](/canada/manitoba/south-indian-lake)
-* [St Andrews](/canada/manitoba/st-andrews)
-* [St Theresa Point](/canada/manitoba/st-theresa-point)
-* [Swan River](/canada/manitoba/swan-river)
-* [Tadoule Lake](/canada/manitoba/tadoule-lake)
-* [The Pas](/canada/manitoba/the-pas)
-* [Thompson](/canada/manitoba/thompson)
-* [Winnipeg](/canada/manitoba/winnipeg)
-* [York Landing](/canada/manitoba/york-landing)
-
-## Book a Charter Flight Anywhere in Manitoba
-
 ## Option #2. With Just One Click, Receive Competitive Quotes From All The Charter Airlines Listed On This Page.
-
-their needs. When you complete and submit the form below, we forward your inquiry to multiple charter airlines
-who are best positioned and equipped to provide the service you request. Each airline prepares and submits
-a competitive quote. If a quote meets your needs and budget, you deal directly with the airline of your choice
-to finalize all details, scheduling, and payment.
 
 **\*Privacy:** we don't share your name or contact info with airlines. Your request is assigned a unique ID;
 airlines submit quotes for that ID and we forward them to you.
@@ -123,13 +62,6 @@ airlines submit quotes for that ID and we forward them to you.
 ## Charter Flights to Neighbouring Regions
 
 Many travellers combine Manitoba destinations with travel to neighbouring provinces and territories. Continue planning your trip with these regional pages:
-
-* [Charter Flights in Northern Ontario](/canada/northern-ontario)
-* [Charter Flights in Southern Ontario](/canada/southern-ontario)
-* [Charter Flights in Saskatchewan](/canada/saskatchewan)
-* [Charter Flights in Nunavut](/canada/nunavut)
-
-## Manitoba Charter Flight FAQ
 
 ## How far in advance should I book a charter flight in Manitoba?
 

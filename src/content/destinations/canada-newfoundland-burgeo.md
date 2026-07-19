@@ -12,10 +12,6 @@ city: "Burgeo"
 ---
 Charter Flights To Burgeo Newfoundland / Labrador
 
----
-
-### [Charter Flights To Burgeo](#collapseOne1)
-
 ### About Burgeo Newfoundland / Labrador
 
 Discover The Convenience and Affordability of Flying Direct to or From Burgeo Newfoundland Labrador In The Speed Comfort and Security of A Private Charter Flight - Helicopter Only. Burgeo is a picturesque community located on Newfoundlands southern coastline and is home to Sandbanks Provincial Park. There is no airport in Burgeo - however there is a private use heliport for use by the Calder Health Care Corporation. However helicopter flights for non health care use can land in other nearby regions of the town.
@@ -44,10 +40,6 @@ Outdoor enthusiasts will find plenty to enjoy in Burgeo and the surrounding area
 
 In the winter, Burgeo transforms into a snowy wonderland, providing opportunities for activities such as snowmobiling, cross-country skiing, and ice fishing. Whether exploring the great outdoors or simply taking in the scenic beauty of the coastline, Burgeo offers something for everyone to enjoy.
 
----
-
-## Float Plane Charter Flights
-
 ### Float Plane Charters / 3 Competitive Quotes
 
 Burgeo is a coastal community located in southwestern Newfoundland and Labrador, Canada. Situated on the shores of the Atlantic Ocean, Burgeo is surrounded by stunning natural landscapes, including rugged cliffs, pristine beaches, and dense forests. The town is accessible by road and sea, providing a gateway to the remote and scenic wilderness of Newfoundland's west coast.
@@ -59,10 +51,6 @@ Burgeo's economy is primarily based on fishing, aquaculture, and tourism. The to
 ### Helicopter Charter Flights / 3 Competitive Quotes
 
 Public transportation options within Burgeo are limited, but private vehicle travel is convenient and efficient for residents and visitors alike. The nearest major airport is located in Stephenville, approximately a two-hour drive from Burgeo.
-
----
-
----
 
 ## Quick Links To 38 Air Charter Destinations Across Newfoundland and Labrador
 
@@ -108,7 +96,3 @@ Public transportation options within Burgeo are limited, but private vehicle tra
 * [Wabush](/canada/newfoundland/wabush)
 * [Williams Harbour](/canada/newfoundland/williams-harbour)
 * [Winterland](/canada/newfoundland/winterland)
-
----
-
----

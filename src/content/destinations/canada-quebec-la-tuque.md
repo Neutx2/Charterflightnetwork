@@ -10,13 +10,9 @@ province: "Quebec"
 provinceSlug: "quebec"
 city: "La Tuque"
 ---
----
-
 ### Flights To La Tuque
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
-
----
 
 ### Location
 
@@ -31,10 +27,6 @@ The airport has a single asphalt 5,000 foot runway - making it accessible to a w
 With just one click, you can receive up to 3 competitive charter flight quotes directly from the airlines who provide service throughout La Tuque .
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
-
----
-
----
 
 ## Quick Links To 86 Air Charter Destinations Across Quebec
 
@@ -127,7 +119,3 @@ With just one click, you can receive up to 3 competitive charter flight quotes d
 * [Val-d`Or](/canada/quebec/val-d-or)
 * [Waskaganish](/canada/quebec/waskaganish)
 * [Wemindji](/canada/quebec/wemindji)
-
----
-
----

@@ -10,13 +10,7 @@ province: "Quebec"
 provinceSlug: "quebec"
 city: "Parent"
 ---
----
-
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
-
----
-
-### Flights To Parent
 
 ### Location
 
@@ -31,10 +25,6 @@ Float Plane, Wheel Plane and Helicopter charters are available to Parent which h
 With just one click, you can receive up to 3 competitive charter flight quotes directly from the airlines who provide service throughout Parent .
 
 [RECEIVE 3 COMPETITIVE CHARTER QUOTES](/quote)
-
----
-
----
 
 ## Quick Links To 86 Air Charter Destinations Across Quebec
 
@@ -127,7 +117,3 @@ With just one click, you can receive up to 3 competitive charter flight quotes d
 * [Val-d`Or](/canada/quebec/val-d-or)
 * [Waskaganish](/canada/quebec/waskaganish)
 * [Wemindji](/canada/quebec/wemindji)
-
----
-
----

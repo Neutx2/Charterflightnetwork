@@ -10,13 +10,10 @@ region: "canada"
 province: "Manitoba"
 provinceSlug: "manitoba"
 city: "Nejanilini"
-faqs: [{"q": "Can I book direct charter flights to Nejanilini / The Lodge at Little Duck, Manitoba?", "a": "Yes. Charter Flight Network can help arrange direct charter flights to Nejanilini / The Lodge at Little Duck from Winnipeg, Thompson, and other departure points, depending on aircraft availability and routing needs."}, {"q": "What kind of runway serves The Lodge at Little Duck?", "a": "The Lodge at Little Duck uses an approximately 4,000-foot private hard-packed gravel runway, allowing direct fixed-wing charter access into this remote northern destination."}, {"q": "How do many guests reach The Lodge at Little Duck?", "a": "Many guests route through Thompson, Manitoba and then continue to the lodge on a private charter flight, with the final leg taking about 75 minutes."}, {"q": "Can Charter Flight Network provide more than one quote for Nejanilini flights?", "a": "Yes. Charter Flight Network works to provide up to 3 competitive quotes so clients can compare charter aircraft options, pricing, and scheduling before choosing the service that best fits the trip."}]
 ---
 The Lodge at Little Duck, formerly associated with Nejanilini Lodge, is a remote northern Manitoba fishing and hunting destination reached by private charter aircraft. Many guests route through Thompson and then continue on the final charter leg to the lodge, while private point-to-point charter options can also be arranged for groups looking to reduce overall travel time.
 
 [Request Charter Quote](#QuoteForm)
-
----
 
 ## *Manitoba Charter Flight Links*
 
@@ -27,8 +24,6 @@ The Lodge at Little Duck, formerly associated with Nejanilini Lodge, is a remote
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 
 [Charter Flights St Andrews Airport](/canada/manitoba/st-andrews)
-
-## Flights to Nejanilini / The Lodge at Little Duck
 
 ## **About Nejanilini / The Lodge at Little Duck:**
 
@@ -63,8 +58,6 @@ The Lodge at Little Duck benefits from a private airstrip located beside the pro
 
 * The area is known for trophy northern pike, lake trout, and arctic grayling fishing, along with wilderness scenery and access to a remote sub-Arctic landscape.
 
----
-
 ## **Wheel Plane Charter Flights**
 
 Wheel plane charters are the most direct option for Little Duck because the lodge has its own private runway beside camp.
@@ -80,12 +73,6 @@ Float plane options may still suit special routing or lake-based access in the b
 Helicopter charters can add flexibility for remote site access, scouting, and customized routing in this far northern wilderness region.
 
 [QUOTE REQUEST FORM](#QuoteForm)
-
-## See How Charter Flight Network Finds the Most Cost-Efficient Air Charter Option That Best Meets the Needs of Every Client
-
-## Use This Form to Receive Up to 3 Competitive Quotes for Flights to The Lodge at Little Duck or Any Destination Throughout Canada or the USA
-
-## Frequently Asked Questions About Charter Flights to Nejanilini / The Lodge at Little Duck
 
 ## Can I book direct charter flights to Nejanilini / The Lodge at Little Duck, Manitoba?
 
@@ -206,7 +193,3 @@ Show Manitoba Destinations
 * [Winnipeg](/canada/manitoba/winnipeg)
 * [York Factory](/canada/manitoba/york-factory)
 * [York Landing](/canada/manitoba/york-landing)
-
----
-
----

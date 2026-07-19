@@ -31,7 +31,6 @@ Click Any Province Or Territory To View Dozens Of Air Charter Destinations and C
 ##### #1. Wheel Plane / Float Plane / Helicopter
 
 Use our Free, No Obligation
-for wheel plane, float plane or helicopter charter flights in any province or territory of Canada, into the USA or even the Bahamas and Caribbean.
 
 ---
 

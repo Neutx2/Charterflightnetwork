@@ -14,12 +14,6 @@ Charter Flights To Birch Hills, Saskatchewan
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Birch Hills](#collapseOne1)
-
 ### About Birch Hills, Saskatchewan and Location
 
 Birch Hills, nestled in the picturesque landscape of Saskatchewan, offers visitors a unique blend of natural beauty, historical significance, and recreational activities. Its strategic location makes it an ideal spot for charter flights, providing easy access to Saskatchewan's remote and beautiful destinations for both leisure and business travelers.
@@ -80,10 +74,6 @@ Enjoy a day on the greens in one of Saskatchewan's scenic golf courses, offering
 
 Explore local trails and discover the diverse birdlife that calls the Birch Hills area home, a perfect outdoor adventure for nature enthusiasts.
 
----
-
-## Birch Hills Turbo Prop / Piston Aircraft Charter Flights
-
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 The runway at Birch Hills Airport is just 2,600 feet which makes it too short for most twin engine charter aircraft in the region. We can however, source out your request to airlines in the region who provide flights in and out of the Birch Hills Airport.
@@ -91,14 +81,6 @@ The runway at Birch Hills Airport is just 2,600 feet which makes it too short fo
 ## Birch Hills Helicopter Charter Flights
 
 The closest helicopter charter service to Birch Hills is located 50 miles north in Smeaton, SK, If they do not have availability, we will source out your request to all operators in the region and find you the most cost efficient quote.
-
----
-
----
-
----
-
----
 
 ## Quick Links To Over 70 Air Charter Destinations Across Saskatchewan
 
@@ -178,7 +160,3 @@ The closest helicopter charter service to Birch Hills is located 50 miles north 
 * [Wollaston Lake](/canada/saskatchewan/wollaston-lake)
 * [Wynyard](/canada/saskatchewan/wynyard)
 * [Yorkton](/canada/saskatchewan/yorkton)
-
----
-
----

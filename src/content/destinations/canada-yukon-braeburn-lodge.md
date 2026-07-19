@@ -14,12 +14,6 @@ Charter Flights To Braeburn Lodge Airstrip, Yukon Territory
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Braeburn Airstrip](#collapseOne1)
-
 ### About Braeburn Lodge Yukon and Location
 
 Braeburn Lodge, renowned for its gigantic cinnamon buns, is not just a pit stop on the Klondike Highway but a destination in itself. Nestled in the vast wilderness of Yukon, it serves as a gateway to unparalleled natural beauty and outdoor adventures. Accessible predominantly by charter flights, Braeburn Lodge offers an exclusive peek into the remote landscapes and culture of Yukon, making it a must-visit for those looking to explore the less trodden paths of Canada.
@@ -84,10 +78,6 @@ Explore the serene waters of the Yukon River with guided kayak expeditions, star
 
 Experience the magic of the Northern Lights in the clear Yukon skies, a highlight for guests at Braeburn Lodge during the winter months.
 
----
-
-## Braeburn Lodge Wheel Plane Charter Flights
-
 ### Tintina Air Inc.
 
 Tintina Air prides itself on safety, efficiency, and reliability, with a fleet that is well-suited to the unique demands of the Yukon's vast and varied landscape.
@@ -95,8 +85,6 @@ Tintina Air prides itself on safety, efficiency, and reliability, with a fleet t
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 The Braeburn Lodge is located north of Whitehorse along the Klondike Highway about half way between Whitehorse and Carmacks Yukon. The landing strip is located next to Braeburn Lodge which is a popular tourist destination for visitors to the north. The single gravel runway is 3,000 feet long - making it accessible to many of the regions charter aircraft.
-
-## Braeburn Lodge Float Plane Charter Flights
 
 ### Alkan Air Ltd
 
@@ -113,12 +101,6 @@ When you are planning a float plane flight to Braeburn Lake from any departure p
 ## Braeburn Lodge Helicopter Charter Flights
 
 If you have a project in the Braeburn Lake region of the Yukon that requires helicopter support, you may find it helpful to use our free charter quote request service. We source out your requirements to all helicopter charter services in the region. You receive up to 3 competitive quotes in your email.
-
----
-
----
-
----
 
 ## Quick Links To Over 20 Air Charter Destinations Across Yukon Territory
 
@@ -149,7 +131,3 @@ If you have a project in the Braeburn Lake region of the Yukon that requires hel
 * [Twin Creeks](charter_flights_Twin Creeks_yt.html)
 * [Watson Lake](/canada/yukon/watson-lake)
 * [Whitehorse](/canada/yukon/whitehorse)
-
----
-
----

@@ -12,14 +12,6 @@ city: "Meadowbank Gold Mine"
 ---
 Charter Flights To Meadowbank Mine Nunavut
 
----
-
-## Receive Competitive Quotes For Any Meadowbank Mine Charter Flight - You Book Directly With The Charter Service Of Your Choice, Ensuring You Receive The Best Available Flight & Price Option
-
----
-
-### [Charter Flights To Meadowbank Mine, NU](#collapseOne1)
-
 ### Location
 
 The Meadowbank Gold Mine is an open pit gold mine located north of Baker Lake and is accessible only by wheel aircraft.
@@ -27,10 +19,6 @@ The Meadowbank Gold Mine is an open pit gold mine located north of Baker Lake an
 ### Meadowbank Mine Airport
 
 The airport, which is privately owned by the mine has a single 5,359 foot gravel runway. Since this is a private airport, prior permission to use this runway is required whether you are flying by charter flight or private aircraft.
-
----
-
-## Private Jet Charters
 
 ### Jet Charters
 
@@ -43,27 +31,11 @@ Contact Charter Flight Network for competitive quotes for charter flights to the
 
 If you require Helicopter support in the Meadowbrook Mine region, complete and submit our Charter Quote Request Form. The primary gateway to the Meadowbank Mine is through Baker Lake. Visitors typically fly to Baker Lake Airport from southern Canada or other parts of Nunavut.
 
-## Group Charters / Crew rotations
-
 ### Group Charters / Crew Rotations
 
 When you have 9 or more passengers to fly on a one time or ongoing basis, between Meadowbrook Mine and any destination throughout Nunavut or Canada, request a no obligation quote from our Group Air Charter Department
 
-[REQUEST GROUP QUOTE](/canada/northern-ontario/group)
-
----
-
-## Nunavut Charter Quote Request Form
-
----
-
-### We Are Proud To Highlight The Following Charter Airlines Who Provide Quotes For Our Clients Across Nunavut, NWT, Ontario, Manitoba, Quebec
-
----
-
----
-
----
+[REQUEST GROUP QUOTE](/quote)
 
 ## Quick Links To 31 Air Charter Destinations Across Nunavut
 
@@ -130,7 +102,3 @@ When you have 9 or more passengers to fly on a one time or ongoing basis, betwee
 [Tanquary Fiord](/canada/nunavut/tanquary-fiord)
 
 [Whale Cove](/canada/nunavut/whale-cove)
-
----
-
----

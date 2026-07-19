@@ -9,8 +9,6 @@ region: "canada"
 ---
 [Skip to main content](#main)
 
----
-
 ## Ontario Air Charter Directory
 
 [<<](/directory/ontario-float-plane-charter-directory-2)
@@ -60,8 +58,6 @@ region: "canada"
 [Wawa](#Wawa)
 [Weagamow](#Weagamow)
 [White River](#WhiteRiver)
-
-### [Back To Main Canadian Menu](/)
 
 ## Ottawa Float Plane Air Charter
 
@@ -293,17 +289,9 @@ P: (807) 822-2222
 
 [CHARTER QUOTE REQUEST](/quote/white-river)
 
-## [Page 1](/directory/ontario-float-plane-charter-directory)
-
-## [Page 2](/directory/ontario-float-plane-charter-directory-2)
-
-## [Page 3](/directory/ontario-float-plane-charter-directory-3)
-
 ### [Back To Main Canadian Menu](/)
 
 Copyright © Charter Flight Network. All rights reserved.
-
----
 
 ### [1. Canadian Air Charter Directory](/directory/canadian-air-charter-directory-1)
 
@@ -321,10 +309,6 @@ Copyright © Charter Flight Network. All rights reserved.
 
 * Find float plane charter airlines in every province and territory—quickly locate the operator that matches your destination.
 
----
-
-## Receive 3 Competitive Charter Quotes With One Request
-
 ### Wheel Plane / Float Plane / Helicopter Charter Services in Every Province & Territory of Canada
 
 Submit your charter quote request through our free quote request service. We forward it to up to 3 air charter services that are best positioned and equipped to provide the service you require.
@@ -332,7 +316,3 @@ Submit your charter quote request through our free quote request service. We for
 Each company prepares a competitive quote and sends it directly to your email.
 
 [REQUEST A QUOTE](/quote)
-
----
-
----

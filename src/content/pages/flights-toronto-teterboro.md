@@ -25,10 +25,6 @@ Use Our Free Charter Quote Request Service & Receive Up To 3 Competitive Quotes 
 
 Charter Flight Network Is Proudly Canadian Owned & Operated
 
----
-
-## Flights From Toronto to Teterboro Airport
-
 ### Average Flight Times Direct To Teterboro Airport
 
 Teterboro Airport is 340 air miles south east of Toronto, Ontario. Flight time will average between 1 hour and 30 minutes flying in a turbo prop to about one hour flying in a light jet.
@@ -41,25 +37,13 @@ Teterboro, NJ 07608, United States
 P: 1 201-288-1775
 Airport Code: TEB
 
----
-
-## Conduct Business On Board
-
 ### Conduct Business On Board In A Secure & Private Environment
 
 One of the popular advantages to flying private charter flights direct to Teterboro is the ability for you and your associates to conduct business on board and discuss sensitive information in a private and secure environment. Your team arrives refreshed and stress free, ready to meet the challenges of the day.
 
----
-
-## Arrive At A Private Passenger Terminal
-
 ### You Arrive and Depart At A Private / Corporate Passenger Terminal
 
 Upon your arrival in Teterboro you will deplane at a private, corporate style passenger terminal, such as the Signature FBO pictured above. There are no crowds, no congestion and no waiting in line to claim your baggage. Generally a US Customs agent will come aboard, check passports, ask the typical questions and in no time you are cleared and on your way. The FBO ground crew will carry any baggage from the aircraft direct to your waiting limo service or rental car.
-
----
-
-## Limo Services & Car Rentals
 
 ### Your Ground Transportation Will Be Pre Arranged
 
@@ -67,29 +51,17 @@ When you fly private charter flight direct to Teterboro Airport, all passenger s
 
 You simply advise your ground transportation preference with us ahead of time, and it will all be taken care of.
 
----
-
-## Convenient Access to New York City
-
 ### Average 1 Hour - 1 Hour 20 Minute Drive From Teterboro Airport To Manhattan / Lower Manhattan
 
 If your destination is Manhattan / Lower Manhattan the average drive time from Teterboro will be between 1 hour to 1 hour 20 minutes depending on the time of day.
 
 Use the Google Map to locate your precise destination and then check drive times and best routes from Teterboro
 
----
-
-## New York Hotels
-
 ### Hotel Accommodations Can Be Pre Arranged
 
 Many clients prefer to arrange their own hotel accommodations. However, many of the airport FBO's that we deal with (such as Signature) have access to preferred rates when they arrange the hotel bookings and they pass the savings on to the client.
 
 Simply let us know the most convenient hotel location for your stay, star rating you prefer and the price range. We will supply a list of available hotels and rates and we will have the FBO secure the accommodations on your behalf.
-
----
-
-### A Message From Phil Robinson
 
 ### President & Founder, Charter Flight Network
 
@@ -103,16 +75,10 @@ No Fine Print Here
 
 When a client books a charter flight, Charter Flight Network receives a fee from the airline based on 5% of the base charter costs to a maximum of $200.
 
----
-
-### Contact The Following Charter Airlines for Direct Flights To Teterboro
-
 ### [Air Nunavut / Smooth Air Charters](/directory/northern-ontario-float-plane-4#AirNunavut)
 
 Oshawa Ontario / Iqaluit Nunavut
 (866) 388-5888
-
----
 
 ### [Fly GTA](/directory/northern-ontario-float-plane-6#FlyGTA)
 
@@ -120,23 +86,15 @@ Toronto
 P:
 1 888 470 4595
 
----
-
 ### [Chartright](/directory/northern-ontario-float-plane-6#Chartright)
 
 Toronto Pearson
 P: 1-800-595-9395
 
----
-
 ### [Flight Exec](/directory/northern-ontario-float-plane-3#FlightExec)
 
 Toronto, London, Ontario
 P: 1-800-777-0525
-
----
-
-### Direct Links To Every Canadian Air Charter Airline
 
 ### Click Any Province or Territory To Link Direct To Every Wheel Plane, Float Plane & Helicopter Charter Service In Canada. Request Your Quote Directly From The Charter Service Of Your Choice or Use Our Charter Quote Request Service.
 
@@ -154,33 +112,15 @@ Alberta
  [Saskatchewan](/directory/saskatchewan-air-charter-directory)
  [Yukon](/directory/yukon-air-charter-directory-1)
 
----
-
-## Charter Flights To Adventure
-
-### Discover Direct Flights To Exceptional Adventure Destinations Across Canada
-
-### [CHARTER FLIGHTS TO ADVENTURE](/travel/charter-flights-to-adventure)
-
----
-
-### [CHURCHILL MANITOBA POLAR BEAR ADVENTURES](/canada/manitoba/churchill)
-
----
-
 ### Mix A Little Business With Pleasure
 
 Reward loyal clients or key employees with a 2 - 3 day golf package to any of New York's challenging golf courses.
 
 [CORPORATE GOLF CHARTERS](#)
 
----
-
 ### Enjoy Comfort and Peace of Mind
 
 No matter which New York destination you are flying to, you will have the peace of mind knowing that your flight is always operated by two highly experienced and professional flight crew
-
----
 
 ### More Accessible Airports With Turbo Props
 
@@ -188,16 +128,8 @@ Many corporate jets require a runway that is 4,000 feet or more in length. When 
 
 [CHARTER FLIGHT QUOTE](/quote)
 
----
-
 [Return To USA Air Charter Directory - Search Charter Flights To Other US States](/usa)
-
----
 
 ### GET IN TOUCH
 
 Every quote request generated, forwards to the charter airline best positioned and equipped to provide the service requested. [Discover how to link your charter airline to our distribution list and begin receiving Charter Quote Requests That Match Your Charter Market Profile](/operators)
-
-### CharterFlightNetwork.com is not a charter service provider. We do not own nor operate any aircraft. All charter quotes are generated by licenced charter airlines who are best positioned and equipped to provide the service requested. Should you decide to book a charter flight, you book directly with the charter airline of your choice and all flight arrangements and payments are made directly with the airline
-
----

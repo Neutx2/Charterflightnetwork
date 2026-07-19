@@ -14,17 +14,9 @@ Charter Flights To Collingwood, Ontario
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
 ### [Charter Flights To Collingwood](#collapseOne1)
 
 Collingwood is ideally situated on the southern tip of Georgian Bay just west of Wasaga Beach and east of Owen Sound. The area is rich in almost all aspects of year round outdoor recreation and top rated accommodations which makes it an ideal destination for conferences, meetings, client and key employee trips. To ensure you get the most out of your trip, you can fly private charter flights 100 miles north of Toronto - direct to the Collingwood Airport located about 5 miles southeast of town. The airport has a 5000 foot asphalt runway which will accommodate medium to large charter and corporate aircraft
-
-## Your Collingwood Air Charter Options
-
-## Charter Flights To USA
 
 ### USA Charter Flights
 
@@ -34,13 +26,9 @@ On your return flight however, you will need to first stop in Toronto or Lake Si
 
 [USA AIR CHARTER LINKS](/directory/usa-charter-quote)
 
----
-
 ## Collingwood Wheel Plane Charter Flights
 
 Wheel plane charters to the Collingwood Airport are available out of Toronto, Barrie, Sudbury, Kitchener, London or any departure point you choose. Send us your flight details and we will provide flight and pricing options.
-
-## Collingwood Float Plane Charter Flights
 
 ### Cotttage Air
 
@@ -52,20 +40,6 @@ There is no float plane charter service based in Collingwood. The closest would 
 
 Helicopter charters are available out of the Collingwood area. You can arrange sight seeing flights or point to point charters. This would be a quick and efficient option for direct flights to Toronto. If you provide us with your requirements, we will see you receive price options and availability.
 
----
-
-## Collingwood Charter Quote Request Form
-
----
-
-### *The Following Charter Airlines Provide Quotes For Our Clients Across Ontario*
-
----
-
----
-
----
-
 ## Quick Links To Over 50 Air Charter Destinations Across Southern Ontario
 
 [Click Here For Links To Northern and Northwestern Ontario Destinations](/canada/northern-ontario)
@@ -74,7 +48,7 @@ Helicopter charters are available out of the Collingwood area. You can arrange s
 * [Brampton](/canada/southern-ontario/brampton)
 * [Brantford](/canada/southern-ontario/brantford)
 * [Brockville](/canada/southern-ontario/brockville)
-* [Burlington](/canada/northern-ontario/burlington)
+* [Burlington](/canada/southern-ontario/burlington)
 * [Carp](/canada/southern-ontario/carp)
 * [Chatham-Kent](/canada/southern-ontario/chatham)
 * [Collingwood](/canada/southern-ontario/collingwood)
@@ -94,7 +68,7 @@ Helicopter charters are available out of the Collingwood area. You can arrange s
 * [Kingston](/canada/southern-ontario/kingston)
 * [Kitchener/Waterloo](/canada/southern-ontario/kitchener)
 * [Lindsay](/canada/southern-ontario/lindsay)
-* [London](/canada/southern-ontario/london-ontario)
+* [London](/canada/southern-ontario/london)
 * [Lucan](/canada/southern-ontario/lucan)
 * [Manitowaning](/canada/northern-ontario/manitowaning)
 * [Midland](/canada/southern-ontario/midland)
@@ -126,12 +100,8 @@ Helicopter charters are available out of the Collingwood area. You can arrange s
 * [Buttonville](/canada/southern-ontario/buttonville)
 * [Billy Bishop](/canada/southern-ontario/toronto-island)
 * [Pearson](/canada/southern-ontario/toronto)
-* [Waterloo](/canada/southern-ontario/waterloo-ontario)
+* [Waterloo](/canada/southern-ontario/waterloo)
 * [Welland](/canada/southern-ontario/welland)
 * [Wiarton](/canada/southern-ontario/wiarton)
 * [Wingham](/canada/southern-ontario/wingham)
 * [Windsor](/canada/southern-ontario/windsor)
-
----
-
----

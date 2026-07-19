@@ -14,12 +14,6 @@ Port Hawkesbury, Nova Scotia Your Cabot Links Connection
 
 Fly Your Private, Corporate or Charter Flight Aircraft Direct To Port Hawkesbury Nova Scotia
 
----
-
----
-
-### [Charter Flights To Port Hawkesbury](#collapseOne1)
-
 ## You Can Fly Direct To Nova Scotia / Cape Breton Island From Numerous Departure Cities Across Canada and USA
 
 Discover The Convenience and Affordability of Flying Direct To Port Hawkesbury Nova Scotia In The Speed Comfort and Security of A Private Charter Flight.
@@ -64,8 +58,6 @@ Port Hawkesbury has a rich cultural heritage influenced by its maritime history 
 
 Overall, Port Hawkesbury offers a blend of history, culture, and outdoor recreation, making it a charming destination for travelers exploring Cape Breton Island and the surrounding region.
 
-## Fly Direct To Port Hawkesbury / 1 Hour Ground Shuttle To Cabot Links
-
 ### Port Hawkesbury
 
 If you are planning a golf trip to the world famous Cabot Capte Breton Golf Resort and you will be travelling by Private Aircraft / Corporate Aircraft or Private Charter Flight - consider flying direct to Port Hawkesbury, which is the closest airport to Cabot Links. Upon arrival you will connect with the 1 hour Van or SUV shuttle direct to Cabot Cape Breton Golf Resort.
@@ -74,31 +66,19 @@ There are no scheduled flights in or out of Port Hawkesbury. If however you are 
 
 There is no helicopter charter service operating out of Port Hawkesbury. The only travel option to Cabot Links from Port Hawkesbury upon arrival is the Van or SUV Shuttle Service. If you are looking for helicopter shuttle to the golf course, we suggest you fly direct to [Sydney, Nova Scotia](/canada/nova-scotia/sydney)
 
-## Fly Direct To Port Hawkesbury / 1 Hour Ground Shuttle To Cabot Links
-
 ### Air Services
 
 The nearby Port Hawkesbury Airport offers air access to the region, with domestic flights connecting to Halifax and other destinations. Additionally, ferry services operate between Port Hawkesbury and the neighboring town of Mulgrave, providing a convenient transportation option for travelers.
 
----
-
-## Celtic Air Services Is Your FBO and Ground Transportation Service Provider In Port Hawkesbury
-
 ### Fixed-Base Operator (FBO) Services
 
 As the primary FBO at Port Hawkesbury Airport, Celtic Air Services provides essential support for aircraft operations. Their services include aircraft parking, towing, and a variety of ground support functions such as fuel provisioning, air conditioning, lavatory servicing, ground power, and cabin grooming. To enhance passenger and crew comfort, the facility features an air-conditioned executive lounge, established in 2018, offering amenities like hot cookies, espresso, internet access, Wi-Fi, a conference room, crew lounge, and television.
-
----
-
-## Fly Direct To Port Hawkesbury / 1 Hour Ground Shuttle To Cabot Links
 
 ### Wheel Plane Charters - 3 Competitive Charter Quotes
 
 Port Hawkesbury Airport is a regional airport located approximately 4 kilometers southwest of the town center. The airport is a popular destination for charter flights as well as corporate and private aircarft, for passengers heading to the world famous Cabot Links Golf Course in Inverness Nova Scotia.
 
 Request a no obligation charter quote from any departure point throughout Canada or USA direct to Port Hawkesbury
-
-### More Travel Options
 
 ### 3 Travel Options From Sydney Nova Scotia To Cabot Cape Breton Golf Resort
 
@@ -110,8 +90,6 @@ Your quickest and most efficient travel option
 
 [DEPARTURES FROM SYDNEY](/canada/nova-scotia/sydney)
 
----
-
 ### 3 Travel Options From Halifax Nova Scotia To Cabot Cape Breton Golf Resort
 
 Your quickest and most efficient travel option
@@ -121,14 +99,6 @@ Your quickest and most efficient travel option
 * ###### Take the 3.5 - 4 hour drive from Halifax to Cabot Links with passenger van service or car rental.
 
 [DEPARTURES FROM HALIFAX](/canada/nova-scotia/halifax)
-
----
-
----
-
-## Port Hawkesbury Charter Quote Request Form
-
----
 
 ## Quick Links To Over A Dozen Air Charter Destinations Across Nova Scotia
 
@@ -150,7 +120,3 @@ Your quickest and most efficient travel option
 * [Trenton](/canada/nova-scotia/trenton)
 * [Waterville](/canada/nova-scotia/waterville)
 * [Yarmouth](/canada/nova-scotia/yarmouth)
-
----
-
----

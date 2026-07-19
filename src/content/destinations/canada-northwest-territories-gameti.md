@@ -14,12 +14,6 @@ Charter Flights To Gameti, NWT
 
 Request Charter Quotes From The Following Featured Charter Services Or Use Our Charter Quote Request Service & Receive Up To 3 Competitive Quotes
 
----
-
----
-
-### [Charter Flights To Gameti](#collapseOne1)
-
 ### About Gameti Northwest Territories and Location
 
 Discover Gameti in the heart of the Northwest Territories, a hidden gem offering unparalleled beauty and adventure. Known for its breathtaking landscapes, Gameti is an ideal destination for those seeking solace in nature's lap. The region is rich in indigenous culture, offering visitors unique experiences through local traditions, hunting, and fishing adventures. Ideal for anyone looking to escape the busy city life, Gameti promises an unforgettable visit with its pristine lakes, abundant wildlife, and the mesmerizing Aurora Borealis.
@@ -78,15 +72,9 @@ Surrounded by pristine nature, Gameti Wilderness Lodge is the perfect retreat fo
 
 Experience the thrill of the Great Bear Lake area with activities ranging from fishing and hunting to kayaking and viewing the northern lights. Local companies like Great Bear Adventures offer bespoke tours, ensuring an unforgettable adventure in Gameti's wild landscapes. Winter brings snowmobiling and ice fishing, while summer invites hiking and canoe expeditions, making Gameti a year-round destination for outdoor enthusiasts.
 
----
-
-## Turbo Prop / Piston Aircraft Charter Flights
-
 ### Wheel Plane Charters - 3 Competitive Quotes
 
 The Gameti / Rae Lakes Airport is located in the central region of Northwest Territories about half way between Great Slave and Great Bear Lakes. This public use airport has a single gravel runway w`hich is 3,000 feet long. Most air charter operators in the region operate aircraft well suited to gravel strip operations.
-
-## NWT Float Plane Charter Flights
 
 ### Float Plane Charters - Receive 3 Competitive Quotes
 
@@ -95,16 +83,6 @@ There is no float plane charter services based in Gameti. The closest float plan
 ## NWT Helicopter Charter Flights
 
 There are no helicopter services based in Gameti. The closest operations base is Yellowknife. For example, researchers may use helicopters in the Gameti region to access remote field sites, collect samples, and monitor environmental changes in the Arctic and sub-Arctic ecosystems.
-
----
-
----
-
----
-
----
-
----
 
 ## Quick Links To Over 40 Air Charter Destinations Across Northwest Territories
 
@@ -152,7 +130,3 @@ There are no helicopter services based in Gameti. The closest operations base is
 * [Whati](/canada/northwest-territories/whati)
 * [Wrigley](/canada/northwest-territories/wrigley)
 * [Yellowknife](/canada/northwest-territories/yellowknife)
-
----
-
----
