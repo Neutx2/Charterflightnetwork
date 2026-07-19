@@ -1,11 +1,16 @@
 ---
 /**
- * Charter quote request form.
+ * Charter quote request form — multi-step with progressive enhancement.
  *
  * Preserves the legacy conversion funnel exactly:
- *   POST /formmailer.php  (PHP FormMail script on the existing shared host)
+ *   POST SITE.formEndpoint (formmailer.php on the existing shared host)
  *   hidden: recipient, redirect, subject  ·  honeypot: "website"
  *   field names match the legacy form so formmailer.php keeps working as-is.
+ *
+ * Without JavaScript the form renders as one plain single-page form and
+ * submits natively. With JavaScript it becomes a 3-step flow (trip →
+ * aircraft → contact) with a progress indicator — multi-step lead forms
+ * convert materially better at the same traffic.
  *
  * TODO(deploy): If deploying to Netlify instead of the existing shared host,
  * formmailer.php will not exist. Switch by (1) adding `data-netlify="true"`
@@ -21,7 +26,7 @@ interface Props {
   compact?: boolean;
 }
 
-const { subject = 'Charter Quote Request', compact = false } = Astro.props;
+const { subject = 'Charter Quote Request' } = Astro.props;
 
 const aircraft = [
   { name: 'Jet', label: 'Jet' },
@@ -35,6 +40,7 @@ const aircraft = [
 const inputCls =
   'w-full rounded-lg border border-slate-300 bg-white px-3.5 py-2.5 text-slate-900 placeholder-slate-400 shadow-sm focus:border-lake-500 focus:outline-none focus:ring-2 focus:ring-lake-500/30';
 const labelCls = 'block text-sm font-semibold text-slate-700 mb-1.5';
+const uid = subject.length; // pages render at most one quote form
 ---
 
 <form
@@ -46,18 +52,31 @@ const labelCls = 'block text-sm font-semibold text-slate-700 mb-1.5';
 >
   <!-- honeypot (legacy anti-spam, keep name="website") -->
   <div class="absolute -left-[5000px] top-auto h-px w-px overflow-hidden" aria-hidden="true">
-    <label for={`website-${subject.length}`}>Website</label>
-    <input type="text" id={`website-${subject.length}`} name="website" tabindex="-1" autocomplete="off" />
+    <label for={`website-${uid}`}>Website</label>
+    <input type="text" id={`website-${uid}`} name="website" tabindex="-1" autocomplete="off" />
   </div>
 
-  <div class:list={['grid gap-4', compact ? 'sm:grid-cols-2' : 'sm:grid-cols-2']}>
+  <!-- progress indicator: hidden without JS -->
+  <div class="quote-progress hidden mb-6" aria-hidden="true">
+    <div class="flex items-center justify-between text-xs font-semibold text-slate-600 mb-2">
+      <span data-step-label="1" class="text-lake-800">1 · Your trip</span>
+      <span data-step-label="2">2 · Aircraft</span>
+      <span data-step-label="3">3 · Your details</span>
+    </div>
+    <div class="h-1.5 rounded-full bg-birch-200 overflow-hidden">
+      <div class="quote-progress-bar h-full w-1/3 rounded-full bg-boreal-600 transition-all duration-300"></div>
+    </div>
+  </div>
+
+  <!-- STEP 1 — trip -->
+  <div class="quote-step grid gap-4 sm:grid-cols-2" data-step="1">
     <div>
-      <label class={labelCls} for={`FlyFrom-${subject.length}`}>Fly from <span class="text-red-600">*</span></label>
-      <input class={inputCls} type="text" id={`FlyFrom-${subject.length}`} name="FlyFrom" placeholder="Departure city or airport" required autocomplete="off" />
+      <label class={labelCls} for={`FlyFrom-${uid}`}>Fly from <span class="text-red-600">*</span></label>
+      <input class={inputCls} type="text" id={`FlyFrom-${uid}`} name="FlyFrom" placeholder="Departure city or airport" required autocomplete="off" />
     </div>
     <div>
-      <label class={labelCls} for={`FlyTo-${subject.length}`}>Fly to <span class="text-red-600">*</span></label>
-      <input class={inputCls} type="text" id={`FlyTo-${subject.length}`} name="FlyTo" placeholder="Destination city or airport" required autocomplete="off" />
+      <label class={labelCls} for={`FlyTo-${uid}`}>Fly to <span class="text-red-600">*</span></label>
+      <input class={inputCls} type="text" id={`FlyTo-${uid}`} name="FlyTo" placeholder="Destination city or airport" required autocomplete="off" />
     </div>
 
     <fieldset class="sm:col-span-2">
@@ -75,20 +94,23 @@ const labelCls = 'block text-sm font-semibold text-slate-700 mb-1.5';
     </fieldset>
 
     <div>
-      <label class={labelCls} for={`DepartDate-${subject.length}`}>Departure date</label>
-      <input class={inputCls} type="date" id={`DepartDate-${subject.length}`} name="DepartDate" />
+      <label class={labelCls} for={`DepartDate-${uid}`}>Departure date</label>
+      <input class={inputCls} type="date" id={`DepartDate-${uid}`} name="DepartDate" />
     </div>
     <div data-return-date-wrap>
-      <label class={labelCls} for={`ReturnDate-${subject.length}`}>Return date</label>
-      <input class={inputCls} type="date" id={`ReturnDate-${subject.length}`} name="ReturnDate" />
+      <label class={labelCls} for={`ReturnDate-${uid}`}>Return date</label>
+      <input class={inputCls} type="date" id={`ReturnDate-${uid}`} name="ReturnDate" />
     </div>
 
     <div>
-      <label class={labelCls} for={`Passengers-${subject.length}`}>Passengers <span class="text-red-600">*</span></label>
-      <input class={inputCls} type="number" min="1" inputmode="numeric" id={`Passengers-${subject.length}`} name="Passengers" required />
+      <label class={labelCls} for={`Passengers-${uid}`}>Passengers <span class="text-red-600">*</span></label>
+      <input class={inputCls} type="number" min="1" inputmode="numeric" id={`Passengers-${uid}`} name="Passengers" required />
     </div>
+  </div>
 
-    <fieldset class="sm:col-span-2">
+  <!-- STEP 2 — aircraft & notes -->
+  <div class="quote-step grid gap-4 mt-4" data-step="2">
+    <fieldset>
       <legend class="text-sm font-semibold text-slate-700 mb-1.5">Aircraft preference <span class="font-normal text-slate-600">— select one or more</span></legend>
       <div class="grid grid-cols-2 gap-x-4 gap-y-2 sm:grid-cols-3">
         {aircraft.map((a) => (
@@ -101,25 +123,28 @@ const labelCls = 'block text-sm font-semibold text-slate-700 mb-1.5';
     </fieldset>
 
     <div>
-      <label class={labelCls} for={`Name-${subject.length}`}>Name <span class="text-red-600">*</span></label>
-      <input class={inputCls} type="text" id={`Name-${subject.length}`} name="Name" autocomplete="name" required />
+      <label class={labelCls} for={`OtherInfo-${uid}`}>Comments or alternate departure city</label>
+      <textarea class={inputCls} id={`OtherInfo-${uid}`} name="OtherInfo" rows="4"></textarea>
     </div>
-    <div>
-      <label class={labelCls} for={`Email-${subject.length}`}>Email <span class="text-red-600">*</span></label>
-      <input class={inputCls} type="email" id={`Email-${subject.length}`} name="Email" autocomplete="email" required />
-    </div>
-    <div>
-      <label class={labelCls} for={`Phone-${subject.length}`}>Phone</label>
-      <input class={inputCls} type="tel" id={`Phone-${subject.length}`} name="Phone" autocomplete="tel" />
-    </div>
-    <div>
-      <label class={labelCls} for={`City-${subject.length}`}>Your city / province</label>
-      <input class={inputCls} type="text" id={`City-${subject.length}`} name="City" autocomplete="address-level2" />
-    </div>
+  </div>
 
-    <div class="sm:col-span-2">
-      <label class={labelCls} for={`OtherInfo-${subject.length}`}>Comments or alternate departure city</label>
-      <textarea class={inputCls} id={`OtherInfo-${subject.length}`} name="OtherInfo" rows="4"></textarea>
+  <!-- STEP 3 — contact -->
+  <div class="quote-step grid gap-4 sm:grid-cols-2 mt-4" data-step="3">
+    <div>
+      <label class={labelCls} for={`Name-${uid}`}>Name <span class="text-red-600">*</span></label>
+      <input class={inputCls} type="text" id={`Name-${uid}`} name="Name" autocomplete="name" required />
+    </div>
+    <div>
+      <label class={labelCls} for={`Email-${uid}`}>Email <span class="text-red-600">*</span></label>
+      <input class={inputCls} type="email" id={`Email-${uid}`} name="Email" autocomplete="email" required />
+    </div>
+    <div>
+      <label class={labelCls} for={`Phone-${uid}`}>Phone</label>
+      <input class={inputCls} type="tel" id={`Phone-${uid}`} name="Phone" autocomplete="tel" />
+    </div>
+    <div>
+      <label class={labelCls} for={`City-${uid}`}>Your city / province</label>
+      <input class={inputCls} type="text" id={`City-${uid}`} name="City" autocomplete="address-level2" />
     </div>
   </div>
 
@@ -131,8 +156,20 @@ const labelCls = 'block text-sm font-semibold text-slate-700 mb-1.5';
 
   <div class="mt-5 flex flex-col items-center gap-3 sm:flex-row">
     <button
+      type="button"
+      class="quote-back hidden w-full sm:w-auto rounded-lg border border-slate-300 px-6 py-3.5 text-base font-semibold text-slate-700 hover:bg-birch-100 transition-colors"
+    >
+      Back
+    </button>
+    <button
+      type="button"
+      class="quote-next hidden w-full sm:w-auto rounded-lg bg-lake-800 px-8 py-3.5 text-base font-bold text-white shadow-md hover:bg-lake-700 transition-colors"
+    >
+      Continue
+    </button>
+    <button
       type="submit"
-      class="w-full sm:w-auto rounded-lg bg-ember-500 px-8 py-3.5 text-base font-bold text-lake-950 shadow-md hover:bg-ember-400 transition-colors"
+      class="quote-submit w-full sm:w-auto rounded-lg bg-ember-500 px-8 py-3.5 text-base font-bold text-lake-950 shadow-md hover:bg-ember-400 transition-colors"
     >
       Request Competitive Quotes
     </button>
@@ -147,7 +184,8 @@ const labelCls = 'block text-sm font-semibold text-slate-700 mb-1.5';
 </form>
 
 <script>
-  // Client-side validation + one-way/return toggle for every quote form on the page.
+  // Multi-step flow + validation + one-way/return toggle. Without JS the form
+  // renders as one plain page and submits natively.
   document.querySelectorAll<HTMLFormElement>('form.quote-form').forEach((form) => {
     const returnWrap = form.querySelector<HTMLElement>('[data-return-date-wrap]');
     const returnInput = returnWrap?.querySelector<HTMLInputElement>('input');
@@ -160,22 +198,81 @@ const labelCls = 'block text-sm font-semibold text-slate-700 mb-1.5';
     });
 
     const errorBox = form.querySelector<HTMLElement>('.quote-form-error');
-    form.addEventListener('submit', (e) => {
+    const showError = (msg: string) => {
+      if (!errorBox) return;
+      errorBox.textContent = msg;
+      errorBox.classList.remove('hidden');
+      errorBox.scrollIntoView({ block: 'center', behavior: 'smooth' });
+    };
+    const clearError = () => errorBox?.classList.add('hidden');
+
+    const validateWithin = (root: HTMLElement | HTMLFormElement): string[] => {
       const missing: string[] = [];
-      form.querySelectorAll<HTMLInputElement>('input[required]').forEach((input) => {
+      root.querySelectorAll<HTMLInputElement>('input[required]').forEach((input) => {
         input.classList.remove('border-red-500');
         if (!input.value.trim() || (input.type === 'email' && !input.checkValidity())) {
-          missing.push(input.closest('div')?.querySelector('label')?.textContent?.replace('*', '').trim() ?? input.name);
+          missing.push(
+            input.closest('div')?.querySelector('label')?.textContent?.replace('*', '').trim() ?? input.name
+          );
           input.classList.add('border-red-500');
         }
       });
+      return missing;
+    };
+
+    // ---- multi-step enhancement ----
+    const steps = Array.from(form.querySelectorAll<HTMLElement>('.quote-step'));
+    const progress = form.querySelector<HTMLElement>('.quote-progress');
+    const bar = form.querySelector<HTMLElement>('.quote-progress-bar');
+    const backBtn = form.querySelector<HTMLElement>('.quote-back');
+    const nextBtn = form.querySelector<HTMLElement>('.quote-next');
+    const submitBtn = form.querySelector<HTMLElement>('.quote-submit');
+    let current = 0;
+
+    const render = () => {
+      steps.forEach((s, i) => s.classList.toggle('hidden', i !== current));
+      progress?.classList.remove('hidden');
+      if (bar) bar.style.width = `${((current + 1) / steps.length) * 100}%`;
+      form.querySelectorAll<HTMLElement>('[data-step-label]').forEach((l, i) => {
+        l.classList.toggle('text-lake-800', i <= current);
+      });
+      backBtn?.classList.toggle('hidden', current === 0);
+      nextBtn?.classList.toggle('hidden', current === steps.length - 1);
+      submitBtn?.classList.toggle('hidden', current !== steps.length - 1);
+    };
+
+    if (steps.length === 3 && progress && nextBtn && submitBtn) {
+      render();
+      nextBtn.addEventListener('click', () => {
+        const missing = validateWithin(steps[current]!);
+        if (missing.length) {
+          showError(`Please complete: ${missing.join(', ')}.`);
+          return;
+        }
+        clearError();
+        current = Math.min(current + 1, steps.length - 1);
+        render();
+        form.scrollIntoView({ block: 'start', behavior: 'smooth' });
+      });
+      backBtn?.addEventListener('click', () => {
+        clearError();
+        current = Math.max(current - 1, 0);
+        render();
+      });
+    }
+
+    form.addEventListener('submit', (e) => {
+      const missing = validateWithin(form);
       if (missing.length) {
         e.preventDefault();
-        if (errorBox) {
-          errorBox.textContent = `Please complete: ${missing.join(', ')}.`;
-          errorBox.classList.remove('hidden');
-          errorBox.scrollIntoView({ block: 'center', behavior: 'smooth' });
+        // jump to the first step containing a missing required field
+        const firstBad = form.querySelector<HTMLElement>('input.border-red-500');
+        const badStep = firstBad?.closest<HTMLElement>('.quote-step');
+        if (badStep && steps.length) {
+          current = steps.indexOf(badStep);
+          render();
         }
+        showError(`Please complete: ${missing.join(', ')}.`);
       }
     });
   });

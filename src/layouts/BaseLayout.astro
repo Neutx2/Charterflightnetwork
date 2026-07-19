@@ -102,8 +102,14 @@ const siteGraph = {
     </script>
   </head>
   <body class="min-h-screen flex flex-col">
+    <a
+      href="#main"
+      class="sr-only focus:not-sr-only focus:absolute focus:z-[60] focus:top-2 focus:left-2 focus:rounded-lg focus:bg-ember-500 focus:px-4 focus:py-2 focus:font-bold focus:text-lake-950"
+    >
+      Skip to content
+    </a>
     <Header />
-    <main class="flex-1">
+    <main id="main" class="flex-1">
       <slot />
     </main>
     <Footer />

@@ -22,7 +22,8 @@
    honeypot, per-page subjects, client-side validation.
 
 ## P1 — Conversion-rate optimization (low-traffic appropriate)
-6. Convert single quote form → multi-step (progress bar; contact fields last)
+6. [DONE 2026-07-19 cycle 1] Multi-step quote form (3 steps, progress bar, contact last,
+   no-JS fallback verified)
    ICE: 9×7×6 = 378 | Rev: multi-step lead forms convert materially better
    than single-page at the same traffic.
 7. [DONE 2026-07-19] Click-to-call on mobile (tel: link in sticky header +

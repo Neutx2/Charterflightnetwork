@@ -29,6 +29,16 @@ ht = [
     "# Serve pre-built directory indexes cleanly",
     "DirectoryIndex index.html",
     "",
+    "# Security headers (mirrors netlify.toml)",
+    "<IfModule mod_headers.c>",
+    '  Header set X-Content-Type-Options "nosniff"',
+    '  Header set X-Frame-Options "SAMEORIGIN"',
+    '  Header set Referrer-Policy "strict-origin-when-cross-origin"',
+    '  <FilesMatch "\\.(css|js|woff2)$">',
+    '    Header set Cache-Control "public, max-age=31536000, immutable"',
+    "  </FilesMatch>",
+    "</IfModule>",
+    "",
 ]
 for old, new in pairs:
     # exact-match rule; escape regex specials, spaces (from %20) need escaping

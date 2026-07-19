@@ -62,6 +62,21 @@ const aircraftTypes = [
   },
 ];
 
+// Migrated legacy route pages — real pages, drives internal linking
+const popularRoutes = [
+  { href: '/flights/toronto-to-chicago', label: 'Toronto → Chicago' },
+  { href: '/flights/toronto-to-montreal', label: 'Toronto → Montreal' },
+  { href: '/flights/toronto-to-boston', label: 'Toronto → Boston' },
+  { href: '/flights/toronto-to-sudbury', label: 'Toronto → Sudbury' },
+  { href: '/flights/toronto-to-sault-ste-marie', label: 'Toronto → Sault Ste Marie' },
+  { href: '/flights/toronto-teterboro', label: 'Toronto → Teterboro (NYC)' },
+  { href: '/flights/winnipeg-to-red-lake', label: 'Winnipeg → Red Lake' },
+  { href: '/flights/minneapolis-to-red-lake-ontario', label: 'Minneapolis → Red Lake' },
+  { href: '/flights/kitchener-to-montreal-quebec', label: 'Kitchener → Montreal' },
+  { href: '/flights/kitchener-to-raleigh-durham', label: 'Kitchener → Raleigh-Durham' },
+  { href: '/flights/campbell-river-from-calgary', label: 'Calgary → Campbell River' },
+];
+
 const steps = [
   {
     n: '1',
@@ -247,6 +262,20 @@ const steps = [
         <QuoteForm subject="Charter Quote Request - Home Page" />
       </div>
     </div>
+  </section>
+
+  <!-- POPULAR ROUTES (internal links to migrated route pages) -->
+  <section class="mx-auto max-w-7xl px-4 sm:px-6 pt-16">
+    <h2 class="font-display text-2xl font-bold text-lake-900 text-center">Popular charter routes</h2>
+    <ul class="mt-6 flex flex-wrap justify-center gap-2 text-sm">
+      {popularRoutes.map((r) => (
+        <li>
+          <a href={r.href} class="block rounded-full bg-white px-4 py-2 font-medium text-lake-700 ring-1 ring-birch-200 hover:ring-lake-300 hover:text-lake-900 transition">
+            {r.label}
+          </a>
+        </li>
+      ))}
+    </ul>
   </section>
 
   <!-- DIRECTORY CROSS-SELL -->

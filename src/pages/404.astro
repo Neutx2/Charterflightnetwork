@@ -1,0 +1,42 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../lib/site';
+
+const title = 'Page Not Found | Charter Flight Network';
+const description =
+  'That page has moved or no longer exists. Find charter flight destinations across Canada, the USA, Bahamas and Caribbean — or request free quotes.';
+---
+
+<BaseLayout title={title} description={description} canonicalPath="/404">
+  <div class="mx-auto max-w-2xl px-4 sm:px-6 py-20 text-center">
+    <p class="font-display text-7xl font-bold text-lake-200" aria-hidden="true">404</p>
+    <h1 class="mt-4 font-display text-3xl sm:text-4xl font-bold text-lake-900">
+      That page has flown on
+    </h1>
+    <p class="mt-4 text-lg text-slate-600 leading-relaxed">
+      The page you're looking for has moved or no longer exists. The whole
+      network is still here — pick a region below, or go straight to a free
+      quote request.
+    </p>
+    <div class="mt-8 flex flex-wrap justify-center gap-3">
+      <a href="/quote" class="rounded-lg bg-ember-500 px-6 py-3 font-bold text-lake-950 hover:bg-ember-400 transition-colors">
+        Get Free Quotes
+      </a>
+      <a href="/canada" class="rounded-lg border border-lake-300 px-6 py-3 font-semibold text-lake-800 hover:bg-lake-50 transition-colors">
+        Canada Destinations
+      </a>
+    </div>
+    <ul class="mt-10 flex flex-wrap justify-center gap-x-6 gap-y-2 text-sm font-medium text-lake-700">
+      <li><a href="/usa" class="hover:underline">USA</a></li>
+      <li><a href="/bahamas" class="hover:underline">Bahamas</a></li>
+      <li><a href="/caribbean" class="hover:underline">Caribbean</a></li>
+      <li><a href="/aircraft" class="hover:underline">Aircraft</a></li>
+      <li><a href="/empty-legs" class="hover:underline">Empty Legs</a></li>
+      <li><a href="/directory" class="hover:underline">Charter Directory</a></li>
+      <li><a href="/contact" class="hover:underline">Contact</a></li>
+    </ul>
+    <p class="mt-8 text-sm text-slate-500">
+      Or call us at <a href={SITE.phoneHref} class="font-semibold text-lake-700 hover:underline">{SITE.phone}</a>.
+    </p>
+  </div>
+</BaseLayout>
