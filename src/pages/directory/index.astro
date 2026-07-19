@@ -9,9 +9,13 @@ const title = 'Canadian Air Charter Directory | Wheel, Float Plane & Helicopter 
 const description =
   'Direct links to wheel plane, float plane, and helicopter charter services in every province and territory of Canada. Find the right charter operator fast.';
 
+import operators from '../../data/operators.json';
+
 const entries = (await getCollection('directory')).sort((a, b) =>
   a.data.title.localeCompare(b.data.title)
 );
+// counts derived from the parsed directory listings (src/data/operators.json)
+const uniqueOperators = new Set(operators.map((o) => `${o.name}|${o.baseLocations}`)).size;
 ---
 
 <BaseLayout title={title} description={description} canonicalPath="/directory">
@@ -22,9 +26,10 @@ const entries = (await getCollection('directory')).sort((a, b) =>
         Canadian Air Charter Directory
       </h1>
       <p class="mt-3 max-w-3xl text-lake-100 text-lg leading-relaxed">
-        Listing every wheel plane, float plane and helicopter charter airline in
-        Canada. Contact any charter company directly and request a quote — or save
-        time with our <a href="/quote" class="underline font-semibold">free quote request service</a>.
+        {uniqueOperators}+ wheel plane, float plane and helicopter charter
+        operators listed across every province and territory of Canada. Contact
+        any charter company directly and request a quote — or save time with our
+        <a href="/quote" class="underline font-semibold">free quote request service</a>.
       </p>
     </div>
   </div>
