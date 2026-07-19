@@ -33,6 +33,32 @@ const destinations = (
   )
 ).sort((a, b) => (a.data.city ?? '').localeCompare(b.data.city ?? ''));
 
+// Use-case pages relevant to each region (all are real migrated pages)
+const USE_CASE_LINKS: Record<string, { href: string; label: string }[]> = {
+  'northern-ontario': [
+    { href: '/travel/fly-in-fishing', label: 'Fly-in fishing charters' },
+    { href: '/travel/ontario-remote-communities', label: 'Remote community travel' },
+    { href: '/travel/mining-exploration', label: 'Mining & exploration crews' },
+  ],
+  manitoba: [
+    { href: '/travel/fly-in-fishing', label: 'Fly-in fishing charters' },
+    { href: '/travel/churchill-polar-bears', label: 'Churchill polar bear trips' },
+  ],
+  saskatchewan: [{ href: '/travel/fly-in-fishing', label: 'Fly-in fishing charters' }],
+  'northwest-territories': [
+    { href: '/travel/canadian-arctic', label: 'Canadian Arctic travel' },
+    { href: '/travel/mining-exploration', label: 'Mining & exploration crews' },
+  ],
+  nunavut: [
+    { href: '/travel/canadian-arctic', label: 'Canadian Arctic travel' },
+    { href: '/travel/mining-exploration', label: 'Mining & exploration crews' },
+  ],
+  yukon: [{ href: '/travel/canadian-arctic', label: 'Canadian Arctic travel' }],
+  'southern-ontario': [{ href: '/travel/business-travel', label: 'Business & corporate travel' }],
+  quebec: [{ href: '/travel/fly-in-fishing', label: 'Fly-in fishing charters' }],
+};
+const useCases = USE_CASE_LINKS[d.provinceSlug ?? ''] ?? [];
+
 const jsonLd = [
   {
     '@context': 'https://schema.org',
@@ -80,6 +106,21 @@ const jsonLd = [
               >
                 {e.data.city}
                 {e.data.airportCode && <span class="text-slate-400"> ({e.data.airportCode})</span>}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    {useCases.length > 0 && (
+      <section class="mb-12">
+        <h2 class="font-display text-xl font-bold text-lake-900">Popular ways to charter in {d.province}</h2>
+        <ul class="mt-4 flex flex-wrap gap-2 text-sm">
+          {useCases.map((u) => (
+            <li>
+              <a href={u.href} class="block rounded-full bg-boreal-50 px-4 py-2 font-medium text-boreal-800 ring-1 ring-boreal-200 hover:ring-boreal-400 transition">
+                {u.label}
               </a>
             </li>
           ))}
