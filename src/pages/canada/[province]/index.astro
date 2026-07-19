@@ -33,6 +33,36 @@ const destinations = (
   )
 ).sort((a, b) => (a.data.city ?? '').localeCompare(b.data.city ?? ''));
 
+import operators from '../../../data/operators.json';
+
+// Directory-page slug prefixes per province (matches real pages in
+// src/content/directory/); Ontario listings are shared by both Ontario hubs,
+// NL listings by both Newfoundland and Labrador hubs.
+const DIRECTORY_PREFIXES: Record<string, { prefixes: string[]; browse: string }> = {
+  alberta: { prefixes: ['alberta-'], browse: '/directory/alberta-air-charter-directory' },
+  'british-columbia': { prefixes: ['bc-', 'british-columbia-'], browse: '/directory/bc-air-charter-directory' },
+  manitoba: { prefixes: ['manitoba-'], browse: '/directory/manitoba-air-charter-directory-1' },
+  'new-brunswick': { prefixes: ['new-brunswick-'], browse: '/directory/new-brunswick-air-charter-directory' },
+  newfoundland: { prefixes: ['newfoundland-'], browse: '/directory/newfoundland-air-charter-directory' },
+  labrador: { prefixes: ['newfoundland-'], browse: '/directory/newfoundland-air-charter-directory' },
+  'northwest-territories': { prefixes: ['nwt-', 'northwest-territories-'], browse: '/directory/nwt-air-charter-directory-1' },
+  'nova-scotia': { prefixes: ['nova-scotia-'], browse: '/directory/nova-scotia-air-charter-directory' },
+  nunavut: { prefixes: ['nunavut-'], browse: '/directory/nunavut-air-charter-directory-1' },
+  'northern-ontario': { prefixes: ['ontario-', 'northern-ontario-'], browse: '/directory/ontario-air-charter-directory-1' },
+  'southern-ontario': { prefixes: ['ontario-', 'northern-ontario-'], browse: '/directory/ontario-air-charter-directory-1' },
+  quebec: { prefixes: ['quebec-'], browse: '/directory/quebec-charter-directory-1' },
+  saskatchewan: { prefixes: ['saskatchewan-'], browse: '/directory/saskatchewan-air-charter-directory' },
+  yukon: { prefixes: ['yukon-'], browse: '/directory/yukon-air-charter-directory-1' },
+};
+const dirInfo = DIRECTORY_PREFIXES[d.provinceSlug ?? ''];
+const operatorCount = dirInfo
+  ? new Set(
+      operators
+        .filter((o) => dirInfo.prefixes.some((p) => o.directoryPage.startsWith('/directory/' + p)))
+        .map((o) => `${o.name}|${o.baseLocations}`)
+    ).size
+  : 0;
+
 // Use-case pages relevant to each region (all are real migrated pages)
 const USE_CASE_LINKS: Record<string, { href: string; label: string }[]> = {
   'northern-ontario': [
@@ -121,6 +151,17 @@ const jsonLd = [
           ))}
         </ul>
       </section>
+    )}
+
+    {operatorCount > 0 && dirInfo && (
+      <p class="mb-8 rounded-xl bg-white px-5 py-4 ring-1 ring-birch-200 text-slate-700">
+        <strong class="text-lake-900">{operatorCount} charter operators</strong> are
+        listed for this region in the
+        <a href={dirInfo.browse} class="font-semibold text-lake-700 hover:underline">Canadian Air Charter Directory</a>
+        — or skip the phone calls and
+        <a href="#quote" class="font-semibold text-boreal-700 hover:underline">get up to 3 competitive quotes</a>
+        with one request.
+      </p>
     )}
 
     {useCases.length > 0 && (
