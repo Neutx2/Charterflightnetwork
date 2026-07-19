@@ -1,6 +1,6 @@
 # Charter Flights to Dauphin, Manitoba
 
-Dauphin is located about 140 air miles northwest of Winnipeg in Manitoba’s Parkland region, near Dauphin Lake, Lake Manitoba, and Duck Mountain Provincial Park. Business and leisure travelers can save substantial time by chartering directly into Dauphin Airport, where suitable aircraft can land just a few miles south of the city for efficient same-day access.
+Dauphin is located about 140 air miles northwest of Winnipeg in Manitoba's Parkland region, near Dauphin Lake, Lake Manitoba, and Duck Mountain Provincial Park. Business and leisure travelers can save substantial time by chartering directly into Dauphin Airport, where suitable aircraft can land just a few miles south of the city for efficient same-day access.
 
 [Request Charter Quote](#QuoteForm)
 
@@ -20,7 +20,7 @@ Dauphin is located about 140 air miles northwest of Winnipeg in Manitoba’s Par
 
 ### **About Dauphin:**
 
-Dauphin is the main service centre of Manitoba’s Parkland region, known for agriculture, local business activity, and convenient access to outdoor recreation. Lt. Col. W.G. (Billy) Barker VC Airport is about 3 miles south of the city and is open to the public as a certified airport, making it a practical charter destination for business and regional travel.
+Dauphin is the main service centre of Manitoba's Parkland region, known for agriculture, local business activity, and convenient access to outdoor recreation. Lt. Col. W.G. (Billy) Barker VC Airport is about 3 miles south of the city and is open to the public as a certified airport, making it a practical charter destination for business and regional travel.
 
 [Previous](#carouselExampleIndicators1)
 [Next](#carouselExampleIndicators1)
@@ -49,7 +49,7 @@ Dauphin is the main service centre of Manitoba’s Parkland region, known for ag
 
 **Things to Do And Local Attractions**
 
-* Tourism Dauphin promotes the city as a base for history, biking, golf, Ukrainian culture, and broader regional exploration. That makes Dauphin appealing for both business travelers extending a stay and leisure visitors exploring Manitoba’s Parkland region.
+* Tourism Dauphin promotes the city as a base for history, biking, golf, Ukrainian culture, and broader regional exploration. That makes Dauphin appealing for both business travelers extending a stay and leisure visitors exploring Manitoba's Parkland region.
 
 ---
 

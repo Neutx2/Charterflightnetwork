@@ -1,7 +1,7 @@
 ---
 title: "British Columbia Helicopter Charter Directory | Page 3"
 description: "British Columbia helicopter charter directory page 3, listing operators from Nelson, Parksville, Prince George and Revelstoke to Smithers, Squamish, Terrace and Tofino."
-h1: "British Columbia Helicopter Charter Directory â Page 3"
+h1: "British Columbia Helicopter Charter Directory — Page 3"
 legacyUrl: "/bc_helicopter_directory_3.html"
 slug: "directory/bc-helicopter-directory-3"
 thin: false

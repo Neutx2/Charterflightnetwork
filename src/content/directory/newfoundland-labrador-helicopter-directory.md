@@ -15,7 +15,7 @@ Browse helicopter charter operators by region, review aircraft types, and connec
 
 ## Newfoundland & Labrador Helicopter Operators
 
-Newfoundland and Labradorâs helicopter charter operators support offshore operations, remote community access, industrial work sites, and time-critical passenger movements.
+Newfoundland and Labrador's helicopter charter operators support offshore operations, remote community access, industrial work sites, and time-critical passenger movements.
 Use this directory to identify providers by base location and quickly compare aircraft types for medevac support, sling work, aerial survey, crew changes, and executive travel.
 Listings include direct links to operator websites where available, along with fleet highlights to help you shortlist the right aircraft for your mission.
 If your schedule is tight or your destination is hard to reach, start here and connect directly to request availability and charter pricing.

@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-# Alberta Helicopter Air Charter Directory â Page 2
+# Alberta Helicopter Air Charter Directory — Page 2
 
 Helicopter charter services operating across Alberta, including Fort McMurray, Grande Prairie, High River, Manning, Medicine Hat, Nordegg, Okotoks, Red Deer, Slave Lake, Sturgeon County, and Whitecourt.
 

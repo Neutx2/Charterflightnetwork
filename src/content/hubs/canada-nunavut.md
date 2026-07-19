@@ -35,7 +35,7 @@ Iqaluit is the territorial capital and primary air gateway for Nunavut. Its pave
 
 ## Rankin Inlet Airport (YRT)
 
-Rankin Inlet is a major hub for the Kivalliq region on the western shore of Hudson Bay. The airport’s runway and apron accommodate regional turboprops and cargo aircraft serving surrounding communities and resource projects. Charter flights from Rankin Inlet connect smaller communities along the coast and inland, and often link with flights from Winnipeg and northern Manitoba staging points.
+Rankin Inlet is a major hub for the Kivalliq region on the western shore of Hudson Bay. The airport's runway and apron accommodate regional turboprops and cargo aircraft serving surrounding communities and resource projects. Charter flights from Rankin Inlet connect smaller communities along the coast and inland, and often link with flights from Winnipeg and northern Manitoba staging points.
 
 ## Cambridge Bay Airport (YCB)
 
@@ -110,7 +110,7 @@ who are best positioned and equipped to provide the service you request. Each ai
 a competitive quote. If a quote meets your needs and budget, you deal directly with the airline of your choice
 to finalize all details, scheduling, and payment.
 
-**\*Privacy:** we don’t share your name or contact info with airlines. Your request is assigned a unique ID;
+**\*Privacy:** we don't share your name or contact info with airlines. Your request is assigned a unique ID;
 airlines submit quotes for that ID and we forward them to you.
 
 ## Charter Flights to Neighbouring Regions
@@ -153,4 +153,4 @@ North Star Air specializes in northern air transport, offering passenger, freigh
 
 ## Trade North
 
-Trade North Aviation’s experienced pilots deliver safe, efficient air transportation to isolated communities and job sites across Manitoba and Northwestern Ontario.
+Trade North Aviation's experienced pilots deliver safe, efficient air transportation to isolated communities and job sites across Manitoba and Northwestern Ontario.

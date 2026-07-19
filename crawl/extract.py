@@ -15,6 +15,7 @@ import urllib.parse
 from collections import Counter
 from pathlib import Path
 
+import ftfy
 from bs4 import BeautifulSoup
 from markdownify import markdownify as mdify
 
@@ -68,7 +69,9 @@ def soup_for(url: str, cache_file: str) -> BeautifulSoup | None:
     p = RAW / cache_file
     if not p.exists():
         return None
-    return BeautifulSoup(p.read_text(errors="replace"), "lxml")
+    # The legacy server mislabels content-type (php5-fcgi, no charset), so
+    # requests decoded UTF-8 pages as latin-1 → mojibake. ftfy repairs it.
+    return BeautifulSoup(ftfy.fix_text(p.read_text(errors="replace")), "lxml")
 
 
 def clean_soup(s: BeautifulSoup) -> BeautifulSoup:
@@ -171,10 +174,21 @@ def main():
         if c:
             canonical = c.get("href")
 
+        # re-extract title/desc/h1 from the ftfy-repaired soup (the crawler's
+        # inventory copies carry the original mojibake)
+        title = s.title.get_text(strip=True) if s.title else p["title"]
+        mdesc_el = s.find("meta", attrs={"name": re.compile("^description$", re.I)})
+        mdesc = mdesc_el.get("content", "").strip() if mdesc_el else p["meta_description"]
+        h1_el = s.find("h1")
+        h1 = h1_el.get_text(" ", strip=True) if h1_el else p["h1"]
+
         clean_soup(s)
         page_lines[p["url"]] = to_md_lines(s)
         meta[p["url"]] = {
-            **{k: p[k] for k in ("url", "title", "meta_description", "h1", "word_count", "category", "cache_file")},
+            **{k: p[k] for k in ("url", "word_count", "category", "cache_file")},
+            "title": title,
+            "meta_description": mdesc,
+            "h1": h1,
             "quote_subject": subject,
             "images": images,
             "canonical": canonical,

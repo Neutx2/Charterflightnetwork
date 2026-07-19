@@ -98,7 +98,7 @@ Map data from [OpenStreetMap](https://www.openstreetmap.org/copyright)
 * Flight time averages about 1 hour to Campbell River.
 * Jet, turboprop, and floatplane aircraft may be available. Floatplanes may require longer overall travel time.
 * Arrive in Campbell River between noon and 1:30 PM.
-* Clear Canadian customs based on the operator’s confirmed routing and port-of-entry process.
+* Clear Canadian customs based on the operator's confirmed routing and port-of-entry process.
 * Enjoy 4 to 6 hours of salmon fishing on arrival day.
 * If you are on a weekend getaway, you can fish Friday, Saturday, and Sunday.
 * Depart Campbell River Sunday afternoon or Monday morning, based on your preference.

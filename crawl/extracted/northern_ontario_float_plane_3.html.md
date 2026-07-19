@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-# Ontario Air Charter Directory â Page 3
+# Ontario Air Charter Directory – Page 3
 
 Page 3 features float plane, wheel plane, and helicopter charter listings for Hornepayne, Hudson, Ignace, Keene, Kenora, Kingston and Tamworth, Kitchener-Waterloo, London, Meaford, Moosonee, and Muskoka.
 

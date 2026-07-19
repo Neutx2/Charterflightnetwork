@@ -55,7 +55,7 @@ Poplar River is a remote Anishinaabe community on the east side of Lake Winnipeg
 
 ### **Wheel Plane Charter Flights**
 
-Wheel plane charter flights to Poplar River are practical for passengers and freight, provided the aircraft is suitable for the airport’s shorter crushed rock runway.
+Wheel plane charter flights to Poplar River are practical for passengers and freight, provided the aircraft is suitable for the airport's shorter crushed rock runway.
 
 [QUOTE REQUEST FORM](#QuoteForm)
 

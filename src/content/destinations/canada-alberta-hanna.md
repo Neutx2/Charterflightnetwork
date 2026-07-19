@@ -36,7 +36,7 @@ About 155 miles (250 kilometers) separate Hanna from Edmonton, providing an idea
 
 **Hanna to Grande Prairie**
 
-Linking Hanna with Grande Prairie, the distance spans around 370 miles (595 kilometers), presenting a scenic flight path over Alberta’s diverse terrain, perfect for those utilizing private jet or helicopter charter services to traverse the province.
+Linking Hanna with Grande Prairie, the distance spans around 370 miles (595 kilometers), presenting a scenic flight path over Alberta's diverse terrain, perfect for those utilizing private jet or helicopter charter services to traverse the province.
 
 ### Hanna Airport
 
@@ -50,15 +50,15 @@ Approximately 40 air miles southwest of Hanna, Drumheller Municipal Airport serv
 
 **Stettler Airport**
 
-About 50 air miles west of Hanna, Stettler Airport provides another convenient option for air travelers, featuring a runway suitable for small to medium-sized aircraft and serving as a point of access to central Alberta’s rich agricultural and historical sites.
+About 50 air miles west of Hanna, Stettler Airport provides another convenient option for air travelers, featuring a runway suitable for small to medium-sized aircraft and serving as a point of access to central Alberta's rich agricultural and historical sites.
 
 **Camrose Airport**
 
-Located around 70 air miles northwest of Hanna, Camrose Airport offers a strategic stop for private jets and helicopters, with services that cater to the needs of charter flights and general aviation, connecting travelers to the heart of Alberta’s parkland region.
+Located around 70 air miles northwest of Hanna, Camrose Airport offers a strategic stop for private jets and helicopters, with services that cater to the needs of charter flights and general aviation, connecting travelers to the heart of Alberta's parkland region.
 
 **Brooks Regional Aerodrome**
 
-Just 60 air miles south of Hanna, Brooks Regional Aerodrome is well-equipped to support air charter operations, providing an alternative route for those interested in exploring southern Alberta’s unique landscapes and cultural heritage.
+Just 60 air miles south of Hanna, Brooks Regional Aerodrome is well-equipped to support air charter operations, providing an alternative route for those interested in exploring southern Alberta's unique landscapes and cultural heritage.
 
 ### Hanna Hotels
 
@@ -66,9 +66,9 @@ Just 60 air miles south of Hanna, Brooks Regional Aerodrome is well-equipped to 
 
 The Canalta Hotel in Hanna provides a comfortable and welcoming 3-star accommodation experience, with amenities designed to cater to both leisure and business travelers, making it an ideal stop for those arriving or departing via air charter.
 
-**Hanna’s Lodge & Restaurant**
+**Hanna's Lodge & Restaurant**
 
-Offering a cozy stay with a touch of local hospitality, Hanna’s Lodge & Restaurant is rated 2 stars, presenting a budget-friendly option for visitors seeking a homely atmosphere close to Hanna’s main attractions and the airport.
+Offering a cozy stay with a touch of local hospitality, Hanna's Lodge & Restaurant is rated 2 stars, presenting a budget-friendly option for visitors seeking a homely atmosphere close to Hanna's main attractions and the airport.
 
 **Travelodge by Wyndham Hanna Canada Grey**
 

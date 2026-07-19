@@ -1,7 +1,7 @@
 ---
 title: "British Columbia Helicopter Charter Directory | Page 2"
 description: "British Columbia helicopter charter directory page 2, listing operators from Coldstream, Cranbrook and Delta to Fort Nelson, Fort St James, Fort St John, Hope, Kamloops, Kelowna and Naramata."
-h1: "British Columbia Helicopter Charter Directory â Page 2"
+h1: "British Columbia Helicopter Charter Directory — Page 2"
 legacyUrl: "/bc_helicopter_directory_2.html"
 slug: "directory/bc-helicopter-directory-2"
 thin: false

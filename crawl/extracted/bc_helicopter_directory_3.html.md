@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-# British Columbia Helicopter Charter Directory â Page 3
+# British Columbia Helicopter Charter Directory — Page 3
 
 Helicopter charter operators from Nelson, Parksville, Prince George and Revelstoke to Smithers, Squamish, Terrace and Tofino. Browse operators by base location, phone number, aircraft type and service category.
 

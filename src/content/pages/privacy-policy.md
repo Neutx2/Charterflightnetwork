@@ -11,7 +11,7 @@ region: "global"
 CharterFlightNetwork.com
 Effective and Last Updated: June 1st 2020
 
-This website is owned and operated by 2637758 Ontario Ltd. We are committed to protecting the privacy of our visitors while they interact with the content, products and services on this site (the “Site”). This Privacy Policy applies to the Site only. It does not apply to other websites to which we link. Because we gather certain types of information about our users, we want you to understand what information we collect about you, how we collect it, how that information is used, and how you can control our disclosure of it. You agree that your use of the Site signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Site.
+This website is owned and operated by 2637758 Ontario Ltd. We are committed to protecting the privacy of our visitors while they interact with the content, products and services on this site (the "Site"). This Privacy Policy applies to the Site only. It does not apply to other websites to which we link. Because we gather certain types of information about our users, we want you to understand what information we collect about you, how we collect it, how that information is used, and how you can control our disclosure of it. You agree that your use of the Site signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Site.
 
 1) Information Collected
 
@@ -25,11 +25,11 @@ By registering with us, you consent to the use and method of disclosure as descr
 
 • Voluntary Information for Services and Features
 
-• We [also] collect personally identifiable information when you choose to use certain other features of the Site, including: i) making purchases, ii) consenting to receive email or text messages about upcoming promotions or events, iii) consenting to receive email, iv) participating in our forum, iv) commenting on articles, and others. When you choose to use these additional features, we require you to provide your “Contact Information” in addition to other personal information that may be required to complete a transaction such as your phone number, billing and shipping addresses and credit card information. Occasionally, we may also request information such as your shopping preferences and demographics which will help us better serve you and our others users in the future
+• We [also] collect personally identifiable information when you choose to use certain other features of the Site, including: i) making purchases, ii) consenting to receive email or text messages about upcoming promotions or events, iii) consenting to receive email, iv) participating in our forum, iv) commenting on articles, and others. When you choose to use these additional features, we require you to provide your "Contact Information" in addition to other personal information that may be required to complete a transaction such as your phone number, billing and shipping addresses and credit card information. Occasionally, we may also request information such as your shopping preferences and demographics which will help us better serve you and our others users in the future
 
 • Cookies
 
-A cookie is a piece of data stored on the user’s computer tied to information about the user. Charter Flight Network uses cookies to store visitor’s preferences and to record session information. We do not and will not use cookies to collect private information from any user that such user did not intentionally submit to us.
+A cookie is a piece of data stored on the user's computer tied to information about the user. Charter Flight Network uses cookies to store visitor's preferences and to record session information. We do not and will not use cookies to collect private information from any user that such user did not intentionally submit to us.
 
 Third-Party Cookies: In the course of serving advertisements to this site, our third-party advertisers may place or recognise a unique "cookie" on your browser.
 
@@ -77,7 +77,7 @@ We provide mechanisms for updating and correcting your personal information for 
 
 7) Email Choice/Opt-out
 
-If you no longer wish to receive updates or notifications may opt-out of receiving these communications by changing your “email notification” settings in your “account settings.”
+If you no longer wish to receive updates or notifications may opt-out of receiving these communications by changing your "email notification" settings in your "account settings."
 
 8) Children's Privacy and Parental Controls
 

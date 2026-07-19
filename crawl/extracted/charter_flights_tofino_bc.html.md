@@ -6,11 +6,11 @@
 
 ##### About Flights To Tofino, BC
 
-Tofino, British Columbia is one of Canada’s most celebrated coastal destinations, attracting visitors with its rugged Pacific shoreline, temperate climate, and world-class outdoor experiences. Located on the western edge of Vancouver Island, Tofino is easily reached by private air through the Tofino/Long Beach Airport (YAZ), which accommodates wheel-plane charters arriving directly from points across British Columbia and beyond. For travellers heading to waterfront lodges or remote coves, [float plane charters](tofino_seaplane_flights_tours.html) operate from the Tofino Seaplane Base, offering fast connections to fishing resorts, secluded beaches and neighbouring islands. [Helicopter charters and sightseeing tours](tofino_helicopter_flights_tours.html) provide another exceptional way to reach Tofino, with aerial routes showcasing Clayoquot Sound, towering rainforests and dramatic ocean swells.
+Tofino, British Columbia is one of Canada's most celebrated coastal destinations, attracting visitors with its rugged Pacific shoreline, temperate climate, and world-class outdoor experiences. Located on the western edge of Vancouver Island, Tofino is easily reached by private air through the Tofino/Long Beach Airport (YAZ), which accommodates wheel-plane charters arriving directly from points across British Columbia and beyond. For travellers heading to waterfront lodges or remote coves, [float plane charters](tofino_seaplane_flights_tours.html) operate from the Tofino Seaplane Base, offering fast connections to fishing resorts, secluded beaches and neighbouring islands. [Helicopter charters and sightseeing tours](tofino_helicopter_flights_tours.html) provide another exceptional way to reach Tofino, with aerial routes showcasing Clayoquot Sound, towering rainforests and dramatic ocean swells.
 
 ##### Tofino Long Beach Airport (YAZ)
 
-Tofino’s Long Beach Airport (YAZ) is located about 14 km southeast of town and features a 5,000-foot paved runway capable of handling most regional charter aircraft. The airport offers seasonal services, rental cars, shuttle and taxi connections, and easy access to resorts, beaches, and local adventure operators.
+Tofino's Long Beach Airport (YAZ) is located about 14 km southeast of town and features a 5,000-foot paved runway capable of handling most regional charter aircraft. The airport offers seasonal services, rental cars, shuttle and taxi connections, and easy access to resorts, beaches, and local adventure operators.
 
 Map Data From
 [OpenStreetMap](https://www.openstreetmap.org/copyright)
@@ -23,7 +23,7 @@ Request A Charter Quote From Any Of The Following
 
 #### [Tofino Air](charter_quote_tofino_air.html)
 
-**Tofino Air / Float Plane & Wheel Plane Charters:** Tofino Air’s float-equipped Cessna 180 provides quick access to remote beaches, surf cabins, and sheltered coves throughout Clayoquot Sound, offering travellers a scenic shortcut to the rugged Pacific coast.
+**Tofino Air / Float Plane & Wheel Plane Charters:** Tofino Air's float-equipped Cessna 180 provides quick access to remote beaches, surf cabins, and sheltered coves throughout Clayoquot Sound, offering travellers a scenic shortcut to the rugged Pacific coast.
 
 #### [Atleo River Air Service](charter_quote_atleo_river_air.html)
 
@@ -40,7 +40,7 @@ Private wheel-plane charters allow BC Air passengers to avoid ferry delays, long
 
 #### [Nautilus Air](charter_quote_nautilus_air.html)
 
-**Nautilus Air / Wheel Plane Charters:** Nautilus Air provides direct access to regional destinations without airline delays, connecting travellers to locations big carriers don’t serve.
+**Nautilus Air / Wheel Plane Charters:** Nautilus Air provides direct access to regional destinations without airline delays, connecting travellers to locations big carriers don't serve.
 
 #### [A C Airways](charter_quote_ac_airways.html)
 

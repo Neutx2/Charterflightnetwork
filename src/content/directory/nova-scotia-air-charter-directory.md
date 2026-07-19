@@ -31,7 +31,7 @@ P: Phone not listed
 **Aircraft Types:** Cessna 172
 **Service Type:** Wheels
 
-Note: please replace âPhone not listedâ with the correct number when available.
+Note: please replace "Phone not listed" with the correct number when available.
 
 ## Halifax Air Charter
 
@@ -60,7 +60,7 @@ P: Phone not listed
 **Aircraft Types:** Britten-Norman BN-2A
 **Service Type:** Wheels
 
-Note: please replace âPhone not listedâ with the correct number when available.
+Note: please replace "Phone not listed" with the correct number when available.
 
 ## Port Hawkesbury Air Charter
 
@@ -73,7 +73,7 @@ P: Phone not listed
 **Aircraft Types:** Cessna 421B
 **Service Type:** Wheels
 
-Note: please replace âPhone not listedâ with the correct number when available.
+Note: please replace "Phone not listed" with the correct number when available.
 
 ## Sydney Air Charter
 
@@ -88,7 +88,7 @@ P: (902) 615-7536
 
 [Back To Main Canadian Menu](/directory/canadian-air-charter-directory-1)
 
-Copyright Â© Charter Flight Network. All rights reserved.
+Copyright © Charter Flight Network. All rights reserved.
 
 ---
 

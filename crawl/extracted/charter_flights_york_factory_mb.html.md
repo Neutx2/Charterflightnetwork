@@ -1,6 +1,6 @@
 # Charter Flights to York Factory, Manitoba
 
-York Factory is a remote National Historic Site near the mouth of the Hayes River on Hudson Bay, about 250 kilometres southeast of Churchill. Once a major Hudson’s Bay Company post, it is now valued for its history, archaeology, and wilderness setting.
+York Factory is a remote National Historic Site near the mouth of the Hayes River on Hudson Bay, about 250 kilometres southeast of Churchill. Once a major Hudson's Bay Company post, it is now valued for its history, archaeology, and wilderness setting.
 
 [Request Charter Quote](#QuoteForm)
 

@@ -49,7 +49,7 @@ Ilford is a small northern Manitoba community along the Bay Line corridor northe
 
 **Things to Do And Local Attractions**
 
-* Ilford appeals mainly to travelers who need access to a remote northern community and the surrounding landscape. Nearby lakes, northern waterways, and the community’s rail-and-air access role make it relevant for regional travel, field work, and northern Manitoba logistics.
+* Ilford appeals mainly to travelers who need access to a remote northern community and the surrounding landscape. Nearby lakes, northern waterways, and the community's rail-and-air access role make it relevant for regional travel, field work, and northern Manitoba logistics.
 
 ---
 

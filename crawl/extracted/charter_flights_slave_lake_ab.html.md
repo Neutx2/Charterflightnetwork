@@ -16,7 +16,7 @@ Slave Lake, Alberta, positioned on the shores of one of Alberta's largest lakes,
 
 **Slave Lake to Calgary**
 
-The journey from Slave Lake to Calgary spans approximately 310 miles (500 kilometers), providing a scenic route that captures the essence of Alberta’s diverse landscapes, ideal for air charter travelers exploring the province’s southern and northern regions.
+The journey from Slave Lake to Calgary spans approximately 310 miles (500 kilometers), providing a scenic route that captures the essence of Alberta's diverse landscapes, ideal for air charter travelers exploring the province's southern and northern regions.
 
 **Slave Lake to Edmonton**
 
@@ -28,7 +28,7 @@ Connecting Slave Lake with Grande Prairie, the distance is roughly 250 miles (40
 
 ##### Slave Lake Airport
 
-Slave Lake Airport, with its accommodating runway length, serves as a crucial gateway for regional and visiting air charter clients, including private jets and helicopters. Located conveniently close to the town, it offers essential services for travelers. Although on-site taxi and rental car options may be limited, local arrangements can provide seamless connectivity to and from Slave Lake’s attractions and accommodations.
+Slave Lake Airport, with its accommodating runway length, serves as a crucial gateway for regional and visiting air charter clients, including private jets and helicopters. Located conveniently close to the town, it offers essential services for travelers. Although on-site taxi and rental car options may be limited, local arrangements can provide seamless connectivity to and from Slave Lake's attractions and accommodations.
 
 ##### Other Nearby Airports
 
@@ -46,7 +46,7 @@ Roughly 55 air miles north of Slave Lake, Wabasca Airport serves the northern co
 
 **Fort McMurray Airport**
 
-Just over 200 air miles northeast of Slave Lake, Fort McMurray Airport is well-positioned to accommodate larger charter flights and provides comprehensive services for those traveling further into Alberta’s northern reaches.
+Just over 200 air miles northeast of Slave Lake, Fort McMurray Airport is well-positioned to accommodate larger charter flights and provides comprehensive services for those traveling further into Alberta's northern reaches.
 
 ##### Slave Lake Hotels
 
@@ -60,7 +60,7 @@ With a 4-star rating, the Slave Lake Inn & Conference Centre provides luxurious 
 
 **Big Lake Inn**
 
-Big Lake Inn offers cozy 2-star lodging, ensuring a warm and welcoming stay for guests exploring Slave Lake’s natural beauty, making it a budget-friendly option for those traveling via air charter.
+Big Lake Inn offers cozy 2-star lodging, ensuring a warm and welcoming stay for guests exploring Slave Lake's natural beauty, making it a budget-friendly option for those traveling via air charter.
 
 **Travelodge by Wyndham Slave Lake**
 

@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-# Ontario Air Charter Directory â Page 2
+# Ontario Air Charter Directory – Page 2
 
 Browse Ontario float plane, wheel plane, and helicopter charter operators by location. Page 2 includes Elliot Lake, Emo, Eva Lake, Foleyet, Fort Frances, Geraldton and Nakina, Goderich, Hamilton, and Hearst.
 
@@ -229,7 +229,7 @@ P: [905-679-2400](tel:+19056792400)
 Mount Hope, ON L0R 1W0
 P: [905-631-7700](tel:+19056317700)
 **Base Locations:** Hamilton
-**Aircraft Types:** AÃ©rospatiale AS355 F2 / MD Helicopters 369E
+**Aircraft Types:** Aérospatiale AS355 F2 / MD Helicopters 369E
 **Service Type:** Helicopter
 
 ## Hearst Air Charter

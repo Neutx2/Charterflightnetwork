@@ -171,7 +171,7 @@ P: (306) 786-3345
 
 ######
 
-Copyright Â© Charter Flight Network. All rights reserved.
+Copyright © Charter Flight Network. All rights reserved.
 
 ---
 

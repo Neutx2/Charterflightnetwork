@@ -20,7 +20,7 @@ A direct route covering about 280 air miles, charter flights offer spectacular v
 
 **Black Lake to Regina**
 
-Spanning roughly 600 air miles, this charter flight connects you from the province’s capital to the heart of the North.
+Spanning roughly 600 air miles, this charter flight connects you from the province's capital to the heart of the North.
 
 **Black Lake to Saskatoon**
 

@@ -34,7 +34,7 @@ Save time and use our no-obligation charter quote request form to receive up to 
 
 ### We Arrange both Jet and Turbo Prop Aircraft
 
-Grise Fiord, is one of the most northerly communities in Canada and lies on the southern coast of Ellesmere Island in Nunavut’s vast Arctic Archipelago. Nestled within a stunning fjord, the community is surrounded by towering mountains, ice-covered waters, and sweeping Arctic tundra. Known as "Aujuittuq" in Inuktitut, meaning "place that never thaws," Grise Fiord is home to breathtaking natural beauty and a small, resilient population that thrives in one of the harshest climates on Earth. The geography of Grise Fiord is characterized by dramatic contrasts. The fjord itself is a deep, glacially carved inlet flanked by rugged peaks that rise steeply from the sea. The surrounding landscape is a mix of ancient rock formations, expansive ice fields, and coastal tundra, creating a surreal, otherworldly environment. Icebergs drift through the waters, and the area is a haven for Arctic wildlife, including polar bears, seals, and narwhals. The midnight sun in summer and long polar nights in winter make it a place of extraordinary natural rhythms.
+Grise Fiord, is one of the most northerly communities in Canada and lies on the southern coast of Ellesmere Island in Nunavut's vast Arctic Archipelago. Nestled within a stunning fjord, the community is surrounded by towering mountains, ice-covered waters, and sweeping Arctic tundra. Known as "Aujuittuq" in Inuktitut, meaning "place that never thaws," Grise Fiord is home to breathtaking natural beauty and a small, resilient population that thrives in one of the harshest climates on Earth. The geography of Grise Fiord is characterized by dramatic contrasts. The fjord itself is a deep, glacially carved inlet flanked by rugged peaks that rise steeply from the sea. The surrounding landscape is a mix of ancient rock formations, expansive ice fields, and coastal tundra, creating a surreal, otherworldly environment. Icebergs drift through the waters, and the area is a haven for Arctic wildlife, including polar bears, seals, and narwhals. The midnight sun in summer and long polar nights in winter make it a place of extraordinary natural rhythms.
 
 [Request A Quote](#quote)
 
@@ -50,7 +50,7 @@ The gravel runway at Grise Fiord Airport is 1,675 feet (511 meters) long, making
 
 ### Wildlife Tours:
 
-Grise Fiord’s remote location makes it an excellent spot for viewing Arctic wildlife. Guided tours offer opportunities to see polar bears roaming along the icy shores, narwhals gliding through the frigid waters, and seals basking on ice floes. Migratory birds are also abundant during the summer months.
+Grise Fiord's remote location makes it an excellent spot for viewing Arctic wildlife. Guided tours offer opportunities to see polar bears roaming along the icy shores, narwhals gliding through the frigid waters, and seals basking on ice floes. Migratory birds are also abundant during the summer months.
 
 ### Whale Watching
 
@@ -70,7 +70,7 @@ The history of the Inuit people is deeply rooted in the Arctic landscape. Inuit 
 
 ### Helicopter Sightseeing Flights
 
-Sightseeing flights from Grise Fiord offer a unique perspective on the High Arctic’s majestic beauty. Passengers can soar over towering glaciers, dramatic fjords, and ice-covered waters teeming with wildlife. These flights provide opportunities to see polar bears, narwhals, and seals in their natural habitats, as well as stunning views of the floe edge where ice meets open sea. Each flight is led by experienced pilots who provide insight into the region’s geography and ecology.
+Sightseeing flights from Grise Fiord offer a unique perspective on the High Arctic's majestic beauty. Passengers can soar over towering glaciers, dramatic fjords, and ice-covered waters teeming with wildlife. These flights provide opportunities to see polar bears, narwhals, and seals in their natural habitats, as well as stunning views of the floe edge where ice meets open sea. Each flight is led by experienced pilots who provide insight into the region's geography and ecology.
 
 ### Helicopter Support for Industry and Research
 

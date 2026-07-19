@@ -1,6 +1,6 @@
 # Charter Flights to Cross Lake, Manitoba
 
-Cross Lake is located about 520 kilometres north of Winnipeg and is one of northern Manitoba’s better-served Indigenous communities. Direct charter flights can be arranged into Cross Lake Airport, while seasonal float plane service may also be possible for regional lake access and remote travel.
+Cross Lake is located about 520 kilometres north of Winnipeg and is one of northern Manitoba's better-served Indigenous communities. Direct charter flights can be arranged into Cross Lake Airport, while seasonal float plane service may also be possible for regional lake access and remote travel.
 
 [Request Charter Quote](#QuoteForm)
 
@@ -20,7 +20,7 @@ Cross Lake is located about 520 kilometres north of Winnipeg and is one of north
 
 ### **About Cross Lake:**
 
-Cross Lake is one of northern Manitoba’s most important Indigenous communities, located on the Nelson River where it flows into Cross Lake. The community serves as a regional centre for local services, education, shopping, and transportation, making it more accessible than many fly-in destinations.
+Cross Lake is one of northern Manitoba's most important Indigenous communities, located on the Nelson River where it flows into Cross Lake. The community serves as a regional centre for local services, education, shopping, and transportation, making it more accessible than many fly-in destinations.
 
 [Previous](#carouselExampleIndicators1)
 [Next](#carouselExampleIndicators1)
@@ -41,7 +41,7 @@ Cross Lake is one of northern Manitoba’s most important Indigenous communities
 
 **Airport and Flight Access**
 
-* Charter flights to Cross Lake arrive at Cross Lake (Charlie Sinclair Memorial) Airport, YCR / CYCR, located about one nautical mile east of the community. The airport’s 3,993-foot crushed rock runway supports a range of northern charter operations.
+* Charter flights to Cross Lake arrive at Cross Lake (Charlie Sinclair Memorial) Airport, YCR / CYCR, located about one nautical mile east of the community. The airport's 3,993-foot crushed rock runway supports a range of northern charter operations.
 
 **Accommodations and Local Services**
 

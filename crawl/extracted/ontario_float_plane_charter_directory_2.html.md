@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-# Ontario Float Plane Charter Directory â Page 2
+# Ontario Float Plane Charter Directory — Page 2
 
 Float plane and amphibious charter operators serving Eva Lake, Foleyet, Fort Frances, Geraldton / Nakina, Hearst, Hornepayne, Hudson, Ignace, Keene, Kenora, Moosonee, Muskoka, Nakina, Nestor Falls and Orillia.
 
@@ -257,7 +257,7 @@ P: [1-807-484-2345 / 1-877-653-1524](tel:+18074842345)
 ### Northwest Flying Inc
 
 Nestor Falls, Ontario P0X 1K0
-P: [(800) 461-2126 â¢ Office (807) 484-2126 â¢ Cell (807) 272-6023](tel:+18004612126)
+P: [(800) 461-2126 • Office (807) 484-2126 • Cell (807) 272-6023](tel:+18004612126)
 **Base Locations:** Nestor Falls
 **Aircraft Types:** Beech 18 / Cessna 180 / DeHavilland Beaver
 **Service Type:** Floats

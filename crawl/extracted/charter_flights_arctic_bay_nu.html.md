@@ -4,7 +4,7 @@ Flights To Baffin Island, Nunavut
 
 ##### About Arctic Bay, Nunavut
 
-Nestled within the remote and breathtaking landscapes of Canada’s Arctic Archipelago, Arctic Bay, Nunavut, presents an unparalleled opportunity for adventure and discovery. For those seeking an exclusive and unforgettable experience, charter flights to Arctic Bay offer a gateway to witness the mesmerizing northern lights, encounter majestic polar bears, and explore the unique cultural heritage of the Inuit people.
+Nestled within the remote and breathtaking landscapes of Canada's Arctic Archipelago, Arctic Bay, Nunavut, presents an unparalleled opportunity for adventure and discovery. For those seeking an exclusive and unforgettable experience, charter flights to Arctic Bay offer a gateway to witness the mesmerizing northern lights, encounter majestic polar bears, and explore the unique cultural heritage of the Inuit people.
 
 ##### Check Out Flight Options To All The Arctic Bay Adventures and Activities
 
@@ -40,7 +40,7 @@ Beyond its natural wonders, Arctic Bay is steeped in rich Inuit culture and hist
 
 Embark on thrilling fishing excursions and reel in the legendary Arctic Char in crystal-clear waters. Witness the majestic beauty of bowhead whales and narwhals on unforgettable whale-watching tours. For photography enthusiasts, Arctic Bay is the ultimate destination for polar bear photo tours, where you can capture these magnificent creatures in their natural habitat.
 
-Kayak among towering icebergs and navigate serene Arctic waters for a truly immersive experience. Join a floe edge tour, often referred to as the “line of life,” where the sea and ice meet, teeming with Arctic wildlife and stunning landscapes.
+Kayak among towering icebergs and navigate serene Arctic waters for a truly immersive experience. Join a floe edge tour, often referred to as the "line of life," where the sea and ice meet, teeming with Arctic wildlife and stunning landscapes.
 
 ##### Watch The Arctic Bay Nunavut Video
 

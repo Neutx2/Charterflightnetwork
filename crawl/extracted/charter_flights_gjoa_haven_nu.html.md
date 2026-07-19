@@ -51,7 +51,7 @@ The airport is operational year-round and accommodates day and night flights, bu
 **Fishing for Arctic Char** Anglers will delight in fishing for Arctic char in the pristine lakes and rivers near Gjoa Haven. The crystal-clear waters teem with this sought-after fish, making it a top destination for fishing enthusiasts. Experience the thrill of casting your line amidst stunning Arctic scenery.
 
 **Whale Watching and Polar Bear Tours**
-Gjoa Haven’s proximity to Arctic waters makes it a prime location for spotting majestic marine life. Join guided tours to see beluga whales and narwhals, or embark on polar bear photography expeditions to capture these iconic creatures in their natural habitat.
+Gjoa Haven's proximity to Arctic waters makes it a prime location for spotting majestic marine life. Join guided tours to see beluga whales and narwhals, or embark on polar bear photography expeditions to capture these iconic creatures in their natural habitat.
 
 **Dog Sledding**
 In winter, experience the timeless Arctic tradition of dog sledding. Glide across the snowy tundra behind a team of energetic huskies and take in the expansive, snow-covered landscapes.
@@ -67,13 +67,13 @@ For an even more immersive adventure, consider combining your aurora-viewing tri
 
 ##### Inuit Culture & Heritage in Gjoa Haven, Nunavut
 
-Gjoa Haven, known as the “Place of Plenty,” is a rich cultural hub that offers visitors a deep connection to Inuit heritage and traditions. The Inuit people have thrived in the Arctic for thousands of years, developing skills and practices essential for survival in one of the world’s harshest environments. These include traditional hunting, fishing, and tool-making techniques, many of which are still practiced and passed down through generations.
+Gjoa Haven, known as the "Place of Plenty," is a rich cultural hub that offers visitors a deep connection to Inuit heritage and traditions. The Inuit people have thrived in the Arctic for thousands of years, developing skills and practices essential for survival in one of the world's harshest environments. These include traditional hunting, fishing, and tool-making techniques, many of which are still practiced and passed down through generations.
 
 Inuit art plays a significant role in preserving and sharing their culture. Gjoa Haven is home to talented artists who create stunning sculptures, intricate prints, and handcrafted jewelry inspired by the Arctic landscape and wildlife. Carvings made from stone and bone often depict seals, polar bears, and other iconic animals, while prints and jewelry reflect traditional stories and modern interpretations of Inuit life.
 
 The Inuit language, Inuktitut, is a cornerstone of cultural identity in Gjoa Haven. Visitors can hear this unique language spoken in daily life and learn words that connect them to the land and people. Storytelling, an essential tradition, is expressed in both Inuktitut and visual art, offering a glimpse into Inuit legends and history.
 
-Exploring the Nattilik Heritage Centre in Gjoa Haven provides further insight into the community’s history, including exhibits on traditional practices, the Inuit relationship with explorers, and the enduring connection to the land. Gjoa Haven invites you to experience the resilience, artistry, and profound spirit of Inuit culture firsthand.
+Exploring the Nattilik Heritage Centre in Gjoa Haven provides further insight into the community's history, including exhibits on traditional practices, the Inuit relationship with explorers, and the enduring connection to the land. Gjoa Haven invites you to experience the resilience, artistry, and profound spirit of Inuit culture firsthand.
 
 ---
 

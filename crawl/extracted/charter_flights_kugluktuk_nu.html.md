@@ -52,7 +52,7 @@ For larger shipments or specialized goods, cargo flights from Edmonton often uti
 
 ##### Helicopter Charter Services
 
-Helicopter sightseeing flights are a popular offering, allowing visitors to experience the breathtaking Arctic landscapes from above. Passengers can enjoy stunning views of the tundra, the winding Coppermine River, and the rugged Coronation Gulf coastline. These flights provide a unique perspective on the region’s natural beauty, offering the chance to spot Arctic wildlife such as caribou, muskoxen, and even polar bears in their natural habitat.
+Helicopter sightseeing flights are a popular offering, allowing visitors to experience the breathtaking Arctic landscapes from above. Passengers can enjoy stunning views of the tundra, the winding Coppermine River, and the rugged Coronation Gulf coastline. These flights provide a unique perspective on the region's natural beauty, offering the chance to spot Arctic wildlife such as caribou, muskoxen, and even polar bears in their natural habitat.
 
 In addition to tourism, helicopters play a critical role in supporting the mining, exploration, and natural resource industries. Charter services cater to these sectors by transporting personnel, equipment, and supplies to remote sites that are inaccessible by fixed-wing aircraft. Helicopters also assist with geological surveys, infrastructure development, and environmental monitoring.
 
@@ -70,7 +70,7 @@ In addition to tourism, helicopters play a critical role in supporting the minin
 
 The best time to witness the northern lights in Kugluktuk is between late August and early April, when the nights are long, and the skies are at their darkest. Winter months, particularly from November to March, offer the most reliable opportunities for viewing as the region's crisp, cold air enhances visibility. During this time, the auroras often appear as vibrant ribbons of green, pink, and purple dancing across the sky.
 
-To enhance your chances of seeing the Aurora Borealis, check local aurora forecasts and choose clear nights for viewing. Dress warmly in layers to stay comfortable in the frigid temperatures, and bring a camera with a tripod to capture the mesmerizing light displays. Whether you’re a seasoned aurora chaser or a first-time viewer, Kugluktuk promises an unforgettable northern lights experience.
+To enhance your chances of seeing the Aurora Borealis, check local aurora forecasts and choose clear nights for viewing. Dress warmly in layers to stay comfortable in the frigid temperatures, and bring a camera with a tripod to capture the mesmerizing light displays. Whether you're a seasoned aurora chaser or a first-time viewer, Kugluktuk promises an unforgettable northern lights experience.
 
 ---
 

@@ -32,9 +32,9 @@ Geographically, Igloolik is situated on flat, tundra-covered terrain, with the i
 
 ##### Igloolik / The Foxe Basin / Marine Life
 
-Foxe Basin is a shallow, biologically rich body of water, home to a variety of marine species including seals, walruses, and beluga whales. The surrounding waters and the island’s location make Igloolik an essential site for Arctic wildlife research and eco-tourism.
+Foxe Basin is a shallow, biologically rich body of water, home to a variety of marine species including seals, walruses, and beluga whales. The surrounding waters and the island's location make Igloolik an essential site for Arctic wildlife research and eco-tourism.
 
-Igloolik is also close to other prominent geographical features, such as the Fury and Hecla Strait to the northwest, which connects Foxe Basin to the Gulf of Boothia. These waterways play a crucial role in the region’s ecosystem and the seasonal migrations of marine animals. As a destination rich in cultural and natural significance, Igloolik offers visitors a glimpse into the timeless beauty and traditions of the Arctic. Its remote location and unique geography make it a truly special place in Nunavut.
+Igloolik is also close to other prominent geographical features, such as the Fury and Hecla Strait to the northwest, which connects Foxe Basin to the Gulf of Boothia. These waterways play a crucial role in the region's ecosystem and the seasonal migrations of marine animals. As a destination rich in cultural and natural significance, Igloolik offers visitors a glimpse into the timeless beauty and traditions of the Arctic. Its remote location and unique geography make it a truly special place in Nunavut.
 
 ##### Igloolik Airport: A Vital Arctic Transportation Hub
 
@@ -42,7 +42,7 @@ The Igloolik Airport (CYGT) serves as a crucial link for the remote community of
 
 The airport features a gravel runway measuring 4,020 feet (1,225 meters) in length, capable of accommodating small to medium-sized aircraft commonly used in northern operations. Passenger aircraft, such as the Dash 8 and ATR series, provide scheduled services, connecting Igloolik to other Nunavut communities and hubs like Iqaluit. Cargo aircraft, including the Beechcraft 1900C and other utility planes, regularly deliver essential supplies, ranging from food and building materials to medical equipment.
 
-As an essential part of Igloolik’s infrastructure, the airport supports passenger travel, cargo transport, and community development, playing a key role in daily life and economic sustainability.
+As an essential part of Igloolik's infrastructure, the airport supports passenger travel, cargo transport, and community development, playing a key role in daily life and economic sustainability.
 
 ---
 
@@ -52,7 +52,7 @@ The Igloolik Island Archaeological Sites, designated a National Historic Site of
 
 The archaeological findings on Igloolik Island include evidence of settlement by the Dorset culture, an ancient Arctic people who lived in the area approximately 4,000 to 1,000 years ago. Excavations have uncovered tools, carvings, and remnants of dwellings, all of which provide insight into how the Dorset people adapted to the harsh Arctic environment. Among the most notable discoveries are intricately carved figurines and tools made from bone, ivory, and stone, showcasing the artistic and functional ingenuity of these early inhabitants.
 
-Later layers of the archaeological record point to the presence of the Thule culture, ancestors of today’s Inuit, who arrived in the region around 1,000 years ago. Findings such as qajaq (kayak) parts, hunting implements, and food storage areas illustrate their advanced adaptation to Arctic life and their reliance on marine resources.
+Later layers of the archaeological record point to the presence of the Thule culture, ancestors of today's Inuit, who arrived in the region around 1,000 years ago. Findings such as qajaq (kayak) parts, hunting implements, and food storage areas illustrate their advanced adaptation to Arctic life and their reliance on marine resources.
 
 The Igloolik Island Archaeological Sites serve as a bridge to the past, offering a deeper understanding of the cultural continuity between ancient Arctic peoples and the modern Inuit. These findings highlight the enduring resilience and ingenuity of those who have called the Arctic home for millennia, making Igloolik a vital location for the study of Arctic history and heritage.
 
@@ -60,10 +60,10 @@ The Igloolik Island Archaeological Sites serve as a bridge to the past, offering
 
 ##### Aurora Borealis Viewing in Igloolik: A Spectacular Arctic Experience
 
-Igloolik, Nunavut, offers some of the most breathtaking opportunities to witness the Aurora Borealis, or Northern Lights, in their full glory. Located in the Arctic Circle, this remote community provides clear, unpolluted skies that make it an ideal destination for viewing one of nature’s most stunning phenomena.
+Igloolik, Nunavut, offers some of the most breathtaking opportunities to witness the Aurora Borealis, or Northern Lights, in their full glory. Located in the Arctic Circle, this remote community provides clear, unpolluted skies that make it an ideal destination for viewing one of nature's most stunning phenomena.
 
-Local guides often offer Aurora tours, which provide cultural context alongside the viewing experience. These guides can take you to prime locations and share stories of the Northern Lights’ significance in Inuit culture.
-Witnessing the Aurora Borealis in Igloolik is more than just an activity—it’s an unforgettable immersion into the Arctic’s beauty and mystery.
+Local guides often offer Aurora tours, which provide cultural context alongside the viewing experience. These guides can take you to prime locations and share stories of the Northern Lights' significance in Inuit culture.
+Witnessing the Aurora Borealis in Igloolik is more than just an activity—it's an unforgettable immersion into the Arctic's beauty and mystery.
 
 ---
 

@@ -16,7 +16,7 @@ region: "global"
 
 ## Business and Vacation Flights Direct To Montreal
 
-Charter flights from Kitchener-Waterloo to Montreal provide business and leisure travelers with a fast, private, and efficient way to reach one of Canada’s most exciting destinations. With Charter Flight Network, you can instantly request up to**three competitive quotes,** allowing you to compare prices and aircraft options to find the most cost-efficient charter for your trip. In just over an hour, you can exchange Ontario’s tech corridor for the cosmopolitan charm of Montreal—famous for its cobblestone streets, fine dining, and vibrant festivals. Whether you’re attending a business meeting, a cultural event, or a weekend escape, Charter Flight Network makes your journey seamless and affordable.
+Charter flights from Kitchener-Waterloo to Montreal provide business and leisure travelers with a fast, private, and efficient way to reach one of Canada's most exciting destinations. With Charter Flight Network, you can instantly request up to**three competitive quotes,** allowing you to compare prices and aircraft options to find the most cost-efficient charter for your trip. In just over an hour, you can exchange Ontario's tech corridor for the cosmopolitan charm of Montreal—famous for its cobblestone streets, fine dining, and vibrant festivals. Whether you're attending a business meeting, a cultural event, or a weekend escape, Charter Flight Network makes your journey seamless and affordable.
 
 ### Fly Direct To Montreal From The Kitchener-Waterloo Airport
 
@@ -50,7 +50,7 @@ Generally a more cost efficient charter option is the twin engine Piper Navajo. 
 
 ## Your Quote Request Distributes To Multiple Airlines
 
-We’re not an airline nor a charter broker. We specialize in finding clients the most cost efficient air charter options that best match client's needs. We do this by sourcing out each inquiry to the charter airlines who are best positioned and equipped to provide the service required. Each airline prepares and submits a competitive quote. If you receive a quote that meets your needs and is within your travel budget, you have the option of dealing directly with the airline of your choice to finalize all flight details, scheduling and payment.
+We're not an airline nor a charter broker. We specialize in finding clients the most cost efficient air charter options that best match client's needs. We do this by sourcing out each inquiry to the charter airlines who are best positioned and equipped to provide the service required. Each airline prepares and submits a competitive quote. If you receive a quote that meets your needs and is within your travel budget, you have the option of dealing directly with the airline of your choice to finalize all flight details, scheduling and payment.
 
 **\*To ensure your privacy,** we do not share your name, nor contact information with our airline sources. Your request is assigned a unique ID number and the airlines send us their quote for that specific ID number. We then forward these quotes to you.
 

@@ -20,7 +20,7 @@ Approximately 165 air miles north, offering stunning aerial views of Saskatchewa
 
 **Tisdale to Regina**
 
-About 170 air miles to the south, charter flights connect you to the vibrant cultural scene of Saskatchewan’s capital.
+About 170 air miles to the south, charter flights connect you to the vibrant cultural scene of Saskatchewan's capital.
 
 **Tisdale to Saskatoon**
 

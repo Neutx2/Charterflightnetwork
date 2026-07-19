@@ -1,7 +1,7 @@
 ---
-title: "Ontario Air Charter Directory â Page 1 | Armstrong, Barrie, Cochrane, Dryden & More"
+title: "Ontario Air Charter Directory – Page 1 | Armstrong, Barrie, Cochrane, Dryden & More"
 description: "Ontario Air Charter Directory page 1 featuring wheel plane, float plane, and helicopter charter operators in Armstrong, Arnprior, Atikokan, Barrie, Blind River, Brampton, Brantford, Burlington, Carp, Chapleau, Chatham-Kent, Cochrane, Collingwood, Cornwall, Dryden, and Ear Falls."
-h1: "Ontario Air Charter Directory â Page 1"
+h1: "Ontario Air Charter Directory – Page 1"
 legacyUrl: "/northern_ontario_float_plane_1.html"
 slug: "directory/northern-ontario-float-plane-1"
 thin: false
@@ -203,7 +203,7 @@ P: [416-881-0171](tel:+14168810171)
 Brampton / Cheltenham, ON L7C 2B2
 P: [416-802-8172](tel:+14168028172)
 **Base Locations:** Brampton, Ontario
-**Aircraft Types:** AÃ©rospatiale AS355 F1 / Bell 206B
+**Aircraft Types:** Aérospatiale AS355 F1 / Bell 206B
 **Service Type:** Helicopter
 
 ## Brantford Air Charter
@@ -291,7 +291,7 @@ Featured Listing
 Cochrane, ON P0L 1C0
 P: [866-572-5755](tel:+18665725755) / [705-272-5755](tel:+17052725755)
 **Base Locations:** Cochrane
-**Aircraft Types:** AÃ©rospatiale AS350 B2/BA/D / Bell 205 A1 / Bell 206 B/L / Bell 212
+**Aircraft Types:** Aérospatiale AS350 B2/BA/D / Bell 205 A1 / Bell 206 B/L / Bell 212
 **Service Type:** Helicopter
 
 ## Collingwood Air Charter

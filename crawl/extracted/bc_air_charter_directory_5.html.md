@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-# British Columbia Air Charter Directory â Page 5
+# British Columbia Air Charter Directory – Page 5
 
 Page 5 of the British Columbia Air Charter Directory features wheel plane, float plane, and helicopter charter operators serving Toad River, Tofino, Two Rivers, Ucluelet, Valemount, and the Vancouver area including Richmond, Langley, Pitt Meadows, Boundary Bay, Surrey, and Coquitlam.
 

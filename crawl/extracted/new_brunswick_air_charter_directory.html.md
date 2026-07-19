@@ -8,7 +8,7 @@
 
 ######
 
-Copyright Â© Charter Flight Network. All rights reserved.
+Copyright © Charter Flight Network. All rights reserved.
 
 ---
 

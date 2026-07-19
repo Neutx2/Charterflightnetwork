@@ -59,7 +59,7 @@ region: "canada"
 
 [Riviere-Du-Loup](/directory/quebec-air-charter-directory-4#RiviereDuLoup)
 
-[RiviÃ¨re-Rouge](/directory/quebec-air-charter-directory-4#RiviereRouge)
+[Rivière-Rouge](/directory/quebec-air-charter-directory-4#RiviereRouge)
 
 [Rouyn-Noranda](/directory/quebec-air-charter-directory-4#RouynNoranda)
 
@@ -67,11 +67,11 @@ region: "canada"
 
 [St-Charles-sur-Richelieu](/directory/quebec-air-charter-directory-2#Montreal)
 
-[St-Ãtienne-des-GrÃ¨s](/directory/quebec-air-charter-directory-5#TroisRivieres)
+[St-Étienne-des-Grès](/directory/quebec-air-charter-directory-5#TroisRivieres)
 
 [St-Frederic-Beauce](/directory/quebec-air-charter-directory-3#QuebecCity)
 
-[St-HonorÃ©](/directory/quebec-air-charter-directory-4#StHonore)
+[St-Honoré](/directory/quebec-air-charter-directory-4#StHonore)
 
 [St-Hubert](/directory/quebec-air-charter-directory-4#StHubert)
 
@@ -94,7 +94,7 @@ region: "canada"
 ## Alma Air Charter
 
 **Panorama Aviation / Corpo Aviation**
-350, Chemin de l'AÃ©roport / Alma QC G8B 5V2
+350, Chemin de l'Aéroport / Alma QC G8B 5V2
 P: 418 669-5104
 **Base Locations:** Alma / St Hubert
 **Aircraft Types:** Beech 1900 D / Pilatus PC12 45
@@ -103,7 +103,7 @@ P: 418 669-5104
 [REQUEST A QUOTE](https://panoramaaviation.com/en/)
 
 **Panorama Helicopters Ltd**
-360, Chemin de l'AÃ©roport / Alma QC G8B 5V2
+360, Chemin de l'Aéroport / Alma QC G8B 5V2
 P: 418 668-3046
 **Base Locations:** Alma
 **Aircraft Types:** Aerospatieale AS350 B2, BA, D, / Bell 205 A1 / Bell 212
@@ -204,7 +204,7 @@ P: 450 666-3718
 
 ## [Page 5](/directory/quebec-air-charter-directory-5)
 
-Copyright Â© Charter Flight Network. All rights reserved.
+Copyright © Charter Flight Network. All rights reserved.
 
 ---
 

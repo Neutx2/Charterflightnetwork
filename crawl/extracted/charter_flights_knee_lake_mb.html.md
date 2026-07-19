@@ -1,6 +1,6 @@
 # Charter Flights to Knee Lake Lodge, Manitoba
 
-Knee Lake is a remote fly-in fishing destination roughly 365 air miles north of Winnipeg. Charter travelers can arrange direct flights to the private airstrip serving the lodge area, making this one of Manitoba’s classic air-access fishing trips for guests seeking trophy northern pike, strong walleye fishing, and fast transfer from Winnipeg to camp.
+Knee Lake is a remote fly-in fishing destination roughly 365 air miles north of Winnipeg. Charter travelers can arrange direct flights to the private airstrip serving the lodge area, making this one of Manitoba's classic air-access fishing trips for guests seeking trophy northern pike, strong walleye fishing, and fast transfer from Winnipeg to camp.
 
 [Request Charter Quote](#QuoteForm)
 
@@ -20,7 +20,7 @@ Knee Lake is a remote fly-in fishing destination roughly 365 air miles north of 
 
 ### **About Knee Lake:**
 
-Knee Lake Airport is a private airstrip serving this remote lodge destination and is located about 1 nautical mile north of Knee Lake. Its 3,950-foot crushed-rock runway can support many practical charter turboprops and utility aircraft, giving guests direct fixed-wing access to one of northern Manitoba’s best-known fly-in fishing areas.
+Knee Lake Airport is a private airstrip serving this remote lodge destination and is located about 1 nautical mile north of Knee Lake. Its 3,950-foot crushed-rock runway can support many practical charter turboprops and utility aircraft, giving guests direct fixed-wing access to one of northern Manitoba's best-known fly-in fishing areas.
 
 [Previous](#carouselExampleIndicators1)
 [Next](#carouselExampleIndicators1)
@@ -55,7 +55,7 @@ Knee Lake Airport is a private airstrip serving this remote lodge destination an
 
 ### **Wheel Plane Charter Flights**
 
-Wheel plane charters are the primary way to reach Knee Lake, using practical turboprop aircraft capable of operating from the lodge area’s private crushed-rock runway.
+Wheel plane charters are the primary way to reach Knee Lake, using practical turboprop aircraft capable of operating from the lodge area's private crushed-rock runway.
 
 [QUOTE REQUEST FORM](#QuoteForm)
 

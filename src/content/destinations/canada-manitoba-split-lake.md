@@ -52,7 +52,7 @@ Split Lake is served by a local gravel airstrip situated just outside the commun
 
 **Airport and Flight Access**
 
-* Charter flights to Split Lake can use the community’s local gravel airstrip for light aircraft, while nearby York Landing, Gillam, and Thompson provide additional northern air access. Road connections via PR 280 also make Split Lake more accessible than many fly-in communities.
+* Charter flights to Split Lake can use the community's local gravel airstrip for light aircraft, while nearby York Landing, Gillam, and Thompson provide additional northern air access. Road connections via PR 280 also make Split Lake more accessible than many fly-in communities.
 
 **Accommodations and Local Services**
 
@@ -60,7 +60,7 @@ Split Lake is served by a local gravel airstrip situated just outside the commun
 
 **Things to Do And Local Attractions**
 
-* Split Lake is best known for its northern setting rather than formal tourism infrastructure. Visitors are drawn by boating, fishing, shoreline scenery, community gatherings, and seasonal events, with the area’s lakes, river system, and Cree culture shaping the local travel experience.
+* Split Lake is best known for its northern setting rather than formal tourism infrastructure. Visitors are drawn by boating, fishing, shoreline scenery, community gatherings, and seasonal events, with the area's lakes, river system, and Cree culture shaping the local travel experience.
 
 ---
 

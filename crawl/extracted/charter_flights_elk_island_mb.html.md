@@ -1,6 +1,6 @@
 # Charter Flights to Elk Island / Gods Lake, Manitoba
 
-Elk Island Lodge on God’s Lake is a remote fly-in fishing destination in northern Manitoba known for trophy northern pike, walleye, lake trout, and brook trout. Direct charter service can make access more efficient for anglers and private groups, while seasonal float plane options may also suit the broader God’s Lake region.
+Elk Island Lodge on God's Lake is a remote fly-in fishing destination in northern Manitoba known for trophy northern pike, walleye, lake trout, and brook trout. Direct charter service can make access more efficient for anglers and private groups, while seasonal float plane options may also suit the broader God's Lake region.
 
 [Request Charter Quote](#QuoteForm)
 
@@ -20,7 +20,7 @@ Elk Island Lodge on God’s Lake is a remote fly-in fishing destination in north
 
 ### **About Elk Island / Gods Lake:**
 
-Elk Island Lodge offers practical direct air access into a remote fishing area on God’s Lake, helping guests reach camp without long surface transfers. Fixed-wing charter service is suited to lodge travel and group arrivals, while the lodge’s wilderness setting makes it a strong fit for specialized fishing itineraries in northern Manitoba.
+Elk Island Lodge offers practical direct air access into a remote fishing area on God's Lake, helping guests reach camp without long surface transfers. Fixed-wing charter service is suited to lodge travel and group arrivals, while the lodge's wilderness setting makes it a strong fit for specialized fishing itineraries in northern Manitoba.
 
 [Previous](#carouselExampleIndicators1)
 [Next](#carouselExampleIndicators1)
@@ -41,7 +41,7 @@ Elk Island Lodge offers practical direct air access into a remote fishing area o
 
 **Airport and Flight Access**
 
-* Elk Island supports direct fly-in access for fixed-wing lodge travel, and float plane service can also be useful during the open-water season in the wider God’s Lake area.
+* Elk Island supports direct fly-in access for fixed-wing lodge travel, and float plane service can also be useful during the open-water season in the wider God's Lake area.
 
 **Accommodations and Local Services**
 
@@ -55,13 +55,13 @@ Elk Island Lodge offers practical direct air access into a remote fishing area o
 
 ### **Wheel Plane Charter Flights**
 
-Wheel plane charters are a practical direct option for Elk Island guests travelling into this remote God’s Lake fishing lodge.
+Wheel plane charters are a practical direct option for Elk Island guests travelling into this remote God's Lake fishing lodge.
 
 [QUOTE REQUEST FORM](#QuoteForm)
 
 ### **Float Plane Charter Flights**
 
-Float plane charters can complement Elk Island trips during the open-water season across the broader God’s Lake region.
+Float plane charters can complement Elk Island trips during the open-water season across the broader God's Lake region.
 
 [QUOTE REQUEST FORM](#QuoteForm)
 

@@ -16,7 +16,7 @@ John D'Or Prairie, Alberta, a serene and picturesque community located in the no
 
 **John D'Or Prairie to Calgary**
 
-The journey from John D'Or Prairie to Calgary spans approximately 600 miles (966 kilometers), offering charter flight clients a scenic view of Alberta’s diverse landscapes, from northern forests to southern plains.
+The journey from John D'Or Prairie to Calgary spans approximately 600 miles (966 kilometers), offering charter flight clients a scenic view of Alberta's diverse landscapes, from northern forests to southern plains.
 
 **John D'Or Prairie to Edmonton**
 

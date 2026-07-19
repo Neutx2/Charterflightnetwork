@@ -24,7 +24,7 @@ About 280 miles (450 kilometers) separate Fort Mackay from Edmonton, providing a
 
 **Fort Mackay to Grande Prairie**
 
-Connecting Fort Mackay with Grande Prairie, the distance is roughly 350 miles (563 kilometers), showcasing the vastness of Alberta’s northern wilderness, perfect for those utilizing private jet or helicopter charter services for travel.
+Connecting Fort Mackay with Grande Prairie, the distance is roughly 350 miles (563 kilometers), showcasing the vastness of Alberta's northern wilderness, perfect for those utilizing private jet or helicopter charter services for travel.
 
 ##### Fort Mackay Airport
 

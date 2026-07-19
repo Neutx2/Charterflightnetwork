@@ -18,14 +18,14 @@ airportCode: "YLK"
 
 ## Charter Flights To Barrie, Ontario
 
-Charter flights to Barrie, Ontario offer fast and convenient access to one of Central Ontario’s most vibrant
+Charter flights to Barrie, Ontario offer fast and convenient access to one of Central Ontario's most vibrant
 and fast-growing regions. Located approximately 85 kilometres north of Toronto, Barrie is known for its strong
-commercial base, diverse industries, and close proximity to Ontario’s prime cottage and resort country. The city
+commercial base, diverse industries, and close proximity to Ontario's prime cottage and resort country. The city
 is served by the **[Lake Simcoe Regional Airport (YLK)](https://lakesimcoeairport.com/)**, which provides a modern 6,000-foot runway,
 instrument approaches, full-service FBO facilities, Canada Customs (CANPASS), and year-round support for business
 jets and turboprop aircraft.
 
-Barrie’s economy includes advanced manufacturing, technology, healthcare, construction, transportation services,
+Barrie's economy includes advanced manufacturing, technology, healthcare, construction, transportation services,
 and a growing cluster of professional and commercial businesses supporting both local and Greater Toronto Area
 markets. Its location also makes it the natural gateway to Muskoka, Georgian Bay, and the Kawartha cottage regions,
 where float plane charters can transport travelers directly from Barrie to lakeside cottages, private docks,
@@ -39,13 +39,13 @@ Map Data From
 ## **Directory Of Barrie Charter Flight Options**
 
 **Wheel Plane, Float Plane & Helicopter Charter Quotes:**
-From jets to floatplanes, Charter Flight Network provides access to Canada’s largest network of private
+From jets to floatplanes, Charter Flight Network provides access to Canada's largest network of private
 charter options with one simple inquiry.
 
 ## [Air Bravo](/quote/air-bravo)
 
 **Turboprop Wheel Plane Charters.**
-Air Bravo’s turbine-powered PC-12 fleet offers corporate travelers comfort, range, and speed while
+Air Bravo's turbine-powered PC-12 fleet offers corporate travelers comfort, range, and speed while
 reaching airports large and small throughout Canada.
 
 ## [Cameron Air](/quote/cameron-air)
@@ -63,7 +63,7 @@ aerial view of Blue Mountain, Georgian Bay, and the Escarpment while avoiding hi
 ## [Cottage Air](/quote/cottage-air)
 
 **Amphibious Aircraft Operating On Land & Water:**
-Cottage Air offers direct floatplane access to Muskoka’s lakes, delivering fast, private travel
+Cottage Air offers direct floatplane access to Muskoka's lakes, delivering fast, private travel
 from Toronto to your dock in under an hour with unbeatable scenery along the way.
 
 ## [True North Airways](/quote/true-north)
@@ -111,7 +111,7 @@ who are best positioned and equipped to provide the service you request. Each ai
 a competitive quote. If a quote meets your needs and budget, you deal directly with the airline of your choice
 to finalize all details, scheduling, and payment.
 
-**\*Privacy:** we don’t share your name or contact info with airlines. Your request is assigned a unique ID;
+**\*Privacy:** we don't share your name or contact info with airlines. Your request is assigned a unique ID;
 airlines submit quotes for that ID and we forward them to you.
 
 ---

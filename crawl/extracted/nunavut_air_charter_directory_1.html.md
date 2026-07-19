@@ -29,10 +29,10 @@ P: (867) 793-4720
 
 ### Iqaluit Air Charter
 
-Iqaluit is Nunavutâs primary aviation hub for charter flights supporting passenger movements, cargo logistics, and remote operations across the territory.
+Iqaluit is Nunavut's primary aviation hub for charter flights supporting passenger movements, cargo logistics, and remote operations across the territory.
 
 **Panorama Aviation / Corpo Aviation**
-350, Chemin de l'AÃ©roport, Alma QC G8B 5V2
+350, Chemin de l'Aéroport, Alma QC G8B 5V2
 P: 418 669-5104
 **Base Locations:** Alma / Iqaluit
 **Aircraft Types:** Beech 1900D / Pilatus PC-12
@@ -96,7 +96,7 @@ P: (877) 879-8477
 
 [Back To Main Canadian Menu](canadian_air_charter_directory_1.html)
 
-Copyright Â© Charter Flight Network. All rights reserved.
+Copyright © Charter Flight Network. All rights reserved.
 
 ---
 

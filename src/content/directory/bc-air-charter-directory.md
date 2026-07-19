@@ -1,7 +1,7 @@
 ---
 title: "British Columbia Air Charter Directory (Wheel, Float & Helicopter) | Page 1"
 description: "British Columbia air charter directory listing wheel-plane, float-plane and helicopter charter companies by city. Page 1 of 6."
-h1: "British Columbia Air Charter Directory â Page 1"
+h1: "British Columbia Air Charter Directory – Page 1"
 legacyUrl: "/bc_air_charter_directory.html"
 slug: "directory/bc-air-charter-directory"
 thin: false

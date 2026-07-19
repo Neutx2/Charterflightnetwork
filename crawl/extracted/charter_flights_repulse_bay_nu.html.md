@@ -38,7 +38,7 @@ Naujaat Airport (YUT) is served by regional carriers, primarily Calm Air and Air
 
 Naujaat Airport (YUT) is a small but essential transportation hub, serving the remote community of Naujaat (Repulse Bay) in the Kivalliq Region of Nunavut. The airport is located just 2 kilometers from the town center, making it easily accessible by a short vehicle ride or even a brisk walk. The airport features a modest terminal building with basic passenger facilities, including a waiting area, check-in counters, and restrooms. Though limited in size, it provides necessary services for travelers and local residents.
 
-The runway at Naujaat Airport is 3,500 feet (1,067 meters) long, made of gravel and suitable for handling small to medium-sized aircraft that are designed for Arctic conditions. Regular passenger services are operated by regional airlines like Calm Air, using aircraft such as the ATR 42 and Dash 8. These turboprop planes are ideal for short runway operations and can handle the region’s challenging weather.
+The runway at Naujaat Airport is 3,500 feet (1,067 meters) long, made of gravel and suitable for handling small to medium-sized aircraft that are designed for Arctic conditions. Regular passenger services are operated by regional airlines like Calm Air, using aircraft such as the ATR 42 and Dash 8. These turboprop planes are ideal for short runway operations and can handle the region's challenging weather.
 
 ---
 
@@ -46,7 +46,7 @@ The runway at Naujaat Airport is 3,500 feet (1,067 meters) long, made of gravel 
 
 Due to its remote location on the Arctic Circle, Naujaat (Repulse Bay) relies heavily on cargo flights to bring in essential supplies and goods year-round. These flights play a critical role in supporting the local community by transporting everything from food and medical supplies to construction materials and household goods.
 
-NorthStar Air offers reliable cargo services from Thompson, Manitoba, utilizing its fleet of robust, all-weather aircraft. NorthStar Air’s turboprop planes, like the ATR 72-500F and the Basler BT-67 DC3, are both designed for Arctic conditions, handling both the short gravel runway at Naujaat Airport and the challenging weather. These cargo flights ensure timely delivery of vital supplies, making them an essential link for the region’s industries and residents.
+NorthStar Air offers reliable cargo services from Thompson, Manitoba, utilizing its fleet of robust, all-weather aircraft. NorthStar Air's turboprop planes, like the ATR 72-500F and the Basler BT-67 DC3, are both designed for Arctic conditions, handling both the short gravel runway at Naujaat Airport and the challenging weather. These cargo flights ensure timely delivery of vital supplies, making them an essential link for the region's industries and residents.
 
 ##### Outdoor Adventures & Activities
 

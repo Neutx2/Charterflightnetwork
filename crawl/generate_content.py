@@ -351,7 +351,8 @@ def main():
             continue
         redirects[e["legacyUrl"]] = new_path
 
-        name = re.sub(r"[^A-Za-z0-9._-]", "_", pname(url) or "index")
+        # extract.py lowercases its output filenames — match that here
+        name = re.sub(r"[^A-Za-z0-9._-]", "_", (pname(url) or "index").lower())
         body_file = EXTRACTED / (name + ".md")
         body = body_file.read_text() if body_file.exists() else ""
         words = m.get("extracted_words", 0)

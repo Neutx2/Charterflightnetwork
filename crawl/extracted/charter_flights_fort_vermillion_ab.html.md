@@ -24,7 +24,7 @@ About 450 miles (724 kilometers) separate Fort Vermilion from Edmonton, providin
 
 **Fort Vermilion to Grande Prairie**
 
-Linking Fort Vermilion with Grande Prairie, the distance is around 350 miles (563 kilometers), a journey that showcases the vast beauty of Alberta’s northern wilderness, perfect for adventurers seeking to explore the region by air.
+Linking Fort Vermilion with Grande Prairie, the distance is around 350 miles (563 kilometers), a journey that showcases the vast beauty of Alberta's northern wilderness, perfect for adventurers seeking to explore the region by air.
 
 ##### Fort Vermilion Airport
 
@@ -60,7 +60,7 @@ Offering a glimpse into the area's past, the Heritage Hotel provides a comfortab
 
 **Peace River Lodge**
 
-A short drive from Fort Vermilion, the Peace River Lodge offers a tranquil 4-star retreat with luxurious amenities and services for guests seeking relaxation and adventure in northern Alberta’s vast wilderness.
+A short drive from Fort Vermilion, the Peace River Lodge offers a tranquil 4-star retreat with luxurious amenities and services for guests seeking relaxation and adventure in northern Alberta's vast wilderness.
 
 **Northern Lights Resort**
 

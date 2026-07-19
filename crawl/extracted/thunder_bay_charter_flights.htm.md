@@ -52,7 +52,7 @@ Headquartered in Thunder Bay, Wisk Air operates multiple bases across Canada, of
 
 ##### Reduce Your Drive Time With A Charter Flight From Thunder Bay - Direct To Your Fishing Lodge or Outpost Camp
 
-Thunder Bay is widely recognized as the starting point for Ontario’s legendary fly-in fishing experiences. Guests often fly into Thunder Bay by private jet or turboprop before boarding a float plane or helicopter that connects them to remote wilderness camps. **Charter Flight Network** can put you directly in touch with dozens of lodge operators and outfitters offering full-service fishing packages across Northwestern Ontario.
+Thunder Bay is widely recognized as the starting point for Ontario's legendary fly-in fishing experiences. Guests often fly into Thunder Bay by private jet or turboprop before boarding a float plane or helicopter that connects them to remote wilderness camps. **Charter Flight Network** can put you directly in touch with dozens of lodge operators and outfitters offering full-service fishing packages across Northwestern Ontario.
 
 ##### Top Locations For Fly-In Fishing Adventures
 
@@ -68,7 +68,7 @@ Thunder Bay is widely recognized as the starting point for Ontario’s legendary
 
 ---
 
-**\*Privacy:** we don’t share your name or contact info with airlines. Your request is assigned a unique ID; airlines submit quotes for that ID and we forward them to you.
+**\*Privacy:** we don't share your name or contact info with airlines. Your request is assigned a unique ID; airlines submit quotes for that ID and we forward them to you.
 
 ---
 

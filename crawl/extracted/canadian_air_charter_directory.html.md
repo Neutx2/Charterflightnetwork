@@ -47,7 +47,7 @@ Each directory focuses on a specific charter market so you can identify the best
 
 ### Update Your Listing or Add a New Listing
 
-After reviewing your listing, if you need to submit changes or additionsâor if we do not yet have you listedâuse the link below to submit updates at no cost.
+After reviewing your listing, if you need to submit changes or additions—or if we do not yet have you listed—use the link below to submit updates at no cost.
 
 [Submit Free Listing / Changes](charter_quote_request_service.html)
 

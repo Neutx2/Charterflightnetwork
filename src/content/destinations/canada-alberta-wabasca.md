@@ -36,7 +36,7 @@ About 180 miles (290 kilometers) separate Wabasca from Edmonton, providing a con
 
 **Wabasca to Grande Prairie**
 
-Connecting Wabasca with Grande Prairie, the distance is roughly 250 miles (402 kilometers), a journey that showcases the beauty of Alberta’s less-traveled northern regions, ideal for adventurers and professionals alike seeking to explore by air.
+Connecting Wabasca with Grande Prairie, the distance is roughly 250 miles (402 kilometers), a journey that showcases the beauty of Alberta's less-traveled northern regions, ideal for adventurers and professionals alike seeking to explore by air.
 
 ### Wabasca Airport
 
@@ -90,7 +90,7 @@ With its 4-star rating, Desmarais Hotel stands as a beacon of luxury in Wabasca,
 
 ### Wheel Plane Charters - 3 Competitive Quotes
 
-Travel to Wabasca, Alberta, on a charter flight designed for the business traveler who values the blend of work and serene relaxation. Wabasca’s Northern Lakes College Golf Course offers an exceptional experience for those wishing to entertain clients or enjoy a tranquil round of golf amidst the stunning natural beauty of Northern Alberta. For superior accommodations, the Wabasca Lodge provides a luxurious stay with all the comforts of home, ensuring relaxation and rejuvenation. Ideal for the professional seeking a peaceful retreat without straying from the demands of business, Wabasca is a hidden gem waiting to be discovered
+Travel to Wabasca, Alberta, on a charter flight designed for the business traveler who values the blend of work and serene relaxation. Wabasca's Northern Lakes College Golf Course offers an exceptional experience for those wishing to entertain clients or enjoy a tranquil round of golf amidst the stunning natural beauty of Northern Alberta. For superior accommodations, the Wabasca Lodge provides a luxurious stay with all the comforts of home, ensuring relaxation and rejuvenation. Ideal for the professional seeking a peaceful retreat without straying from the demands of business, Wabasca is a hidden gem waiting to be discovered
 
 If you have project in the Wabsca Alberta area and require helicopter support, You can receive u to 3 competitive quotes directly from the helicopter charter companies that operate in the region. Simply complete and submit our no obligation charter quote request form.
 

@@ -1,6 +1,6 @@
 # Charter Flights to Bloodvein River, Manitoba
 
-The Bloodvein River is one of Canada’s classic wilderness canoe routes and trip access depends on how much time you have and where you plan to start. Some parties use wheel plane service to reach communities or staging areas such as Red Lake or Bloodvein, while others arrange float plane drops to upstream lakes for longer remote canoe adventures.
+The Bloodvein River is one of Canada's classic wilderness canoe routes and trip access depends on how much time you have and where you plan to start. Some parties use wheel plane service to reach communities or staging areas such as Red Lake or Bloodvein, while others arrange float plane drops to upstream lakes for longer remote canoe adventures.
 
 [Request Charter Quote](#QuoteForm)
 
@@ -51,7 +51,7 @@ Bloodvein River canoe trips are highly flexible, with access options ranging fro
 
 **Things to Do And Local Attractions**
 
-* The Bloodvein is one of Canada’s standout wilderness canoe routes, known for whitewater, long portages, shield scenery, and ancient pictographs. It strongly appeals to adventure travelers seeking a remote multi-day paddling expedition through boreal wilderness.
+* The Bloodvein is one of Canada's standout wilderness canoe routes, known for whitewater, long portages, shield scenery, and ancient pictographs. It strongly appeals to adventure travelers seeking a remote multi-day paddling expedition through boreal wilderness.
 
 ---
 

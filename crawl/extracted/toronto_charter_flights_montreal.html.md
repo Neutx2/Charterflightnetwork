@@ -1,6 +1,6 @@
 # Toronto to Montreal Private Charter Flights (YYZ/YTZ → YUL/YHU)
 
-Toronto to Montreal private charter flights are one of Canada’s busiest executive corridors, favored by teams that need a fast, reliable day trip with full control over timing. Depart from **YYZ** (Pearson) or **YTZ** (Billy Bishop) and arrive at **YUL** (Montréal–Trudeau) or **YHU** (Montréal–Metropolitan/St-Hubert). Whether you choose a cost-efficient turboprop like a Pilatus PC-12 or King Air, or a light/midsize jet for extra speed and cabin space, you can review documents, meet privately in-flight and land closer to your meeting—then return the same day. If you’re comparing *charter flights to Montreal* more broadly, we’ll also quote options from nearby Southern Ontario airports to match cost and schedule.
+Toronto to Montreal private charter flights are one of Canada's busiest executive corridors, favored by teams that need a fast, reliable day trip with full control over timing. Depart from **YYZ** (Pearson) or **YTZ** (Billy Bishop) and arrive at **YUL** (Montréal–Trudeau) or **YHU** (Montréal–Metropolitan/St-Hubert). Whether you choose a cost-efficient turboprop like a Pilatus PC-12 or King Air, or a light/midsize jet for extra speed and cabin space, you can review documents, meet privately in-flight and land closer to your meeting—then return the same day. If you're comparing *charter flights to Montreal* more broadly, we'll also quote options from nearby Southern Ontario airports to match cost and schedule.
 
 ---
 
@@ -38,7 +38,7 @@ Panoramas Aviation can accommodate up to 18 passengers with their versatile flee
 
 #### Option #2. Receive Up To 3 Competitive Quotes With Just One Click
 
-**\*Privacy:** we don’t share your name or contact info with airlines. Your request is assigned a unique ID; airlines submit quotes for that ID and we forward them to you.
+**\*Privacy:** we don't share your name or contact info with airlines. Your request is assigned a unique ID; airlines submit quotes for that ID and we forward them to you.
 
 ## Which Airports to Use for Toronto ⇄ Montreal Charters?
 
@@ -94,7 +94,7 @@ From Trudeau International, taxis, limousines, and rideshares reach downtown Mon
 
 #### Montréal–Metropolitan Airport (CYHU – formerly St-Hubert)
 
-Located in Longueuil, about 15 km southeast of downtown, this secondary airport caters primarily to general aviation and air charter services. Charter passengers are welcomed through FBOs such as Pascan Aviation and Aéroports de Montréal’s private terminals, offering quick boarding and minimal congestion.
+Located in Longueuil, about 15 km southeast of downtown, this secondary airport caters primarily to general aviation and air charter services. Charter passengers are welcomed through FBOs such as Pascan Aviation and Aéroports de Montréal's private terminals, offering quick boarding and minimal congestion.
 
 #### Ground Transportation / Nearby Hotels
 
@@ -104,7 +104,7 @@ From Metropolitan (St-Hubert), travelers can reach central Montreal in roughly 2
 
 * Less traffic and faster turnaround times
 * Lower landing and handling fees than Trudeau
-* Convenient access to Montreal’s South Shore industrial corridor
+* Convenient access to Montreal's South Shore industrial corridor
 * Direct highway access to downtown and West Island corporate centers
 
 ---
@@ -113,7 +113,7 @@ From Metropolitan (St-Hubert), travelers can reach central Montreal in roughly 2
 
 ##### Choose Your Airline / Choose Your Aircraft / Choose Your Schedule
 
-Montréal offers a powerful combination of advanced manufacturing, aerospace, fintech, life-sciences, ICT, corporate services and clean-tech industries—all of which generate high-value business meetings, site visits and strategic engagement. For business travelers from Toronto seeking time-efficient, flexible and premium access to these opportunities, chartering a flight offers a clear competitive advantage. Whether it’s landing at Montréal’s main international airport or a Montreal Metropolitan private-jet facility, you’re positioned to arrive faster, focus better and engage more effectively.
+Montréal offers a powerful combination of advanced manufacturing, aerospace, fintech, life-sciences, ICT, corporate services and clean-tech industries—all of which generate high-value business meetings, site visits and strategic engagement. For business travelers from Toronto seeking time-efficient, flexible and premium access to these opportunities, chartering a flight offers a clear competitive advantage. Whether it's landing at Montréal's main international airport or a Montreal Metropolitan private-jet facility, you're positioned to arrive faster, focus better and engage more effectively.
 
 ---
 
@@ -193,11 +193,11 @@ Typical block time is ~1:00–1:20 depending on aircraft type (light jet vs turb
 
 Which Toronto airport is better for charters—Pearson (YYZ) or Billy Bishop (YTZ)?
 
-**YTZ** offers fast access to downtown and quick turns for turboprops/lights. **YYZ** suits larger jets, hangarage, and connections. We’ll quote both when it helps cost/schedule.
+**YTZ** offers fast access to downtown and quick turns for turboprops/lights. **YYZ** suits larger jets, hangarage, and connections. We'll quote both when it helps cost/schedule.
 
 Should I land at Montréal–Trudeau (YUL) or Montréal–Metropolitan (YHU)?
 
-**YUL** is closest for West Island/corporate campuses and large jets. **YHU** often has lower fees and faster turns; it’s convenient for South Shore and quick access to downtown via Jacques-Cartier Bridge.
+**YUL** is closest for West Island/corporate campuses and large jets. **YHU** often has lower fees and faster turns; it's convenient for South Shore and quick access to downtown via Jacques-Cartier Bridge.
 
 Do I need to clear customs on this route?
 

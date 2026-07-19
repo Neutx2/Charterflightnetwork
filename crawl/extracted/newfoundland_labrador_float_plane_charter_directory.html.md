@@ -102,7 +102,7 @@ Quickly locate helicopter charter services and view aircraft types by region.
 
 ### [4. Canadian Float Plane Charter Directory](canadian_float_plane_air_charter_directory.html)
 
-Float plane-only directory covering every province and territoryâfind the right operator fast.
+Float plane-only directory covering every province and territory—find the right operator fast.
 
 ### Receive 3 Competitive Charter Quotes With Just One Click
 

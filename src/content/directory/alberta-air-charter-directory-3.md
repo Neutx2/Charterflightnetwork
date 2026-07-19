@@ -1,7 +1,7 @@
 ---
-title: "Alberta Air Charter Directory â Page 3 | High Level, Edmonton, Grande Prairie & More"
+title: "Alberta Air Charter Directory – Page 3 | High Level, Edmonton, Grande Prairie & More"
 description: "Browse Alberta Air Charter Directory Page 3 for wheel plane, float plane, and helicopter charter operators in High Level, High River, Lac La Biche, Lloydminster, Manning, Medicine Hat, Nordegg, and Okotoks."
-h1: "Alberta Air Charter Directory â Page 3"
+h1: "Alberta Air Charter Directory – Page 3"
 legacyUrl: "/alberta_air_charter_directory_3.html"
 slug: "directory/alberta-air-charter-directory-3"
 thin: false

@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-# British Columbia Air Charter Directory â Page 1
+# British Columbia Air Charter Directory – Page 1
 
 Browse British Columbia charter operators by city, including wheel plane, float plane, and helicopter services. This page covers the first group of BC locations and links to the remaining pages in the directory.
 

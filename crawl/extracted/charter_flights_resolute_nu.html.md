@@ -22,7 +22,7 @@ Save time and use our no-obligation charter quote request form to receive up to 
 
 ###### We Arrange both Jet and Turbo Prop Aircraft
 
-Resolute, known as "Qausuittuq" in Inuktitut, meaning "place with no dawn," is one of Canada’s northernmost communities, located on Cornwallis Island in Nunavut. It lies along the Arctic Circle, making it a key hub for Arctic exploration, scientific research, and polar adventure. This remote hamlet is surrounded by a stark and stunning landscape, characterized by expansive tundra, glacial features, and icy waters that are frozen for much of the year.
+Resolute, known as "Qausuittuq" in Inuktitut, meaning "place with no dawn," is one of Canada's northernmost communities, located on Cornwallis Island in Nunavut. It lies along the Arctic Circle, making it a key hub for Arctic exploration, scientific research, and polar adventure. This remote hamlet is surrounded by a stark and stunning landscape, characterized by expansive tundra, glacial features, and icy waters that are frozen for much of the year.
 
 The geography of Resolute is defined by its rugged Arctic environment. The island's terrain consists of low, rolling hills, rocky outcrops, and permafrost-covered ground. Resolute Bay, from which the community takes its English name, opens to the Northwest Passage, historically significant as a route sought by explorers. The area is also rich in Arctic wildlife, including polar bears, seals, narwhals, and migratory birds, making it a haven for wildlife enthusiasts and researchers.
 
@@ -74,7 +74,7 @@ The Arctic waters and tundra around Resolute are teeming with wildlife. Guided t
 
 ##### Northern Lights Viewing
 
-Resolute’s location above the Arctic Circle offers ideal conditions for viewing the Northern Lights. From late autumn through early spring, the aurora borealis paints the night sky with vivid greens, purples, and pinks, creating an unforgettable spectacle.
+Resolute's location above the Arctic Circle offers ideal conditions for viewing the Northern Lights. From late autumn through early spring, the aurora borealis paints the night sky with vivid greens, purples, and pinks, creating an unforgettable spectacle.
 
 ---
 

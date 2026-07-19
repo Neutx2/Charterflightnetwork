@@ -1,7 +1,7 @@
 ---
-title: "British Columbia Air Charter Directory â Page 6 | Vanderhoof, Vernon, Victoria, Williams Lake & Whistler"
+title: "British Columbia Air Charter Directory – Page 6 | Vanderhoof, Vernon, Victoria, Williams Lake & Whistler"
 description: "British Columbia Air Charter Directory page 6 of 6 featuring wheel plane, float plane, and helicopter charter operators in Vanderhoof, Vernon, Victoria, Williams Lake, and Whistler."
-h1: "British Columbia Air Charter Directory â Page 6"
+h1: "British Columbia Air Charter Directory – Page 6"
 legacyUrl: "/bc_air_charter_directory_6.html"
 slug: "directory/bc-air-charter-directory-6"
 thin: false
@@ -174,7 +174,7 @@ P: (250) 398-5551
 Williams Lake, BC V2G 2V3
 P: (250) 296-4408
 **Base Locations:** Williams Lake, BC
-**Aircraft Types:** AÃ©rospatiale AS350 BA / Bell 206B
+**Aircraft Types:** Aérospatiale AS350 BA / Bell 206B
 **Service Type:** Helicopter
 
 [Request Charter Quote](/quote)
@@ -196,7 +196,7 @@ P: (604) 938-1700
 Whistler, BC V8E 0G5
 P: (450) 435-4267
 **Base Locations:** Whistler, BC
-**Aircraft Types:** AÃ©rospatiale AS350 D / Eurocopter AS350 B2 / BA / Robinson R44 II
+**Aircraft Types:** Aérospatiale AS350 D / Eurocopter AS350 B2 / BA / Robinson R44 II
 **Service Type:** Helicopter
 
 [Request Charter Quote](/quote)

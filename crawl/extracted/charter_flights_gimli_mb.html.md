@@ -20,7 +20,7 @@ Gimli is a well-known Lake Winnipeg destination for leisure travel, boating, fis
 
 ### **About Gimli:**
 
-Gimli Industrial Park Airport is located about 2 nautical miles west of town and gives Gimli one of the stronger runway facilities in Manitoba’s charter network. Its 6,800-foot asphalt runway can accommodate many charter turboprops, training aircraft, helicopters, and a broad range of business aviation traffic serving Lake Winnipeg and the Interlake region.
+Gimli Industrial Park Airport is located about 2 nautical miles west of town and gives Gimli one of the stronger runway facilities in Manitoba's charter network. Its 6,800-foot asphalt runway can accommodate many charter turboprops, training aircraft, helicopters, and a broad range of business aviation traffic serving Lake Winnipeg and the Interlake region.
 
 [Previous](#carouselExampleIndicators1)
 [Next](#carouselExampleIndicators1)
@@ -55,7 +55,7 @@ Gimli Industrial Park Airport is located about 2 nautical miles west of town and
 
 ### **Wheel Plane Charter Flights**
 
-Wheel plane charters to Gimli are straightforward thanks to the airport’s long paved runway, making the town practical for many business, leisure, and regional charter aircraft.
+Wheel plane charters to Gimli are straightforward thanks to the airport's long paved runway, making the town practical for many business, leisure, and regional charter aircraft.
 
 [QUOTE REQUEST FORM](#QuoteForm)
 

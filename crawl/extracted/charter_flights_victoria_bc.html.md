@@ -7,10 +7,10 @@
 ##### About Flights To Victoria, BC
 
 Victoria, British Columbia blends coastal scenery with vibrant capital-city culture,
-making it one of Vancouver Island’s most active hubs for business and leisure travel.
+making it one of Vancouver Island's most active hubs for business and leisure travel.
 Victoria International Airport (YYJ) in North Saanich handles year-round private wheel-plane
 charters and offers fast connections to downtown, the Inner Harbour, and top attractions
-including the Empress Hotel, Fisherman’s Wharf, and Butchart Gardens. Outdoor travellers
+including the Empress Hotel, Fisherman's Wharf, and Butchart Gardens. Outdoor travellers
 enjoy whale watching, sailing, coastal hiking, and scenic Gulf Islands day trips.
 Float plane services link Victoria Harbour with remote inlets and island communities,
 while helicopter charters provide rapid access to work sites, backcountry landing areas,

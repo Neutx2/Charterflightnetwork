@@ -12,7 +12,7 @@ There is both a land airport and a designated water aerodrome located at Burns L
 
 ##### **[Burns Lake Float Plane Charters & Adventures](wheel_plane_charters_south_bc.html)**
 
-Lakes District Air offers renowned fly-in fishing for trophy rainbow trout located near Tweedsmuir Provincial Park (BC’s largest provincal park), which is an extraordinary place to explore. Charter one of their float equipped aircraft for business or pleasure. Experience friendly and courteous service when you stay at one of their private remote cabins.
+Lakes District Air offers renowned fly-in fishing for trophy rainbow trout located near Tweedsmuir Provincial Park (BC's largest provincal park), which is an extraordinary place to explore. Charter one of their float equipped aircraft for business or pleasure. Experience friendly and courteous service when you stay at one of their private remote cabins.
 
 ##### **[Book A Charter Flight To Adventure](charter_flights_to_adventure.html)**
 

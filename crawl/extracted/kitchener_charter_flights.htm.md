@@ -18,7 +18,7 @@ Kitchener, Ontario is one of the fastest growing business and technology hubs in
 
 For shorter regional flights, turboprop aircraft provide efficient and cost-effective solutions. Common destinations include *Muskoka*, *Killarney*, *Sudbury*, and *Ottawa*. These aircraft are ideal for accessing smaller runways and regional communities while still offering comfort and reliability.
 
-Kitchener float plane charters connect travelers to Ontario’s cottage country and remote fishing lodges. Direct flights to lakeside resorts in Muskoka, Georgian Bay, and northern wilderness areas eliminate the need for lengthy drives and create direct access to hard-to-reach destinations.
+Kitchener float plane charters connect travelers to Ontario's cottage country and remote fishing lodges. Direct flights to lakeside resorts in Muskoka, Georgian Bay, and northern wilderness areas eliminate the need for lengthy drives and create direct access to hard-to-reach destinations.
 
 ### Helicopter Charters
 
@@ -26,7 +26,7 @@ Helicopter charters from Kitchener are perfect for quick transfers to Toronto, M
 
 ## The Kitchener / Waterloo Airport (YKF)
 
-The Kitchener / Waterloo Airport (YKF) is a full-service facility supporting commercial, corporate and general aviation throughout the region, giving business travelers fast turns and private-aviation conveniences. It’s also an Airport of Entry (AOE) with CBSA clearance on site for international arrivals to Canada—streamlining cross-border itineraries.
+The Kitchener / Waterloo Airport (YKF) is a full-service facility supporting commercial, corporate and general aviation throughout the region, giving business travelers fast turns and private-aviation conveniences. It's also an Airport of Entry (AOE) with CBSA clearance on site for international arrivals to Canada—streamlining cross-border itineraries.
 
 The airport is conveniently located just 45 minutes west of Pearson International Airport and is the heart of what is referred to as the "Golden Triangle". The Kitchener–Waterloo–Guelph–Cambridge area is home to an extensive manufacturing and high tech sector. The Kitchener Waterloo airport is extremely busy for corporate and charter flights and Charter Flight Network specializes in finding clients the most cost efficient air charter options for flights throughout the region, across Canada as well as into the USA, Bahamas and Caribbean.
 
@@ -34,7 +34,7 @@ The airport is conveniently located just 45 minutes west of Pearson Internationa
 
 While Kitchener Waterloo Airport (YKF) is the primary departure point, other airports can also serve charter clients depending on destination and aircraft requirements:
 
-* **Toronto Pearson International Airport (YYZ)** – 75 km east of Kitchener, Canada’s busiest airport with worldwide connectivity.
+* **Toronto Pearson International Airport (YYZ)** – 75 km east of Kitchener, Canada's busiest airport with worldwide connectivity.
 * **Hamilton International Airport (YHM)** – 55 km south, an efficient option with less congestion and full charter facilities.
 * **London International Airport (YXU)** – 80 km west, a regional hub with customs and FBO services.
 
@@ -82,7 +82,7 @@ If you are requesting a jet charter quote, FlightPath in Kitchener, may be one o
 
 #### Airport FBO Services / Private Passenger Air Charter Terminal
 
-The following companies specialize in handling corporate and charter aircraft arriving and departing from Kitchener Waterloo Airport. Whether you fly private jet, turboprop or piston aircraft, you’ll arrive at a private passenger terminal where your baggage is taken directly to your waiting rental car or limo service.
+The following companies specialize in handling corporate and charter aircraft arriving and departing from Kitchener Waterloo Airport. Whether you fly private jet, turboprop or piston aircraft, you'll arrive at a private passenger terminal where your baggage is taken directly to your waiting rental car or limo service.
 
 **Chartright Air Group | (YKF)**
 39 Jetliner Ct
@@ -104,7 +104,7 @@ Charter Airlines charge either by the mile or by the hour. You pay for the aircr
 
 ##### How far is Kitchener Airport from downtown?
 
-The airport is about 20 minutes by car from downtown Kitchener and Waterloo’s central business district.
+The airport is about 20 minutes by car from downtown Kitchener and Waterloo's central business district.
 
 ##### Can international flights depart from Kitchener?
 

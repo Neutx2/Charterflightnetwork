@@ -1,7 +1,7 @@
 ---
-title: "British Columbia Air Charter Directory â Page 2 | Delta, Kelowna, Kamloops & More"
+title: "British Columbia Air Charter Directory – Page 2 | Delta, Kelowna, Kamloops & More"
 description: "British Columbia Air Charter Directory page 2 of 6 featuring wheel plane, float plane, and helicopter charter operators in Delta, Fort Nelson, Fort St. John, Kamloops, Kelowna, Muncho Lake, and more."
-h1: "British Columbia Air Charter Directory â Page 2"
+h1: "British Columbia Air Charter Directory – Page 2"
 legacyUrl: "/bc_air_charter_directory_2.html"
 slug: "directory/bc-air-charter-directory-2"
 thin: false

@@ -62,7 +62,7 @@ The Northern Lights are visible in Kimmirut from late September to early April. 
 
 ### Outdoor Adventures Await
 
-Kimmirut is a paradise for outdoor enthusiasts, offering a range of activities that showcase the region's natural beauty. From hiking and fishing to snowmobiling and dog sledding, there’s something for every adventurer.
+Kimmirut is a paradise for outdoor enthusiasts, offering a range of activities that showcase the region's natural beauty. From hiking and fishing to snowmobiling and dog sledding, there's something for every adventurer.
 
 ### Hiking and Wildlife Viewing
 

@@ -72,7 +72,7 @@ Trout Lake is an adventurer's paradise, offering year-round activities such as f
 
 ##### Wheel Plane Charters - 3 Competitive Quotes
 
-**Wheel Plane Charter Flights:**The Sambaa Kʼe Aerodrome is located adjacent to Trout Lake and has a 3,500 foot gravel runway. Charter airlines in the region provide a critical component of transportation logistics in the Northwest Territories, providing essential services that cater to the unique needs of business leaders, companies, governments,
+**Wheel Plane Charter Flights:**The Sambaa K'e Aerodrome is located adjacent to Trout Lake and has a 3,500 foot gravel runway. Charter airlines in the region provide a critical component of transportation logistics in the Northwest Territories, providing essential services that cater to the unique needs of business leaders, companies, governments,
 
 #### NWT Float Plane Charter Flights
 

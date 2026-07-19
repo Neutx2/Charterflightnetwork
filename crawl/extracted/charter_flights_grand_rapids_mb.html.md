@@ -45,7 +45,7 @@ Grand Rapids Airport is located about 2 nautical miles southwest of town and pro
 
 **Accommodations and Local Services**
 
-* Grand Rapids offers more visitor services than many smaller northern communities. Travelers may find local cabins, campground options, and practical trip services nearby, including Cook’s Campground and Cabins north of town on the Cedar Lake and Saskatchewan River side. :contentReference[oaicite:2]{index=2}
+* Grand Rapids offers more visitor services than many smaller northern communities. Travelers may find local cabins, campground options, and practical trip services nearby, including Cook's Campground and Cabins north of town on the Cedar Lake and Saskatchewan River side. :contentReference[oaicite:2]{index=2}
 
 **Things to Do And Local Attractions**
 

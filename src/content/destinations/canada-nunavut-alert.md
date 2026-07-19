@@ -32,17 +32,17 @@ Save time and use our no-obligation charter quote request form to receive up to 
 
 ## Alert Nunavut Charter Flights
 
-### Exploring Alert, Nunavut: The World’s Northernmost Permanently Inhabited Place
+### Exploring Alert, Nunavut: The World's Northernmost Permanently Inhabited Place
 
 ### We Arrange both Jet and Turbo Prop Aircraft Charters
 
-Alert, Nunavut, is a truly unique location situated at the northeastern tip of Ellesmere Island in the Qikiqtaaluk Region of Canada. Located only 817 kilometers (508 miles) from the North Pole, Alert is the northernmost permanently inhabited place in the world. It lies approximately 2,092 kilometers (1,299 miles) north of Iqaluit, Nunavut's capital, and about 4,092 kilometers (2,542 miles) northeast of Winnipeg, Manitoba. Accessible primarily by air, this remote Arctic outpost is surrounded by some of the planet’s most pristine and extreme environments.
+Alert, Nunavut, is a truly unique location situated at the northeastern tip of Ellesmere Island in the Qikiqtaaluk Region of Canada. Located only 817 kilometers (508 miles) from the North Pole, Alert is the northernmost permanently inhabited place in the world. It lies approximately 2,092 kilometers (1,299 miles) north of Iqaluit, Nunavut's capital, and about 4,092 kilometers (2,542 miles) northeast of Winnipeg, Manitoba. Accessible primarily by air, this remote Arctic outpost is surrounded by some of the planet's most pristine and extreme environments.
 
 Flight Options To Iqaluit, Nunavut
 
 ### Alert Airport: A Gateway to the High Arctic
 
-The Alert Airport, located at the northernmost tip of Ellesmere Island in Nunavut, serves as a vital transportation hub for one of the most remote places on Earth. Operated by Canada’s Department of National Defence (DND), this restricted-access airport supports military operations, scientific research, and essential supply missions in Alert. Due to its strategic and sensitive location, prior permission is required before landing at the airport, ensuring controlled and secure operations.
+The Alert Airport, located at the northernmost tip of Ellesmere Island in Nunavut, serves as a vital transportation hub for one of the most remote places on Earth. Operated by Canada's Department of National Defence (DND), this restricted-access airport supports military operations, scientific research, and essential supply missions in Alert. Due to its strategic and sensitive location, prior permission is required before landing at the airport, ensuring controlled and secure operations.
 
 The airport features a gravel runway measuring 5,500 feet (1,676 meters) in length, capable of accommodating specialized aircraft designed for Arctic conditions. The types of aircraft operating at Alert Airport primarily include cargo planes such as the C-130 Hercules and CC-177 Globemaster, which deliver supplies and equipment to support the Canadian Forces Station (CFS) Alert and weather research facilities. Occasionally, smaller aircraft configured for Arctic missions are used for personnel transport and emergency medical evacuations
 

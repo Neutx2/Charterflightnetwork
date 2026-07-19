@@ -16,7 +16,7 @@ Thunder Bay International Airport is a major aviation hub for northwestern Ontar
 
 ### Greater Sudbury Airport (YSB)
 
-Greater Sudbury Airport serves the mining, business and government sectors throughout northeastern Ontario. Charter aircraft operating from YSB connect Sudbury with Timmins, Sault Ste. Marie, smaller northern communities and destinations across Canada. Many charters support the region’s mining operations, energy projects and health-care referrals to and from larger centres.
+Greater Sudbury Airport serves the mining, business and government sectors throughout northeastern Ontario. Charter aircraft operating from YSB connect Sudbury with Timmins, Sault Ste. Marie, smaller northern communities and destinations across Canada. Many charters support the region's mining operations, energy projects and health-care referrals to and from larger centres.
 
 ### Timmins Victor M. Power Airport (YTS)
 
@@ -28,7 +28,7 @@ Sault Ste. Marie Airport connects the eastern shore of Lake Superior with domest
 
 ### Red Lake Airport (YRL)
 
-Red Lake Airport is one of the most important charter hubs for northwestern Ontario’s fly-in fishing lodges, mining operations and remote First Nation communities. Charter operators based at Red Lake operate both wheel and float-equipped aircraft, linking the town to dozens of lakes, rivers and airstrips across the region. For many lodges and communities, charter flights from Red Lake are the primary means of access.
+Red Lake Airport is one of the most important charter hubs for northwestern Ontario's fly-in fishing lodges, mining operations and remote First Nation communities. Charter operators based at Red Lake operate both wheel and float-equipped aircraft, linking the town to dozens of lakes, rivers and airstrips across the region. For many lodges and communities, charter flights from Red Lake are the primary means of access.
 
 ## Remote Communities, First Nation Reserves and Project Sites
 
@@ -38,7 +38,7 @@ Charter aircraft can be scheduled to align with clinic days, court sittings, tra
 
 ## Float Plane and Helicopter Charters in Northern Ontario
 
-Northern Ontario’s landscape of lakes and rivers makes float planes an essential part of the transportation network. Float plane operators based in Thunder Bay, Red Lake, Sioux Lookout, Pickle Lake and other communities fly anglers, canoeists and cabin owners directly to remote water locations. These aircraft also carry fuel, lumber, building materials and groceries to outpost camps and private cottages.
+Northern Ontario's landscape of lakes and rivers makes float planes an essential part of the transportation network. Float plane operators based in Thunder Bay, Red Lake, Sioux Lookout, Pickle Lake and other communities fly anglers, canoeists and cabin owners directly to remote water locations. These aircraft also carry fuel, lumber, building materials and groceries to outpost camps and private cottages.
 
 Helicopters are widely used for resource exploration, hydro line patrols, environmental monitoring and access to sites with no landing strip or water body. They can operate from small clearings, gravel bars and temporary pads, providing the shortest possible travel time between staging areas and work sites. Charter Flight Network can connect you with operators that have the aircraft types and equipment required for your project.
 
@@ -70,7 +70,7 @@ who are best positioned and equipped to provide the service you request. Each ai
 a competitive quote. If a quote meets your needs and budget, you deal directly with the airline of your choice
 to finalize all details, scheduling, and payment.
 
-**\*Privacy:** we don’t share your name or contact info with airlines. Your request is assigned a unique ID;
+**\*Privacy:** we don't share your name or contact info with airlines. Your request is assigned a unique ID;
 airlines submit quotes for that ID and we forward them to you.
 
 ## Charter Flights to Neighbouring Regions
@@ -105,7 +105,7 @@ Operating from multiple northern hubs, North Star Air ensures vital connections 
 
 ### Superior Airways
 
-Travel on your terms with Superior Airways’ powerful Navajo fleet, delivering nine-seat comfort and direct routing to remote lakes, mining camps, and northern towns unreachable by scheduled carriers.
+Travel on your terms with Superior Airways' powerful Navajo fleet, delivering nine-seat comfort and direct routing to remote lakes, mining camps, and northern towns unreachable by scheduled carriers.
 
 ### Air Bravo
 

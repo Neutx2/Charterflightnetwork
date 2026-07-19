@@ -32,11 +32,11 @@ The journey from High Prairie to Calgary stretches approximately 370 miles (595 
 
 **High Prairie to Edmonton**
 
-Linking High Prairie with Edmonton, the distance is about 225 miles (362 kilometers), providing a straightforward path for air charter services to bridge the gap between the northern community and the provincial capital’s myriad of attractions.
+Linking High Prairie with Edmonton, the distance is about 225 miles (362 kilometers), providing a straightforward path for air charter services to bridge the gap between the northern community and the provincial capital's myriad of attractions.
 
 **High Prairie to Grande Prairie**
 
-High Prairie lies roughly 130 miles (209 kilometers) from Grande Prairie, making it an attractive destination for those seeking a charter flight experience to explore the northern reaches of Alberta’s varied landscapes and communities.
+High Prairie lies roughly 130 miles (209 kilometers) from Grande Prairie, making it an attractive destination for those seeking a charter flight experience to explore the northern reaches of Alberta's varied landscapes and communities.
 
 ### High Prairie Airport
 
@@ -58,7 +58,7 @@ Just 50 air miles southwest of High Prairie, Valleyview Airport is a smaller, co
 
 **Falher Airport**
 
-Located about 40 air miles west of High Prairie, Falher Airport is another viable option for private and charter flights, offering a gateway to the western areas of High Prairie’s surrounding region.
+Located about 40 air miles west of High Prairie, Falher Airport is another viable option for private and charter flights, offering a gateway to the western areas of High Prairie's surrounding region.
 
 ### High Prairie Hotels
 

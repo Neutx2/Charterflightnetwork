@@ -20,7 +20,7 @@ Gillam is a northern Manitoba community on the Nelson River corridor, situated b
 
 ### **About Gillam:**
 
-Gillam is a northern Manitoba service town on the Nelson River system and is widely recognized as a hub for Manitoba Hydro operations. It also serves as a practical base for workers, travelers, and visitors moving through Manitoba’s remote northeastern region.
+Gillam is a northern Manitoba service town on the Nelson River system and is widely recognized as a hub for Manitoba Hydro operations. It also serves as a practical base for workers, travelers, and visitors moving through Manitoba's remote northeastern region.
 
 [Previous](#carouselExampleIndicators1)
 [Next](#carouselExampleIndicators1)

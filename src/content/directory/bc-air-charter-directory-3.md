@@ -1,7 +1,7 @@
 ---
-title: "British Columbia Air Charter Directory â Page 3 | Nanaimo, Nelson, Penticton & More"
+title: "British Columbia Air Charter Directory – Page 3 | Nanaimo, Nelson, Penticton & More"
 description: "British Columbia Air Charter Directory page 3 of 6 featuring wheel plane, float plane, and helicopter charter operators in Nanaimo, Naramata, Nelson, Nimpo Lake, Oliver, Parksville, Parson, Penticton, Pitt Meadows, Port Alberni, Port Hardy, Port McNeill, and Powell River."
-h1: "British Columbia Air Charter Directory â Page 3"
+h1: "British Columbia Air Charter Directory – Page 3"
 legacyUrl: "/bc_air_charter_directory_3.html"
 slug: "directory/bc-air-charter-directory-3"
 thin: false

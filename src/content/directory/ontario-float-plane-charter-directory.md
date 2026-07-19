@@ -1,7 +1,7 @@
 ---
 title: "Ontario Float Plane Charter Directory | Page 1"
 description: "Ontario float plane charter directory page 1, listing operators from Armstrong, Atikokan and Blind River to Cochrane, Dryden, Ear Falls, Elliot Lake and Emo."
-h1: "Ontario Float Plane Charter Directory â Page 1"
+h1: "Ontario Float Plane Charter Directory — Page 1"
 legacyUrl: "/ontario_float_plane_charter_directory.html"
 slug: "directory/ontario-float-plane-charter-directory"
 thin: false

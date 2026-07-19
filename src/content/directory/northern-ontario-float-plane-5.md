@@ -1,7 +1,7 @@
 ---
-title: "Ontario Air Charter Directory â Page 5 | Sioux Lookout, Thunder Bay, Timmins, Sudbury and More"
+title: "Ontario Air Charter Directory – Page 5 | Sioux Lookout, Thunder Bay, Timmins, Sudbury and More"
 description: "Ontario Air Charter Directory page 5 featuring float plane, wheel plane, amphibious, and helicopter charter operators in Sioux Lookout, St. Catharines, Sudbury, Temagami, Thunder Bay, and Timmins."
-h1: "Ontario Air Charter Directory â Page 5"
+h1: "Ontario Air Charter Directory – Page 5"
 legacyUrl: "/northern_ontario_float_plane_5.html"
 slug: "directory/northern-ontario-float-plane-5"
 thin: false
@@ -242,7 +242,7 @@ P: 807-473-1200 / Cellular 807-355-3834
 
 Thunder Bay, ON
 P: 807-475-4510
-**Base Locations:** Thunder Bay / Red Lake / AirdrieâSpringbank, AB / Brandon, MB / Oliver, BC / Goose Bay, NL
+**Base Locations:** Thunder Bay / Red Lake / Airdrie–Springbank, AB / Brandon, MB / Oliver, BC / Goose Bay, NL
 **Aircraft Types:** Bell 206 Long Ranger / Bell 407 / Bell 412C (BLR)
 **Service Type:** Helicopter
 

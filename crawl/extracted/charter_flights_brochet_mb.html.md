@@ -45,7 +45,7 @@ Brochet is a remote northern Manitoba community near the north end of Reindeer L
 
 **Accommodations and Local Services**
 
-* Accommodation in Brochet is very limited. Manitoba’s current community profile says limited accommodation is available at the local nursing station, while local services also include a Northern Store and other basic community facilities.
+* Accommodation in Brochet is very limited. Manitoba's current community profile says limited accommodation is available at the local nursing station, while local services also include a Northern Store and other basic community facilities.
 
 **Things to Do And Local Attractions**
 
@@ -55,7 +55,7 @@ Brochet is a remote northern Manitoba community near the north end of Reindeer L
 
 ### **Wheel Plane Charter Flights**
 
-Wheel plane charter flights to Brochet are practical for passenger, freight, and community travel, especially because the airport’s crushed rock runway is built for northern utility operations.
+Wheel plane charter flights to Brochet are practical for passenger, freight, and community travel, especially because the airport's crushed rock runway is built for northern utility operations.
 
 [QUOTE REQUEST FORM](#QuoteForm)
 

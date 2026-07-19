@@ -88,7 +88,7 @@ Helicopter charters can support remote scouting, specialty lodge access, equipme
 
 ## How do guests typically reach Big Sand Lake Lodge?
 
-Most guests arrive by chartered turboprop aircraft from Winnipeg to the lodge’s private airstrip. Because it is a true fly-in destination, air access is the normal way to reach the lodge.
+Most guests arrive by chartered turboprop aircraft from Winnipeg to the lodge's private airstrip. Because it is a true fly-in destination, air access is the normal way to reach the lodge.
 
 ## Does Big Sand Lake Lodge have its own landing strip?
 

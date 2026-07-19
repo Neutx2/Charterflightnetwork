@@ -1,4 +1,4 @@
-# Quebec Air Charter Directory â Page 2
+# Quebec Air Charter Directory – Page 2
 
 ---
 
@@ -52,7 +52,7 @@
 
 [Riviere-Du-Loup](quebec_air_charter_directory_4.html#RiviereDuLoup)
 
-[RiviÃ¨re-Rouge](quebec_air_charter_directory_4.html#RiviereRouge)
+[Rivière-Rouge](quebec_air_charter_directory_4.html#RiviereRouge)
 
 [Rouyn-Noranda](quebec_air_charter_directory_4.html#RouynNoranda)
 
@@ -60,11 +60,11 @@
 
 [St-Charles-sur-Richelieu](quebec_air_charter_directory_2.html#Montreal)
 
-[St-Ãtienne-des-GrÃ¨s](quebec_air_charter_directory_5.html#TroisRivieres)
+[St-Étienne-des-Grès](quebec_air_charter_directory_5.html#TroisRivieres)
 
 [St-Frederic-Beauce](quebec_air_charter_directory_3.html#QuebecCity)
 
-[St-HonorÃ©](quebec_air_charter_directory_4.html#StHonore)
+[St-Honoré](quebec_air_charter_directory_4.html#StHonore)
 
 [St-Hubert](quebec_air_charter_directory_4.html#StHubert)
 
@@ -89,9 +89,9 @@
 ####
 
 **Canadian Helicopters Limited**
-Les CÃ¨dres QC J7T 1G1
+Les Cèdres QC J7T 1G1
 P: 450 452-3000
-**Base Locations:** Les CÃ¨dres QC
+**Base Locations:** Les Cèdres QC
 **Aircraft Types:** Aerospatiale AS350B, B2, BA, D / Aerospatiale AS355 F1, F2 / Bell 206 B / Bell 206 L / Bell 212 / Bell 407 / Bell 412 EP / Sikorsky S61 N / Sikorsky S76 A, C, D
 **Service Type:** Helicopter
 
@@ -115,7 +115,7 @@ P: 418 248-3545
 ####
 
 **Air Inuit**
-6005, Boul. CÃ´te-Vertu / Montreal QC H4S 0B1
+6005, Boul. Côte-Vertu / Montreal QC H4S 0B1
 P: 514 905-9445
 **Base Locations:** Montreal
 **Aircraft Types:** Beech 300 / Boeing 737 200 C / Boeing 737 300 / DeHavilland DHC6 300 / DeHavilland DHC8 100, 300
@@ -153,7 +153,7 @@ P: 514 633-7186
 **Service Type:** Floats
 
 **Estrie Helicopters Inc**
-MontrÃ©al QC H3A 2R7
+Montréal QC H3A 2R7
 P: 514-757-4354
 **Base Locations:** Montreal
 **Aircraft Types:** Bell 505
@@ -212,7 +212,7 @@ P: 450 474-4888
 
 ######
 
-Copyright Â© Charter Flight Network. All rights reserved.
+Copyright © Charter Flight Network. All rights reserved.
 
 ---
 

@@ -64,7 +64,7 @@ For a straightforward and comfortable stay, the Wetaskiwin Motel offers well-app
 
 **Lakeview Inn & Suites**
 
-Located close to Wetaskiwin’s scenic attractions, Lakeview Inn & Suites provides a cozy 3-star lodging experience with a range of amenities designed to make guests' stays enjoyable, from spacious rooms to complimentary breakfast, appealing to private jet and helicopter charter travelers.
+Located close to Wetaskiwin's scenic attractions, Lakeview Inn & Suites provides a cozy 3-star lodging experience with a range of amenities designed to make guests' stays enjoyable, from spacious rooms to complimentary breakfast, appealing to private jet and helicopter charter travelers.
 
 ---
 

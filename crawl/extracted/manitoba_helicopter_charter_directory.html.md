@@ -74,7 +74,7 @@ P: (204) 345-8332
 Snow Lake, MB
 P: (204) 358-2259
 **Base Locations:** Snow Lake, MB
-**Aircraft Types:** Piper PA-31-350 Navajo / Cessna 185 / De Havilland Beaver / Noorduyn Norseman V / Bell 206 L / AÃ©rospatiale AS350 B2
+**Aircraft Types:** Piper PA-31-350 Navajo / Cessna 185 / De Havilland Beaver / Noorduyn Norseman V / Bell 206 L / Aérospatiale AS350 B2
 **Service Type:** Helicopter / Wheels / Floats
 
 ## St Andrews Helicopter Charter Directory
@@ -84,7 +84,7 @@ P: (204) 358-2259
 St Andrews, MB
 P: (204) 338-7953
 **Base Locations:** St Andrews, MB
-**Aircraft Types:** Bell 205 A / Bell 206 B, L / Sikorsky S-76C / AÃ©rospatiale AS350 B2, B3, BA / Eurocopter EC135 P2Plus
+**Aircraft Types:** Bell 205 A / Bell 206 B, L / Sikorsky S-76C / Aérospatiale AS350 B2, B3, BA / Eurocopter EC135 P2Plus
 **Service Type:** Helicopter
 
 ## The Pas Helicopter Charter Directory

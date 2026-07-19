@@ -16,15 +16,15 @@ Braeburn Lodge, renowned for its gigantic cinnamon buns, is not just a pit stop 
 
 **Braeburn Lodge to Whitehorse**
 
-Connecting Braeburn Lodge to Whitehorse with a quick 60 air mile flight, charter flights offer a scenic journey over Yukon’s majestic landscapes, bringing you to the heart of the wilderness in no time.
+Connecting Braeburn Lodge to Whitehorse with a quick 60 air mile flight, charter flights offer a scenic journey over Yukon's majestic landscapes, bringing you to the heart of the wilderness in no time.
 
 **Braeburn Lodge to Watson Lake**
 
-Spanning 260 air miles, the flight from Braeburn Lodge to Watson Lake is a breathtaking adventure over Yukon’s diverse terrains, easily accessible through convenient charter flights.
+Spanning 260 air miles, the flight from Braeburn Lodge to Watson Lake is a breathtaking adventure over Yukon's diverse terrains, easily accessible through convenient charter flights.
 
 **Braeburn Lodge to Yellowknife, NWT**
 
-The 700 air mile flight to Yellowknife from Braeburn Lodge crosses spectacular northern vistas, offering an aerial view of Yukon and NWT’s untouched wilderness, facilitated by seamless charter services.
+The 700 air mile flight to Yellowknife from Braeburn Lodge crosses spectacular northern vistas, offering an aerial view of Yukon and NWT's untouched wilderness, facilitated by seamless charter services.
 
 **Braeburn Lodge to Faro, Yukon**
 

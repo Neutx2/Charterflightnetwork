@@ -1,7 +1,7 @@
 ---
 title: "British Columbia Float Plane Charter Directory | Page 1"
 description: "British Columbia float plane charter directory page 1. Browse BC seaplane operators by location, aircraft type, base location and quote request link."
-h1: "British Columbia Float Plane Charter Directory â Page 1"
+h1: "British Columbia Float Plane Charter Directory — Page 1"
 legacyUrl: "/british_columbia_float_plane_charter_directory.html"
 slug: "directory/british-columbia-float-plane-charter-directory"
 thin: false

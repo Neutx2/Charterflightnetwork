@@ -28,7 +28,7 @@ The Minto mine boasts a rich history and a promising future, having run continuo
 
 The mine's geology features metamorphic assemblages and batholiths within the Carmacks copper belt, hosting intrusion-related copper and gold mineralisation. Its deposits lie within early Mesozoic plutonic rocks, with the area being marked by a variety of geological features including granodiorite, quartzofeldspathic gneiss, and biotite-rich gneiss.
 
-In addition to its mining operations, Minto Explorations has joined Yukon University’s Northern Mine Remediation Consortium. This partnership signifies Minto Explorations' commitment to addressing northern mining challenges, focusing on passive water treatment technologies, mine waste management, mine revegetation, and community engagement, highlighting the company's dedication to environmental sustainability and community involvement
+In addition to its mining operations, Minto Explorations has joined Yukon University's Northern Mine Remediation Consortium. This partnership signifies Minto Explorations' commitment to addressing northern mining challenges, focusing on passive water treatment technologies, mine waste management, mine revegetation, and community engagement, highlighting the company's dedication to environmental sustainability and community involvement
 
 If Minto is not the most convenient airport for your travel needs, youmay find one of the following nearby loctions better suited to your requirements.
 

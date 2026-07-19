@@ -1,7 +1,7 @@
 ---
-title: "Ontario Air Charter Directory â Page 4 | Red Lake, Ottawa, North Bay, Nakina and More"
+title: "Ontario Air Charter Directory – Page 4 | Red Lake, Ottawa, North Bay, Nakina and More"
 description: "Ontario Air Charter Directory page 4 featuring float plane, wheel plane, amphibious, and helicopter charter operators in Nakina, Nestor Falls, Niagara Falls, North Bay, Orillia, Oshawa, Ottawa, Owen Sound, Parry Sound, Peterborough and Keene, Pickle Lake, Port Loring, Red Lake, Round Lake, Sandy Lake, Savant Lake, and Sault Ste. Marie."
-h1: "Ontario Air Charter Directory â Page 4"
+h1: "Ontario Air Charter Directory – Page 4"
 legacyUrl: "/northern_ontario_float_plane_4.html"
 slug: "directory/northern-ontario-float-plane-4"
 thin: false

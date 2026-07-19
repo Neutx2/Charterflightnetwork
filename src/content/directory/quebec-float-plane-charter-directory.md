@@ -1,6 +1,6 @@
 ---
 title: "Quebec Float Plane Air Charter Directory | Canadian Air Charter Directory"
-description: "Quebec Float Plane Air Charter Directory. Quickly locate float plane charter operators in Kuujjuaq, La Tuque, Laval, Montreal, Mont-Tremblant, Quebec City, RiviÃ¨re-Rouge, Sutton, Shawinigan and more."
+description: "Quebec Float Plane Air Charter Directory. Quickly locate float plane charter operators in Kuujjuaq, La Tuque, Laval, Montreal, Mont-Tremblant, Quebec City, Rivière-Rouge, Sutton, Shawinigan and more."
 h1: "Quebec Float Plane Charter Directory"
 legacyUrl: "/quebec_float_plane_charter_directory.html"
 slug: "directory/quebec-float-plane-charter-directory"
@@ -80,7 +80,7 @@ P: 514 247-5922
 ## Mont Tremblant / La Macaza Float Plane Air Charter
 
 **Aero Loisirs Inc**
-144 Chemin Roger HÃ©bert / La Macaza QC J0T 1R0
+144 Chemin Roger Hébert / La Macaza QC J0T 1R0
 P: 819 275-2445
 **Base Locations:** Mont Tremblant
 **Aircraft Types:** Cessna 172
@@ -88,7 +88,7 @@ P: 819 275-2445
 
 [REQUEST CHARTER QUOTE](/quote)
 
-**Delco Aviation LtÃ©e**
+**Delco Aviation Ltée**
 Mont-Tremblant QC J8E 1K7
 P: 514-771-4135
 **Base Locations:** Mont-Tremblant QC
@@ -99,8 +99,8 @@ P: 514-771-4135
 
 ## Quebec City Float Plane Air Charter
 
-**Nordplus 1998 LtÃ©e**
-1127 Rue Marie-Gaudard / QuÃ©bec QC G1Y 1C4
+**Nordplus 1998 Ltée**
+1127 Rue Marie-Gaudard / Québec QC G1Y 1C4
 P: 418 877-4650
 **Base Locations:** Quebec City
 **Aircraft Types:** DeHavilland DHC-3 Otter
@@ -108,12 +108,12 @@ P: 418 877-4650
 
 [REQUEST CHARTER QUOTE](/quote)
 
-## RiviÃ¨re-Rouge Float Plane Air Charter
+## Rivière-Rouge Float Plane Air Charter
 
 **Air Mont-Laurier (1985) Inc**
-1788 boulevard Fernand Lafontaine / RiviÃ¨re-Rouge QC J0T 1T0
+1788 boulevard Fernand Lafontaine / Rivière-Rouge QC J0T 1T0
 P: 819 275-2794
-**Base Locations:** RiviÃ¨re-Rouge QC
+**Base Locations:** Rivière-Rouge QC
 **Aircraft Types:** Cessna 180 / DeHavilland Beaver / DeHavilland Otter
 **Service Type:** Floats
 
@@ -130,7 +130,7 @@ P: 450 230-1298
 
 [REQUEST CHARTER QUOTE](/quote)
 
-## Trois-RiviÃ¨res / Shawinigan Float Plane Air Charter
+## Trois-Rivières / Shawinigan Float Plane Air Charter
 
 **Bel-Air Laurentien Aviation Inc**
 Shawinigan, QC
@@ -142,9 +142,9 @@ P: 819 538-8623
 [REQUEST CHARTER QUOTE](/quote)
 
 **Hydravion Aventure Inc**
-428, Rang des GrÃ¨s / St-Ãtienne-des-GrÃ¨s QC G0X 2P0
+428, Rang des Grès / St-Étienne-des-Grès QC G0X 2P0
 P: 819 609-9358
-**Base Locations:** St-Ãtienne-des-GrÃ¨s QC
+**Base Locations:** St-Étienne-des-Grès QC
 **Aircraft Types:** Cessna 180 / Cessna U206 / DeHavilland Beaver / Cessna 550
 **Service Type:** Floats / Wheels / Helicopter
 
@@ -152,7 +152,7 @@ P: 819 609-9358
 
 ### [Back To Main Canadian Menu](/directory/canadian-air-charter-directory-1)
 
-Copyright Â© Charter Flight Network. All rights reserved.
+Copyright © Charter Flight Network. All rights reserved.
 
 ---
 

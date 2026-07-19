@@ -220,7 +220,7 @@ P: (250) 656-3987
 
 ###### [Back To Main Canadian Menu](canadian_air_charter_directory_1.html)
 
-Copyright Â© Charter Flight Network. All rights reserved.
+Copyright © Charter Flight Network. All rights reserved.
 
 ---
 

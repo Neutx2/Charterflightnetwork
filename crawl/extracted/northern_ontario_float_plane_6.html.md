@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-# Ontario Air Charter Directory â Page 6
+# Ontario Air Charter Directory – Page 6
 
 Page 6 features float plane, wheel plane, amphibious, and helicopter charter listings for Toronto, Vermilion Bay, Wawa, Weagamow, Whitby, White River, and Windsor.
 

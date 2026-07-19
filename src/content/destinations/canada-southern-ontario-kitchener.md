@@ -11,7 +11,7 @@ province: "Southern Ontario"
 provinceSlug: "southern-ontario"
 city: "Kitchener"
 airportCode: "YKF"
-faqs: [{"q": "How Much Does A Charter Flight Cost?", "a": "Charter Airlines charge either by the mile or by the hour. You pay for the aircraft to fly you to your destination and after dropping you off, you also pay for the aircraft to return empty back to its base. So if your destination is 100 air miles, you will pay for 200 miles of flying. Using this example, a small turboprop that will seat up to 8 passengers will cost between $2,400 - $2,800 plus tax, airport landing fees. A small Cessna that seats 3 passengers may cost around $800 - $900 for the same flight. Jet charters charge by the hour and may range from $3,000 - $5,000 per flight hour."}, {"q": "How far is Kitchener Airport from downtown?", "a": "The airport is about 20 minutes by car from downtown Kitchener and Waterloo’s central business district."}, {"q": "Can international flights depart from Kitchener?", "a": "Yes. YKF provides onsite customs and immigration services, making direct flights to the U.S. and overseas possible without first traveling to Toronto Pearson."}, {"q": "What aircraft types are available for charter?", "a": "Options include private jets, turboprops, float planes, and helicopters. The right aircraft depends on your destination, passenger count, and budget."}, {"q": "Are there direct flights to New York and Chicago?", "a": "Yes. Private jet charters from Kitchener can reach New York (Teterboro), Chicago, and Boston directly in under two hours."}, {"q": "What ground transportation is available at Kitchener Airport?", "a": "Car rentals, limousine services, and executive shuttle services are available onsite. Many charter providers also arrange private ground transfers."}]
+faqs: [{"q": "How Much Does A Charter Flight Cost?", "a": "Charter Airlines charge either by the mile or by the hour. You pay for the aircraft to fly you to your destination and after dropping you off, you also pay for the aircraft to return empty back to its base. So if your destination is 100 air miles, you will pay for 200 miles of flying. Using this example, a small turboprop that will seat up to 8 passengers will cost between $2,400 - $2,800 plus tax, airport landing fees. A small Cessna that seats 3 passengers may cost around $800 - $900 for the same flight. Jet charters charge by the hour and may range from $3,000 - $5,000 per flight hour."}, {"q": "How far is Kitchener Airport from downtown?", "a": "The airport is about 20 minutes by car from downtown Kitchener and Waterloo's central business district."}, {"q": "Can international flights depart from Kitchener?", "a": "Yes. YKF provides onsite customs and immigration services, making direct flights to the U.S. and overseas possible without first traveling to Toronto Pearson."}, {"q": "What aircraft types are available for charter?", "a": "Options include private jets, turboprops, float planes, and helicopters. The right aircraft depends on your destination, passenger count, and budget."}, {"q": "Are there direct flights to New York and Chicago?", "a": "Yes. Private jet charters from Kitchener can reach New York (Teterboro), Chicago, and Boston directly in under two hours."}, {"q": "What ground transportation is available at Kitchener Airport?", "a": "Car rentals, limousine services, and executive shuttle services are available onsite. Many charter providers also arrange private ground transfers."}]
 ---
 ## Receive Up To 3 Competitive Charter Quotes Today
 
@@ -31,7 +31,7 @@ Kitchener, Ontario is one of the fastest growing business and technology hubs in
 
 For shorter regional flights, turboprop aircraft provide efficient and cost-effective solutions. Common destinations include *Muskoka*, *Killarney*, *Sudbury*, and *Ottawa*. These aircraft are ideal for accessing smaller runways and regional communities while still offering comfort and reliability.
 
-Kitchener float plane charters connect travelers to Ontario’s cottage country and remote fishing lodges. Direct flights to lakeside resorts in Muskoka, Georgian Bay, and northern wilderness areas eliminate the need for lengthy drives and create direct access to hard-to-reach destinations.
+Kitchener float plane charters connect travelers to Ontario's cottage country and remote fishing lodges. Direct flights to lakeside resorts in Muskoka, Georgian Bay, and northern wilderness areas eliminate the need for lengthy drives and create direct access to hard-to-reach destinations.
 
 ## Helicopter Charters
 
@@ -39,7 +39,7 @@ Helicopter charters from Kitchener are perfect for quick transfers to Toronto, M
 
 ## The Kitchener / Waterloo Airport (YKF)
 
-The Kitchener / Waterloo Airport (YKF) is a full-service facility supporting commercial, corporate and general aviation throughout the region, giving business travelers fast turns and private-aviation conveniences. It’s also an Airport of Entry (AOE) with CBSA clearance on site for international arrivals to Canada—streamlining cross-border itineraries.
+The Kitchener / Waterloo Airport (YKF) is a full-service facility supporting commercial, corporate and general aviation throughout the region, giving business travelers fast turns and private-aviation conveniences. It's also an Airport of Entry (AOE) with CBSA clearance on site for international arrivals to Canada—streamlining cross-border itineraries.
 
 The airport is conveniently located just 45 minutes west of Pearson International Airport and is the heart of what is referred to as the "Golden Triangle". The Kitchener–Waterloo–Guelph–Cambridge area is home to an extensive manufacturing and high tech sector. The Kitchener Waterloo airport is extremely busy for corporate and charter flights and Charter Flight Network specializes in finding clients the most cost efficient air charter options for flights throughout the region, across Canada as well as into the USA, Bahamas and Caribbean.
 
@@ -47,7 +47,7 @@ The airport is conveniently located just 45 minutes west of Pearson Internationa
 
 While Kitchener Waterloo Airport (YKF) is the primary departure point, other airports can also serve charter clients depending on destination and aircraft requirements:
 
-* **Toronto Pearson International Airport (YYZ)** – 75 km east of Kitchener, Canada’s busiest airport with worldwide connectivity.
+* **Toronto Pearson International Airport (YYZ)** – 75 km east of Kitchener, Canada's busiest airport with worldwide connectivity.
 * **Hamilton International Airport (YHM)** – 55 km south, an efficient option with less congestion and full charter facilities.
 * **London International Airport (YXU)** – 80 km west, a regional hub with customs and FBO services.
 
@@ -95,7 +95,7 @@ If you are requesting a jet charter quote, FlightPath in Kitchener, may be one o
 
 ## Airport FBO Services / Private Passenger Air Charter Terminal
 
-The following companies specialize in handling corporate and charter aircraft arriving and departing from Kitchener Waterloo Airport. Whether you fly private jet, turboprop or piston aircraft, you’ll arrive at a private passenger terminal where your baggage is taken directly to your waiting rental car or limo service.
+The following companies specialize in handling corporate and charter aircraft arriving and departing from Kitchener Waterloo Airport. Whether you fly private jet, turboprop or piston aircraft, you'll arrive at a private passenger terminal where your baggage is taken directly to your waiting rental car or limo service.
 
 **Chartright Air Group | (YKF)**
 39 Jetliner Ct
@@ -117,7 +117,7 @@ Charter Airlines charge either by the mile or by the hour. You pay for the aircr
 
 ### How far is Kitchener Airport from downtown?
 
-The airport is about 20 minutes by car from downtown Kitchener and Waterloo’s central business district.
+The airport is about 20 minutes by car from downtown Kitchener and Waterloo's central business district.
 
 ### Can international flights depart from Kitchener?
 

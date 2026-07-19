@@ -24,7 +24,7 @@ Traveling from Medicine Hat to Edmonton covers a distance of about 310 miles (50
 
 **Medicine Hat to Grande Prairie**
 
-The distance from Medicine Hat to Grande Prairie is roughly 540 miles (870 kilometers), presenting a longer but scenic aerial journey across Alberta’s diverse landscapes, ideal for those looking to experience the province’s northern beauty.
+The distance from Medicine Hat to Grande Prairie is roughly 540 miles (870 kilometers), presenting a longer but scenic aerial journey across Alberta's diverse landscapes, ideal for those looking to experience the province's northern beauty.
 
 ##### Medicine Hat Airport
 
@@ -60,7 +60,7 @@ Offering comfort and convenience, the Baymont by Wyndham Medicine Hat provides 3
 
 **Home Inn Express Medicine Hat**
 
-The Home Inn Express in Medicine Hat is known for its cozy atmosphere and friendly service, presenting a 2-star lodging option for travelers seeking value and comfort close to the city’s main attractions and the airport.
+The Home Inn Express in Medicine Hat is known for its cozy atmosphere and friendly service, presenting a 2-star lodging option for travelers seeking value and comfort close to the city's main attractions and the airport.
 
 **Days Inn by Wyndham Medicine Hat**
 

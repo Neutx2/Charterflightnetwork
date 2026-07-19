@@ -1,5 +1,5 @@
 ---
-title: "Ontario Helicopter Charter Directory â Page 1 | Canadian Air Charter Directory"
+title: "Ontario Helicopter Charter Directory – Page 1 | Canadian Air Charter Directory"
 description: "Ontario Helicopter Charter Directory (Page 1): Brampton/Cheltenham, Cambridge, Carp, Chatham-Kent, Cochrane, Collingwood, Hamilton, Kenora, Kingston/Tamworth, Meaford, Muskoka, Niagara Falls, North Bay, Ottawa, Sault Ste. Marie, Thunder Bay, Toronto, Wawa and Whitby. View aircraft types, base locations, and contact details."
 h1: "Ontario Helicopter Air Charter Directory"
 legacyUrl: "/ontario_helicopter_charter_directory.html"
@@ -201,7 +201,7 @@ P: [905-505-2151](tel:+19055052151)
 
 P: [807-472-1955](tel:+18074721955)
 
-Copyright Â© Charter Flight Network. All rights reserved.
+Copyright © Charter Flight Network. All rights reserved.
 
 ---
 

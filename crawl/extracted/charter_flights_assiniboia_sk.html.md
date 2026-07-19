@@ -16,7 +16,7 @@ Assiniboia, located in the heart of southern Saskatchewan, is renowned for its e
 
 **Assiniboia to Regina**
 
-Just over 80 air miles, a quick charter flight connects you to the capital’s bustling atmosphere.
+Just over 80 air miles, a quick charter flight connects you to the capital's bustling atmosphere.
 
 **Assiniboia to Saskatoon**
 
@@ -58,7 +58,7 @@ Known for its welcoming atmosphere and convenient location, the perfect base for
 
 **Grasslands National Park**
 
-Discover the rugged beauty of one of Canada’s national parks, a short charter flight or drive away, offering unique hiking and wildlife viewing.
+Discover the rugged beauty of one of Canada's national parks, a short charter flight or drive away, offering unique hiking and wildlife viewing.
 
 **Lake of the Prairies**
 

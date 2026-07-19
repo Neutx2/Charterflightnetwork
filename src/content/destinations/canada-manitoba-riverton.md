@@ -31,7 +31,7 @@ Charter Flights Arborg
 
 ## **About Riverton:**
 
-Riverton is a small Interlake community on the Icelandic River, north of Gimli and close to Lake Winnipeg. It is known for its Icelandic heritage, regional recreation, and convenient access to beaches, trails, and nearby towns in Manitoba’s Interlake region.
+Riverton is a small Interlake community on the Icelandic River, north of Gimli and close to Lake Winnipeg. It is known for its Icelandic heritage, regional recreation, and convenient access to beaches, trails, and nearby towns in Manitoba's Interlake region.
 
 [Previous](#carouselExampleIndicators1)
 [Next](#carouselExampleIndicators1)
@@ -56,7 +56,7 @@ Riverton is a small Interlake community on the Icelandic River, north of Gimli a
 
 **Accommodations and Local Services**
 
-* Riverton has practical lodging for short stays, with the Riverton Motor Inn as a verified in-town option. Municipal accommodation listings also point travelers to nearby choices such as Zan’s Family Inn, Travelling Inn, and the Arborg Hotel.
+* Riverton has practical lodging for short stays, with the Riverton Motor Inn as a verified in-town option. Municipal accommodation listings also point travelers to nearby choices such as Zan's Family Inn, Travelling Inn, and the Arborg Hotel.
 
 **Things to Do And Local Attractions**
 
@@ -72,7 +72,7 @@ Wheel plane charter flights to Riverton require aircraft suited to a smaller gra
 
 ## **Float Plane Charter Flights**
 
-Seasonal float plane access may still be practical for the broader Riverton and Lake Winnipeg region during open-water months, especially where shoreline access is more useful than runway access. This is an inference based on Riverton’s location near Lake Winnipeg rather than a verified local float base.
+Seasonal float plane access may still be practical for the broader Riverton and Lake Winnipeg region during open-water months, especially where shoreline access is more useful than runway access. This is an inference based on Riverton's location near Lake Winnipeg rather than a verified local float base.
 
 [QUOTE REQUEST FORM](#QuoteForm)
 
@@ -96,7 +96,7 @@ Current aerodrome data lists a runway measuring about 3,000 feet by 100 feet wit
 
 ## Are there accommodation options in Riverton?
 
-Yes. Local and regional accommodation listings include Riverton Motor Inn in Riverton and nearby options such as Zan’s Family Inn, Travelling Inn, and Arborg Hotel.
+Yes. Local and regional accommodation listings include Riverton Motor Inn in Riverton and nearby options such as Zan's Family Inn, Travelling Inn, and Arborg Hotel.
 
 ## What are some things to do in Riverton?
 

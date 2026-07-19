@@ -52,7 +52,7 @@ P: 000000
 
 ######
 
-Copyright Â© Charter Flight Network. All rights reserved.
+Copyright © Charter Flight Network. All rights reserved.
 
 ---
 

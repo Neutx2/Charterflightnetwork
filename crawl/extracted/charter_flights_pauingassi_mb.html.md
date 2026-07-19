@@ -45,7 +45,7 @@ Pauingassi is generally reached through nearby Little Grand Rapids Airport rathe
 
 **Accommodations and Local Services**
 
-* Verified lodging information is limited, but community sources mention the NDL Building, also called New Dream Lodge, along with Dojo’s Store, the Northern Store, and the Pauingassi Nursing Station, indicating basic services for short-stay northern travel.
+* Verified lodging information is limited, but community sources mention the NDL Building, also called New Dream Lodge, along with Dojo's Store, the Northern Store, and the Pauingassi Nursing Station, indicating basic services for short-stay northern travel.
 
 **Things to Do And Local Attractions**
 

@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-# Alberta Air Charter Directory â Page 2
+# Alberta Air Charter Directory – Page 2
 
 Browse Alberta charter operators by city, including wheel plane, float plane, and helicopter services in Calling Lake, Caroline, Cold Lake, Drayton Valley, Edmonton, Fort McMurray, Fort Vermilion, and Grande Prairie.
 

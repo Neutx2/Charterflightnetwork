@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-# British Columbia Float Plane Charter Directory â Page 1
+# British Columbia Float Plane Charter Directory — Page 1
 
 Float plane and seaplane charter operators serving British Columbia communities from Campbell River and Nanaimo to Dease Lake, Fort Nelson, Muncho Lake and the central coast. Browse listings by base location, aircraft type and quote request link.
 

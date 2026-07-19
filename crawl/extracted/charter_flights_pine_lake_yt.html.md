@@ -16,7 +16,7 @@ Pine Lake, nestled in the pristine wilderness of Yukon, serves as a gateway to u
 
 **Pine Lake to Whitehorse**
 
-Approximately 150 air miles separate Pine Lake from Whitehorse, Yukon. This charter flight offers stunning aerial views of Yukon’s landscapes, providing a unique perspective on the territory’s vast wilderness.
+Approximately 150 air miles separate Pine Lake from Whitehorse, Yukon. This charter flight offers stunning aerial views of Yukon's landscapes, providing a unique perspective on the territory's vast wilderness.
 
 **Pine Laker to Watson Lake**
 

@@ -32,11 +32,11 @@ Founded in 2001, Air Bravo has grown from one aircraft to a leading Canadian air
 
 #### [Aspen Air](charter_quote_aspen_air.html)
 
-Travel in refined comfort with Aspen Air’s access to premium jets and concierge support. From departure to arrival, every detail is managed for a smooth, private, first-class journey. Request a quote directly from Aspen Air, or use the [Charter Quote Request Service.](https://charterflightnetwork.com/toronto_charter_flights_sudbury.html#CharterQuote)
+Travel in refined comfort with Aspen Air's access to premium jets and concierge support. From departure to arrival, every detail is managed for a smooth, private, first-class journey. Request a quote directly from Aspen Air, or use the [Charter Quote Request Service.](https://charterflightnetwork.com/toronto_charter_flights_sudbury.html#CharterQuote)
 
 #### [Cameron Air](charter_quote_cameron_air.html)
 
-Travel comfortably with Cameron Air’s executive interiors, featuring leather seating and private cabins. Depart on your own schedule and enjoy direct flights to cottages, clubs, lodges, or major business hubs. Request a quote directly from Cameron Air, or use the [Charter Quote Request Service](https://charterflightnetwork.com/toronto_charter_flights_sudbury.html#CharterQuote).
+Travel comfortably with Cameron Air's executive interiors, featuring leather seating and private cabins. Depart on your own schedule and enjoy direct flights to cottages, clubs, lodges, or major business hubs. Request a quote directly from Cameron Air, or use the [Charter Quote Request Service](https://charterflightnetwork.com/toronto_charter_flights_sudbury.html#CharterQuote).
 
 #### [Papple Aviation](charter_quote_papple.html)
 
@@ -72,7 +72,7 @@ Business Jet charters across Canada start from Toronto's Pearson International A
 
 #### Option #2. With Just One Click, Receive Competitive Quotes From All The Charter Airlines Listed On This Page.
 
-**\*Privacy:** we don’t share your name or contact info with airlines. Your request is assigned a unique ID; airlines submit quotes for that ID and we forward them to you.
+**\*Privacy:** we don't share your name or contact info with airlines. Your request is assigned a unique ID; airlines submit quotes for that ID and we forward them to you.
 
 ---
 

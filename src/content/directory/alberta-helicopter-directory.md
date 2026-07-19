@@ -1,7 +1,7 @@
 ---
 title: "Alberta Helicopter Air Charter Directory | Page 1"
 description: "Alberta helicopter air charter directory page 1, listing helicopter operators in Berwyn, Blackfalds, Blue Ridge, Calgary, Cold Lake, Drayton Valley and Edmonton."
-h1: "Alberta Helicopter Air Charter Directory â Page 1"
+h1: "Alberta Helicopter Air Charter Directory — Page 1"
 legacyUrl: "/alberta_helicopter_directory.html"
 slug: "directory/alberta-helicopter-directory"
 thin: false

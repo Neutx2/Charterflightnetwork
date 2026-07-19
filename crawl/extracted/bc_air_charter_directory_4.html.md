@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-# British Columbia Air Charter Directory â Page 4
+# British Columbia Air Charter Directory – Page 4
 
 Page 4 of the British Columbia Air Charter Directory features wheel plane, float plane, and helicopter charter operators serving Prince George, Prince Rupert, Qualicum Beach, Quesnel, Revelstoke, Sechelt, Smithers, Sparwood, Squamish, Tatla Lake, Telkwa, and Terrace.
 

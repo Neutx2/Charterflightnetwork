@@ -40,7 +40,7 @@ Rankin Inlet is served by scheduled flights operated by Calm Air and Air North, 
 
 Rankin Inlet Airport (YRT) is a vital transportation hub in the Kivalliq Region of Nunavut, serving as a gateway to the Arctic for both residents and visitors. The airport is situated approximately 2 kilometers from the town center, making it easily accessible by a short drive. It plays a crucial role in connecting the remote community with other parts of Canada, facilitating the movement of passengers and essential goods.
 
-Rankin Inlet Airport has a runway length of 6,000 feet (1,829 meters), accommodating a variety of aircraft. Passenger services are primarily operated by regional airlines like Calm Air and Air North, using aircraft such as the ATR 42, Dash 8, and Boeing 737. The airport also handles cargo aircraft, including turboprops and jets, which bring vital supplies to the community. The runway’s length and modern infrastructure support both passenger and heavy freight operations year-round.
+Rankin Inlet Airport has a runway length of 6,000 feet (1,829 meters), accommodating a variety of aircraft. Passenger services are primarily operated by regional airlines like Calm Air and Air North, using aircraft such as the ATR 42, Dash 8, and Boeing 737. The airport also handles cargo aircraft, including turboprops and jets, which bring vital supplies to the community. The runway's length and modern infrastructure support both passenger and heavy freight operations year-round.
 
 ---
 
@@ -52,7 +52,7 @@ Wildlife enthusiasts will find plenty to enjoy, with guided wildlife tours avail
 
 ##### Helicopter Flights
 
-Helicopter charter services out of Rankin Inlet offer a versatile and efficient way to explore the vast landscapes of Nunavut and provide vital support to the region’s industries. Helicopter sightseeing flights are available for visitors looking to experience the stunning Arctic scenery from above. These tours offer breathtaking views of Hudson Bay, rugged coastlines, and the expansive tundra, with opportunities to spot wildlife such as polar bears, caribou, and beluga whales. Customized tours can also be arranged to include highlights like the Northern Lights or visits to remote, scenic locations that are otherwise inaccessible.
+Helicopter charter services out of Rankin Inlet offer a versatile and efficient way to explore the vast landscapes of Nunavut and provide vital support to the region's industries. Helicopter sightseeing flights are available for visitors looking to experience the stunning Arctic scenery from above. These tours offer breathtaking views of Hudson Bay, rugged coastlines, and the expansive tundra, with opportunities to spot wildlife such as polar bears, caribou, and beluga whales. Customized tours can also be arranged to include highlights like the Northern Lights or visits to remote, scenic locations that are otherwise inaccessible.
 
 ##### Weather and Clothing Suggestions
 
@@ -64,7 +64,7 @@ Winter in Rankin Inlet (November to April) brings extreme cold, with temperature
 
 Rankin Inlet offers visitors an opportunity to connect with the vibrant Inuit culture and traditions that define this northern community. One of the most enriching experiences is visiting local art studios and craft shops, where Inuit artisans showcase their soapstone carvings, jewelry, and handcrafted clothing made from traditional materials like sealskin and caribou fur. These unique pieces reflect the rich heritage and storytelling traditions of the Inuit people.
 
-Visitors can also take part in cultural workshops, where they can learn traditional skills like throat singing, drum dancing, and Inuktitut language basics. Storytelling sessions hosted by Elders provide insight into Inuit legends, hunting traditions, and the community’s history, offering a deeper understanding of life in the Arctic.
+Visitors can also take part in cultural workshops, where they can learn traditional skills like throat singing, drum dancing, and Inuktitut language basics. Storytelling sessions hosted by Elders provide insight into Inuit legends, hunting traditions, and the community's history, offering a deeper understanding of life in the Arctic.
 
 ---
 

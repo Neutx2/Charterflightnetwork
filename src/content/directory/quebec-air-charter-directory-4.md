@@ -1,7 +1,7 @@
 ---
-title: "Quebec Air Charter Directory â Page 4 | Canadian Air Charter Directory"
-description: "Quebec Air Charter Directory â Page 4. Find wheel plane, float plane and helicopter charter services based in RiviÃ¨re-du-Loup, RiviÃ¨re-Rouge, Rouyn-Noranda, Saguenay, St-HonorÃ© and St-Hubert."
-h1: "Quebec Air Charter Directory â Page 4"
+title: "Quebec Air Charter Directory – Page 4 | Canadian Air Charter Directory"
+description: "Quebec Air Charter Directory – Page 4. Find wheel plane, float plane and helicopter charter services based in Rivière-du-Loup, Rivière-Rouge, Rouyn-Noranda, Saguenay, St-Honoré and St-Hubert."
+h1: "Quebec Air Charter Directory – Page 4"
 legacyUrl: "/quebec_air_charter_directory_4.html"
 slug: "directory/quebec-air-charter-directory-4"
 thin: false
@@ -59,7 +59,7 @@ region: "canada"
 
 [Riviere-Du-Loup](/directory/quebec-air-charter-directory-4#RiviereDuLoup)
 
-[RiviÃ¨re-Rouge](/directory/quebec-air-charter-directory-4#RiviereRouge)
+[Rivière-Rouge](/directory/quebec-air-charter-directory-4#RiviereRouge)
 
 [Rouyn-Noranda](/directory/quebec-air-charter-directory-4#RouynNoranda)
 
@@ -67,11 +67,11 @@ region: "canada"
 
 [St-Charles-sur-Richelieu](/directory/quebec-air-charter-directory-2#Montreal)
 
-[St-Ãtienne-des-GrÃ¨s](/directory/quebec-air-charter-directory-5#TroisRivieres)
+[St-Étienne-des-Grès](/directory/quebec-air-charter-directory-5#TroisRivieres)
 
 [St-Frederic-Beauce](/directory/quebec-air-charter-directory-3#QuebecCity)
 
-[St-HonorÃ©](/directory/quebec-air-charter-directory-4#StHonore)
+[St-Honoré](/directory/quebec-air-charter-directory-4#StHonore)
 
 [St-Hubert](/directory/quebec-air-charter-directory-4#StHubert)
 
@@ -110,9 +110,9 @@ P: 418-863-5904
 ## Riviere-Rouge Air Charter
 
 **Air Mont-Laurier (1985) Inc**
-1788 boulevard Fernand Lafontaine / RiviÃ¨re-Rouge QC J0T 1T0
+1788 boulevard Fernand Lafontaine / Rivière-Rouge QC J0T 1T0
 P: 819 275-2794
-**Base Locations:** RiviÃ¨re-Rouge QC
+**Base Locations:** Rivière-Rouge QC
 **Aircraft Types:** Cessna 180 / DeHavilland Beaver / DeHavilland Otter
 **Service Type:** Floats
 
@@ -150,16 +150,16 @@ P: 581-235-5235
 ## St-Honore / Chicoutimi Air Charter
 
 **Exact Air Inc**
-850, Chemin du Volair / St-HonorÃ© QC G0V 1L0
+850, Chemin du Volair / St-Honoré QC G0V 1L0
 P: 418 673-3522
-**Base Locations:** St-HonorÃ© QC
+**Base Locations:** St-Honoré QC
 **Aircraft Types:** Beech 100 / Cessna 172 / Cessna 310 / Cessna 182 / Piper PA31
 **Service Type:** Wheels
 
 ## St-Hubert Air Charter
 
 **Panorama Aviation / Corpo Aviation**
-350, Chemin de l'AÃ©roport / Alma QC G8B 5V2
+350, Chemin de l'Aéroport / Alma QC G8B 5V2
 P: 418 669-5104
 **Base Locations:** Alma / St-Hubert
 **Aircraft Types:** Beech 1900 D / Pilatus PC12 45
@@ -168,21 +168,21 @@ P: 418 669-5104
 [REQUEST A QUOTE](https://panoramaaviation.com/en/)
 
 **Montreal Flying Club**
-5800 Route de l'AÃ©roport / St-Hubert QC J3Y 8Y9
+5800 Route de l'Aéroport / St-Hubert QC J3Y 8Y9
 P: 450 926-1466
 **Base Locations:** St-Hubert QC
 **Aircraft Types:** Cessna 172
 **Service Type:** Wheels
 
 **Airmedic Inc**
-4980, route de l'AÃ©roport / St-Hubert QC J3Y 8Y9
+4980, route de l'Aéroport / St-Hubert QC J3Y 8Y9
 P: 450 766-0770
 **Base Locations:** St-Hubert QC
 **Aircraft Types:** Eurocopter AS350 / Eurocopter MBB BK 117 C / MBB BK 117 B / Pilatus PC12 45, 47E
 **Service Type:** Wheels / Helicopter
 
 **Centre Pluridisiplinaire D'Aviation Du Quebec Inc**
-4850, Route de l'AÃ©roport / St-Hubert QC J3Y 8Y9
+4850, Route de l'Aéroport / St-Hubert QC J3Y 8Y9
 P: 450 656-0678
 **Base Locations:** St-Hubert QC
 **Aircraft Types:** Cessna 172
@@ -205,13 +205,13 @@ P: 450 656-1710
 **Service Type:** Wheels
 
 **Air Quasar 2010**
-6050 Route de l'AÃ©roport / St-Hubert QC J3Y 8Y9
+6050 Route de l'Aéroport / St-Hubert QC J3Y 8Y9
 P: 514 622-3714
 **Base Locations:** St-Hubert QC
 **Aircraft Types:** Cessna 172 / Cessna 210
 **Service Type:** Wheels
 
-**Services HÃ©licocorp Inc.**
+**Services Hélicocorp Inc.**
 6500 Chemin de la Savane / St-Hubert QC J3Y 1C3
 P:
 **Base Locations:** St-Hubert QC
@@ -239,7 +239,7 @@ P: 450-445-4444
 
 ## [Page 5](/directory/quebec-air-charter-directory-5)
 
-Copyright Â© Charter Flight Network. All rights reserved.
+Copyright © Charter Flight Network. All rights reserved.
 
 ---
 

@@ -34,7 +34,7 @@ We also provide the option of using our Free, No Obligation Quote Request Servic
 
 ### We Arrange both Jet and Turbo Prop Aircraft
 
-Iqaluit, the capital of Nunavut, is located on Baffin Island's southern coast. Known for its unique Arctic landscape, Iqaluit offers stunning natural beauty and rich Inuit culture. Visitors experience a gateway to the Canadian Arctic, with easy access to the region’s breathtaking fjords and tundra. Whether you're here for business or adventure, charter flights to Iqaluit provide a seamless travel experience, connecting you to this northern wonder.
+Iqaluit, the capital of Nunavut, is located on Baffin Island's southern coast. Known for its unique Arctic landscape, Iqaluit offers stunning natural beauty and rich Inuit culture. Visitors experience a gateway to the Canadian Arctic, with easy access to the region's breathtaking fjords and tundra. Whether you're here for business or adventure, charter flights to Iqaluit provide a seamless travel experience, connecting you to this northern wonder.
 
 ### The Iqaluit Airport
 

@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-# British Columbia Air Charter Directory â Page 3
+# British Columbia Air Charter Directory – Page 3
 
 Page 3 of the British Columbia Air Charter Directory features wheel plane, float plane, and helicopter charter operators serving Nanaimo, Naramata, Nelson, Nimpo Lake, Oliver, Parksville, Parson, Penticton, Pitt Meadows, Port Alberni, Port Hardy, Port McNeill, and Powell River.
 

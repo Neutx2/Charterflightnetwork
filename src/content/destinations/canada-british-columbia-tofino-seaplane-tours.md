@@ -17,7 +17,7 @@ city: "Tofino"
 
 ### Tofino Seaplane Tours
 
-Seaplane and float plane flights are one of the most iconic ways to experience Tofino and the surrounding west coast of Vancouver Island. From the moment you lift off the water, you’re treated to sweeping views of Clayoquot Sound, rugged surf beaches, winding river estuaries and the offshore islands that define this spectacular region. Scenic seaplane tours often include highlights such as Long Beach, Vargas Island, Flores Island, Hot Springs Cove and remote coastal inlets where wildlife sightings are common.
+Seaplane and float plane flights are one of the most iconic ways to experience Tofino and the surrounding west coast of Vancouver Island. From the moment you lift off the water, you're treated to sweeping views of Clayoquot Sound, rugged surf beaches, winding river estuaries and the offshore islands that define this spectacular region. Scenic seaplane tours often include highlights such as Long Beach, Vargas Island, Flores Island, Hot Springs Cove and remote coastal inlets where wildlife sightings are common.
 
 ### Float Plane Flights To Tofino
 
@@ -31,7 +31,7 @@ Map Data From
 ## **Directory Of Seaplane & Float Plane Flights Serving Tofino**
 
 **Float Plane / Wheel Plane & Helicopter Charters:**
-Compare routes, aircraft and pricing with Charter Flight Network’s three-quote system — a smart way to source private air travel to and from Tofino.
+Compare routes, aircraft and pricing with Charter Flight Network's three-quote system — a smart way to source private air travel to and from Tofino.
 
 ## [Tofino Air](/quote/tofino-air)
 
@@ -41,17 +41,17 @@ The de Havilland Beaver allows Tofino Air to reach wilderness lakes and remote f
 ## [Atleo River Air Service](/quote/atleo-river-air)
 
 **Float Plane & Helicopter Charters:**
-Atleo Air’s float plane tours provide a smooth, scenic lift over Tofino’s inlets and islands, ideal for travellers seeking panoramic views of beaches, wildlife and pristine coastal wilderness.
+Atleo Air's float plane tours provide a smooth, scenic lift over Tofino's inlets and islands, ideal for travellers seeking panoramic views of beaches, wildlife and pristine coastal wilderness.
 
 ## [Air Nootka Ltd](/quote/air-nootka)
 
 **Float Plane Charters:**
-Air Nootka’s Beaver and Cessna 180 floatplanes connect Gold River to secluded West Coast inlets, fishing lodges and wilderness camps, offering dependable dock-to-dock service across Nootka Sound and beyond.
+Air Nootka's Beaver and Cessna 180 floatplanes connect Gold River to secluded West Coast inlets, fishing lodges and wilderness camps, offering dependable dock-to-dock service across Nootka Sound and beyond.
 
 ## [Corilair Charters Limited](/quote/corilair)
 
 **Float Plane Charters:**
-Corilair Charters connects Campbell River with remote islands and inlets using dependable floatplanes, offering fast, scenic travel to communities, lodges and cabins scattered throughout British Columbia’s coastal waterways.
+Corilair Charters connects Campbell River with remote islands and inlets using dependable floatplanes, offering fast, scenic travel to communities, lodges and cabins scattered throughout British Columbia's coastal waterways.
 
 ## [Gulf Island Seaplanes](/quote/gulf-island)
 
@@ -92,7 +92,7 @@ Request a charter quote to Tofino from any of the following British Columbia com
 
 ## Option #2. With Just One Click, Receive Competitive Quotes From All The Charter Airlines Listed On This Page
 
-**\*Privacy:** we don’t share your name or contact info with airlines. Your request is assigned a unique ID; airlines submit quotes for that ID and we forward them to you.
+**\*Privacy:** we don't share your name or contact info with airlines. Your request is assigned a unique ID; airlines submit quotes for that ID and we forward them to you.
 
 ---
 

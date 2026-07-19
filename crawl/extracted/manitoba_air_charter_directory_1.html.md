@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-# Manitoba Air Charter Directory â Page 1
+# Manitoba Air Charter Directory – Page 1
 
 Direct links to wheel plane, float plane, and helicopter charter services across Manitoba. Browse operators by city, compare aircraft types and service categories, and request charter quotes from featured providers.
 
@@ -173,7 +173,7 @@ P: 1-855-604-0567
 Snow Lake, MB
 P: (204) 358-2259
 **Base Locations:** Snow Lake, MB
-**Aircraft Types:** Piper PA-31-350 Navajo / Cessna 185 / De Havilland Beaver / Noorduyn Norseman V / Bell 206L / AÃ©rospatiale AS350 B2
+**Aircraft Types:** Piper PA-31-350 Navajo / Cessna 185 / De Havilland Beaver / Noorduyn Norseman V / Bell 206L / Aérospatiale AS350 B2
 **Service Type:** Helicopter / Wheels / Floats
 
 ## St Andrews Air Charter
@@ -217,7 +217,7 @@ P: (807) 728-0173
 St Andrews, MB
 P: (204) 338-7953
 **Base Locations:** St Andrews, MB
-**Aircraft Types:** Bell 205A / Bell 206B / Bell 206L / Sikorsky S-76C / AÃ©rospatiale AS350 (B2/B3/BA) / Eurocopter EC135 P2+
+**Aircraft Types:** Bell 205A / Bell 206B / Bell 206L / Sikorsky S-76C / Aérospatiale AS350 (B2/B3/BA) / Eurocopter EC135 P2+
 **Service Type:** Helicopter
 
 ### Northway Aviation

@@ -20,7 +20,7 @@ The community of Berens River is located near the mouth of the Berens River on t
 
 ### **About Berens River:**
 
-Berens River is a northern Manitoba community on the east side of Lake Winnipeg at the mouth of the Berens River. It serves as an important regional access point and offers strong ties to the area’s waterways, Indigenous culture, and outdoor setting.
+Berens River is a northern Manitoba community on the east side of Lake Winnipeg at the mouth of the Berens River. It serves as an important regional access point and offers strong ties to the area's waterways, Indigenous culture, and outdoor setting.
 
 [Previous](#carouselExampleIndicators1)
 [Next](#carouselExampleIndicators1)
@@ -49,7 +49,7 @@ Berens River is a northern Manitoba community on the east side of Lake Winnipeg 
 
 **Things to Do and Local Attractions**
 
-* Berens River’s appeal is closely tied to its lakeside setting, river access, and surrounding wilderness. The area is relevant for boating, fishing, seasonal outdoor travel, and visits connected to the region’s cultural and community life along the east side of Lake Winnipeg.
+* Berens River's appeal is closely tied to its lakeside setting, river access, and surrounding wilderness. The area is relevant for boating, fishing, seasonal outdoor travel, and visits connected to the region's cultural and community life along the east side of Lake Winnipeg.
 
 ---
 

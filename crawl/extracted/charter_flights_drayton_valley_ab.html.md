@@ -46,7 +46,7 @@ Roughly 50 air miles west of Drayton Valley, Rocky Mountain House Airport serves
 
 **Whitecourt Airport**
 
-Just over 90 air miles north of Drayton Valley, Whitecourt Airport accommodates general aviation and charter flights, offering an alternative route for accessing Alberta’s northern regions.
+Just over 90 air miles north of Drayton Valley, Whitecourt Airport accommodates general aviation and charter flights, offering an alternative route for accessing Alberta's northern regions.
 
 ##### Drayton Valley Hotels
 

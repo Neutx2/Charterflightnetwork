@@ -83,7 +83,7 @@ P: (867) 633-2885
 
 ######
 
-Copyright Â© Charter Flight Network. All rights reserved.
+Copyright © Charter Flight Network. All rights reserved.
 
 ---
 

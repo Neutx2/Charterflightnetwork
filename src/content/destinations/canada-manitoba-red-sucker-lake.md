@@ -31,7 +31,7 @@ Red Sucker Lake is a remote northern Manitoba community located roughly 335 air 
 
 ## **About Red Sucker Lake, Manitoba**
 
-Red Sucker Lake is a remote northern Manitoba community located on the north side of the lake of the same name. The area is part of Manitoba’s boreal region and is reached primarily by air, making charter flights an important option for passengers, freight, and time-sensitive travel.
+Red Sucker Lake is a remote northern Manitoba community located on the north side of the lake of the same name. The area is part of Manitoba's boreal region and is reached primarily by air, making charter flights an important option for passengers, freight, and time-sensitive travel.
 
 [Previous](#carouselExampleIndicators1)
 [Next](#carouselExampleIndicators1)

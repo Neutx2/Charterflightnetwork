@@ -1,4 +1,4 @@
-# Quebec Air Charter Directory â Page 4
+# Quebec Air Charter Directory – Page 4
 
 ---
 
@@ -52,7 +52,7 @@
 
 [Riviere-Du-Loup](quebec_air_charter_directory_4.html#RiviereDuLoup)
 
-[RiviÃ¨re-Rouge](quebec_air_charter_directory_4.html#RiviereRouge)
+[Rivière-Rouge](quebec_air_charter_directory_4.html#RiviereRouge)
 
 [Rouyn-Noranda](quebec_air_charter_directory_4.html#RouynNoranda)
 
@@ -60,11 +60,11 @@
 
 [St-Charles-sur-Richelieu](quebec_air_charter_directory_2.html#Montreal)
 
-[St-Ãtienne-des-GrÃ¨s](quebec_air_charter_directory_5.html#TroisRivieres)
+[St-Étienne-des-Grès](quebec_air_charter_directory_5.html#TroisRivieres)
 
 [St-Frederic-Beauce](quebec_air_charter_directory_3.html#QuebecCity)
 
-[St-HonorÃ©](quebec_air_charter_directory_4.html#StHonore)
+[St-Honoré](quebec_air_charter_directory_4.html#StHonore)
 
 [St-Hubert](quebec_air_charter_directory_4.html#StHubert)
 
@@ -105,9 +105,9 @@ P: 418-863-5904
 ####
 
 **Air Mont-Laurier (1985) Inc**
-1788 boulevard Fernand Lafontaine / RiviÃ¨re-Rouge QC J0T 1T0
+1788 boulevard Fernand Lafontaine / Rivière-Rouge QC J0T 1T0
 P: 819 275-2794
-**Base Locations:** RiviÃ¨re-Rouge QC
+**Base Locations:** Rivière-Rouge QC
 **Aircraft Types:** Cessna 180 / DeHavilland Beaver / DeHavilland Otter
 **Service Type:** Floats
 
@@ -149,9 +149,9 @@ P: 581-235-5235
 #### St-Honore / Chicoutimi Air Charter
 
 **Exact Air Inc**
-850, Chemin du Volair / St-HonorÃ© QC G0V 1L0
+850, Chemin du Volair / St-Honoré QC G0V 1L0
 P: 418 673-3522
-**Base Locations:** St-HonorÃ© QC
+**Base Locations:** St-Honoré QC
 **Aircraft Types:** Beech 100 / Cessna 172 / Cessna 310 / Cessna 182 / Piper PA31
 **Service Type:** Wheels
 
@@ -160,7 +160,7 @@ P: 418 673-3522
 ####
 
 **Panorama Aviation / Corpo Aviation**
-350, Chemin de l'AÃ©roport / Alma QC G8B 5V2
+350, Chemin de l'Aéroport / Alma QC G8B 5V2
 P: 418 669-5104
 **Base Locations:** Alma / St-Hubert
 **Aircraft Types:** Beech 1900 D / Pilatus PC12 45
@@ -169,21 +169,21 @@ P: 418 669-5104
 [REQUEST A QUOTE](https://panoramaaviation.com/en/)
 
 **Montreal Flying Club**
-5800 Route de l'AÃ©roport / St-Hubert QC J3Y 8Y9
+5800 Route de l'Aéroport / St-Hubert QC J3Y 8Y9
 P: 450 926-1466
 **Base Locations:** St-Hubert QC
 **Aircraft Types:** Cessna 172
 **Service Type:** Wheels
 
 **Airmedic Inc**
-4980, route de l'AÃ©roport / St-Hubert QC J3Y 8Y9
+4980, route de l'Aéroport / St-Hubert QC J3Y 8Y9
 P: 450 766-0770
 **Base Locations:** St-Hubert QC
 **Aircraft Types:** Eurocopter AS350 / Eurocopter MBB BK 117 C / MBB BK 117 B / Pilatus PC12 45, 47E
 **Service Type:** Wheels / Helicopter
 
 **Centre Pluridisiplinaire D'Aviation Du Quebec Inc**
-4850, Route de l'AÃ©roport / St-Hubert QC J3Y 8Y9
+4850, Route de l'Aéroport / St-Hubert QC J3Y 8Y9
 P: 450 656-0678
 **Base Locations:** St-Hubert QC
 **Aircraft Types:** Cessna 172
@@ -210,13 +210,13 @@ P: 450 656-1710
 ####
 
 **Air Quasar 2010**
-6050 Route de l'AÃ©roport / St-Hubert QC J3Y 8Y9
+6050 Route de l'Aéroport / St-Hubert QC J3Y 8Y9
 P: 514 622-3714
 **Base Locations:** St-Hubert QC
 **Aircraft Types:** Cessna 172 / Cessna 210
 **Service Type:** Wheels
 
-**Services HÃ©licocorp Inc.**
+**Services Hélicocorp Inc.**
 6500 Chemin de la Savane / St-Hubert QC J3Y 1C3
 P:
 **Base Locations:** St-Hubert QC
@@ -248,7 +248,7 @@ P: 450-445-4444
 
 ######
 
-Copyright Â© Charter Flight Network. All rights reserved.
+Copyright © Charter Flight Network. All rights reserved.
 
 ---
 

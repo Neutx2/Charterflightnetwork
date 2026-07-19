@@ -32,7 +32,7 @@ Connecting Sachs Harbour with Fort Simpson involves a distance of around 1,400 m
 
 ##### Sachs Harbour Airport
 
-Sachs Harbour Airport, with a runway length of 3,937 feet, is crucial for the community’s connection to the rest of the Northwest Territories and beyond. Located a short distance from the town, it provides essential services including passenger and cargo flights, supporting both the residents and the influx of tourists seeking the unique experiences that Sachs Harbour has to offer.
+Sachs Harbour Airport, with a runway length of 3,937 feet, is crucial for the community's connection to the rest of the Northwest Territories and beyond. Located a short distance from the town, it provides essential services including passenger and cargo flights, supporting both the residents and the influx of tourists seeking the unique experiences that Sachs Harbour has to offer.
 
 ##### Other Nearby Airports
 

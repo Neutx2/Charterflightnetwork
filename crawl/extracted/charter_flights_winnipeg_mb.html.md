@@ -1,6 +1,6 @@
 # Charter Flights to Winnipeg, Manitoba
 
-Charter Flight Network helps travelers compare charter options to Winnipeg, Manitoba’s largest city and main aviation gateway. Whether you need a wheel-plane charter for business travel, a helicopter for specialized missions, or connections onward to float plane bases and northern destinations, we can help source up to three competitive quotes.
+Charter Flight Network helps travelers compare charter options to Winnipeg, Manitoba's largest city and main aviation gateway. Whether you need a wheel-plane charter for business travel, a helicopter for specialized missions, or connections onward to float plane bases and northern destinations, we can help source up to three competitive quotes.
 
 [Request Charter Quote](#QuoteForm)
 
@@ -81,7 +81,7 @@ Winnipeg Richardson International Airport is the main airport serving Winnipeg a
 
 ### Why is Winnipeg important for charter flights in Manitoba?
 
-Winnipeg is Manitoba’s main aviation hub, making it one of the best departure and arrival points for charter flights. It offers strong aircraft availability, maintenance support, cargo capability, hotels, transportation, and easy connections across the province.
+Winnipeg is Manitoba's main aviation hub, making it one of the best departure and arrival points for charter flights. It offers strong aircraft availability, maintenance support, cargo capability, hotels, transportation, and easy connections across the province.
 
 ### Can I arrange float plane or helicopter service from Winnipeg?
 

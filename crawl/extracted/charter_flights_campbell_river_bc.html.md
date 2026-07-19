@@ -39,7 +39,7 @@ Business & Fishing Trips
 
 ## Discover The Quickest & Most Convenient Flight Options From Vancouver To Campbell River
 
-Using a private charter, travelers enjoy a fast, scenic, and highly flexible way to reach one of British Columbia’s premier coastal destinations.
+Using a private charter, travelers enjoy a fast, scenic, and highly flexible way to reach one of British Columbia's premier coastal destinations.
 The route covers approximately 120 air miles (193 km), with typical flight times of 45 to 60 minutes depending on aircraft type.
 Depart from Vancouver International (YVR) or convenient regional airports, skip ferry schedules and road delays, and enjoy sweeping views over the Strait of Georgia and the Sunshine Coast.
 

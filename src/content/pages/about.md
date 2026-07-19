@@ -1,7 +1,7 @@
 ---
-title: "About Charter Flight Network | Canada’s Leading Air Charter Authority"
+title: "About Charter Flight Network | Canada's Leading Air Charter Authority"
 description: "Charter Flight Network has been connecting clients to cost-efficient jet, turboprop, piston, float plane, and helicopter charters across Canada since 2008. Founded by Phil Robinson, with over 50 years in aviation, we serve Canada, the U.S., Bahamas, and the Caribbean."
-h1: "About Charter Flight Network – Canada’s Leading Air Charter Network"
+h1: "About Charter Flight Network – Canada's Leading Air Charter Network"
 legacyUrl: "/about_charter_flight_network.htm"
 slug: "about"
 thin: false
@@ -37,7 +37,7 @@ Unlike traditional charter brokers, we do not simply present a single option. In
 
 ## Industry Authority
 
-With nearly two decades online and a founder whose aviation career spans five decades, Charter Flight Network has earned a reputation as a leading authority in Canada’s air charter industry. Our knowledge of the diverse Canadian landscape—from busy urban centers to remote northern communities—means we understand the unique requirements of business executives, corporate teams, families, and adventure travelers alike.
+With nearly two decades online and a founder whose aviation career spans five decades, Charter Flight Network has earned a reputation as a leading authority in Canada's air charter industry. Our knowledge of the diverse Canadian landscape—from busy urban centers to remote northern communities—means we understand the unique requirements of business executives, corporate teams, families, and adventure travelers alike.
 
 Our growing market presence reflects our unwavering focus on service, efficiency, and trust. By maintaining one of the most extensive air charter networks in Canada, we are uniquely positioned to help clients explore destinations nationwide and internationally—whether for business, leisure, or special events.
 
@@ -49,7 +49,7 @@ Our growing market presence reflects our unwavering focus on service, efficiency
 
 Charter Flight Network has been serving Canadian travelers since 2008. Over the years, we have grown to become one of the largest and most trusted networks of professional charter airlines in the country, with partners operating in every province and territory.
 
-The company was founded by Phil Robinson, who has been directly involved in the Canadian Air Charter Industry for more than 50 years. Phil’s extensive experience and lifelong dedication to aviation continue to shape the way Charter Flight Network operates today, setting the standard for professionalism, transparency, and customer service in the air charter market.
+The company was founded by Phil Robinson, who has been directly involved in the Canadian Air Charter Industry for more than 50 years. Phil's extensive experience and lifelong dedication to aviation continue to shape the way Charter Flight Network operates today, setting the standard for professionalism, transparency, and customer service in the air charter market.
 
 ---
 

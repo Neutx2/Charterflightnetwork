@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-# Ontario Float Plane Charter Directory â Page 1
+# Ontario Float Plane Charter Directory — Page 1
 
 Float plane and amphibious charter operators serving Ontario communities from Armstrong, Atikokan and Blind River to Cochrane, Dryden, Ear Falls, Elliot Lake and Emo. Browse operators by base location, aircraft type, service category and quote request link.
 

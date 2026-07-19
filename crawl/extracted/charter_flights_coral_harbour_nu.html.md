@@ -22,7 +22,7 @@ Save time and use our no-obligation charter quote request form to receive up to 
 
 ###### We Arrange both Jet and Turbo Prop Aircraft
 
-Coral Harbour is a picturesque community located on Southampton Island in Nunavut, Canada. Known in Inuktitut as “Salliq,” meaning “flat island,” Coral Harbour sits along the northern shores of Hudson Bay. This remote Arctic destination is surrounded by breathtaking tundra landscapes, abundant wildlife, and a rich cultural heritage rooted in the traditions of the Inuit people. Its pristine environment makes Coral Harbour an ideal destination for adventure seekers, wildlife enthusiasts, and those looking to experience life in the Canadian Arctic.
+Coral Harbour is a picturesque community located on Southampton Island in Nunavut, Canada. Known in Inuktitut as "Salliq," meaning "flat island," Coral Harbour sits along the northern shores of Hudson Bay. This remote Arctic destination is surrounded by breathtaking tundra landscapes, abundant wildlife, and a rich cultural heritage rooted in the traditions of the Inuit people. Its pristine environment makes Coral Harbour an ideal destination for adventure seekers, wildlife enthusiasts, and those looking to experience life in the Canadian Arctic.
 
 In addition to private charter flights, regularly scheduled flights to Coral Harbour are also available through airlines like Calm Air and Air North. These carriers provide dependable service, connecting Coral Harbour to other northern hubs such as Rankin Inlet and Winnipeg.
 
@@ -38,7 +38,7 @@ The airport features a gravel runway measuring approximately 5,000 feet (1,524 m
 
 ##### Outdoor Adventures
 
-Coral Harbour offers a range of exciting activities and outdoor adventures for visitors seeking a true Arctic experience. The region’s untouched landscapes, diverse wildlife, and rich cultural history make it a haven for nature enthusiasts and adventure seekers.
+Coral Harbour offers a range of exciting activities and outdoor adventures for visitors seeking a true Arctic experience. The region's untouched landscapes, diverse wildlife, and rich cultural history make it a haven for nature enthusiasts and adventure seekers.
 
 The Northern Lights (Aurora Borealis) are a stunning natural phenomenon visible from Coral Harbour, particularly during the dark, clear nights of winter. The vibrant dancing lights provide an unforgettable spectacle for visitors who brave the Arctic chill.
 
@@ -56,7 +56,7 @@ Perimeter Aviation offers cargo services to Coral Harbour from Winnipeg, Manitob
 
 Summit Air, along with its partners, provides exceptional helicopter services across Nunavut and northern Canada, supporting a wide range of industries and activities in some of the most remote and challenging environments. With a commitment to safety, reliability, and efficiency, Summit Air has become a trusted provider for transportation, logistics, and specialized aerial operations in the Arctic region.
 
-Summit Air’s helicopter fleet is designed to handle the unique demands of northern Canada, offering services for mineral exploration, environmental surveys, wildlife monitoring, and emergency response. These helicopters are equipped to operate in extreme weather conditions and rugged terrains, ensuring dependable service in even the most isolated locations.
+Summit Air's helicopter fleet is designed to handle the unique demands of northern Canada, offering services for mineral exploration, environmental surveys, wildlife monitoring, and emergency response. These helicopters are equipped to operate in extreme weather conditions and rugged terrains, ensuring dependable service in even the most isolated locations.
 
 ##### Weather & Suggested Clothing
 

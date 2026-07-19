@@ -1,6 +1,6 @@
 # Charter Flights to Swan River, Manitoba
 
-Swan River is located in the Swan Valley near the Saskatchewan border and is one of western Manitoba’s practical regional aviation points. Direct charter flights can use Swan River Airport beside town, where the main asphalt runway supports efficient access for business travel, recreation, government services, fishing trips, and regional passenger movement.
+Swan River is located in the Swan Valley near the Saskatchewan border and is one of western Manitoba's practical regional aviation points. Direct charter flights can use Swan River Airport beside town, where the main asphalt runway supports efficient access for business travel, recreation, government services, fishing trips, and regional passenger movement.
 
 [Request Charter Quote](#QuoteForm)
 
@@ -55,7 +55,7 @@ Swan River Airport is located adjacent to town and gives the valley a practical 
 
 ### **Wheel Plane Charter Flights**
 
-Wheel plane charters are a practical fit for Swan River because the airport’s paved runway supports efficient regional passenger, cargo, business, and government flight activity.
+Wheel plane charters are a practical fit for Swan River because the airport's paved runway supports efficient regional passenger, cargo, business, and government flight activity.
 
 [QUOTE REQUEST FORM](#QuoteForm)
 

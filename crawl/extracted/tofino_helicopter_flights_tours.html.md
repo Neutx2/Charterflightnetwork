@@ -6,7 +6,7 @@
 
 ##### Tofino Helicopter Tours
 
-Helicopter flights and tours in the Tofino region offer a breathtaking way to experience Vancouver Island’s wild Pacific coastline. From dramatic sea stacks and surf-pounded beaches to old-growth rainforest and the sheltered inlets of Clayoquot Sound, helicopter sightseeing provides soaring views that ground-based travellers never see. Tours often include Hot Springs Cove, Vargas Island, Flores Island and the rugged backcountry peaks east of town. Wildlife sightings—whales, sea lions and black bears—are common from the air.
+Helicopter flights and tours in the Tofino region offer a breathtaking way to experience Vancouver Island's wild Pacific coastline. From dramatic sea stacks and surf-pounded beaches to old-growth rainforest and the sheltered inlets of Clayoquot Sound, helicopter sightseeing provides soaring views that ground-based travellers never see. Tours often include Hot Springs Cove, Vargas Island, Flores Island and the rugged backcountry peaks east of town. Wildlife sightings—whales, sea lions and black bears—are common from the air.
 
 ##### Helicopter Flights To Tofino
 

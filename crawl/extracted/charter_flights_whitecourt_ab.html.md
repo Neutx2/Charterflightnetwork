@@ -52,7 +52,7 @@ Just 30 air miles east of Whitecourt, Mayerthorpe Airport serves general aviatio
 
 **Cloud 9 Inn**
 
-The Cloud 9 Inn in Whitecourt offers guests a 3-star lodging experience, combining comfort with convenience, ideally located for those exploring the area’s natural attractions or traveling via air charter.
+The Cloud 9 Inn in Whitecourt offers guests a 3-star lodging experience, combining comfort with convenience, ideally located for those exploring the area's natural attractions or traveling via air charter.
 
 **Whitecourt Conference Centre & Suites**
 
@@ -64,7 +64,7 @@ With a 2-star rating, the Riverside Motel offers affordable and cozy accommodati
 
 **The Woodlands Inn**
 
-The Woodlands Inn, a 4-star hotel in Whitecourt, stands out for its exceptional service and elegant rooms, catering to guests seeking a luxurious stay in the heart of Alberta’s wilderness, accessible by helicopter or private jet charters.
+The Woodlands Inn, a 4-star hotel in Whitecourt, stands out for its exceptional service and elegant rooms, catering to guests seeking a luxurious stay in the heart of Alberta's wilderness, accessible by helicopter or private jet charters.
 
 ---
 

@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-# British Columbia Helicopter Charter Directory â Page 2
+# British Columbia Helicopter Charter Directory — Page 2
 
 Helicopter charter operators serving Coldstream, Cranbrook, Delta, Fort Nelson, Fort St James, Fort St John, Hope, Kamloops, Kelowna and Naramata. Browse operators by base location, phone number, aircraft type and service category.
 

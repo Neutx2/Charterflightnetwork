@@ -14,7 +14,7 @@ region: "global"
 
 ## Private Flights To Chicago
 
-Private jet charters from Toronto to Chicago Midway Airport offer one of the fastest and most convenient ways to reach the financial heart of the American Midwest. The direct air distance between Toronto and Chicago is approximately 440 miles (710 km), with most light or midsize business jets covering the route in about 1 hour and 15 minutes. Midway Airport (MDW) is a preferred destination for private jet travelers due to its proximity—just 13 miles southwest of downtown Chicago’s Loop, a quick 25–30-minute drive under normal traffic. Business travelers appreciate Midway’s efficient U.S. Customs service, private FBO terminals, and quick ground transfers to major hotels, conference centers, and headquarters.
+Private jet charters from Toronto to Chicago Midway Airport offer one of the fastest and most convenient ways to reach the financial heart of the American Midwest. The direct air distance between Toronto and Chicago is approximately 440 miles (710 km), with most light or midsize business jets covering the route in about 1 hour and 15 minutes. Midway Airport (MDW) is a preferred destination for private jet travelers due to its proximity—just 13 miles southwest of downtown Chicago's Loop, a quick 25–30-minute drive under normal traffic. Business travelers appreciate Midway's efficient U.S. Customs service, private FBO terminals, and quick ground transfers to major hotels, conference centers, and headquarters.
 
 Map Data From
 [Open Street Map](https://www.openstreetmap.org/copyright)
@@ -29,7 +29,7 @@ Cameron Air brings flexible, on-demand travel with no security lines or crowded 
 
 ## [Chartright Air](/quote/chartright)
 
-With Chartright Air’s JetClub membership you gain access to top-tier aircraft without full ownership-costs — flexible, efficient, and ideally suited for frequent flyers or those demanding elite private travel.
+With Chartright Air's JetClub membership you gain access to top-tier aircraft without full ownership-costs — flexible, efficient, and ideally suited for frequent flyers or those demanding elite private travel.
 
 ## [Aspen Air](/quote/aspen-air)
 
@@ -55,7 +55,7 @@ The flexibility and convenience of private charter flights, allows clients to ch
 
 ## Option #2. With Just One Click, Receive Competitive Quotes From All The Charter Airlines Listed On This Page.
 
-**\*Privacy:** we don’t share your name or contact info with airlines. Your request is assigned a unique ID; airlines submit quotes for that ID and we forward them to you.
+**\*Privacy:** we don't share your name or contact info with airlines. Your request is assigned a unique ID; airlines submit quotes for that ID and we forward them to you.
 
 ---
 

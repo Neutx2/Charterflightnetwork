@@ -1,7 +1,7 @@
 ---
-title: "Ontario Air Charter Directory â Page 6 | Toronto, Vermilion Bay, Wawa, Windsor and More"
+title: "Ontario Air Charter Directory – Page 6 | Toronto, Vermilion Bay, Wawa, Windsor and More"
 description: "Ontario Air Charter Directory page 6 featuring float plane, wheel plane, amphibious, and helicopter charter operators in Toronto, Vermilion Bay, Wawa, Weagamow, Whitby, White River, and Windsor."
-h1: "Ontario Air Charter Directory â Page 6"
+h1: "Ontario Air Charter Directory – Page 6"
 legacyUrl: "/ontario_air_charter_directory_6.html"
 slug: "directory/ontario-air-charter-directory-6"
 thin: false

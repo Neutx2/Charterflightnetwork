@@ -45,7 +45,7 @@ Gods Lake Narrows Airport is beside the community and gives travelers direct fix
 
 **Accommodations and Local Services**
 
-* Visitor lodging in the wider area is limited and often tied to fishing or work travel. Healey’s Lodge is the best-known local accommodation name, while travelers should confirm meals, transfers, and seasonal availability before departure.
+* Visitor lodging in the wider area is limited and often tied to fishing or work travel. Healey's Lodge is the best-known local accommodation name, while travelers should confirm meals, transfers, and seasonal availability before departure.
 
 **Things to Do And Local Attractions**
 
@@ -55,7 +55,7 @@ Gods Lake Narrows Airport is beside the community and gives travelers direct fix
 
 ### **Wheel Plane Charter Flights**
 
-Wheel plane charters to Gods Lake Narrows are commonly routed direct into YGO from Winnipeg and other northern gateways using turboprop aircraft suited to Manitoba’s remote airport network.
+Wheel plane charters to Gods Lake Narrows are commonly routed direct into YGO from Winnipeg and other northern gateways using turboprop aircraft suited to Manitoba's remote airport network.
 
 [QUOTE REQUEST FORM](#QuoteForm)
 
@@ -89,7 +89,7 @@ In the open-water season, float plane options may be available for parts of the 
 
 ### **What type of aircraft can use the Gods Lake Narrows runway?**
 
-The airport’s crushed-rock runway is suited to many northern scheduled and charter turboprop aircraft. Exact aircraft choices depend on passenger count, baggage weight, runway conditions, and the operator selected for your trip.
+The airport's crushed-rock runway is suited to many northern scheduled and charter turboprop aircraft. Exact aircraft choices depend on passenger count, baggage weight, runway conditions, and the operator selected for your trip.
 
 ### **Why request quotes through Charter Flight Network?**
 

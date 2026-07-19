@@ -1,7 +1,7 @@
 ---
-title: "Quebec Air Charter Directory â Page 3 | Canadian Air Charter Directory"
-description: "Quebec Air Charter Directory â Page 3. Find wheel plane, float plane and helicopter charter services based in Mont Tremblant / La Macaza, Neuville, Quebec City and St-Frederic-Beauce."
-h1: "Quebec Air Charter Directory â Page 3"
+title: "Quebec Air Charter Directory – Page 3 | Canadian Air Charter Directory"
+description: "Quebec Air Charter Directory – Page 3. Find wheel plane, float plane and helicopter charter services based in Mont Tremblant / La Macaza, Neuville, Quebec City and St-Frederic-Beauce."
+h1: "Quebec Air Charter Directory – Page 3"
 legacyUrl: "/quebec_air_charter_directory_3.html"
 slug: "directory/quebec-air-charter-directory-3"
 thin: false
@@ -59,7 +59,7 @@ region: "canada"
 
 [Riviere-Du-Loup](/directory/quebec-air-charter-directory-4#RiviereDuLoup)
 
-[RiviÃ¨re-Rouge](/directory/quebec-air-charter-directory-4#RiviereRouge)
+[Rivière-Rouge](/directory/quebec-air-charter-directory-4#RiviereRouge)
 
 [Rouyn-Noranda](/directory/quebec-air-charter-directory-4#RouynNoranda)
 
@@ -67,11 +67,11 @@ region: "canada"
 
 [St-Charles-sur-Richelieu](/directory/quebec-air-charter-directory-2#Montreal)
 
-[St-Ãtienne-des-GrÃ¨s](/directory/quebec-air-charter-directory-5#TroisRivieres)
+[St-Étienne-des-Grès](/directory/quebec-air-charter-directory-5#TroisRivieres)
 
 [St-Frederic-Beauce](/directory/quebec-air-charter-directory-3#QuebecCity)
 
-[St-HonorÃ©](/directory/quebec-air-charter-directory-4#StHonore)
+[St-Honoré](/directory/quebec-air-charter-directory-4#StHonore)
 
 [St-Hubert](/directory/quebec-air-charter-directory-4#StHubert)
 
@@ -94,7 +94,7 @@ region: "canada"
 ## Mont Tremblant / La Macaza Air Charter
 
 **Aero Loisirs Inc**
-144 Chemin Roger HÃ©bert / La Macaza QC J0T 1R0
+144 Chemin Roger Hébert / La Macaza QC J0T 1R0
 P: 819 275-2445
 **Base Locations:** Mont Tremblant
 **Aircraft Types:** Cessna 172
@@ -135,7 +135,7 @@ P: 418-643-4013
 **Service Type:** Wheels
 
 **Chrono Aviation**
-706A, 7e avenue de l'AÃ©roport / QuÃ©bec QC G2G 2T6
+706A, 7e avenue de l'Aéroport / Québec QC G2G 2T6
 P: 418-529-4444
 **Base Locations:** Quebec City
 **Aircraft Types:** Beech 1900 / Pilatus PC12 45 / Pilatus PC12 47
@@ -153,7 +153,7 @@ P: 418 871-3368
 [REQUEST A QUOTE](https://kudlikaviation.com/)
 
 **Heli Express Inc**
-QuÃ©bec QC G2G 2T6
+Québec QC G2G 2T6
 P: 418 877-5890
 **Base Locations:** Quebec City
 **Aircraft Types:** Aerospatiale AS350 B2, BA / Bell 205 / Eurocopter AS350 / MBB BK 117
@@ -162,7 +162,7 @@ P: 418 877-5890
 [REQUEST A QUOTE](https://www.heliexpress.net/)
 
 **Go Helico Inc**
-1688, Route de lâAÃ©roport / Quebec City
+1688, Route de l'Aéroport / Quebec City
 P: 418 871-4466
 **Base Locations:** Quebec City
 **Aircraft Types:** Eurocopter AS350 / Eurocopter EC120 B, EC130 B4 / Robinson R22 / Robinson R44 II
@@ -183,28 +183,28 @@ P: 418-666-0009
 **Service Type:** Helicopter
 
 **Nordplus 1998 Ltee**
-1127 Rue Marie-Gaudard / QuÃ©bec QC G1Y 1C4
+1127 Rue Marie-Gaudard / Québec QC G1Y 1C4
 P: 418 877-4650
 **Base Locations:** Quebec City
 **Aircraft Types:** DeHavilland DHC3 Otter
 **Service Type:** Floats
 
 **Orizon Aviation Quebec Inc**
-820, 8e avenue de l'AÃ©roport / QuÃ©bec QC G2G 0M4
+820, 8e avenue de l'Aéroport / Québec QC G2G 0M4
 P: 418 877-2699
 **Base Locations:** Quebec City
 **Aircraft Types:** Cessna 172 / Piper PA31
 **Service Type:** Wheels
 
 **Sasair Inc**
-714, 7e Avenue de l'aÃ©roport / QuÃ©bec QC G2G 2T6
+714, 7e Avenue de l'aéroport / Québec QC G2G 2T6
 P: 418 877-6004
 **Base Locations:** Quebec City
 **Aircraft Types:** Cessna 172 / Cessna 337
 **Service Type:** Wheels
 
 **Sky Jet M G Inc**
-607 6e Avenue AÃ©roport Int'l Jean-Lesage / QuÃ©bec QC G2G 2T4
+607 6e Avenue Aéroport Int'l Jean-Lesage / Québec QC G2G 2T4
 P: 418 877-0033 #229
 **Base Locations:** Quebec City
 **Aircraft Types:** Beech 100 / Beech 1900 / Beech 200
@@ -233,7 +233,7 @@ P: 418 843-7272
 
 ## [Page 5](/directory/quebec-air-charter-directory-5)
 
-Copyright Â© Charter Flight Network. All rights reserved.
+Copyright © Charter Flight Network. All rights reserved.
 
 ---
 

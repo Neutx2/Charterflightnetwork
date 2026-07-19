@@ -49,7 +49,7 @@ Norway House Airport sits beside the community and offers practical access for f
 
 **Things to Do And Local Attractions**
 
-* Visitors are often drawn by the Norway House National Historic Site, nearby Rossville Mission, York Boat history, fishing waters, and the community’s strong cultural and historical importance in northern Manitoba.
+* Visitors are often drawn by the Norway House National Historic Site, nearby Rossville Mission, York Boat history, fishing waters, and the community's strong cultural and historical importance in northern Manitoba.
 
 ---
 

@@ -1,4 +1,4 @@
-# Quebec Air Charter Directory â Page 3
+# Quebec Air Charter Directory – Page 3
 
 ---
 
@@ -52,7 +52,7 @@
 
 [Riviere-Du-Loup](quebec_air_charter_directory_4.html#RiviereDuLoup)
 
-[RiviÃ¨re-Rouge](quebec_air_charter_directory_4.html#RiviereRouge)
+[Rivière-Rouge](quebec_air_charter_directory_4.html#RiviereRouge)
 
 [Rouyn-Noranda](quebec_air_charter_directory_4.html#RouynNoranda)
 
@@ -60,11 +60,11 @@
 
 [St-Charles-sur-Richelieu](quebec_air_charter_directory_2.html#Montreal)
 
-[St-Ãtienne-des-GrÃ¨s](quebec_air_charter_directory_5.html#TroisRivieres)
+[St-Étienne-des-Grès](quebec_air_charter_directory_5.html#TroisRivieres)
 
 [St-Frederic-Beauce](quebec_air_charter_directory_3.html#QuebecCity)
 
-[St-HonorÃ©](quebec_air_charter_directory_4.html#StHonore)
+[St-Honoré](quebec_air_charter_directory_4.html#StHonore)
 
 [St-Hubert](quebec_air_charter_directory_4.html#StHubert)
 
@@ -89,7 +89,7 @@
 ####
 
 **Aero Loisirs Inc**
-144 Chemin Roger HÃ©bert / La Macaza QC J0T 1R0
+144 Chemin Roger Hébert / La Macaza QC J0T 1R0
 P: 819 275-2445
 **Base Locations:** Mont Tremblant
 **Aircraft Types:** Cessna 172
@@ -132,7 +132,7 @@ P: 418-643-4013
 ####
 
 **Chrono Aviation**
-706A, 7e avenue de l'AÃ©roport / QuÃ©bec QC G2G 2T6
+706A, 7e avenue de l'Aéroport / Québec QC G2G 2T6
 P: 418-529-4444
 **Base Locations:** Quebec City
 **Aircraft Types:** Beech 1900 / Pilatus PC12 45 / Pilatus PC12 47
@@ -154,7 +154,7 @@ P: 418 871-3368
 ####
 
 **Heli Express Inc**
-QuÃ©bec QC G2G 2T6
+Québec QC G2G 2T6
 P: 418 877-5890
 **Base Locations:** Quebec City
 **Aircraft Types:** Aerospatiale AS350 B2, BA / Bell 205 / Eurocopter AS350 / MBB BK 117
@@ -163,7 +163,7 @@ P: 418 877-5890
 [REQUEST A QUOTE](https://www.heliexpress.net/)
 
 **Go Helico Inc**
-1688, Route de lâAÃ©roport / Quebec City
+1688, Route de l'Aéroport / Quebec City
 P: 418 871-4466
 **Base Locations:** Quebec City
 **Aircraft Types:** Eurocopter AS350 / Eurocopter EC120 B, EC130 B4 / Robinson R22 / Robinson R44 II
@@ -184,21 +184,21 @@ P: 418-666-0009
 **Service Type:** Helicopter
 
 **Nordplus 1998 Ltee**
-1127 Rue Marie-Gaudard / QuÃ©bec QC G1Y 1C4
+1127 Rue Marie-Gaudard / Québec QC G1Y 1C4
 P: 418 877-4650
 **Base Locations:** Quebec City
 **Aircraft Types:** DeHavilland DHC3 Otter
 **Service Type:** Floats
 
 **Orizon Aviation Quebec Inc**
-820, 8e avenue de l'AÃ©roport / QuÃ©bec QC G2G 0M4
+820, 8e avenue de l'Aéroport / Québec QC G2G 0M4
 P: 418 877-2699
 **Base Locations:** Quebec City
 **Aircraft Types:** Cessna 172 / Piper PA31
 **Service Type:** Wheels
 
 **Sasair Inc**
-714, 7e Avenue de l'aÃ©roport / QuÃ©bec QC G2G 2T6
+714, 7e Avenue de l'aéroport / Québec QC G2G 2T6
 P: 418 877-6004
 **Base Locations:** Quebec City
 **Aircraft Types:** Cessna 172 / Cessna 337
@@ -207,7 +207,7 @@ P: 418 877-6004
 ####
 
 **Sky Jet M G Inc**
-607 6e Avenue AÃ©roport Int'l Jean-Lesage / QuÃ©bec QC G2G 2T4
+607 6e Avenue Aéroport Int'l Jean-Lesage / Québec QC G2G 2T4
 P: 418 877-0033 #229
 **Base Locations:** Quebec City
 **Aircraft Types:** Beech 100 / Beech 1900 / Beech 200
@@ -240,7 +240,7 @@ P: 418 843-7272
 
 ######
 
-Copyright Â© Charter Flight Network. All rights reserved.
+Copyright © Charter Flight Network. All rights reserved.
 
 ---
 

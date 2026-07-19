@@ -35,15 +35,15 @@ Charter Flight Network connects travelers with private charter flights throughou
 
 #### [Panorama Aviation](charter_quote_panorama.html)
 
-Panorama Aviation’s Beechcraft 1900D is ideal for larger crews, carrying up to eighteen passengers or mixed loads on commuter-style charters connecting regional hubs with remote job sites and communities.
+Panorama Aviation's Beechcraft 1900D is ideal for larger crews, carrying up to eighteen passengers or mixed loads on commuter-style charters connecting regional hubs with remote job sites and communities.
 
 #### [Air Nunavut](charter_quote_air_nunavut.html)
 
-Air Nunavut connects remote Arctic communities with dependable King Air service capable of short, gravel-strip landings—ideal for urgent travel, cargo runs, and government missions across Nunavut’s vast northern territory.
+Air Nunavut connects remote Arctic communities with dependable King Air service capable of short, gravel-strip landings—ideal for urgent travel, cargo runs, and government missions across Nunavut's vast northern territory.
 
 #### [North Star Air](charter_quote_north_star_air.html)
 
-With more than 20 aircraft, North Star Air provides cost-effective charter and scheduled flights linking northern communities throughout Canada’s remote regions.
+With more than 20 aircraft, North Star Air provides cost-effective charter and scheduled flights linking northern communities throughout Canada's remote regions.
 
 #### [Kenn Borek Air](charter_quote_borek_air.html)
 
@@ -111,7 +111,7 @@ Request A Charter Quote To Any Of The Following
 
 #### Option #2. With Just One Click, Receive Competitive Quotes From All The Charter Airlines Listed On This Page.
 
-**\*Privacy:** we don’t share your name or contact info with airlines. Your request is assigned a unique ID; airlines submit quotes for that ID and we forward them to you.
+**\*Privacy:** we don't share your name or contact info with airlines. Your request is assigned a unique ID; airlines submit quotes for that ID and we forward them to you.
 
 ---
 

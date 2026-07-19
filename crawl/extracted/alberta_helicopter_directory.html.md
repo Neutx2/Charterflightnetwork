@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-# Alberta Helicopter Air Charter Directory â Page 1
+# Alberta Helicopter Air Charter Directory — Page 1
 
 Helicopter charter operators serving Alberta communities including Berwyn, Blackfalds, Blue Ridge, Calgary, Cold Lake, Drayton Valley, and Edmonton. Browse operators by base location, aircraft type, and service category.
 

@@ -1,6 +1,6 @@
 # Charter Flights to The Pas, Manitoba
 
-The Pas is located about 325 air miles northwest of Winnipeg and is one of northern Manitoba’s main transportation and service centres. Direct charter flights can be arranged to The Pas for business, regional travel, and northern connections, while float plane options may also be useful for guests continuing on to remote lodges, lakes, and outpost destinations.
+The Pas is located about 325 air miles northwest of Winnipeg and is one of northern Manitoba's main transportation and service centres. Direct charter flights can be arranged to The Pas for business, regional travel, and northern connections, while float plane options may also be useful for guests continuing on to remote lodges, lakes, and outpost destinations.
 
 [Request Charter Quote](#QuoteForm)
 
@@ -20,7 +20,7 @@ The Pas is located about 325 air miles northwest of Winnipeg and is one of north
 
 ### **About The Pas:**
 
-The Pas is one of northern Manitoba’s main service and transportation centres, located on the Saskatchewan River beside Opaskwayak Cree Nation. It is known for regional commerce, historic character, and easy access to nearby lakes, forests, and outdoor recreation.
+The Pas is one of northern Manitoba's main service and transportation centres, located on the Saskatchewan River beside Opaskwayak Cree Nation. It is known for regional commerce, historic character, and easy access to nearby lakes, forests, and outdoor recreation.
 
 [Previous](#carouselExampleIndicators1)
 [Next](#carouselExampleIndicators1)
@@ -45,7 +45,7 @@ The Pas is one of northern Manitoba’s main service and transportation centres,
 
 **Accommodations and Local Services**
 
-* The Pas has a stronger visitor-services base than many northern Manitoba communities. Travel Manitoba currently lists Andersen Inn and Suites in The Pas, and current traveler listings also show Wescana Inn among the town’s hotel options.
+* The Pas has a stronger visitor-services base than many northern Manitoba communities. Travel Manitoba currently lists Andersen Inn and Suites in The Pas, and current traveler listings also show Wescana Inn among the town's hotel options.
 
 **Things to Do And Local Attractions**
 

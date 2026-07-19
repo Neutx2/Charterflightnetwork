@@ -1,6 +1,6 @@
 # Charter Flights to Brandon, Manitoba
 
-Brandon is western Manitoba’s largest city and a practical charter destination for business travel, agricultural services, medical transfers, sporting events, and regional connections. Brandon Municipal Airport sits just north of the city and offers strong runway capability for private charter aircraft arriving from Winnipeg, across Manitoba, and other Canadian or US departure points.
+Brandon is western Manitoba's largest city and a practical charter destination for business travel, agricultural services, medical transfers, sporting events, and regional connections. Brandon Municipal Airport sits just north of the city and offers strong runway capability for private charter aircraft arriving from Winnipeg, across Manitoba, and other Canadian or US departure points.
 
 [Request Charter Quote](#QuoteForm)
 
@@ -41,7 +41,7 @@ Brandon Municipal Airport is located just north of the city and provides conveni
 
 **Airport and Flight Access**
 
-* Brandon Municipal Airport is located roughly 1.6 kilometres north of the city. The main asphalt runway is long enough for many turboprops and light business aircraft, making Brandon one of Manitoba’s more flexible regional charter destinations.
+* Brandon Municipal Airport is located roughly 1.6 kilometres north of the city. The main asphalt runway is long enough for many turboprops and light business aircraft, making Brandon one of Manitoba's more flexible regional charter destinations.
 
 **Accommodations and Local Services**
 
@@ -55,7 +55,7 @@ Brandon Municipal Airport is located just north of the city and provides conveni
 
 ### **Wheel Plane Charter Flights**
 
-Wheel plane charters to Brandon are efficient and practical thanks to the airport’s long paved runway, making the city suitable for many business and regional charter aircraft.
+Wheel plane charters to Brandon are efficient and practical thanks to the airport's long paved runway, making the city suitable for many business and regional charter aircraft.
 
 [QUOTE REQUEST FORM](#QuoteForm)
 

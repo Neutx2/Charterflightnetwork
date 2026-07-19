@@ -1,6 +1,6 @@
 # Charter Flights to St Andrews Airport, Manitoba
 
-St Andrews Airport is located just north of Winnipeg and is one of Manitoba’s most practical starting points for private charter travel. Because it serves general aviation and charter activity in a less congested setting than Winnipeg International, it can be a very efficient departure point for remote community travel, fishing lodge access, float plane connections, and northern business flights.
+St Andrews Airport is located just north of Winnipeg and is one of Manitoba's most practical starting points for private charter travel. Because it serves general aviation and charter activity in a less congested setting than Winnipeg International, it can be a very efficient departure point for remote community travel, fishing lodge access, float plane connections, and northern business flights.
 
 [Request Charter Quote](#QuoteForm)
 

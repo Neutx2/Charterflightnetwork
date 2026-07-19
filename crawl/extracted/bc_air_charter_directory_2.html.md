@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-# British Columbia Air Charter Directory â Page 2
+# British Columbia Air Charter Directory – Page 2
 
 Page 2 of the British Columbia Air Charter Directory features wheel plane, float plane, and helicopter charter operators serving Delta, Fort Nelson, Fort St. James, Fort St. John, Garibaldi Highlands, Golden, Gold River, Hope, Kamloops, Kelowna, and Muncho Lake.
 

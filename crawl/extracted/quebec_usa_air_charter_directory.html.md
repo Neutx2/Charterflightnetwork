@@ -19,7 +19,7 @@
 ####
 
 **Panorama Aviation / Corpo Aviation**
-350, Chemin de l'AÃ©roport / Alma QC G8B 5V2
+350, Chemin de l'Aéroport / Alma QC G8B 5V2
 P: 418 669-5104
 **Base Locations:** Alma / St-Hubert
 **Aircraft Types:** Beech 1900D / Pilatus PC-12/45
@@ -32,7 +32,7 @@ P: 418 669-5104
 ####
 
 **Air Inuit**
-6005, Boul. CÃ´te-Vertu / Montreal QC H4S 0B1
+6005, Boul. Côte-Vertu / Montreal QC H4S 0B1
 P: 514 905-9445
 **Base Locations:** Montreal
 **Aircraft Types:** Beech 300 / Boeing 737-200C / Boeing 737-300 / DeHavilland DHC-6-300 / DeHavilland DHC-8-100, 300
@@ -67,7 +67,7 @@ P: 514 636-3300
 ####
 
 **Chrono Aviation**
-706A, 7e avenue de l'AÃ©roport / QuÃ©bec QC G2G 2T6
+706A, 7e avenue de l'Aéroport / Québec QC G2G 2T6
 P: 418-529-4444
 **Base Locations:** Quebec City
 **Aircraft Types:** Beech 1900 / Pilatus PC-12/45 / Pilatus PC-12/47
@@ -89,7 +89,7 @@ P: 418 871-3368
 ####
 
 **Sky Jet M G Inc**
-607 6e Avenue AÃ©roport Int'l Jean-Lesage / QuÃ©bec QC G2G 2T4
+607 6e Avenue Aéroport Int'l Jean-Lesage / Québec QC G2G 2T4
 P: 418 877-0033 #229
 **Base Locations:** Quebec City
 **Aircraft Types:** Beech 100 / Beech 1900 / Beech 200
@@ -102,7 +102,7 @@ P: 418 877-0033 #229
 ####
 
 **Panorama Aviation / Corpo Aviation**
-350, Chemin de l'AÃ©roport / Alma QC G8B 5V2
+350, Chemin de l'Aéroport / Alma QC G8B 5V2
 P: 418 669-5104
 **Base Locations:** Alma / St-Hubert
 **Aircraft Types:** Beech 1900D / Pilatus PC-12/45
@@ -116,7 +116,7 @@ P: 418 669-5104
 
 ---
 
-Copyright Â© Charter Flight Network. All rights reserved.
+Copyright © Charter Flight Network. All rights reserved.
 
 ---
 

@@ -13,7 +13,7 @@ faqs: [{"q": "Where do we clear Canadian customs on a Minneapolis → Red Lake c
 
 ## Fly Scheduled Airlines to Minneapolis (MSP), Then Connect With a Private Minneapolis Charter Flight to Red Lake Ontario (YRL)
 
-Flying from the United States to Red Lake, Ontario has never been more convenient. Whether you’re heading north for an unforgettable fishing adventure at a fully modern fishing lodge or connecting to one of the many remote outpost camps beyond Red Lake, Charter Flight Network promotes travel solutions that makes the journey simple, fast, and seamless.
+Flying from the United States to Red Lake, Ontario has never been more convenient. Whether you're heading north for an unforgettable fishing adventure at a fully modern fishing lodge or connecting to one of the many remote outpost camps beyond Red Lake, Charter Flight Network promotes travel solutions that makes the journey simple, fast, and seamless.
 
 ---
 
@@ -27,7 +27,7 @@ Flying from the United States to Red Lake, Ontario has never been more convenien
 
 ### Fly Scheduled Airlines To Minneapolis From Cities Across USA and Beyond
 
-Travelers from across the United States can easily reach Minneapolis–St. Paul International Airport (MSP) on nonstop scheduled flights from dozens of major U.S. cities — including Chicago, Dallas, Denver, Atlanta, Phoenix, and Los Angeles. Minneapolis serves as one of the most efficient gateways to northwestern Ontario for anglers, outdoor adventurers, and groups flying to Canada’s premier fishing destinations.
+Travelers from across the United States can easily reach Minneapolis–St. Paul International Airport (MSP) on nonstop scheduled flights from dozens of major U.S. cities — including Chicago, Dallas, Denver, Atlanta, Phoenix, and Los Angeles. Minneapolis serves as one of the most efficient gateways to northwestern Ontario for anglers, outdoor adventurers, and groups flying to Canada's premier fishing destinations.
 
 ---
 
@@ -52,7 +52,7 @@ The Red Lake Airport is located 3.5 miles north of town and features a 5,000 foo
 
 ### Start Your Red Lake Adventure
 
-For many travelers, the Red Lake region is only the beginning. Once in Canada, guests can board a floatplane charter directly from Red Lake, Fort Frances, or Thunder Bay to reach the countless lakes and lodges scattered across northwestern Ontario’s boreal wilderness. Operators flying De Havilland Beavers, Otters, and Cessna Caravans offer daily service to hundreds of remote fishing destinations. Flights typically range from 20 minutes to one hour, depending on the lodge location.
+For many travelers, the Red Lake region is only the beginning. Once in Canada, guests can board a floatplane charter directly from Red Lake, Fort Frances, or Thunder Bay to reach the countless lakes and lodges scattered across northwestern Ontario's boreal wilderness. Operators flying De Havilland Beavers, Otters, and Cessna Caravans offer daily service to hundreds of remote fishing destinations. Flights typically range from 20 minutes to one hour, depending on the lodge location.
 
 ---
 
@@ -73,7 +73,7 @@ If you would like to receive a quote from one of the airlines listed below, choo
 
 ### Superior Airways - Charter Flights From USA To Canadian Adventure Destinations
 
-Superior Airways, based in Red Lake, Ontario, offers fast and economical charter service from Minneapolis to Red Lake aboard its reliable nine-passenger King Air turboprop. The aircraft’s impressive speed and range make it ideal for small groups and anglers traveling north.
+Superior Airways, based in Red Lake, Ontario, offers fast and economical charter service from Minneapolis to Red Lake aboard its reliable nine-passenger King Air turboprop. The aircraft's impressive speed and range make it ideal for small groups and anglers traveling north.
 
 ---
 
@@ -85,14 +85,14 @@ Superior Airways offers a diverse fleet of wheel planes and float planes. Upon y
 
 ### Excellent Air - Red Lake Float Plane Charters
 
-Discover the pristine wilderness of Northwestern Ontario with Excellent Adventures. Based in Red Lake, this year-round air charter service combines float and wheel aircraft to deliver safe, reliable flights for passengers or cargo in remote regions. Whether you’re chartering freight, passengers or outfitting an adventure, their experienced team and versatile fleet deliver flexible access where the road ends.
+Discover the pristine wilderness of Northwestern Ontario with Excellent Adventures. Based in Red Lake, this year-round air charter service combines float and wheel aircraft to deliver safe, reliable flights for passengers or cargo in remote regions. Whether you're chartering freight, passengers or outfitting an adventure, their experienced team and versatile fleet deliver flexible access where the road ends.
 
 ## Option #2: Use Our Charter Quote Request Service and Receive Up To 3 Competitive Quotes
 
-We’re not an airline nor a charter broker. We specialize in finding clients the most cost-efficient air charter options that match their needs.
+We're not an airline nor a charter broker. We specialize in finding clients the most cost-efficient air charter options that match their needs.
 We source each inquiry to the charter airlines that are best positioned and equipped to provide your flight. Each airline prepares and submits a competitive quote.
 
-**\*Privacy:** we don’t share your name or contact info with airlines. Your request is assigned a unique ID; airlines submit quotes for that ID and we forward them to you.
+**\*Privacy:** we don't share your name or contact info with airlines. Your request is assigned a unique ID; airlines submit quotes for that ID and we forward them to you.
 
 ## Submit Form or Phone Us (807) 472-1955
 

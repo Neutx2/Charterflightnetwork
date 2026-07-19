@@ -294,7 +294,7 @@ P: (807) 822-2222
 
 ###### [Back To Main Canadian Menu](index.html)
 
-Copyright Â© Charter Flight Network. All rights reserved.
+Copyright © Charter Flight Network. All rights reserved.
 
 ---
 
@@ -312,7 +312,7 @@ Copyright Â© Charter Flight Network. All rights reserved.
 
 ##### [4. Canadian Float Plane Charter Directory](canadian_float_plane_air_charter_directory.html)
 
-* Find float plane charter airlines in every province and territoryâquickly locate the operator that matches your destination.
+* Find float plane charter airlines in every province and territory—quickly locate the operator that matches your destination.
 
 ---
 

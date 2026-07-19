@@ -20,7 +20,7 @@ Leaf Rapids is a northern Manitoba destination where charter travel can save sub
 
 ### **About Leaf Rapids:**
 
-Leaf Rapids Airport gives travelers a reliable fixed-wing access point into this northern Manitoba community. The airport’s paved runway supports direct charter arrivals for passenger trips, business travel, and regional logistics, and its short distance from town makes onward ground transfers relatively straightforward once the aircraft is on the ground.
+Leaf Rapids Airport gives travelers a reliable fixed-wing access point into this northern Manitoba community. The airport's paved runway supports direct charter arrivals for passenger trips, business travel, and regional logistics, and its short distance from town makes onward ground transfers relatively straightforward once the aircraft is on the ground.
 
 [Previous](#carouselExampleIndicators1)
 [Next](#carouselExampleIndicators1)

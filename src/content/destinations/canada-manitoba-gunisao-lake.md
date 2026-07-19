@@ -53,15 +53,15 @@ Gunisao Lake Lodge benefits from direct fixed-wing access using its private 3,60
 
 **Airport and Flight Access**
 
-* The lodge’s private landing strip is located beside camp, making fixed-wing arrivals straightforward and helping guests move quickly from aircraft to cabins, docks, and boats.
+* The lodge's private landing strip is located beside camp, making fixed-wing arrivals straightforward and helping guests move quickly from aircraft to cabins, docks, and boats.
 
 **Accommodations and Local Services**
 
-* Budd’s offers five modern cabins, daily housekeeping, heated showers, meals, a lounge, and a tackle shop, creating a full-service fly-in lodge experience for guests.
+* Budd's offers five modern cabins, daily housekeeping, heated showers, meals, a lounge, and a tackle shop, creating a full-service fly-in lodge experience for guests.
 
 **Things to Do And Local Attractions**
 
-* Gunisao Lake is best known for trophy walleye fishing, strong northern pike action, and classic remote angling trips in northern Manitoba’s wilderness setting.
+* Gunisao Lake is best known for trophy walleye fishing, strong northern pike action, and classic remote angling trips in northern Manitoba's wilderness setting.
 
 ---
 

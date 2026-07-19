@@ -72,7 +72,7 @@ With its 4-star rating, the Marina View Hotel provides luxurious accommodations 
 
 **Cold Lake Motel**
 
-A cozy and affordable 2-star option, Cold Lake Motel offers clean, comfortable rooms for travelers exploring the area’s natural beauty and participating in outdoor activities.
+A cozy and affordable 2-star option, Cold Lake Motel offers clean, comfortable rooms for travelers exploring the area's natural beauty and participating in outdoor activities.
 
 **Hamilton House Bed & Breakfast**
 

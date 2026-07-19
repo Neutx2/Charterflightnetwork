@@ -20,7 +20,7 @@ Snow Lake is a northern Manitoba destination known for mining, lakes, fishing, a
 
 ### **About Snow Lake:**
 
-Snow Lake is one of northern Manitoba’s better known resource and recreation communities. Mining remains an important part of the local economy, but the town also attracts visitors looking for fishing, boating, beaches, hiking, golf, winter recreation, and access to the surrounding boreal landscape.
+Snow Lake is one of northern Manitoba's better known resource and recreation communities. Mining remains an important part of the local economy, but the town also attracts visitors looking for fishing, boating, beaches, hiking, golf, winter recreation, and access to the surrounding boreal landscape.
 
 [Previous](#carouselExampleIndicators1)
 [Next](#carouselExampleIndicators1)

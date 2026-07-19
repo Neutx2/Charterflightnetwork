@@ -35,7 +35,7 @@ Piper Navajo and similar twins suit 4–6 passengers for budget-sensitive missio
 
 #### Your Quote Request Distributes To Multiple Airlines
 
-We’re not an airline nor a charter broker. We specialize in finding clients the most cost efficient air charter options that best match client's needs. We do this by sourcing out each inquiry to the charter airlines who are best positioned and equipped to provide the service required. Each airline prepares and submits a competitive quote. If you receive a quote that meets your needs and is within your travel budget, you have the option of dealing directly with the airline of your choice to finalize all flight details, scheduling and payment.
+We're not an airline nor a charter broker. We specialize in finding clients the most cost efficient air charter options that best match client's needs. We do this by sourcing out each inquiry to the charter airlines who are best positioned and equipped to provide the service required. Each airline prepares and submits a competitive quote. If you receive a quote that meets your needs and is within your travel budget, you have the option of dealing directly with the airline of your choice to finalize all flight details, scheduling and payment.
 
 **\*To ensure your privacy,** we do not share your name, nor contact information with our airline sources. Your request is assigned a unique ID number and the airlines send us their quote for that specific ID number. We then forward these quotes to you.
 

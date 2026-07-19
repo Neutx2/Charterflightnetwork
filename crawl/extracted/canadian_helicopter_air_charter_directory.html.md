@@ -139,7 +139,7 @@ This page links to helicopter directory pages for Alberta, British Columbia, Man
 
 ### Can I request helicopter charter quotes from this page?
 
-Yes. You may browse the provincial directories or use Charter Flight Networkâs quote request service to source competitive helicopter charter options.
+Yes. You may browse the provincial directories or use Charter Flight Network's quote request service to source competitive helicopter charter options.
 
 [About](about_charter_flight_network.htm)
 

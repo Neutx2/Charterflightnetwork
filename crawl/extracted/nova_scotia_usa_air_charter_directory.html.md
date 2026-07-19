@@ -28,7 +28,7 @@ P: 902 873-3330
 
 [Back To Main Canadian Menu](canadian_air_charter_directory_1.html)
 
-Copyright Â© Charter Flight Network. All rights reserved.
+Copyright © Charter Flight Network. All rights reserved.
 
 ---
 

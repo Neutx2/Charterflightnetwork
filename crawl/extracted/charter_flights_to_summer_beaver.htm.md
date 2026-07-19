@@ -1,6 +1,6 @@
 # Charter Flights to Summer Beaver (SUR)
 
-Get up to **3 competitive quotes** from licensed Ontario operators for wheel plane, floatplane, and helicopter charters to Summer Beaver. It’s the fastest way to move crews, equipment, and families to a remote community with limited road access.
+Get up to **3 competitive quotes** from licensed Ontario operators for wheel plane, floatplane, and helicopter charters to Summer Beaver. It's the fastest way to move crews, equipment, and families to a remote community with limited road access.
 
 ## About Summer Beaver Airport
 
@@ -32,7 +32,7 @@ About 115 air miles—roughly 40–50 minutes in a turboprop depending on winds 
 
 Can you arrange floatplane set-outs?
 
-Yes. Tell us dates, passenger count, and gear weight and we’ll source set-outs and camp moves.
+Yes. Tell us dates, passenger count, and gear weight and we'll source set-outs and camp moves.
 
 Do you operate the aircraft?
 
@@ -77,12 +77,12 @@ Superior Airways operates a diversified fleet of wheel plane and float plane cha
 
 #### Option #2. Receive Up To 3 Competitive Quotes With Just One Click
 
-We’re not an airline nor a charter broker. We specialize in finding clients the most cost-efficient air charter options that match their needs. When you complete and submit the form below, we forward your inquiry to multiple charter airlines who are best positioned and equipped to provide the service you request. Each airline prepares and submits a competitive quote.
+We're not an airline nor a charter broker. We specialize in finding clients the most cost-efficient air charter options that match their needs. When you complete and submit the form below, we forward your inquiry to multiple charter airlines who are best positioned and equipped to provide the service you request. Each airline prepares and submits a competitive quote.
 
-**\*Privacy:** we don’t share your name or contact info with airlines. Your request is assigned a unique ID; airlines submit quotes for that ID and we forward them to you.
+**\*Privacy:** we don't share your name or contact info with airlines. Your request is assigned a unique ID; airlines submit quotes for that ID and we forward them to you.
 
 ---
 
 ## Summer Beaver Charter Quote Request
 
-We share your request with up to 3 licensed operators best positioned to serve your route. You’ll receive quotes directly and book with your chosen operator.
+We share your request with up to 3 licensed operators best positioned to serve your route. You'll receive quotes directly and book with your chosen operator.

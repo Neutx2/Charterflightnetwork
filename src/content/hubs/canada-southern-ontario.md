@@ -9,7 +9,7 @@ region: "canada"
 province: "Southern Ontario"
 provinceSlug: "southern-ontario"
 ---
-Southern Ontario is home to Canada’s largest urban centres, busiest highways and most complex airspace. From Toronto and Hamilton to London, Windsor and Barrie, business, government and leisure travellers need efficient options that avoid congestion and tight airline schedules. Charter flights provide direct, time-efficient access between Southern Ontario airports and communities throughout Canada and the United States, allowing you to control your itinerary instead of working around limited scheduled flights.
+Southern Ontario is home to Canada's largest urban centres, busiest highways and most complex airspace. From Toronto and Hamilton to London, Windsor and Barrie, business, government and leisure travellers need efficient options that avoid congestion and tight airline schedules. Charter flights provide direct, time-efficient access between Southern Ontario airports and communities throughout Canada and the United States, allowing you to control your itinerary instead of working around limited scheduled flights.
 
 ## Why Charter Flights Are Ideal for Southern Ontario
 
@@ -21,7 +21,7 @@ Charter flights are also ideal for group travel to conferences, sporting events,
 
 ## Toronto Pearson International Airport (YYZ)
 
-Toronto Pearson is Canada’s largest airport and a major hub for business and private aviation. Multiple FBOs provide full-service facilities for business jets, turboprops and charter operations, including fueling, hangar space and customs services. Charter flights from Pearson serve destinations across North America and beyond, making it a key base for corporate travel and long-range trips originating in Southern Ontario.
+Toronto Pearson is Canada's largest airport and a major hub for business and private aviation. Multiple FBOs provide full-service facilities for business jets, turboprops and charter operations, including fueling, hangar space and customs services. Charter flights from Pearson serve destinations across North America and beyond, making it a key base for corporate travel and long-range trips originating in Southern Ontario.
 
 ## Billy Bishop Toronto City Airport (YTZ)
 
@@ -33,7 +33,7 @@ Hamilton International Airport sits close to the western end of the Greater Toro
 
 ## London International Airport (YXU)
 
-London International Airport serves a broad region of southwestern Ontario, including Kitchener–Waterloo, Guelph and surrounding communities. Charter flights from London connect business and leisure travellers with Toronto, Ottawa, northern Ontario, western Canada and U.S. destinations. The airport’s business aviation facilities cater to corporate jets, turboprops and cargo aircraft operating on flexible schedules.
+London International Airport serves a broad region of southwestern Ontario, including Kitchener–Waterloo, Guelph and surrounding communities. Charter flights from London connect business and leisure travellers with Toronto, Ottawa, northern Ontario, western Canada and U.S. destinations. The airport's business aviation facilities cater to corporate jets, turboprops and cargo aircraft operating on flexible schedules.
 
 ## Windsor International Airport (YQG)
 

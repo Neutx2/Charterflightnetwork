@@ -2,11 +2,11 @@ Whistler BC Helicopter Tours
 
 ##### Choose From A Variety of Tour Options
 
-Explore the stunning landscapes of Whistler, British Columbia, from a whole new perspective with our helicopter sightseeing tours. Soar high above snow-capped peaks, sparkling alpine lakes, and ancient glaciers as you take in the breathtaking views of one of Canada’s most iconic destinations. Soar high above snow-capped peaks, sparkling alpine lakes, and ancient glaciers as you take in the breathtaking views of one of Canada’s most iconic destinations.
+Explore the stunning landscapes of Whistler, British Columbia, from a whole new perspective with our helicopter sightseeing tours. Soar high above snow-capped peaks, sparkling alpine lakes, and ancient glaciers as you take in the breathtaking views of one of Canada's most iconic destinations. Soar high above snow-capped peaks, sparkling alpine lakes, and ancient glaciers as you take in the breathtaking views of one of Canada's most iconic destinations.
 
 ##### Book Your Adventure Today
 
-Your helicopter tour offers an unforgettable journey through Whistler’s majestic wilderness. Whether you’re a nature lover, an adventurer, or simply seeking an awe-inspiring experience, these tours provide a unique way to connect with the beauty of British Columbia. From the moment you lift off, you’ll be immersed in panoramic views of Whistler Blackcomb, Garibaldi Provincial Park, and beyond.
+Your helicopter tour offers an unforgettable journey through Whistler's majestic wilderness. Whether you're a nature lover, an adventurer, or simply seeking an awe-inspiring experience, these tours provide a unique way to connect with the beauty of British Columbia. From the moment you lift off, you'll be immersed in panoramic views of Whistler Blackcomb, Garibaldi Provincial Park, and beyond.
 
 [REQUEST A FLIGHT QUOTE](charter_quote.html)
 
@@ -90,9 +90,9 @@ Whether it's your first helicopter ride or you're an aerial veteran, a Whistler 
 
 ##### Preserving the Beauty: Environmental Considerations
 
-Whistler helicopter tours emphasize protecting the natural surroundings. Tour operators strive to minimize their environmental footprint. They implement eco-friendly practices to ensure long-term preservation of Whistler’s stunning landscapes.
+Whistler helicopter tours emphasize protecting the natural surroundings. Tour operators strive to minimize their environmental footprint. They implement eco-friendly practices to ensure long-term preservation of Whistler's stunning landscapes.
 
-Operators prioritize the conservation of the area's natural beauty. By following strict guidelines, they minimize disturbances to wildlife and fragile ecosystems. Choosing a responsible operator helps ensure the sustainability of these breathtaking experiences. This commitment allows visitors to enjoy Whistler’s allure without compromising its pristine nature for future generations.
+Operators prioritize the conservation of the area's natural beauty. By following strict guidelines, they minimize disturbances to wildlife and fragile ecosystems. Choosing a responsible operator helps ensure the sustainability of these breathtaking experiences. This commitment allows visitors to enjoy Whistler's allure without compromising its pristine nature for future generations.
 
 Flight Options
 
@@ -138,7 +138,7 @@ Here's what to remember as you plan:
 * Bring a camera with a good zoom
 * Stay hydrated
 
-Keeping these points in mind will enrich your journey, ensuring you capture Whistler’s full grandeur.
+Keeping these points in mind will enrich your journey, ensuring you capture Whistler's full grandeur.
 
 ##### Beyond the Flight: Additional Activities and Customization
 
@@ -160,9 +160,9 @@ These activities and personalized touches transform your flight into a memorable
 
 ##### Experience the Ultimate Heli-Skiing Adventure in Whistler, British Columbia
 
-Dive into the heart of Whistler’s breathtaking wilderness and experience the thrill of heli-skiing in British Columbia’s pristine alpine terrain. Renowned worldwide as a premier skiing destination, Whistler offers more than just resorts — it’s a gateway to untouched powder, expansive glaciers, and remote mountain ranges accessible only by helicopter.
+Dive into the heart of Whistler's breathtaking wilderness and experience the thrill of heli-skiing in British Columbia's pristine alpine terrain. Renowned worldwide as a premier skiing destination, Whistler offers more than just resorts — it's a gateway to untouched powder, expansive glaciers, and remote mountain ranges accessible only by helicopter.
 
-Whistler heli-skiing adventures are designed for skiers and snowboarders seeking the ultimate BC Ski Adventure. Whether you’re a seasoned powder enthusiast or looking to elevate your skills, we cater to all levels, offering tailored packages that ensure your day in the backcountry is as exhilarating as it is safe. From wide-open bowls to steep chutes and tree-lined descents, the terrain options are endless.
+Whistler heli-skiing adventures are designed for skiers and snowboarders seeking the ultimate BC Ski Adventure. Whether you're a seasoned powder enthusiast or looking to elevate your skills, we cater to all levels, offering tailored packages that ensure your day in the backcountry is as exhilarating as it is safe. From wide-open bowls to steep chutes and tree-lined descents, the terrain options are endless.
 
 Flight Options
 
@@ -186,9 +186,9 @@ A Whistler helicopter tour is more than a sightseeing excursion; it's a life-cha
 
 ##### Pemberton Fish Finders
 
-Take your fishing adventure to new heights with heli fishing out of Whistler, British Columbia. Combine the thrill of a scenic helicopter ride with the serenity of casting your line in remote, untouched fishing spots. Nestled amidst the breathtaking landscapes of BC’s wilderness, these exclusive locations are accessible only by helicopter, ensuring an unparalleled experience for avid anglers and nature enthusiasts alike.
+Take your fishing adventure to new heights with heli fishing out of Whistler, British Columbia. Combine the thrill of a scenic helicopter ride with the serenity of casting your line in remote, untouched fishing spots. Nestled amidst the breathtaking landscapes of BC's wilderness, these exclusive locations are accessible only by helicopter, ensuring an unparalleled experience for avid anglers and nature enthusiasts alike.
 
-Your journey begins with a flight over Whistler’s iconic peaks, sparkling glaciers, and lush valleys. As you descend into pristine alpine lakes and secluded riverbanks, you’ll be immersed in the tranquility of untouched nature, far from the hustle of civilization. With expert guides by your side, you’ll have access to some of the region’s best fishing spots, renowned for their abundance of trout, salmon, and steelhead.
+Your journey begins with a flight over Whistler's iconic peaks, sparkling glaciers, and lush valleys. As you descend into pristine alpine lakes and secluded riverbanks, you'll be immersed in the tranquility of untouched nature, far from the hustle of civilization. With expert guides by your side, you'll have access to some of the region's best fishing spots, renowned for their abundance of trout, salmon, and steelhead.
 
 Flight Options
 

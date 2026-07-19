@@ -12,15 +12,15 @@ Float planes play a vital role in serving fishing lodges, wilderness resorts and
 
 ### Vancouver International Airport (YVR) – Vancouver / Richmond
 
-Vancouver International Airport, located on Sea Island in Richmond, is British Columbia’s primary gateway for domestic and international charter flights. Its long parallel runways can accommodate all categories of business jets, regional turboprops and wide-body aircraft. The south side of the airport hosts FBOs, a busy south terminal and a float plane facility, making YVR a natural hub for corporate travel, international arrivals and connections to smaller BC communities.
+Vancouver International Airport, located on Sea Island in Richmond, is British Columbia's primary gateway for domestic and international charter flights. Its long parallel runways can accommodate all categories of business jets, regional turboprops and wide-body aircraft. The south side of the airport hosts FBOs, a busy south terminal and a float plane facility, making YVR a natural hub for corporate travel, international arrivals and connections to smaller BC communities.
 
 ### Victoria International Airport (YYJ) – Greater Victoria
 
-Serving the provincial capital, Victoria International Airport is located north of the city near Sidney and provides convenient access to Vancouver Island’s business, government and tourism sectors. The airport offers ample runway length for corporate jets and regional aircraft, with charter operators using YYJ for flights within British Columbia, across Canada and to nearby U.S. destinations. Ground transport links make it easy to reach downtown Victoria and surrounding communities.
+Serving the provincial capital, Victoria International Airport is located north of the city near Sidney and provides convenient access to Vancouver Island's business, government and tourism sectors. The airport offers ample runway length for corporate jets and regional aircraft, with charter operators using YYJ for flights within British Columbia, across Canada and to nearby U.S. destinations. Ground transport links make it easy to reach downtown Victoria and surrounding communities.
 
 ### Kelowna International Airport (YLW) – Okanagan Valley
 
-Kelowna International Airport is the main aviation hub for the Okanagan Valley. Its modern terminal and long paved runway support private jets, turboprops and cargo aircraft serving the region’s technology companies, vineyards, resorts and year-round recreation destinations. Charter flights from YLW can reach smaller airstrips and lakes throughout the Okanagan, Shuswap and Kootenay regions, reducing long mountain drives and seasonal road closures.
+Kelowna International Airport is the main aviation hub for the Okanagan Valley. Its modern terminal and long paved runway support private jets, turboprops and cargo aircraft serving the region's technology companies, vineyards, resorts and year-round recreation destinations. Charter flights from YLW can reach smaller airstrips and lakes throughout the Okanagan, Shuswap and Kootenay regions, reducing long mountain drives and seasonal road closures.
 
 ### Prince George Airport (YXS) – Central and Northern BC
 
@@ -28,7 +28,7 @@ Prince George Airport serves as a strategic gateway for central and northern Bri
 
 ### Abbotsford International Airport (YXX) – Fraser Valley
 
-Abbotsford International Airport in the Fraser Valley offers an alternative to Vancouver for charter clients who prefer less congestion and faster ground access to eastern Metro Vancouver and the nearby U.S. border. The airport’s two runways support a wide range of turboprop and jet aircraft, while FBO services, hangar space and easy highway access make YXX a practical base for corporate and specialty charters.
+Abbotsford International Airport in the Fraser Valley offers an alternative to Vancouver for charter clients who prefer less congestion and faster ground access to eastern Metro Vancouver and the nearby U.S. border. The airport's two runways support a wide range of turboprop and jet aircraft, while FBO services, hangar space and easy highway access make YXX a practical base for corporate and specialty charters.
 
 ### Canadian Rockies International Airport (YXC) – Cranbrook / East Kootenay
 
@@ -42,7 +42,7 @@ For exploration programs, power line construction, pipeline work and environment
 
 ## Float Plane Charter Bases in British Columbia
 
-British Columbia has one of the most active float plane networks in the world. Bases around Vancouver International Airport’s south terminal, Vancouver Harbour, Victoria, Nanaimo, Campbell River, Prince Rupert and many other coastal and interior communities support year-round float operations. These aircraft connect fishing lodges, remote islands, forestry camps, private cabins and wilderness resorts that have no road access and no conventional runway.
+British Columbia has one of the most active float plane networks in the world. Bases around Vancouver International Airport's south terminal, Vancouver Harbour, Victoria, Nanaimo, Campbell River, Prince Rupert and many other coastal and interior communities support year-round float operations. These aircraft connect fishing lodges, remote islands, forestry camps, private cabins and wilderness resorts that have no road access and no conventional runway.
 
 Through Charter Flight Network you can arrange float plane charters to remote lakes, river systems and protected coves throughout the province. Flights can be timed to meet arriving jets or scheduled airlines at major hubs, or can depart from smaller float bases located closer to your home, office or lodge.
 

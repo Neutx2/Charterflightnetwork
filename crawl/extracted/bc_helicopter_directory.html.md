@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-# British Columbia Helicopter Charter Directory â Page 1
+# British Columbia Helicopter Charter Directory — Page 1
 
 Helicopter charter operators serving 108 Mile Ranch, Abbotsford, Agassiz, Atlin, Bella Coola, Campbell River and Chilliwack. Browse operators by base location, phone number, aircraft type and service category.
 
@@ -74,7 +74,7 @@ Each company prepares a competitive quote for your review. If you receive an acc
 4807 Telqua Drive, 108 Mile Ranch, BC V0K 2Z0
 P: [(250) 791-7322](tel:+12507917322)
 **Base Locations:** 108 Mile Ranch, BC
-**Aircraft Types:** AÃ©rospatiale AS350B / AS350BA
+**Aircraft Types:** Aérospatiale AS350B / AS350BA
 **Service Type:** Helicopter
 
 ## Abbotsford Helicopter Air Charter
@@ -86,7 +86,7 @@ Featured Listing
 Abbotsford, BC V2T 6H5
 P: [(604) 639-9090](tel:+16046399090)
 **Base Locations:** Abbotsford, BC
-**Aircraft Types:** AÃ©rospatiale AS350 B2 / Bell 206B, 206L / Bell 212
+**Aircraft Types:** Aérospatiale AS350 B2 / Bell 206B, 206L / Bell 212
 **Service Type:** Helicopter
 
 [Website](https://sequoiahelicopters.com/)
@@ -138,7 +138,7 @@ Featured Listing
 Atlin, BC V0W 1A0
 P: Phone not listed
 **Base Locations:** Atlin, BC
-**Aircraft Types:** AÃ©rospatiale AS350 B2 / Bell 206B, 206L / Eurocopter AS350 B2
+**Aircraft Types:** Aérospatiale AS350 B2 / Bell 206B, 206L / Eurocopter AS350 B2
 **Service Type:** Helicopter
 
 [Website](https://discoveryheli.ca/)
@@ -164,7 +164,7 @@ P: [(250) 982-2181](tel:+12509822181)
 Campbell River, BC V9H 0E2
 P: Phone not listed
 **Base Locations:** Campbell River, BC
-**Aircraft Types:** AÃ©rospatiale AS350 B2 / Bell 204B / Bell 206B / Robinson R22 / Robinson R44
+**Aircraft Types:** Aérospatiale AS350 B2 / Bell 204B / Bell 206B / Robinson R22 / Robinson R44
 **Service Type:** Helicopter
 
 ### Grizzly Helicopters Ltd
@@ -190,7 +190,7 @@ P: Phone not listed
 Chilliwack, BC V4Z 1E7
 P: Phone not listed
 **Base Locations:** Chilliwack, BC
-**Aircraft Types:** AÃ©rospatiale AS350 B2
+**Aircraft Types:** Aérospatiale AS350 B2
 **Service Type:** Helicopter
 
 ## British Columbia Helicopter Directory Pages

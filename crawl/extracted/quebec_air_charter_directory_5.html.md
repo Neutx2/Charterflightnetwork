@@ -1,4 +1,4 @@
-# Quebec Air Charter Directory â Page 5
+# Quebec Air Charter Directory – Page 5
 
 ---
 
@@ -52,7 +52,7 @@
 
 [Riviere-Du-Loup](quebec_air_charter_directory_4.html#RiviereDuLoup)
 
-[RiviÃ¨re-Rouge](quebec_air_charter_directory_4.html#RiviereRouge)
+[Rivière-Rouge](quebec_air_charter_directory_4.html#RiviereRouge)
 
 [Rouyn-Noranda](quebec_air_charter_directory_4.html#RouynNoranda)
 
@@ -60,11 +60,11 @@
 
 [St-Charles-sur-Richelieu](quebec_air_charter_directory_2.html#Montreal)
 
-[St-Ãtienne-des-GrÃ¨s](quebec_air_charter_directory_5.html#TroisRivieres)
+[St-Étienne-des-Grès](quebec_air_charter_directory_5.html#TroisRivieres)
 
 [St-Frederic-Beauce](quebec_air_charter_directory_3.html#QuebecCity)
 
-[St-HonorÃ©](quebec_air_charter_directory_4.html#StHonore)
+[St-Honoré](quebec_air_charter_directory_4.html#StHonore)
 
 [St-Hubert](quebec_air_charter_directory_4.html#StHubert)
 
@@ -84,14 +84,14 @@
 
 [Val D'Or](quebec_air_charter_directory_5.html#ValDor)
 
-#### Sept-Ãles Air Charter
+#### Sept-Îles Air Charter
 
 ####
 
 **Heli-Boreal Inc**
-279 Vigneault C.P. 3 / Sept-Ãles QC G4R 4K3
+279 Vigneault C.P. 3 / Sept-Îles QC G4R 4K3
 P: 418 962-7256
-**Base Locations:** Sept-Ãles QC
+**Base Locations:** Sept-Îles QC
 **Aircraft Types:** Aerospatiale AS350
 **Service Type:** Helicopter
 
@@ -100,18 +100,18 @@ P: 418 962-7256
 ####
 
 **Innukopters Inc**
-18, rue de l'Aviation gÃ©nÃ©rale Est / Sept-Ãles QC G4R 4K9
+18, rue de l'Aviation générale Est / Sept-Îles QC G4R 4K9
 P: 418 962-1214
-**Base Locations:** Sept-Ãles QC
+**Base Locations:** Sept-Îles QC
 **Aircraft Types:** Aerospatiale AS350
 **Service Type:** Helicopters
 
 [REQUEST A QUOTE](https://www.innukopteres.com/)
 
 **Heli-Nord**
-895 Arnaud / Sept-Ãles QC G4R 3C5
+895 Arnaud / Sept-Îles QC G4R 3C5
 P: 418 968-2556 / cell 418 409-4134
-**Base Locations:** Sept-Ãles QC
+**Base Locations:** Sept-Îles QC
 **Aircraft Types:** Bell 206
 **Service Type:** Helicopter
 
@@ -137,7 +137,7 @@ P: 450 230-1298
 
 [REQUEST A QUOTE](https://tamarac.ca/)
 
-#### Trois-RiviÃ¨res / Shawinigan Air Charter
+#### Trois-Rivières / Shawinigan Air Charter
 
 **Bel-Air Laurentien Aviation Inc**
 Shawinigan QC
@@ -149,34 +149,34 @@ P: 819 538-8623
 ####
 
 **G D G Aviation Inc**
-3375, rue Lindbergh / Trois-RiviÃ¨res QC G9B 2N9
+3375, rue Lindbergh / Trois-Rivières QC G9B 2N9
 P: 819 373-3097
-**Base Locations:** Trois-RiviÃ¨res QC
+**Base Locations:** Trois-Rivières QC
 **Aircraft Types:** Bell 206
 **Service Type:** Helicopter
 
 [REQUEST A QUOTE](https://gdg-aviation.com/)
 
 **Heli-Transport Inc**
-3650 Boulevard de l'AÃ©roport / Trois-RiviÃ¨res QC G9A 5E1
+3650 Boulevard de l'Aéroport / Trois-Rivières QC G9A 5E1
 P: 819-377-3344
-**Base Locations:** Trois-RiviÃ¨res QC
+**Base Locations:** Trois-Rivières QC
 **Aircraft Types:** Aerospatiale AS350 / Bell 205 / Bell 206 B / Bell 206 L / Bell 214 ST / Bell 407
 **Service Type:** Helicopter
 
 **Heli-Ungava (1997) Inc**
-3650, boul. de l'AÃ©roport / Trois-RiviÃ¨res QC G9A 5E1
+3650, boul. de l'Aéroport / Trois-Rivières QC G9A 5E1
 P: 819-377-3344
-**Base Locations:** Trois-RiviÃ¨res QC
+**Base Locations:** Trois-Rivières QC
 **Aircraft Types:** Bell 206 L
 **Service Type:** Helicopter
 
 ####
 
 **Hydravion Aventure Inc**
-428, Rang des GrÃ¨s / St-Ãtienne-des-GrÃ¨s QC G0X 2P0
+428, Rang des Grès / St-Étienne-des-Grès QC G0X 2P0
 P: 819 609-9358
-**Base Locations:** St-Ãtienne-des-GrÃ¨s QC
+**Base Locations:** St-Étienne-des-Grès QC
 **Aircraft Types:** Cessna 180 / Cessna U206 / DeHavilland Beaver / Cessna 550
 **Service Type:** Floats / Wheels / Helicopter
 
@@ -184,8 +184,8 @@ P: 819 609-9358
 
 #### Val D'Or / Senneterre Air Charter
 
-**Helicopteres Transit LtÃ©e**
-300, St-ExupÃ©ry / Val D'Or QC
+**Helicopteres Transit Ltée**
+300, St-Exupéry / Val D'Or QC
 P: 819 825-5915
 **Base Locations:** Val D'Or QC
 **Aircraft Types:** Bell 206 L
@@ -205,7 +205,7 @@ P: 819 825-5915
 
 ######
 
-Copyright Â© Charter Flight Network. All rights reserved.
+Copyright © Charter Flight Network. All rights reserved.
 
 ---
 

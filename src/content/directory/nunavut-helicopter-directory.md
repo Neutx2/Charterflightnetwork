@@ -27,7 +27,7 @@ Page 1
 
 ## Iqaluit Helicopter Air Charter
 
-Iqaluit is Nunavutâs primary aviation hub and a common staging point for helicopter charters supporting remote travel,
+Iqaluit is Nunavut's primary aviation hub and a common staging point for helicopter charters supporting remote travel,
 field logistics, and specialized operations across Baffin Island and beyond.
 
 **Summit Air Baffin**
@@ -50,7 +50,7 @@ P: 1 450 452 3000
 
 [Back To Main Canadian Menu](/directory/canadian-air-charter-directory-1)
 
-Copyright Â© Charter Flight Network. All rights reserved.
+Copyright © Charter Flight Network. All rights reserved.
 
 ---
 

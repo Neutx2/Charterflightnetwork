@@ -14,15 +14,15 @@ region: "global"
 
 ## Direct Flights To Bedford (BED)
 
-Charter flights from Toronto to the Boston region (approximately 420 air miles) offer business travelers a fast, direct, and efficient way to reach one of the United States’ most influential commercial and academic centers. Passengers can depart from
+Charter flights from Toronto to the Boston region (approximately 420 air miles) offer business travelers a fast, direct, and efficient way to reach one of the United States' most influential commercial and academic centers. Passengers can depart from
 **[Toronto Pearson (YYZ)](/canada/southern-ontario/toronto)** aboard a wide range of business jets, or from
 **[Billy Bishop Toronto City Airport (YTZ)](/canada/southern-ontario/toronto-island)** using turboprop aircraft, with many flights arriving at
-**[Bedford, Massachusetts (BED)](https://www.massport.com/hanscom-field)**—Boston’s most popular executive airport. From Bedford, ground transportation to downtown Boston is simple and efficient, with limousine services, rental cars, and rideshare options covering the 20–25 mile trip in roughly 30–40 minutes depending on traffic.
+**[Bedford, Massachusetts (BED)](https://www.massport.com/hanscom-field)**—Boston's most popular executive airport. From Bedford, ground transportation to downtown Boston is simple and efficient, with limousine services, rental cars, and rideshare options covering the 20–25 mile trip in roughly 30–40 minutes depending on traffic.
 
 ### Boston Logan International Airport (BOS)
 
 Clients may also choose to fly directly to
-**[Boston Logan International (BOS)](https://www.massport.com/logan-airport)**; however, Logan’s higher landing fees, heavy airline congestion, and frequent delays can add time and cost to the journey. Many travelers prefer Bedford for its convenience, privacy, and quick turnaround times.
+**[Boston Logan International (BOS)](https://www.massport.com/logan-airport)**; however, Logan's higher landing fees, heavy airline congestion, and frequent delays can add time and cost to the journey. Many travelers prefer Bedford for its convenience, privacy, and quick turnaround times.
 
 [Search All Boston Area Airports](#BostonAirports)
 
@@ -35,17 +35,17 @@ Save time with Charter Flight Network's Quote Request Service — compare three 
 
 ## [Cameron Air](/quote/cameron-air)
 
-Cameron Air’s Pilatus PC-12 NG offers spacious seating for business teams traveling between major airports. Fly privately with fast cruise speeds, long range, and professional service from start to finish.
+Cameron Air's Pilatus PC-12 NG offers spacious seating for business teams traveling between major airports. Fly privately with fast cruise speeds, long range, and professional service from start to finish.
 Estimated flight time: approximately 1 hr 45 minutes to 2 hours, depending on wind, weather, and traffic.
 
 ## [Aspen Air](/quote/aspen-air)
 
-Fly across Canada, the United States, or Europe with Aspen Air’s curated aircraft options. Enjoy comfort, privacy, and attentive service on every segment of your journey.
+Fly across Canada, the United States, or Europe with Aspen Air's curated aircraft options. Enjoy comfort, privacy, and attentive service on every segment of your journey.
 Typical flight times with the twin-engine Navajo range from 1 hr 55 minutes to 2 hours 10 minutes.
 
 ## [Chartright Air](/quote/chartright)
 
-Whether you charter a light jet for short hops or a heavy global jet for intercontinental travel, Chartright Air’s diverse fleet and expert crew adapt exactly to your mission profile.
+Whether you charter a light jet for short hops or a heavy global jet for intercontinental travel, Chartright Air's diverse fleet and expert crew adapt exactly to your mission profile.
 Estimated flight times: approximately 1 hour 10 minutes to 1 hour 20 minutes.
 
 ## [Fly GTA](/quote/fly-gta)
@@ -71,7 +71,7 @@ Request a charter quote to any of the following destinations:
 
 ## Option #2. With Just One Click, Receive Competitive Quotes From All The Charter Airlines Listed On This Page.
 
-**\*Privacy:** we don’t share your name or contact info with airlines. Your request is assigned a unique ID; airlines submit quotes for that ID and we forward them to you.
+**\*Privacy:** we don't share your name or contact info with airlines. Your request is assigned a unique ID; airlines submit quotes for that ID and we forward them to you.
 
 ---
 

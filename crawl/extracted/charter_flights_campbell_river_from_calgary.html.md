@@ -139,10 +139,10 @@ Accommodating groups of 2 - 56 passengers with a diverse fleet of jet and turbop
 
 #### See How Charter Flight Network Finds The Most Cost Efficient Air Charter Option That Best Meets The Needs Of Every Client.
 
-We’re not an airline nor a charter broker. We specialize in finding clients the most cost-efficient air charter options that match their needs.
+We're not an airline nor a charter broker. We specialize in finding clients the most cost-efficient air charter options that match their needs.
 We source each inquiry to the charter airlines that are best positioned and equipped to provide your flight. Each airline prepares and submits a competitive quote.
 
-**Privacy:** When we source out your request, we don’t share your name or contact info with airlines. Each quote request is assigned a unique ID. Each airline submits their quote for that ID. We forward each quote directly to your email. We only provide your name and contact information to the airline if and when you are ready to book your flight.
+**Privacy:** When we source out your request, we don't share your name or contact info with airlines. Each quote request is assigned a unique ID. Each airline submits their quote for that ID. We forward each quote directly to your email. We only provide your name and contact information to the airline if and when you are ready to book your flight.
 
 ### Links to All British Columbia Air Charter Destinations
 
@@ -300,11 +300,11 @@ Often, yes. YBW typically has lower operating and FBO costs than YYC, with faste
 
 Plan on **approximately 25–40 minutes** door-to-door depending on traffic and pickup point. We arrange a pre-booked shuttle or private car to meet your flight.
 
-##### What documents do I need if I’m arriving from the U.S.?
+##### What documents do I need if I'm arriving from the U.S.?
 
-Bring a valid passport and any required visas or eTA depending on nationality. You’ll clear Canadian customs at YYC when your airline arrives; the Calgary to Campbell River charter then operates as a domestic Canadian flight.
+Bring a valid passport and any required visas or eTA depending on nationality. You'll clear Canadian customs at YYC when your airline arrives; the Calgary to Campbell River charter then operates as a domestic Canadian flight.
 
-##### What’s the average flight time from Calgary to Campbell River?
+##### What's the average flight time from Calgary to Campbell River?
 
 Turboprops usually take **approximately 2.0–2.5 hours**; light and midsize jets are typically **1.5–2.0 hours**, depending on winds and routing.
 

@@ -41,7 +41,7 @@ Lynn Lake Airport sits a short drive from town and provides reliable access for 
 
 **Airport and Flight Access**
 
-* Lynn Lake Airport’s long asphalt runway makes it one of the stronger northern access points for fixed-wing charter traffic, with the town only a short drive away after landing.
+* Lynn Lake Airport's long asphalt runway makes it one of the stronger northern access points for fixed-wing charter traffic, with the town only a short drive away after landing.
 
 **Accommodations and Local Services**
 
@@ -55,7 +55,7 @@ Lynn Lake Airport sits a short drive from town and provides reliable access for 
 
 ### **Wheel Plane Charter Flights**
 
-Wheel plane charters are the most direct and practical option for Lynn Lake because of the community’s long paved airport runway.
+Wheel plane charters are the most direct and practical option for Lynn Lake because of the community's long paved airport runway.
 
 [QUOTE REQUEST FORM](#QuoteForm)
 

@@ -16,11 +16,11 @@ Conklin, Alberta, a small yet vibrant community nestled in the heart of the bore
 
 **Conklin to Calgary**
 
-Traveling from Conklin to Calgary spans about 450 miles (724 kilometers), a journey that offers charter flight passengers the opportunity to witness the changing landscapes from Northern Alberta’s forests to the urban settings of Calgary.
+Traveling from Conklin to Calgary spans about 450 miles (724 kilometers), a journey that offers charter flight passengers the opportunity to witness the changing landscapes from Northern Alberta's forests to the urban settings of Calgary.
 
 **Conklin to Edmonton**
 
-The distance from Conklin to Edmonton is approximately 280 miles (450 kilometers), making it a suitable trip for air charter clients interested in exploring Alberta's capital after enjoying the tranquility of Conklin’s natural surroundings.
+The distance from Conklin to Edmonton is approximately 280 miles (450 kilometers), making it a suitable trip for air charter clients interested in exploring Alberta's capital after enjoying the tranquility of Conklin's natural surroundings.
 
 **Conklin to Grande Prairie**
 
@@ -42,7 +42,7 @@ Located approximately 150 air miles southeast of Conklin, Lac La Biche Airport i
 
 **Athabasca Airport**
 
-Roughly 200 air miles south of Conklin, Athabasca Airport serves as a convenient hub for air charter operations, facilitating access to central Alberta’s lakes and recreational areas.
+Roughly 200 air miles south of Conklin, Athabasca Airport serves as a convenient hub for air charter operations, facilitating access to central Alberta's lakes and recreational areas.
 
 **Slave Lake Airport**
 

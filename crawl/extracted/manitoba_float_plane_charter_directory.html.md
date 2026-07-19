@@ -110,7 +110,7 @@ P: 000000
 Snow Lake, MB
 P: 000000
 **Base Locations:** Snow Lake, MB
-**Aircraft Types:** Piper PA-31-350 Navajo / Cessna 185 / De Havilland Beaver / Noorduyn Norseman V / Bell 206 L / AÃ©rospatiale AS350 B2
+**Aircraft Types:** Piper PA-31-350 Navajo / Cessna 185 / De Havilland Beaver / Noorduyn Norseman V / Bell 206 L / Aérospatiale AS350 B2
 **Service Type:** Helicopter / Wheels / Floats
 
 ## St Andrews Float Plane Charter

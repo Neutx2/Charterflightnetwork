@@ -75,7 +75,7 @@ The types of aircraft utilized for these cargo operations are designed for Arcti
 
 ### Summer Weather In Sinirajak / Hall Beach
 
-During the summer months, from June to August, temperatures in Sinirajak typically range from 5°C to 15°C (41°F to 59°F). While the air remains cool, the extended daylight hours of the Midnight Sun create an atmosphere of constant light and energy. Summer is the perfect time to enjoy outdoor activities like fishing for Arctic char, kayaking among icebergs, or exploring the tundra’s vibrant plant life. Visitors should be prepared for occasional rain and strong Arctic breezes.
+During the summer months, from June to August, temperatures in Sinirajak typically range from 5°C to 15°C (41°F to 59°F). While the air remains cool, the extended daylight hours of the Midnight Sun create an atmosphere of constant light and energy. Summer is the perfect time to enjoy outdoor activities like fishing for Arctic char, kayaking among icebergs, or exploring the tundra's vibrant plant life. Visitors should be prepared for occasional rain and strong Arctic breezes.
 
 ### Winter Weather In Sinirajak / Hall Beach
 

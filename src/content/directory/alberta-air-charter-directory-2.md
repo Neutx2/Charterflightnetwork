@@ -1,7 +1,7 @@
 ---
-title: "Alberta Air Charter Directory â Page 2 | Edmonton, Fort McMurray, Grande Prairie and More"
+title: "Alberta Air Charter Directory – Page 2 | Edmonton, Fort McMurray, Grande Prairie and More"
 description: "Browse Alberta Air Charter Directory Page 2 for wheel plane, float plane, and helicopter charter operators in Calling Lake, Caroline, Cold Lake, Drayton Valley, Edmonton, Fort McMurray, Fort Vermilion, and Grande Prairie."
-h1: "Alberta Air Charter Directory â Page 2"
+h1: "Alberta Air Charter Directory – Page 2"
 legacyUrl: "/alberta_air_charter_directory_2.html"
 slug: "directory/alberta-air-charter-directory-2"
 thin: false

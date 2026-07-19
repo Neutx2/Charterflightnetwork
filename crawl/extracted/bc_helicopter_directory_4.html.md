@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-# British Columbia Helicopter Charter Directory â Page 4
+# British Columbia Helicopter Charter Directory — Page 4
 
 Helicopter charter operators across Valemount, Vancouver / Richmond, Vernon, Victoria, Williams Lake and Whistler. Browse operators by base location, phone number, aircraft type and service category.
 

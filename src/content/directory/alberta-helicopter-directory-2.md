@@ -1,7 +1,7 @@
 ---
 title: "Alberta Helicopter Air Charter Directory | Page 2"
 description: "Alberta helicopter air charter directory page 2, listing helicopter operators in Fort McMurray, Grande Prairie, High River, Manning, Medicine Hat, Slave Lake, Whitecourt and more."
-h1: "Alberta Helicopter Air Charter Directory â Page 2"
+h1: "Alberta Helicopter Air Charter Directory — Page 2"
 legacyUrl: "/alberta_helicopter_directory_2.html"
 slug: "directory/alberta-helicopter-directory-2"
 thin: false

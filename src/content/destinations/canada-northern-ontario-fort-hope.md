@@ -38,7 +38,7 @@ Nakina is 110 air miles south of Fort Hope. Anglers choose Nakina for reliable a
 
 ## Pickle Lake To Fort Hope
 
-Pickle Lake is 100 air miles west of Fort Hope and is Ontario’s most northern all-season road community, acting as the launch point for fly-in fishing lodges, fly-in expeditions and wilderness access. Request a charter quote from any of the airlines listed below, or use our [Free Charter Quote Request Service](/canada/northern-ontario/fort-hope#quote) and your inquiry will be sent to all the charter airlines with services that match your requirements.
+Pickle Lake is 100 air miles west of Fort Hope and is Ontario's most northern all-season road community, acting as the launch point for fly-in fishing lodges, fly-in expeditions and wilderness access. Request a charter quote from any of the airlines listed below, or use our [Free Charter Quote Request Service](/canada/northern-ontario/fort-hope#quote) and your inquiry will be sent to all the charter airlines with services that match your requirements.
 
 * [##### Osnaburg Airways / Pickle Lake Outposts](/quote/osnaburg-air)
 
@@ -86,7 +86,7 @@ Sioux Lookout is the aviation crossroads of Northwestern Ontario, serving northe
 
 ## Thunder Bay To Fort Hope
 
-Thunder Bay is 230 air miles south of Fort Hope and serves as Northwestern Ontario’s aviation hub, with private charters, medevac aircraft and regional airlines linking remote northern communities to major travel corridors. Request a charter quote from any of the airlines listed below, or use our [Free Charter Quote Request Service](/canada/northern-ontario/fort-hope#quote) and your inquiry will be sent to all the charter airlines with services that match your requirements.
+Thunder Bay is 230 air miles south of Fort Hope and serves as Northwestern Ontario's aviation hub, with private charters, medevac aircraft and regional airlines linking remote northern communities to major travel corridors. Request a charter quote from any of the airlines listed below, or use our [Free Charter Quote Request Service](/canada/northern-ontario/fort-hope#quote) and your inquiry will be sent to all the charter airlines with services that match your requirements.
 
 * [##### Air Bravo](/quote/air-bravo)
 
@@ -96,7 +96,7 @@ Thunder Bay is 230 air miles south of Fort Hope and serves as Northwestern Ontar
  Serving Northwestern Ontario and Nunavut, North Star Air operates reliable turboprop aircraft designed for year-round performance in northern climates..
 * [##### Wasaya Airways](/quote/wasaya)
 
- Wasaya Airways operates a modern turboprop fleet linking northern Ontario’s remote communities with essential goods, passengers, and reliable charter services..
+ Wasaya Airways operates a modern turboprop fleet linking northern Ontario's remote communities with essential goods, passengers, and reliable charter services..
 * [##### Lakehad Airways](/quote/lakehead-airways)
 
  Lakehead Airways connects you from Thunder Bay to remote northern lakes, offering floatplane charters perfect for anglers, canoe groups, and remote work crews year-round.
@@ -109,7 +109,7 @@ Thunder Bay is 230 air miles south of Fort Hope and serves as Northwestern Ontar
 
 ## Winnipeg To Fort Hope
 
-Winnipeg is 425 air miles south west of Fort Hope and stands as Manitoba’s aviation capital, offering major airline connections, charter providers, and private aviation services to remote northern communities and adventure destinations. Request a charter quote from any of the airlines listed below, or use our [Free Charter Quote Request Service](/canada/northern-ontario/fort-hope#quote) and your inquiry will be sent to all the charter airlines with services that match your requirements.
+Winnipeg is 425 air miles south west of Fort Hope and stands as Manitoba's aviation capital, offering major airline connections, charter providers, and private aviation services to remote northern communities and adventure destinations. Request a charter quote from any of the airlines listed below, or use our [Free Charter Quote Request Service](/canada/northern-ontario/fort-hope#quote) and your inquiry will be sent to all the charter airlines with services that match your requirements.
 
 * [##### Trade North Aviation](/quote/trade-north)
 
@@ -134,7 +134,7 @@ Get up to 3 competitive quotes for your Fort Hope charter
 
 ## Option #2. Receive Up To 3 Competitive Quotes With Just One Click
 
-**\*Privacy:** we don’t share your name or contact info with airlines. Your request is assigned a unique ID; airlines submit quotes for that ID and we forward them to you.
+**\*Privacy:** we don't share your name or contact info with airlines. Your request is assigned a unique ID; airlines submit quotes for that ID and we forward them to you.
 
 ## More Northwestern Ontario Charter Destinations and Departure Points
 

@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-# Ontario Air Charter Directory â Page 4
+# Ontario Air Charter Directory – Page 4
 
 Page 4 features float plane, wheel plane, amphibious, and helicopter charter listings for Nakina, Nestor Falls, Niagara Falls, North Bay, Orillia, Oshawa, Ottawa, Owen Sound, Parry Sound, Peterborough and Keene, Pickle Lake, Port Loring, Red Lake, Round Lake, Sandy Lake, Savant Lake, and Sault Ste. Marie.
 

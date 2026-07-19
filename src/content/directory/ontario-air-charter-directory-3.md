@@ -1,7 +1,7 @@
 ---
-title: "Ontario Air Charter Directory â Page 3 | Kenora, London, Muskoka, Moosonee & More"
+title: "Ontario Air Charter Directory – Page 3 | Kenora, London, Muskoka, Moosonee & More"
 description: "Ontario Air Charter Directory page 3 featuring float plane, wheel plane, and helicopter charter operators in Hornepayne, Hudson, Ignace, Keene, Kenora, Kingston and Tamworth, Kitchener-Waterloo, London, Meaford, Moosonee, and Muskoka."
-h1: "Ontario Air Charter Directory â Page 3"
+h1: "Ontario Air Charter Directory – Page 3"
 legacyUrl: "/ontario_air_charter_directory_3.html"
 slug: "directory/ontario-air-charter-directory-3"
 thin: false

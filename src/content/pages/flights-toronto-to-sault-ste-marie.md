@@ -45,11 +45,11 @@ Executive charter flights across Canada made effortless. Chartright connects Tor
 
 ## [Fly GTA](/quote/fly-gta)
 
-Launch corporate charter flights from Toronto’s Pearson International direct to destinations across Canada and USA, with FLYGTA. Skip lines, board quietly via private terminals, and reach Sault Ste Marie, Montreal, Ottawa, or New York on your schedule with premium midsize jets. Request a quote directly from Fly GTA, or use the [Charter Quote Request Service.](/flights/toronto-to-sault-ste-marie#quote)
+Launch corporate charter flights from Toronto's Pearson International direct to destinations across Canada and USA, with FLYGTA. Skip lines, board quietly via private terminals, and reach Sault Ste Marie, Montreal, Ottawa, or New York on your schedule with premium midsize jets. Request a quote directly from Fly GTA, or use the [Charter Quote Request Service.](/flights/toronto-to-sault-ste-marie#quote)
 
 ## [Papple Aviation](/quote/papple)
 
-Papple Aviation offers cost-efficient charter flights from Toronto’s Billy Bishop Airport, giving travelers quick access to Ontario communities without long drives, busy terminals, or complicated connections. Request a quote directly from Papple Aviation, or use the [Free Charter Quote Request Service](/flights/toronto-to-sault-ste-marie#quote).
+Papple Aviation offers cost-efficient charter flights from Toronto's Billy Bishop Airport, giving travelers quick access to Ontario communities without long drives, busy terminals, or complicated connections. Request a quote directly from Papple Aviation, or use the [Free Charter Quote Request Service](/flights/toronto-to-sault-ste-marie#quote).
 
 ---
 
@@ -73,7 +73,7 @@ Papple Aviation offers cost-efficient charter flights from Toronto’s Billy Bis
 
 ## Option #2. With Just One Click, Receive Competitive Quotes From All The Charter Airlines Listed On This Page.
 
-**\*Privacy:** we don’t share your name or contact info with airlines. Your request is assigned a unique ID; airlines submit quotes for that ID and we forward them to you.
+**\*Privacy:** we don't share your name or contact info with airlines. Your request is assigned a unique ID; airlines submit quotes for that ID and we forward them to you.
 
 [Advertisement](https://example-fbo.com?utm_source=cfn&utm_medium=rail&utm_campaign=yyz-yam)
 

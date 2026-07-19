@@ -14,7 +14,7 @@ Manitoba stretches from fertile prairie farmland through boreal forest and count
 
 ## Why Manitoba Relies on Charter Aviation
 
-Winnipeg serves as the province’s main commercial hub, but many northern communities and industrial projects sit far beyond the reach of scheduled airline routes. Turboprop and wheel-plane charters connect Winnipeg, Thompson, St Andrews and other bases with northern communities, mines, hydro-electric sites and winter roads. Float planes and helicopters extend that reach to lakes, outpost camps and project locations that have no runway at all.
+Winnipeg serves as the province's main commercial hub, but many northern communities and industrial projects sit far beyond the reach of scheduled airline routes. Turboprop and wheel-plane charters connect Winnipeg, Thompson, St Andrews and other bases with northern communities, mines, hydro-electric sites and winter roads. Float planes and helicopters extend that reach to lakes, outpost camps and project locations that have no runway at all.
 
 Charter flights in Manitoba can be configured for passengers, cargo or a combination of both. This makes it possible to move work crews, medical teams, replacement parts, groceries and time-sensitive freight directly between hubs and remote destinations with a single flight. For business, government and tourism, charter aviation turns multi-day road journeys into efficient same-day trips.
 
@@ -30,11 +30,11 @@ Thompson Airport is a key hub for northern Manitoba, supporting both scheduled a
 
 ## Churchill Airport (YYQ)
 
-Churchill Airport provides vital access to the Hudson Bay coast for residents, researchers and visitors. Charter flights to Churchill support polar bear viewing, wildlife expeditions, scientific programs and community travel. The airport’s paved runway is suitable for regional aircraft and cargo operations, while helicopter and smaller fixed-wing charters connect Churchill with research stations and remote camps along the coast and inland.
+Churchill Airport provides vital access to the Hudson Bay coast for residents, researchers and visitors. Charter flights to Churchill support polar bear viewing, wildlife expeditions, scientific programs and community travel. The airport's paved runway is suitable for regional aircraft and cargo operations, while helicopter and smaller fixed-wing charters connect Churchill with research stations and remote camps along the coast and inland.
 
 ## St Andrews Airport (YAV)
 
-Located just north of Winnipeg, St Andrews Airport is a busy general aviation and charter base. Many operators choose YAV for charter flights because of its convenient location, lower congestion and easy access to communities surrounding Winnipeg. St Andrews also supports float plane operations, making it a natural gateway to Manitoba’s lakes, rivers and fishing lodges.
+Located just north of Winnipeg, St Andrews Airport is a busy general aviation and charter base. Many operators choose YAV for charter flights because of its convenient location, lower congestion and easy access to communities surrounding Winnipeg. St Andrews also supports float plane operations, making it a natural gateway to Manitoba's lakes, rivers and fishing lodges.
 
 ## Brandon Municipal Airport (YBR)
 
@@ -42,7 +42,7 @@ Brandon Municipal Airport serves southwestern Manitoba and the surrounding agric
 
 ## Remote Communities and Northern Projects Served by Charter Aircraft
 
-Many of Manitoba’s northern communities, hydro sites and exploration areas rely on charter flights for reliable, year-round access. Short, compacted and gravel runways allow turboprops and specialized wheel planes to operate where scheduled airlines cannot. Charter aircraft can deliver essential supplies during spring and fall when winter roads are closed and barge traffic is limited, ensuring communities and remote sites remain connected.
+Many of Manitoba's northern communities, hydro sites and exploration areas rely on charter flights for reliable, year-round access. Short, compacted and gravel runways allow turboprops and specialized wheel planes to operate where scheduled airlines cannot. Charter aircraft can deliver essential supplies during spring and fall when winter roads are closed and barge traffic is limited, ensuring communities and remote sites remain connected.
 
 For resource companies and infrastructure projects, charter flights provide efficient access for crews, inspectors, engineers and contractors. Flights can be scheduled to match shift changes, project timelines and weather windows, helping keep work on schedule even in challenging conditions.
 
@@ -117,7 +117,7 @@ who are best positioned and equipped to provide the service you request. Each ai
 a competitive quote. If a quote meets your needs and budget, you deal directly with the airline of your choice
 to finalize all details, scheduling, and payment.
 
-**\*Privacy:** we don’t share your name or contact info with airlines. Your request is assigned a unique ID;
+**\*Privacy:** we don't share your name or contact info with airlines. Your request is assigned a unique ID;
 airlines submit quotes for that ID and we forward them to you.
 
 ## Charter Flights to Neighbouring Regions
@@ -149,7 +149,7 @@ Multi-stop charter itineraries are common in Manitoba, particularly for project 
 
 ## Trade North Aviation
 
-With a versatile fleet of Cessna, Beaver, and Navajo aircraft, Trade North Aviation ensures dependable access to Canada’s northern regions.
+With a versatile fleet of Cessna, Beaver, and Navajo aircraft, Trade North Aviation ensures dependable access to Canada's northern regions.
 
 ## Fast Air
 
@@ -157,7 +157,7 @@ Based at Winnipeg International Airport, Fast Air delivers safe, efficient chart
 
 ## Perimeter Airlines
 
-Enjoy a stress-free flight experience with Perimeter’s charter team managing every detail, from itinerary planning to on-site departure assistance at Charter Connexions.
+Enjoy a stress-free flight experience with Perimeter's charter team managing every detail, from itinerary planning to on-site departure assistance at Charter Connexions.
 
 ## Superior Airways
 

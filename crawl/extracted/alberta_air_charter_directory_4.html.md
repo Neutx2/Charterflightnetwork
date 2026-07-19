@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-# Alberta Air Charter Directory â Page 4
+# Alberta Air Charter Directory – Page 4
 
 Browse Alberta charter operators by city, including wheel plane, float plane, and helicopter services in Peace River, Red Deer, Slave Lake, Springbrook, Sturgeon County, Villeneuve, Wetaskiwin, and Whitecourt.
 
@@ -195,7 +195,7 @@ Link to the main Canadian Air Charter Directory listing every wheel plane, float
 
 ### [2. Canadian Air Charter Airlines Licensed To Fly Into The USA](canadian_air_charter_licenced_flights_usa_directory.html)
 
-This directory lists Canadian air charter services licensed to provide charter flights into the USAâlisted by province, territory, and city.
+This directory lists Canadian air charter services licensed to provide charter flights into the USA—listed by province, territory, and city.
 
 ### [3. Canadian Helicopter Air Charter Directory](canadian_helicopter_air_charter_directory.html)
 

@@ -20,7 +20,7 @@ Approximately 100 air miles. Charter flights provide a swift and scenic route to
 
 **Beauval to Regina**
 
-Approximately 350 air miles. A journey that connects the province’s capital with the serene beauty of the north.
+Approximately 350 air miles. A journey that connects the province's capital with the serene beauty of the north.
 
 **Beauval to Saskatoon**
 

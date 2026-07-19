@@ -18,7 +18,7 @@ airportCode: "YZT"
 
 ### About Flights To Port Hardy, BC
 
-Port Hardy sits at the northern tip of Vancouver Island and serves as the departure point for many of British Columbia’s most remote coastal regions. Port Hardy Airport (YZT) accommodates private wheel-plane charters and provides fast access to the town, ferry terminal, fishing lodges, and wilderness areas. Visitors come for salmon fishing, bear-viewing tours, Cape Scott Provincial Park, and marine adventures along the Inside Passage. Float plane charters offer direct access to secluded lodges and offshore islands, while helicopter flights support sightseeing, forestry, mining exploration, and backcountry landings. Private air charter offers the flexibility needed for remote North Coast travel.
+Port Hardy sits at the northern tip of Vancouver Island and serves as the departure point for many of British Columbia's most remote coastal regions. Port Hardy Airport (YZT) accommodates private wheel-plane charters and provides fast access to the town, ferry terminal, fishing lodges, and wilderness areas. Visitors come for salmon fishing, bear-viewing tours, Cape Scott Provincial Park, and marine adventures along the Inside Passage. Float plane charters offer direct access to secluded lodges and offshore islands, while helicopter flights support sightseeing, forestry, mining exploration, and backcountry landings. Private air charter offers the flexibility needed for remote North Coast travel.
 
 ### Some Popular Cities With Direct Charter Flight Options To Port Hardy
 

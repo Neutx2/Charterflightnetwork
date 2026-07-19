@@ -20,7 +20,7 @@ The distance in air miles from Twin Creeks to Whitehorse, Yukon, is approximatel
 
 **Twin Creeks to Watson Lake**
 
-Air miles from Twin Creeks to Watson Lake total around 170 miles. Opt for a charter flight to enjoy the spectacular views of Yukon’s pristine wilderness.
+Air miles from Twin Creeks to Watson Lake total around 170 miles. Opt for a charter flight to enjoy the spectacular views of Yukon's pristine wilderness.
 
 **Twin Creeks to Yellowknife, NWT**
 
@@ -50,7 +50,7 @@ Dawson City Airport, with a runway of 5,000 feet, offers a glimpse into the gold
 
 **Old Crow Airport**
 
-Old Crow Airport provides access to Yukon's most remote communities with a 4,500-foot runway. It’s vital for transportation and supply to the region.
+Old Crow Airport provides access to Yukon's most remote communities with a 4,500-foot runway. It's vital for transportation and supply to the region.
 
 **Mayo Airport**
 
@@ -64,7 +64,7 @@ Nestled in the heart of nature, Twin Creeks Lodge offers cozy accommodations, br
 
 **Northern Lights Resort & Spa**
 
-Experience luxury amidst wilderness at the Northern Lights Resort & Spa. It’s the ultimate relaxation spot with spa services and an excellent base for aurora viewing.
+Experience luxury amidst wilderness at the Northern Lights Resort & Spa. It's the ultimate relaxation spot with spa services and an excellent base for aurora viewing.
 
 ##### Twin Creeks Outdoor Adventures
 
@@ -74,7 +74,7 @@ Embark on guided fishing expeditions in Twin Creeks' rich waters, teeming with s
 
 **Canoe and Kayak Trips**
 
-Explore the serene rivers and lakes of Yukon with our canoe and kayak trips, offering a peaceful way to connect with nature’s beauty.
+Explore the serene rivers and lakes of Yukon with our canoe and kayak trips, offering a peaceful way to connect with nature's beauty.
 
 ---
 

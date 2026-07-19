@@ -42,7 +42,7 @@ Located approximately 40 air miles west of Cardston, Pincher Creek Airport is a 
 
 **Crowsnest Pass Airport**
 
-Roughly 60 air miles southwest of Cardston, Crowsnest Pass Airport provides an alternate landing site for charter flights, situated in a picturesque mountain setting, ideal for tourists and adventurers alike seeking direct access to Alberta’s rugged landscapes.
+Roughly 60 air miles southwest of Cardston, Crowsnest Pass Airport provides an alternate landing site for charter flights, situated in a picturesque mountain setting, ideal for tourists and adventurers alike seeking direct access to Alberta's rugged landscapes.
 
 **Waterton Airport**
 
@@ -60,7 +60,7 @@ With its convenient location and 2-star rating, the Outpost Motel & Suites provi
 
 **Lee Creek Valley Golf Inn & Resort**
 
-The Lee Creek Valley Golf Inn & Resort, rated 4 stars, boasts luxurious accommodations adjacent to a pristine golf course, offering an unparalleled experience for guests seeking relaxation and recreation in the heart of Alberta’s scenic landscapes.
+The Lee Creek Valley Golf Inn & Resort, rated 4 stars, boasts luxurious accommodations adjacent to a pristine golf course, offering an unparalleled experience for guests seeking relaxation and recreation in the heart of Alberta's scenic landscapes.
 
 **Waterton Glacier Suites**
 

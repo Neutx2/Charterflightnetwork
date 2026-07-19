@@ -1,12 +1,12 @@
 # Charter Flights from Toronto to Chicago
 
-Private charters between Toronto and Chicago link two major business capitals in about ninety minutes, with schedule control, privacy, and direct access to dedicated FBO lounges. Choose your preferred Toronto departure—Pearson or Billy Bishop—and arrive at O’Hare or Midway based on proximity to your final meeting location.
+Private charters between Toronto and Chicago link two major business capitals in about ninety minutes, with schedule control, privacy, and direct access to dedicated FBO lounges. Choose your preferred Toronto departure—Pearson or Billy Bishop—and arrive at O'Hare or Midway based on proximity to your final meeting location.
 
 ## Toronto Departure Airports
 
 ### Toronto Pearson International (CYYZ)
 
-About 22 km west of downtown, Pearson’s south-field general aviation area groups leading FBOs (Skyservice, Signature, Execaire) with customs, hangars, and crew services. Aircraft range from efficient turboprops (PC-12, King Air) to midsize and long-range jets (Citation XLS, Challenger, Gulfstream) suitable for any passenger count or runway requirement.
+About 22 km west of downtown, Pearson's south-field general aviation area groups leading FBOs (Skyservice, Signature, Execaire) with customs, hangars, and crew services. Aircraft range from efficient turboprops (PC-12, King Air) to midsize and long-range jets (Citation XLS, Challenger, Gulfstream) suitable for any passenger count or runway requirement.
 
 * **Pros:** Long runways, full maintenance, 24-hour operations, on-site customs.
 * **Considerations:** Peak airline traffic can add taxi time; longer drive from the core.
@@ -24,9 +24,9 @@ Set your own wheels-up time, board directly from a private lounge, and fly nonst
 
 ## Chicago Arrival Airports
 
-### O’Hare International (KORD)
+### O'Hare International (KORD)
 
-Approximately 27 km northwest of the Loop, O’Hare hosts multiple FBOs (Signature, Atlantic, ExecuJet) with 24/7 customs and ample ramp space for heavy jets.
+Approximately 27 km northwest of the Loop, O'Hare hosts multiple FBOs (Signature, Atlantic, ExecuJet) with 24/7 customs and ample ramp space for heavy jets.
 
 * **Pros:** Handles any aircraft size; strong interstate access to northern/western suburbs.
 * **Considerations:** Heavier airline flows; longer downtown transfers.
@@ -36,11 +36,11 @@ Approximately 27 km northwest of the Loop, O’Hare hosts multiple FBOs (Signatu
 About 16 km from downtown, Midway is popular for executive charters. FBOs (Atlantic, Signature) provide fast turns, secure lounges, and coordinated car service.
 
 * **Pros:** Shorter drive to the Loop; lower congestion; cost-efficient handling.
-* **Considerations:** Shorter runways than O’Hare; customs hours can vary on weekends.
+* **Considerations:** Shorter runways than O'Hare; customs hours can vary on weekends.
 
 ## Ground Transport & Hotels
 
-From O’Hare: rideshare/limousine via I-90, ~35–40 min to downtown; hotels include Hilton O’Hare, Loews O’Hare, Aloft O’Hare. From Midway: ~20–25 min to the Loop; hotels include Marriott Midway, Hilton Garden Inn, and Holiday Inn Express Midway.
+From O'Hare: rideshare/limousine via I-90, ~35–40 min to downtown; hotels include Hilton O'Hare, Loews O'Hare, Aloft O'Hare. From Midway: ~20–25 min to the Loop; hotels include Marriott Midway, Hilton Garden Inn, and Holiday Inn Express Midway.
 
 Get up to 3 competitive quotes for your Toronto ⇄ Chicago charter
 

@@ -1,7 +1,7 @@
 ---
 title: "British Columbia Helicopter Charter Directory | Page 4"
 description: "British Columbia helicopter charter directory page 4, listing operators in Valemount, Vancouver, Vernon, Victoria, Williams Lake and Whistler."
-h1: "British Columbia Helicopter Charter Directory â Page 4"
+h1: "British Columbia Helicopter Charter Directory — Page 4"
 legacyUrl: "/bc_helicopter_directory_4.html"
 slug: "directory/bc-helicopter-directory-4"
 thin: false

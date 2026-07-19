@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-# Alberta Air Charter Directory â Page 3
+# Alberta Air Charter Directory – Page 3
 
 Browse Alberta charter operators by city, including wheel plane, float plane, and helicopter services in High Level, High River, Lac La Biche, Lloydminster, Manning, Medicine Hat, Nordegg, and Okotoks.
 

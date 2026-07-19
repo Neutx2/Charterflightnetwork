@@ -50,7 +50,7 @@ Gahcho Kue Airport stands as a crucial gateway to the northern wilderness, featu
 
 **Diavik Airport**
 
-Diavik Airport, with its 5,000-foot runway, provides essential air services to one of the world’s most productive diamond areas, supporting both logistical needs and visitor access.
+Diavik Airport, with its 5,000-foot runway, provides essential air services to one of the world's most productive diamond areas, supporting both logistical needs and visitor access.
 
 **Snare Lake Airport**
 
@@ -66,7 +66,7 @@ Fort McPherson Airport, serving the Peel River area with a 3,500-foot runway, is
 
 ### Gahcho Kue Outdoor Adventures
 
-The area around Gahcho Kue is a paradise for outdoor enthusiasts. With exclusive access to pristine fishing lakes, rugged hiking trails, and some of the best hunting grounds in the north, adventurers are in for a treat. Winter offers the magical experience of snowshoeing under the aurora borealis, while summer brings the thrill of midnight sun kayaking trips. Local outfitters, such as Arctic Wilderness Adventures and Northern Pike Fishing Excursions, provide expert-guided tours that showcase the best of Gahcho Kue’s natural beauty, ensuring every visit is packed with adventure and unforgettable memories.
+The area around Gahcho Kue is a paradise for outdoor enthusiasts. With exclusive access to pristine fishing lakes, rugged hiking trails, and some of the best hunting grounds in the north, adventurers are in for a treat. Winter offers the magical experience of snowshoeing under the aurora borealis, while summer brings the thrill of midnight sun kayaking trips. Local outfitters, such as Arctic Wilderness Adventures and Northern Pike Fishing Excursions, provide expert-guided tours that showcase the best of Gahcho Kue's natural beauty, ensuring every visit is packed with adventure and unforgettable memories.
 
 ---
 

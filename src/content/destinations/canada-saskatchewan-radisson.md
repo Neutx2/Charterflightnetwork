@@ -28,7 +28,7 @@ Radisson, Saskatchewan, a picturesque town with a rich history and vibrant commu
 
 **Radisson to Regina**
 
-Approximately 185 air miles. A convenient charter flight connects you to Saskatchewan's capital, blending urban experiences with Radisson’s tranquility.
+Approximately 185 air miles. A convenient charter flight connects you to Saskatchewan's capital, blending urban experiences with Radisson's tranquility.
 
 **Radisson to Saskatoon**
 
@@ -64,7 +64,7 @@ A cozy stay awaits at Radisson Country Inn, offering guests a comfortable base t
 
 **The Explorer's Lodge**
 
-Perfect for outdoor enthusiasts, The Explorer's Lodge provides easy access to Radisson’s natural attractions and adventures.
+Perfect for outdoor enthusiasts, The Explorer's Lodge provides easy access to Radisson's natural attractions and adventures.
 
 ### Radisson Outdoor Adventures
 

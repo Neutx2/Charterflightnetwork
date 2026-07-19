@@ -1,7 +1,7 @@
 ---
-title: "British Columbia Air Charter Directory â Page 4 | Prince George, Smithers, Terrace & More"
+title: "British Columbia Air Charter Directory – Page 4 | Prince George, Smithers, Terrace & More"
 description: "British Columbia Air Charter Directory page 4 of 6 featuring wheel plane, float plane, and helicopter charter operators in Prince George, Prince Rupert, Qualicum Beach, Quesnel, Revelstoke, Sechelt, Smithers, Sparwood, Squamish, Tatla Lake, Telkwa, and Terrace."
-h1: "British Columbia Air Charter Directory â Page 4"
+h1: "British Columbia Air Charter Directory – Page 4"
 legacyUrl: "/bc_air_charter_directory_4.html"
 slug: "directory/bc-air-charter-directory-4"
 thin: false
