@@ -75,6 +75,9 @@ if (existsSync(mapPath)) {
     if (oldPath === '/' || oldPath.replace(/\/$/, '') === newPath.replace(/\/$/, '')) continue;
     const target = `${base}${newPath === '/' ? '/' : newPath + '/'}`;
     const out = join(dist, decodeURIComponent(oldPath).replace(/^\//, ''));
+    // never clobber a real built file (e.g. /index.html -> / would otherwise
+    // overwrite the homepage with a self-referencing redirect stub)
+    if (existsSync(out)) continue;
     mkdirSync(dirname(out), { recursive: true });
     writeFileSync(
       out,
