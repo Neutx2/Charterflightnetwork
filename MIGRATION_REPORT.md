@@ -53,9 +53,10 @@ migration; nothing was lost.
 - Northern vs Southern Ontario assignment was resolved from hub links plus an
   on-page content signal ("Southern Ontario" mention) since the legacy southern
   hub only directly linked 2 of its ~50 cities.
-- 2,153 unique referenced images downloaded to `src/assets/legacy/` (preserving
-  the `CFN Images/` folder structure); manifest with alt text and per-page usage
-  in `crawl/image_manifest.json`.
+- 2,153 unique referenced images inventoried; **1,979 downloaded** to
+  `src/assets/legacy/` (preserving the `CFN Images/` folder structure) and
+  **174 were already broken (404) on the legacy server** — manifest with alt
+  text, per-page usage and failures in `crawl/image_manifest.json`.
 
 ## Build (Phase 2)
 
