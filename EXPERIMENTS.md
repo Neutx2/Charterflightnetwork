@@ -64,6 +64,16 @@
   links, disclaimer 1,043/1,043, Lighthouse 100/100/100 spot-checks.
 - READ DATE: two weeks after production launch + metrics activation.
 
+### [2026-07-19] Cycles 9-10: operator-data surfacing
+- Cycle 9 Province hubs show derived operator counts (from operators.json)
+  with deep links into that province's directory pages + a quote-form CTA
+  (metric: hub -> directory/quote click-through).
+- Cycle 10 /directory index grouped into 13 province sections instead of a
+  flat 143-link list (metric: directory navigation depth, operator-page views
+  — the surface the featured-listing product sells on).
+- Guardrails: build clean, 1,047/1,047 redirects, 0 dead links (one bad
+  Alberta link caught by the crawl check and fixed in-cycle).
+
 ## BASELINE (pre-loop)
 ### [2026-07-19] Full site modernization (PR #1)
 - Change shipped: 1,046-page migration to Astro/Tailwind, 301 map, quote
