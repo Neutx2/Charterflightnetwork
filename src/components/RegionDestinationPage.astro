@@ -122,7 +122,7 @@ if (d.faqs?.length) {
           Receive up to 3 competitive quotes — {d.city}
         </h2>
         <div class="mt-8">
-          <QuoteForm subject={d.quoteSubject ?? `Charter Flights ${d.city}`} />
+          <QuoteForm subject={d.quoteSubject ?? `Charter Flights ${d.city}`} flyTo={d.city} />
         </div>
       </div>
     </section>

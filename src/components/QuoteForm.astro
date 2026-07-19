@@ -23,10 +23,12 @@ import { SITE } from '../lib/site';
 interface Props {
   /** Email subject line forwarded by formmailer.php, e.g. "Charter Flights Thunder Bay ON" */
   subject?: string;
+  /** Prefill for the destination field (e.g. the page's city) */
+  flyTo?: string;
   compact?: boolean;
 }
 
-const { subject = 'Charter Quote Request' } = Astro.props;
+const { subject = 'Charter Quote Request', flyTo } = Astro.props;
 
 const aircraft = [
   { name: 'Jet', label: 'Jet' },
@@ -76,7 +78,7 @@ const uid = subject.length; // pages render at most one quote form
     </div>
     <div>
       <label class={labelCls} for={`FlyTo-${uid}`}>Fly to <span class="text-red-600">*</span></label>
-      <input class={inputCls} type="text" id={`FlyTo-${uid}`} name="FlyTo" placeholder="Destination city or airport" required autocomplete="off" />
+      <input class={inputCls} type="text" id={`FlyTo-${uid}`} name="FlyTo" placeholder="Destination city or airport" value={flyTo} required autocomplete="off" />
     </div>
 
     <fieldset class="sm:col-span-2">
