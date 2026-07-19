@@ -62,6 +62,16 @@ const useCases = USE_CASE_LINKS[d.provinceSlug ?? ''] ?? [];
 const jsonLd = [
   {
     '@context': 'https://schema.org',
+    '@type': 'Service',
+    serviceType: 'Air Charter Flights',
+    name: d.h1 ?? `${d.province} Charter Flights`,
+    provider: { '@id': `${SITE.url}/#org` },
+    areaServed: { '@type': 'AdministrativeArea', name: d.province },
+    description: d.description,
+    offers: { '@type': 'Offer', priceCurrency: 'CAD', url: `${SITE.url}/quote` },
+  },
+  {
+    '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE.url}/` },
