@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Placeholder: island airstrip and turquoise shallows — Bahamas charters (replace with photography)">
+  <defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2f6f9f"/><stop offset="1" stop-color="#83b2d4"/></linearGradient></defs>
+  <rect width="480" height="300" fill="url(#s)"/>
+  <path d="M0 175 L60 165 L140 176 L230 162 L330 176 L420 164 L480 172 L480 300 L0 300 Z" fill="#3f8369"/>
+  <rect y="220" width="480" height="80" fill="#4d8dbc"/>
+  <circle cx="90" cy="60" r="30" fill="#f5a623" opacity=".8"/><path d="M200 210 L300 150 L320 158 L230 218 Z" fill="#d2c7b2"/><ellipse cx="260" cy="240" rx="140" ry="26" fill="#b9d9ca" opacity=".5"/>
+</svg>

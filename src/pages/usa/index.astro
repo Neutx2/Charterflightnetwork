@@ -1,0 +1,18 @@
+---
+import { getCollection } from 'astro:content';
+import RegionHubPage from '../../components/RegionHubPage.astro';
+
+const destinations = await getCollection('destinations', (d) => d.data.region === 'usa');
+const hubEntries = await getCollection('hubs', (h) => h.data.region === 'usa');
+const hub = hubEntries[0];
+---
+
+<RegionHubPage
+  hub={hub}
+  destinations={destinations}
+  regionLabel="USA"
+  regionPath="/usa"
+  title={hub?.data.title ?? 'USA Charter Flights | Charter Flight Network'}
+  description={hub?.data.description ?? 'Receive up to three competitive quotes for charter flights to USA cities from any Canadian departure city.'}
+  h1={hub?.data.h1 ?? 'Direct Flights To USA Cities From Canada'}
+/>

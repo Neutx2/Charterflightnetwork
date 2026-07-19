@@ -1,0 +1,18 @@
+---
+import { getCollection } from 'astro:content';
+import RegionHubPage from '../../components/RegionHubPage.astro';
+
+const destinations = await getCollection('destinations', (d) => d.data.region === 'caribbean');
+const hubEntries = await getCollection('hubs', (h) => h.data.region === 'caribbean');
+const hub = hubEntries[0];
+---
+
+<RegionHubPage
+  hub={hub}
+  destinations={destinations}
+  regionLabel="Caribbean"
+  regionPath="/caribbean"
+  title={hub?.data.title ?? 'Caribbean Charter Flights | Charter Flight Network'}
+  description={hub?.data.description ?? 'Caribbean air charter flights — request a no obligation charter quote for all Caribbean destinations.'}
+  h1={hub?.data.h1 ?? 'Caribbean Air Charter Flights'}
+/>

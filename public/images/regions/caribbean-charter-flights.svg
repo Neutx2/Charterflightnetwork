@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Placeholder: charter aircraft over Caribbean islands (replace with photography)">
+  <defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#245a84"/><stop offset="1" stop-color="#83b2d4"/></linearGradient></defs>
+  <rect width="480" height="300" fill="url(#s)"/>
+  <path d="M0 175 L60 165 L140 176 L230 162 L330 176 L420 164 L480 172 L480 300 L0 300 Z" fill="#2d6a54"/>
+  <rect y="220" width="480" height="80" fill="#2f6f9f"/>
+  <circle cx="400" cy="60" r="26" fill="#f5a623" opacity=".8"/><ellipse cx="150" cy="235" rx="90" ry="20" fill="#3f8369"/><ellipse cx="350" cy="255" rx="70" ry="16" fill="#3f8369"/><g transform="translate(190 70) rotate(8) scale(.5)" fill="#0b2033"><path d="M0 40c30-6 120-10 150-8l60 4c30 2 40 20 20 26l-70 6c-60 4-130 0-160-28z"/><path d="M95 36-25 14l22 34z"/></g>
+</svg>

@@ -1,0 +1,132 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import QuoteForm from '../../components/QuoteForm.astro';
+
+// Copy on these pages is assembled from wording that appears on the legacy site
+// (about page "What We Offer", destination-page operator descriptions, Bahamas
+// aircraft sections). No fleet claims are invented.
+export function getStaticPaths() {
+  return [
+    {
+      params: { type: 'jets' },
+      props: {
+        name: 'Jet Charters',
+        title: 'Private Jet Charters Canada | Charter Flight Network',
+        description:
+          'Jet charters for corporate, private, and international travel. Receive up to 3 competitive quotes from charter airlines across Canada — free, no obligation.',
+        sections: [
+          {
+            h: 'Corporate, private and international travel',
+            p: 'Jet charters are the choice for corporate, private, and international travel — the speed, comfort and security of your own private charter flight, on your schedule. Airlines that offer charter flights have no set departure or arrival times and no specific destinations: you tell the airline when and where you want to fly.',
+          },
+          {
+            h: 'Where jets fit in the network',
+            p: 'Clients regularly charter jets between major Canadian centres, into the United States, and to the Bahamas and Caribbean. For remote or gravel-strip destinations, operators may propose a turboprop instead — each quote comes from an airline best positioned and equipped for the specific trip.',
+          },
+        ],
+        subject: 'Jet Charter Quote Request',
+      },
+    },
+    {
+      params: { type: 'turboprops' },
+      props: {
+        name: 'Turboprop & Piston Charters',
+        title: 'Turboprop & Piston Aircraft Charters | Charter Flight Network',
+        description:
+          'Turboprop and piston aircraft charters for regional and remote destinations — high-performance aircraft like the Pilatus PC-12 serving passenger, cargo and medevac flights across Canada.',
+        sections: [
+          {
+            h: 'Regional and remote workhorses',
+            p: 'Turboprop and piston aircraft charters cover regional and remote destinations across Canada. Operators in our network fly modern high-performance turboprops — including one of the largest fleets of the modern Pilatus PC-12 in Canada — for passenger, cargo and medevac flights across Northern Ontario and throughout Canada, with charters into the USA as well.',
+          },
+          {
+            h: 'Passenger and cargo flexibility',
+            p: 'Network members provide scheduled and charter passenger flights as well as bulk cargo services throughout Northern Ontario, Northern Manitoba and Nunavut — supporting remote communities without year-round road access, crew rotations for mining operations, and priority cargo / hot shot services to remote regions of Canada.',
+          },
+        ],
+        subject: 'Turboprop Charter Quote Request',
+      },
+    },
+    {
+      params: { type: 'float-planes' },
+      props: {
+        name: 'Float Plane Charters',
+        title: 'Float Plane Charters Canada | Charter Flight Network',
+        description:
+          'Float plane charters for access to wilderness lodges, northern communities, and fishing or hunting camps — legendary De Havilland Beavers and Cessna Caravans on floats.',
+        sections: [
+          {
+            h: 'Direct to lakes, lodges and outposts',
+            p: 'Float plane charters provide access to wilderness lodges, northern communities, and fishing or hunting camps that no road or runway reaches. Fleets in our network include the legendary De Havilland Beaver as well as the modern Cessna Caravan on amphibious floats.',
+          },
+          {
+            h: 'The fly-in adventure gateway',
+            p: 'Guests often fly into a northern gateway like Thunder Bay by private jet or turboprop before boarding a float plane that connects them to remote wilderness camps. We can put you directly in touch with dozens of lodge operators and outfitters offering full-service fishing packages.',
+          },
+        ],
+        subject: 'Float Plane Charter Quote Request',
+      },
+    },
+    {
+      params: { type: 'helicopters' },
+      props: {
+        name: 'Helicopter Charters',
+        title: 'Helicopter Charters Canada | Charter Flight Network',
+        description:
+          'Helicopter charters for business, sightseeing, and specialized missions — reach remote camps, survey sites, and wilderness lodges anywhere in Canada.',
+        sections: [
+          {
+            h: 'Business, sightseeing and specialized missions',
+            p: 'Helicopter charters cover business, sightseeing, and specialized missions — making it easy to reach remote camps, survey sites, or wilderness lodges with no airstrip at all. Environmental consultants, government, industry and First Nation communities all rely on helicopter charter services in our network.',
+          },
+          {
+            h: 'On-demand, across Canada',
+            p: 'Helicopter operators in our network fly from multiple bases across Canada, offering flexible services to industry, government, and First Nation communities. On-demand helicopter charters also extend to the Bahamas, Caribbean and USA.',
+          },
+        ],
+        subject: 'Helicopter Charter Quote Request',
+      },
+    },
+  ];
+}
+
+const { name, title, description, sections, subject } = Astro.props;
+---
+
+<BaseLayout title={title} description={description}>
+  <div class="bg-gradient-to-b from-lake-900 to-lake-800 text-white">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 py-10 sm:py-14">
+      <Breadcrumbs crumbs={[{ label: 'Aircraft', href: '/aircraft' }, { label: name }]} />
+      <h1 class="mt-4 font-display text-3xl sm:text-4xl lg:text-5xl font-bold">{name}</h1>
+      <p class="mt-3 max-w-3xl text-lake-100 text-lg leading-relaxed">{description}</p>
+      <div class="mt-6">
+        <a href="#quote" class="rounded-lg bg-ember-500 px-6 py-3 font-bold text-lake-950 hover:bg-ember-400 transition-colors">
+          Get Free Quotes
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="mx-auto max-w-4xl px-4 sm:px-6 py-10 sm:py-14">
+    <article class="copy">
+      {sections.map((s) => (
+        <>
+          <h2>{s.h}</h2>
+          <p>{s.p}</p>
+        </>
+      ))}
+    </article>
+
+    <section id="quote" class="mt-14 scroll-mt-24">
+      <div class="rounded-2xl bg-white p-6 sm:p-10 ring-1 ring-birch-200 shadow-sm">
+        <h2 class="font-display text-2xl sm:text-3xl font-bold text-lake-900">
+          Receive up to 3 competitive quotes
+        </h2>
+        <div class="mt-8">
+          <QuoteForm subject={subject} />
+        </div>
+      </div>
+    </section>
+  </div>
+</BaseLayout>

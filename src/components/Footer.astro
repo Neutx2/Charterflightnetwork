@@ -1,0 +1,58 @@
+---
+import { SITE } from '../lib/site';
+const year = new Date().getFullYear();
+---
+
+<footer class="bg-lake-950 text-lake-100">
+  <div class="mx-auto max-w-7xl px-4 sm:px-6 py-12">
+    <div class="grid gap-10 md:grid-cols-3">
+      <div>
+        <h2 class="font-display text-lg font-bold text-white mb-3">Contact Us</h2>
+        <address class="not-italic leading-relaxed text-sm">
+          <strong class="text-white">{SITE.name}</strong><br />
+          {SITE.address.street}<br />
+          {SITE.address.city}, {SITE.address.regionLong} {SITE.address.postalCode}<br />
+          <a href={SITE.phoneHref} class="mt-1 inline-flex items-center gap-1.5 font-semibold text-ember-400 hover:text-ember-500">
+            <svg class="h-4 w-4" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6.6 10.8a15.5 15.5 0 006.6 6.6l2.2-2.2a1 1 0 011-.24c1.2.4 2.4.6 3.6.6a1 1 0 011 1V20a1 1 0 01-1 1C10.6 21 3 13.4 3 4a1 1 0 011-1h3.5a1 1 0 011 1c0 1.25.2 2.45.6 3.6a1 1 0 01-.25 1z"/></svg>
+            {SITE.phone}
+          </a>
+        </address>
+      </div>
+
+      <div>
+        <h2 class="font-display text-lg font-bold text-white mb-3">Explore</h2>
+        <ul class="space-y-2 text-sm">
+          <li><a href="/quote" class="hover:text-white">Request Charter Quotes</a></li>
+          <li><a href="/canada" class="hover:text-white">Canada Charter Flights</a></li>
+          <li><a href="/usa" class="hover:text-white">USA Charter Flights</a></li>
+          <li><a href="/bahamas" class="hover:text-white">Bahamas Charter Flights</a></li>
+          <li><a href="/caribbean" class="hover:text-white">Caribbean Charter Flights</a></li>
+          <li><a href="/empty-legs" class="hover:text-white">Empty Leg Flights</a></li>
+          <li><a href="/about" class="hover:text-white">About</a></li>
+          <li><a href="/privacy-policy" class="hover:text-white">Privacy Policy</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h2 class="font-display text-lg font-bold text-white mb-3">For Charter Operators</h2>
+        <p class="text-sm leading-relaxed mb-3">
+          We provide every wheel plane, float plane and helicopter charter service
+          operating throughout every province and territory of Canada a basic free
+          listing in our Canadian Air Charter Directory.
+        </p>
+        <a href="/operators" class="text-sm font-semibold text-ember-400 hover:text-ember-500">
+          List your charter service →
+        </a>
+      </div>
+    </div>
+
+    <div class="mt-10 border-t border-white/10 pt-6">
+      <p class="text-xs leading-relaxed text-lake-200 text-center max-w-4xl mx-auto">
+        {SITE.disclaimer}
+      </p>
+      <p class="mt-4 text-xs text-lake-300 text-center">
+        Copyright © {year} {SITE.name}. All rights reserved. Canadian owned &amp; operated since {SITE.founded}.
+      </p>
+    </div>
+  </div>
+</footer>

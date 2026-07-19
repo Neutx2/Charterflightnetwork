@@ -1,0 +1,65 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import QuoteForm from '../components/QuoteForm.astro';
+
+const title = 'Empty Leg Charter Flights — Save up to 50% | Charter Flight Network';
+const description =
+  'Save up to 50% on empty leg options with direct bookings. Flexible on dates? Ask about empty legs and split charters in your free quote request.';
+---
+
+<BaseLayout title={title} description={description} canonicalPath="/empty-legs">
+  <div class="bg-gradient-to-b from-boreal-900 to-boreal-800 text-white">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 py-10 sm:py-14">
+      <Breadcrumbs crumbs={[{ label: 'Empty Legs' }]} />
+      <h1 class="mt-4 font-display text-3xl sm:text-4xl lg:text-5xl font-bold">
+        Empty Leg Charter Flights
+      </h1>
+      <p class="mt-3 max-w-3xl text-boreal-100 text-lg leading-relaxed">
+        Save up to 50% on empty leg options with direct bookings.
+      </p>
+    </div>
+  </div>
+
+  <div class="mx-auto max-w-4xl px-4 sm:px-6 py-10 sm:py-14">
+    <article class="copy">
+      <h2>What is an empty leg?</h2>
+      <p>
+        When a charter aircraft flies a one-way trip, it often has to reposition —
+        returning to base or heading to its next pickup — with no passengers on
+        board. Operators offer these repositioning flights, called empty legs, at a
+        significant discount.
+      </p>
+
+      <h2>How we find them for you</h2>
+      <p>
+        With charter airlines throughout our network flying every day, we often save
+        clients more money by identifying flights that have empty legs heading north
+        or south that match your travel requirements, or flights with partial loads
+        that are available for split charters.
+      </p>
+
+      <h2>How to catch an empty leg</h2>
+      <ul>
+        <li><strong>Be flexible on dates and times</strong> — empty legs follow the schedule of the original charter.</li>
+        <li><strong>Mention it in your quote request</strong> — note in the comments that you're open to empty leg or split charter options.</li>
+        <li><strong>Book direct</strong> — as always, you confirm scheduling and payment directly with the charter airline.</li>
+      </ul>
+    </article>
+
+    <section id="quote" class="mt-14 scroll-mt-24">
+      <div class="rounded-2xl bg-white p-6 sm:p-10 ring-1 ring-birch-200 shadow-sm">
+        <h2 class="font-display text-2xl sm:text-3xl font-bold text-lake-900">
+          Ask about empty legs in your quote request
+        </h2>
+        <p class="mt-2 text-slate-600">
+          Add a note in the comments that you're flexible — the operators will flag
+          matching empty legs and split charter options.
+        </p>
+        <div class="mt-8">
+          <QuoteForm subject="Empty Leg Charter Quote Request" />
+        </div>
+      </div>
+    </section>
+  </div>
+</BaseLayout>

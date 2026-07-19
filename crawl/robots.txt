@@ -1,0 +1,44 @@
+User-agent: *
+Disallow: /pilatus_pc12_pilot_jobs.htm 
+Disallow: /twin_otter_pilot_jobs.htm 
+Disallow: /flight_school_directory.htm 
+Disallow: /aircraft_maintenance.htm 
+Disallow: /flight_dispatcher_jobs.htm 
+Disallow: /aviation_administration_jobs.htm 
+Disallow: /aviation_careers.htm 
+Disallow: /helicopter_pilot_jobs.htm
+Disallow: /airport_and_fbo_directory.htm 
+Disallow: /aircraft_hangars.htm 
+Disallow: /king_air_pilot_jobs.htm 
+Disallow: /aircraft_engineer_jobs.htm 
+Disallow: /aircraft_engineer_jobs.htm 
+Disallow: /pilot_jobs.htm 
+Disallow: /pilot_jobs_bamaji_air.htm
+Disallow: /pilot_jobs_rusty_myers.htm 
+Disallow: /api/some.json 
+Disallow: /pilot_jobs_skylink_express.htm 
+Disallow: /pilot_jobs_geotech.htm 
+Disallow: /pilot_jobs_calm_air.htm 
+Disallow: /pilot_jobs_north_of_sixty.htm 
+Disallow: /pilot_jobs_sandy_lake_airways.htm 
+Disallow: /pilot_jobs_waweig_air.htm 
+Disallow: /www.helilift.ca/ 
+Disallow: /alberta_air_charter_directory.html 
+Disallow: /charter_flights_%20fillmore_sk.html 
+Disallow: /air_jasper_ab.html 
+Disallow: /charter_flights_teterboro_nj.html
+Disallow: /charter_flights_%20maple_creek_sk.html 
+Disallow: /charter_flights_%20lampman_sk.htm
+Disallow: /airco_aircraft_charters_ab.html 
+Disallow: /wood_buffalo_helicopters_ab.html
+
+
+
+
+
+
+
+
+
+
+

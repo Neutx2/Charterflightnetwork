@@ -1,0 +1,65 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import QuoteCTA from '../../components/QuoteCTA.astro';
+
+const title = 'Charter Aircraft Types — Jets, Turboprops, Float Planes & Helicopters | Charter Flight Network';
+const description =
+  'Our service extends to all forms of charter aircraft: jet charters, turboprop and piston aircraft, float planes for wilderness access, and helicopters for specialized missions.';
+
+const types = [
+  {
+    href: '/aircraft/jets',
+    name: 'Jets',
+    blurb: 'Jet charters for corporate, private, and international travel.',
+  },
+  {
+    href: '/aircraft/turboprops',
+    name: 'Turboprops & Piston Aircraft',
+    blurb: 'Turboprop and piston aircraft charters for regional and remote destinations.',
+  },
+  {
+    href: '/aircraft/float-planes',
+    name: 'Float Planes',
+    blurb: 'Float plane charters for access to wilderness lodges, northern communities, and fishing or hunting camps.',
+  },
+  {
+    href: '/aircraft/helicopters',
+    name: 'Helicopters',
+    blurb: 'Helicopter charters for business, sightseeing, and specialized missions.',
+  },
+];
+---
+
+<BaseLayout title={title} description={description} canonicalPath="/aircraft">
+  <div class="bg-gradient-to-b from-lake-900 to-lake-800 text-white">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 py-10 sm:py-14">
+      <Breadcrumbs crumbs={[{ label: 'Aircraft' }]} />
+      <h1 class="mt-4 font-display text-3xl sm:text-4xl lg:text-5xl font-bold">
+        Charter Aircraft Types
+      </h1>
+      <p class="mt-3 max-w-3xl text-lake-100 text-lg leading-relaxed">
+        Our service extends to all forms of charter aircraft. Tell us where you're
+        going — the operators best equipped for the trip will propose the right
+        machine.
+      </p>
+    </div>
+  </div>
+
+  <div class="mx-auto max-w-7xl px-4 sm:px-6 py-10 sm:py-14">
+    <ul class="grid gap-6 sm:grid-cols-2">
+      {types.map((t) => (
+        <li>
+          <a href={t.href} class="group block rounded-2xl bg-white p-8 ring-1 ring-birch-200 shadow-sm hover:ring-lake-300 hover:shadow-md transition">
+            <h2 class="font-display text-2xl font-semibold text-lake-900 group-hover:text-lake-700">{t.name}</h2>
+            <p class="mt-2 text-slate-600 leading-relaxed">{t.blurb}</p>
+            <span class="mt-4 inline-block font-semibold text-boreal-600">Learn more →</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+    <div class="mt-14">
+      <QuoteCTA />
+    </div>
+  </div>
+</BaseLayout>

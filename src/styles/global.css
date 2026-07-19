@@ -1,0 +1,76 @@
+@import "tailwindcss";
+
+@theme {
+  /* Deep lake blue */
+  --color-lake-50: #eef5fa;
+  --color-lake-100: #d8e8f3;
+  --color-lake-200: #b3d1e7;
+  --color-lake-300: #83b2d4;
+  --color-lake-400: #4d8dbc;
+  --color-lake-500: #2f6f9f;
+  --color-lake-600: #245a84;
+  --color-lake-700: #1d486b;
+  --color-lake-800: #173a57;
+  --color-lake-900: #12314a;
+  --color-lake-950: #0b2033;
+
+  /* Boreal green */
+  --color-boreal-50: #f0f7f4;
+  --color-boreal-100: #dbece3;
+  --color-boreal-200: #b9d9ca;
+  --color-boreal-300: #8dbfa9;
+  --color-boreal-400: #5e9f85;
+  --color-boreal-500: #3f8369;
+  --color-boreal-600: #2d6a54;
+  --color-boreal-700: #255545;
+  --color-boreal-800: #1f4438;
+  --color-boreal-900: #1a382f;
+  --color-boreal-950: #0d1f1a;
+
+  /* Warm white / birch neutrals */
+  --color-birch-50: #faf8f4;
+  --color-birch-100: #f3efe7;
+  --color-birch-200: #e5ded0;
+  --color-birch-300: #d2c7b2;
+  --color-birch-400: #b7a78c;
+  --color-birch-500: #a08e70;
+
+  /* Accent — sunrise amber for CTAs */
+  --color-ember-400: #f5a623;
+  --color-ember-500: #e8940f;
+  --color-ember-600: #c77a08;
+
+  --font-sans: "Inter Variable", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-display: "Outfit Variable", var(--font-sans);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-birch-50 text-slate-800 antialiased;
+}
+
+/* Prose defaults for migrated legacy copy */
+.copy {
+  @apply text-slate-700 leading-relaxed;
+}
+.copy h2 {
+  @apply font-display text-2xl font-semibold text-lake-900 mt-10 mb-4;
+}
+.copy h3 {
+  @apply font-display text-xl font-semibold text-lake-800 mt-8 mb-3;
+}
+.copy p {
+  @apply mb-4;
+}
+.copy ul {
+  @apply list-disc pl-6 mb-4 space-y-1;
+}
+.copy a {
+  @apply text-lake-600 underline underline-offset-2 hover:text-lake-800;
+}
+.copy strong {
+  @apply text-slate-900;
+}

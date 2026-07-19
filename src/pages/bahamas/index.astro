@@ -1,0 +1,18 @@
+---
+import { getCollection } from 'astro:content';
+import RegionHubPage from '../../components/RegionHubPage.astro';
+
+const destinations = await getCollection('destinations', (d) => d.data.region === 'bahamas');
+const hubEntries = await getCollection('hubs', (h) => h.data.region === 'bahamas');
+const hub = hubEntries[0];
+---
+
+<RegionHubPage
+  hub={hub}
+  destinations={destinations}
+  regionLabel="Bahamas"
+  regionPath="/bahamas"
+  title={hub?.data.title ?? 'Bahamas Charter Flights | Charter Flight Network'}
+  description={hub?.data.description ?? 'Direct charter flights to the Bahama Islands by wheel plane, float plane or helicopter.'}
+  h1={hub?.data.h1 ?? 'Direct Charter Flights To The Bahama Islands'}
+/>

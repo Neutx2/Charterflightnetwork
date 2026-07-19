@@ -1,0 +1,919 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- GA4 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-7YXL8VT0CZ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-7YXL8VT0CZ');
+  </script>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Newfoundland &amp; Labrador Air Charter Directory | Wheel, Float Plane &amp; Helicopter Operators</title>
+  <meta name="description" content="Newfoundland and Labrador air charter directory with direct links to wheel plane, float plane and helicopter operators by community, aircraft type and base location.">
+  <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+  <meta name="classification" content="Travel">
+  <meta name="keywords" content="Newfoundland air charter services, Newfoundland private charter flights, fly to Newfoundland, Labrador air charter, float plane charter Newfoundland, helicopter charter Newfoundland">
+
+  <link rel="canonical" href="https://charterflightnetwork.com/newfoundland_labrador_air_charter_directory.html">
+
+  <meta property="og:title" content="Newfoundland &amp; Labrador Air Charter Directory">
+  <meta property="og:description" content="Wheel plane, float plane, and helicopter charter services across Newfoundland &amp; Labrador. Browse by city and connect directly for quotes.">
+  <meta property="og:url" content="https://charterflightnetwork.com/newfoundland_labrador_air_charter_directory.html">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="https://charterflightnetwork.com/CFN%20Images/Banners/Newfoundland_Banner.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Newfoundland &amp; Labrador Air Charter Directory">
+  <meta name="twitter:description" content="Find Newfoundland and Labrador wheel plane, float plane and helicopter charter operators by community.">
+  <meta name="twitter:image" content="https://charterflightnetwork.com/CFN%20Images/Banners/Newfoundland_Banner.jpg">
+
+  <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+
+  <!-- Hero preloads -->
+  <link rel="preload"
+        as="image"
+        href="CFN%20Images/Banners/Newf-Labrador-Banner-670.jpg"
+        imagesrcset="CFN%20Images/Banners/Newf-Labrador-Banner-670.jpg 670w"
+        imagesizes="100vw"
+        media="(max-width: 767.98px)"
+        fetchpriority="high">
+
+  <link rel="preload"
+        as="image"
+        href="CFN%20Images/Banners/Newfoundland_Banner.jpg"
+        imagesrcset="CFN%20Images/Banners/Newfoundland_Banner.jpg 1940w"
+        imagesizes="100vw"
+        media="(min-width: 768px)"
+        fetchpriority="high">
+
+  <link href="css/bootstrap-4.4.1.css" rel="stylesheet">
+  <link href="css/directory-template.css" rel="stylesheet">
+
+  <style>
+    html { scroll-behavior: smooth; }
+    body { background:#f6f8fb; color:#212529; }
+    .skip-link{position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden;}
+    .skip-link:focus{position:static;width:auto;height:auto;padding:.5rem 1rem;background:#000;color:#fff;z-index:9999;display:inline-block;}
+
+    .page-shell { padding-top: 1.25rem; padding-bottom: 1.5rem; }
+    .hero-wrap {
+      overflow:hidden;
+      border-radius: .75rem;
+      background:#fff;
+      border:1px solid rgba(0,0,0,.08);
+      box-shadow:0 .35rem 1.25rem rgba(0,0,0,.08);
+      margin-bottom:1.25rem;
+    }
+    .hero-wrap img { width:100%; height:auto; display:block; }
+    .hero-copy { padding:1.25rem 1.25rem 1.35rem; text-align:center; }
+    .eyebrow {
+      display:inline-block;
+      font-size:.82rem;
+      font-weight:700;
+      letter-spacing:.08em;
+      text-transform:uppercase;
+      color:#0b6f84;
+      margin-bottom:.4rem;
+    }
+    .hero-title { font-size:2rem; font-weight:700; line-height:1.18; margin-bottom:.75rem; }
+    .hero-text { max-width:850px; margin:0 auto 1rem; color:#4e5963; line-height:1.55; }
+    .hero-actions { display:flex; flex-wrap:wrap; gap:.5rem; justify-content:center; }
+    .btn-directory { font-weight:700; letter-spacing:.01em; }
+
+    .section-card,
+    .sidebar-card,
+    .footer-card {
+      background:#fff;
+      border:1px solid rgba(0,0,0,.08);
+      border-radius:.65rem;
+      box-shadow:0 .2rem .85rem rgba(0,0,0,.06);
+      margin-bottom:1rem;
+      overflow:hidden;
+    }
+    .section-title { font-size:1.35rem; font-weight:700; color:#17324d; }
+    .page-nav-inline { display:flex; gap:.5rem; justify-content:center; flex-wrap:wrap; align-items:center; }
+    .page-chip {
+      display:inline-block;
+      padding:.35rem .75rem;
+      border-radius:999px;
+      background:#e8f4f7;
+      color:#0b6f84;
+      font-weight:700;
+      font-size:.9rem;
+    }
+
+    .directory-index-details summary {
+      cursor:pointer;
+      list-style:none;
+    }
+    .directory-index-details summary::-webkit-details-marker { display:none; }
+    .index-toggle {
+      padding:.75rem;
+      border-radius:.45rem;
+      background:#17a2b8;
+      color:#fff;
+      font-weight:700;
+    }
+    .quick-index a {
+      display:block;
+      padding:.28rem .4rem;
+      font-weight:600;
+      border-bottom:1px solid rgba(0,0,0,.06);
+    }
+
+    .city-section { margin-bottom:1.15rem; }
+    .city-heading {
+      background:#17a2b8;
+      color:#fff;
+      border-radius:.45rem .45rem 0 0;
+      padding:.85rem 1rem;
+      box-shadow:0 .15rem .45rem rgba(0,0,0,.08);
+    }
+    .city-heading h2 { font-size:1.25rem; line-height:1.25; margin:0; font-weight:700; }
+    .city-body {
+      background:#fff;
+      border:1px solid rgba(0,0,0,.08);
+      border-top:0;
+      border-radius:0 0 .45rem .45rem;
+      padding:1rem;
+    }
+
+    .listing-card {
+      background:#fff;
+      border:1px solid rgba(0,0,0,.09);
+      border-radius:.55rem;
+      overflow:hidden;
+      box-shadow:0 .18rem .65rem rgba(0,0,0,.055);
+      margin-bottom:1rem;
+    }
+    .listing-card:last-child { margin-bottom:0; }
+    .featured-card { border-top:4px solid #17a2b8; }
+    .listing-image-wrap { padding:.75rem; }
+    .listing-image-wrap img {
+      border-radius:.4rem;
+      border:1px solid rgba(0,0,0,.08);
+      background:#e9ecef;
+    }
+    .listing-content { padding:1rem 1rem 1.1rem; }
+    .featured-card .listing-content { padding:1rem 1.15rem 1.15rem; }
+    .featured-badge {
+      display:inline-block;
+      padding:.18rem .55rem;
+      margin-bottom:.5rem;
+      border-radius:999px;
+      background:#e8f4f7;
+      color:#0b6f84;
+      font-size:.78rem;
+      font-weight:700;
+      text-transform:uppercase;
+      letter-spacing:.04em;
+    }
+    .listing-title {
+      font-size:1.18rem;
+      font-weight:700;
+      color:#17324d;
+      margin-bottom:.5rem;
+    }
+    .listing-meta {
+      font-size:.95rem;
+      line-height:1.55;
+      margin-bottom:.75rem;
+    }
+    .listing-actions { text-align:center; }
+    .cta-box {
+      background:#f3f8fa;
+      border:1px solid rgba(23,162,184,.22);
+      border-radius:.5rem;
+      padding:1rem;
+    }
+
+    .sidebar-card .card-body { padding:1rem; }
+    .sidebar-link-block {
+      padding:1rem 0;
+      border-bottom:1px solid rgba(0,0,0,.08);
+    }
+    .sidebar-link-block:last-child { border-bottom:0; padding-bottom:0; }
+    .sidebar-link-block h3 {
+      font-size:1.02rem;
+      font-weight:700;
+      line-height:1.3;
+      margin-bottom:.45rem;
+    }
+    .sidebar-link-block p { font-size:.93rem; color:#4e5963; line-height:1.45; }
+
+    .faq-section h3 { font-size:1.05rem; }
+    .footer-band {
+      background:#1f252b;
+      color:#fff;
+    }
+    .footer-band a { color:#ffc107; }
+    .footer-small { font-size:.94rem; line-height:1.45; }
+    .copyright-note { color:#5f6870; padding:.75rem 0 0; }
+
+    @media (min-width: 992px) {
+      .featured-card .listing-image-wrap { height:100%; display:flex; align-items:center; }
+    }
+    @media (max-width: 767.98px) {
+      .page-shell { padding-left: .75rem; padding-right:.75rem; }
+      .hero-title { font-size:1.55rem; }
+      .hero-copy { padding:1rem; }
+      .city-body { padding:.8rem; }
+      .listing-content { padding:.9rem; }
+    }
+  </style>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://charterflightnetwork.com/#org",
+        "name": "Charter Flight Network",
+        "url": "https://charterflightnetwork.com/",
+        "logo": "https://charterflightnetwork.com/images/logo.png",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "telephone": "+1-807-472-1955",
+          "contactType": "customer service",
+          "areaServed": "CA",
+          "availableLanguage": ["English"]
+        }
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://charterflightnetwork.com/#website",
+        "url": "https://charterflightnetwork.com/",
+        "name": "Canadian Air Charter Directory",
+        "publisher": { "@id": "https://charterflightnetwork.com/#org" }
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://charterflightnetwork.com/newfoundland_labrador_air_charter_directory.html#webpage",
+        "url": "https://charterflightnetwork.com/newfoundland_labrador_air_charter_directory.html",
+        "name": "Newfoundland & Labrador Air Charter Directory",
+        "description": "Directory of wheel plane, float plane, and helicopter charter companies in Newfoundland and Labrador.",
+        "isPartOf": { "@id": "https://charterflightnetwork.com/#website" },
+        "about": {
+          "@type": "AdministrativeArea",
+          "name": "Newfoundland and Labrador, Canada"
+        },
+        "primaryImageOfPage": {
+          "@type": "ImageObject",
+          "url": "https://charterflightnetwork.com/CFN%20Images/Banners/Newfoundland_Banner.jpg"
+        },
+        "breadcrumb": { "@id": "https://charterflightnetwork.com/newfoundland_labrador_air_charter_directory.html#breadcrumbs" }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://charterflightnetwork.com/newfoundland_labrador_air_charter_directory.html#breadcrumbs",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://charterflightnetwork.com/index.html" },
+          { "@type": "ListItem", "position": 2, "name": "Canadian Air Charter Directory", "item": "https://charterflightnetwork.com/canadian_air_charter_directory_1.html" },
+          { "@type": "ListItem", "position": 3, "name": "Newfoundland & Labrador Air Charter Directory", "item": "https://charterflightnetwork.com/newfoundland_labrador_air_charter_directory.html" }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://charterflightnetwork.com/newfoundland_labrador_air_charter_directory.html#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Which Newfoundland and Labrador communities are included on this directory page?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "This page includes Clarenville, Daniel's Harbour, Gander, L'Anse-au-Clair, Portland Creek, Port Blandford, and St. John's."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does this page include wheel plane, float plane, and helicopter operators?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. The directory includes a mix of wheel plane, float plane, and helicopter charter listings depending on each operator and location."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I request charter quotes from operators listed on this page?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Featured listings may include direct website or quote request links, and Charter Flight Network also provides a quote request service to help source competitive charter quote options."
+            }
+          }
+        ]
+      }
+    ]
+  }
+  </script>
+</head>
+
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark" aria-label="Main navigation">
+    <a class="navbar-brand" href="index.html">Canadian Air Charter Directory</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active"><a class="nav-link" href="index.html">HOME <span class="sr-only">(current)</span></a></li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+             data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">SELECT PROVINCE / TERRITORY</a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="alberta_air_charter_directory.html">Alberta Air Charter Directory</a>
+            <a class="dropdown-item" href="bc_air_charter_directory.html">British Columbia Air Charter Directory</a>
+            <a class="dropdown-item" href="newfoundland_air_charter_directory.html">Labrador Air Charter Directory</a>
+            <a class="dropdown-item" href="manitoba_air_charter_directory_1.html">Manitoba Air Charter Directory</a>
+            <a class="dropdown-item" href="new_brunswick_air_charter_directory.html">New Brunswick Air Charter Directory</a>
+            <a class="dropdown-item" href="newfoundland_air_charter_directory.html">Newfoundland Air Charter Directory</a>
+            <a class="dropdown-item" href="nwt_air_charter_directory_1.html">Northwest Territories Air Charter Directory</a>
+            <a class="dropdown-item" href="nova_scotia_air_charter_directory.html">Nova Scotia Air Charter Directory</a>
+            <a class="dropdown-item" href="nunavut_air_charter_directory_1.html">Nunavut Air Charter Directory</a>
+            <a class="dropdown-item" href="ontario_air_charter_directory_1.html">Ontario Air Charter Directory</a>
+            <a class="dropdown-item" href="quebec_charter_directory_1.html">Quebec Air Charter Directory</a>
+            <a class="dropdown-item" href="saskatchewan_air_charter_directory.html">Saskatchewan Air Charter Directory</a>
+            <a class="dropdown-item" href="yukon_air_charter_directory_1.html">Yukon Air Charter Directory</a>
+          </div>
+        </li>
+        <li class="nav-item"><a class="nav-link" href="canadian_float_plane_air_charter_directory.html">FLOAT PLANE CHARTER DIRECTORY</a></li>
+        <li class="nav-item"><a class="nav-link" href="canadian_helicopter_air_charter_directory.html">HELICOPTER CHARTER DIRECTORY</a></li>
+        <li class="nav-item"><a class="nav-link" href="canadian_air_cargo_charter_directory.html">AIR CARGO DIRECTORY</a></li>
+        <li class="nav-item"><a class="nav-link" href="canadian_air_charter_licenced_flights_usa_directory.html">FLIGHTS TO USA</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <main id="main" class="container page-shell">
+
+    <div class="hero-wrap">
+      <div class="row no-gutters">
+        <div class="col-12">
+          <picture>
+            <source media="(max-width: 767.98px)" srcset="CFN%20Images/Banners/Newf-Labrador-Banner-670.jpg">
+            <img src="CFN%20Images/Banners/Newfoundland_Banner.jpg"
+                 class="img-fluid"
+                 width="1940"
+                 height="650"
+                 alt="Newfoundland and Labrador Air Charter Directory"
+                 fetchpriority="high">
+          </picture>
+        </div>
+        <div class="col-12">
+          <div class="hero-copy">
+            <span class="eyebrow">Canadian Air Charter Directory</span>
+            <h1 class="hero-title">Newfoundland &amp; Labrador Air Charter Directory</h1>
+            <p class="hero-text">
+              Direct links to wheel plane, float plane, and helicopter charter services across Newfoundland and Labrador. Browse operators by community, aircraft type, base location, and service category.
+            </p>
+            <div class="hero-actions">
+              <a href="canadian_air_charter_directory_1.html" class="btn btn-outline-secondary btn-directory">Main Directory</a>
+              <a href="charter_quote.html" class="btn btn-primary btn-directory">Request Charter Quotes</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-8 col-xl-8">
+
+        <div class="section-card">
+          <div class="card-body text-center">
+            <h2 class="section-title mb-2">Directory Navigation</h2>
+            <div class="page-nav-inline mb-3">
+              <span class="page-chip">Newfoundland &amp; Labrador</span>
+              <a href="newfoundland_labrador_float_plane_air_charter_directory.html" class="btn btn-outline-secondary btn-sm">Float Plane Directory</a>
+            </div>
+            <p class="mb-0"><a href="canadian_air_charter_directory_1.html"><u>Back To Main Canadian Menu</u></a></p>
+          </div>
+        </div>
+
+        <div class="section-card">
+          <div class="card-body">
+            <details class="directory-index-details">
+              <summary class="text-center index-toggle">Click for a quick index of Newfoundland &amp; Labrador air charter locations</summary>
+
+              <div class="quick-index pt-3">
+                <div class="row">
+                  <div class="col-md-6">
+                    <a href="#Clarenville">Clarenville</a>
+                    <a href="#DanielsHarbour">Daniel's Harbour</a>
+                    <a href="#Gander">Gander</a>
+                    <a href="#LAnseAuClair">L'Anse-au-Clair</a>
+                  </div>
+                  <div class="col-md-6">
+                    <a href="#PortlandCreek">Portland Creek</a>
+                    <a href="#PortBlandford">Port Blandford</a>
+                    <a href="#StJohns">St. John's</a>
+                  </div>
+                </div>
+              </div>
+            </details>
+          </div>
+        </div>
+
+        <article class="listing-card featured-card">
+          <div class="row no-gutters">
+            <div class="col-lg-4">
+              <div class="listing-image-wrap">
+                <img src="CFN%20Images/Home%20Page/Charter-Types.jpg"
+                     width="650"
+                     height="362"
+                     alt="Charter aircraft types available across Canada"
+                     class="img-fluid mx-auto d-block"
+                     loading="lazy">
+              </div>
+            </div>
+            <div class="col-lg-8">
+              <div class="listing-content">
+                <h3 class="listing-title">No Need To Contact Each Airline Individually</h3>
+                <address class="listing-meta">
+                  <strong>Details:</strong> Complete one Charter Quote Request Form and it will forward to the charter airlines best positioned and equipped to provide the service you require.<br>
+                  Each airline prepares and submits a competitive quote for your review. If you receive an acceptable quote, you deal directly with the charter airline of your choice to finalize scheduling and payment.
+                </address>
+                <div class="cta-box text-center my-3">
+                  <a href="charter_quote.html" class="btn btn-primary btn-lg">Request a Free Charter Quote</a>
+                  <p class="small mt-2 mb-0">Receive up to 3 competitive quotes for your next charter flight</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </article>
+
+        <section id="Clarenville" class="city-section" aria-labelledby="Clarenville-heading">
+          <div class="city-heading"><h2 id="Clarenville-heading">Clarenville Air Charter</h2></div>
+          <div class="city-body">
+            <article class="listing-card featured-card">
+              <div class="row no-gutters">
+                <div class="col-lg-4">
+                  <div class="listing-image-wrap">
+                    <img src="CFN%20Images/Air%20Charter%20650/Newfoundland/Helicopter/Newfoundland-helicopters.jpg"
+                         alt="Newfoundland Helicopters Limited aircraft and helicopter charter services"
+                         width="650"
+                         height="430"
+                         class="img-fluid mx-auto d-block"
+                         loading="lazy">
+                  </div>
+                </div>
+                <div class="col-lg-8">
+                  <div class="listing-content">
+                    <span class="featured-badge">Featured Listing</span>
+                    <h3 class="listing-title">Newfoundland Helicopters Limited</h3>
+                    <address class="listing-meta">
+                      Clarenville, NL<br>
+                      <abbr title="Phone">P:</abbr> 000000<br>
+                      <strong>Base Locations:</strong> Clarenville, NL<br>
+                      <strong>Aircraft Types:</strong> Airbus AS350 B3 / Bell 206 L / Bell 407<br>
+                      <strong>Service Type:</strong> Helicopters
+                    </address>
+                    <div class="listing-actions">
+                      <a href="http://www.newfoundlandhelicopters.com/" class="btn btn-primary btn-directory" target="_blank" rel="noopener noreferrer">Request Quote</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </article>
+          </div>
+        </section>
+
+        <section id="DanielsHarbour" class="city-section" aria-labelledby="DanielsHarbour-heading">
+          <div class="city-heading"><h2 id="DanielsHarbour-heading">Daniel's Harbour Air Charter</h2></div>
+          <div class="city-body">
+            <article class="listing-card">
+              <div class="listing-content">
+                <h3 class="listing-title">Daniel's Harbour Aviation Limited</h3>
+                <address class="listing-meta">
+                  Daniel's Harbour, NL<br>
+                  <abbr title="Phone">P:</abbr> 000000<br>
+                  <strong>Base Locations:</strong> Daniel's Harbour, NL<br>
+                  <strong>Aircraft Types:</strong> Cessna 185<br>
+                  <strong>Service Type:</strong> Floats
+                </address>
+              </div>
+            </article>
+          </div>
+        </section>
+
+        <section id="Gander" class="city-section" aria-labelledby="Gander-heading">
+          <div class="city-heading"><h2 id="Gander-heading">Gander Air Charter</h2></div>
+          <div class="city-body">
+            <article class="listing-card">
+              <div class="listing-content">
+                <h3 class="listing-title">Evas Air</h3>
+                <address class="listing-meta">
+                  Gander, NL<br>
+                  <abbr title="Phone">P:</abbr> 000000<br>
+                  <strong>Base Locations:</strong> Gander, NL<br>
+                  <strong>Aircraft Types:</strong> Beech 1900D / De Havilland Twin Otter 300<br>
+                  <strong>Service Type:</strong> Wheels
+                </address>
+              </div>
+            </article>
+
+            <article class="listing-card">
+              <div class="listing-content">
+                <h3 class="listing-title">North Eastern Sky Services Ltd.</h3>
+                <address class="listing-meta">
+                  Gander, NL<br>
+                  <abbr title="Phone">P:</abbr> 000000<br>
+                  <strong>Base Locations:</strong> Gander, NL<br>
+                  <strong>Aircraft Types:</strong> De Havilland Beaver<br>
+                  <strong>Service Type:</strong> Floats
+                </address>
+              </div>
+            </article>
+          </div>
+        </section>
+
+        <section id="LAnseAuClair" class="city-section" aria-labelledby="LAnseAuClair-heading">
+          <div class="city-heading"><h2 id="LAnseAuClair-heading">L'Anse-au-Clair Air Charter</h2></div>
+          <div class="city-body">
+            <article class="listing-card">
+              <div class="listing-content">
+                <h3 class="listing-title">Birchy Lodge Labrador Venture Ltd.</h3>
+                <address class="listing-meta">
+                  L'Anse-au-Clair, NL<br>
+                  <abbr title="Phone">P:</abbr> 000000<br>
+                  <strong>Base Locations:</strong> L'Anse-au-Clair, NL<br>
+                  <strong>Aircraft Types:</strong> De Havilland Beaver<br>
+                  <strong>Service Type:</strong> Floats
+                </address>
+              </div>
+            </article>
+          </div>
+        </section>
+
+        <section id="PortlandCreek" class="city-section" aria-labelledby="PortlandCreek-heading">
+          <div class="city-heading"><h2 id="PortlandCreek-heading">Portland Creek Air Charter</h2></div>
+          <div class="city-body">
+            <article class="listing-card featured-card">
+              <div class="row no-gutters">
+                <div class="col-lg-4">
+                  <div class="listing-image-wrap">
+                    <img src="CFN%20Images/Air%20Charter%20650/Newfoundland/Floats/Portland-Creek.jpg"
+                         alt="Portland Creek Aviation Limited float plane charter aircraft"
+                         width="650"
+                         height="430"
+                         class="img-fluid mx-auto d-block"
+                         loading="lazy">
+                  </div>
+                </div>
+                <div class="col-lg-8">
+                  <div class="listing-content">
+                    <span class="featured-badge">Featured Listing</span>
+                    <h3 class="listing-title">Portland Creek Aviation Limited</h3>
+                    <address class="listing-meta">
+                      Portland Creek, NL<br>
+                      <abbr title="Phone">P:</abbr> 000000<br>
+                      <strong>Base Locations:</strong> Portland Creek, NL<br>
+                      <strong>Aircraft Types:</strong> Cessna 185 / De Havilland Beaver<br>
+                      <strong>Service Type:</strong> Floats
+                    </address>
+                    <div class="listing-actions">
+                      <a href="https://www.portlandcreekoutfitters.com/" class="btn btn-primary btn-directory" target="_blank" rel="noopener noreferrer">Request Quote</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </article>
+          </div>
+        </section>
+
+        <section id="PortBlandford" class="city-section" aria-labelledby="PortBlandford-heading">
+          <div class="city-heading"><h2 id="PortBlandford-heading">Port Blandford Air Charter</h2></div>
+          <div class="city-body">
+            <article class="listing-card featured-card">
+              <div class="row no-gutters">
+                <div class="col-lg-4">
+                  <div class="listing-image-wrap">
+                    <img src="CFN%20Images/Air%20Charter%20650/Newfoundland/Floats/Clarenville-Aviation-Limited.jpg"
+                         alt="Clarenville Aviation Limited float plane charter service in Port Blandford"
+                         width="650"
+                         height="430"
+                         class="img-fluid mx-auto d-block"
+                         loading="lazy">
+                  </div>
+                </div>
+                <div class="col-lg-8">
+                  <div class="listing-content">
+                    <span class="featured-badge">Featured Listing</span>
+                    <h3 class="listing-title">Clarenville Aviation Limited</h3>
+                    <address class="listing-meta">
+                      Port Blandford, NL<br>
+                      <abbr title="Phone">P:</abbr> 000000<br>
+                      <strong>Base Locations:</strong> Port Blandford, NL<br>
+                      <strong>Aircraft Types:</strong> De Havilland Beaver<br>
+                      <strong>Service Type:</strong> Floats
+                    </address>
+                    <div class="listing-actions">
+                      <a href="http://clarenvilleaviation.com/" class="btn btn-primary btn-directory" target="_blank" rel="noopener noreferrer">Request Quote</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </article>
+          </div>
+        </section>
+
+        <section id="StJohns" class="city-section" aria-labelledby="StJohns-heading">
+          <div class="city-heading"><h2 id="StJohns-heading">St. John's Air Charter</h2></div>
+          <div class="city-body">
+            <article class="listing-card featured-card">
+              <div class="row no-gutters">
+                <div class="col-lg-4">
+                  <div class="listing-image-wrap">
+                    <img src="CFN%20Images/Air%20Charter%20650/Newfoundland/Helicopter/CHC-Helic.jpg"
+                         alt="CHC Helicopters Canada offshore helicopter charter services"
+                         width="650"
+                         height="430"
+                         class="img-fluid mx-auto d-block"
+                         loading="lazy">
+                  </div>
+                </div>
+                <div class="col-lg-8">
+                  <div class="listing-content">
+                    <span class="featured-badge">Featured Listing</span>
+                    <h3 class="listing-title">CHC Helicopters Canada Inc</h3>
+                    <address class="listing-meta">
+                      St. John's, NL<br>
+                      <abbr title="Phone">P:</abbr> 000000<br>
+                      <strong>Base Locations:</strong> St. John's, NL<br>
+                      <strong>Aircraft Types:</strong> Sikorsky S-76C<br>
+                      <strong>Service Type:</strong> Helicopters
+                    </address>
+                    <div class="listing-actions">
+                      <a href="https://www.chcheli.com/" class="btn btn-primary btn-directory" target="_blank" rel="noopener noreferrer">Request Quote</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </article>
+
+            <article class="listing-card">
+              <div class="listing-content">
+                <h3 class="listing-title">Cougar Helicopters Inc</h3>
+                <address class="listing-meta">
+                  St. John's, NL<br>
+                  <abbr title="Phone">P:</abbr> 000000<br>
+                  <strong>Base Locations:</strong> St. John's, NL<br>
+                  <strong>Aircraft Types:</strong> Bell 412EP / Sikorsky S-92A<br>
+                  <strong>Service Type:</strong> Helicopters
+                </address>
+              </div>
+            </article>
+
+            <article class="listing-card featured-card">
+              <div class="row no-gutters">
+                <div class="col-lg-4">
+                  <div class="listing-image-wrap">
+                    <img src="CFN%20Images/Air%20Charter%20650/Newfoundland/Wheels/PAL-king-air-350-exterior.jpg"
+                         alt="Provincial Airlines and PAL Aerospace charter aircraft options in St. John's"
+                         width="650"
+                         height="430"
+                         class="img-fluid mx-auto d-block"
+                         loading="lazy">
+                  </div>
+                </div>
+                <div class="col-lg-8">
+                  <div class="listing-content">
+                    <span class="featured-badge">Featured Listing</span>
+                    <h3 class="listing-title">Provincial Airlines</h3>
+                    <address class="listing-meta">
+                      St. John's, NL<br>
+                      <abbr title="Phone">P:</abbr> 000000<br>
+                      <strong>Base Locations:</strong> St. John's, NL<br>
+                      <strong>Aircraft Types:</strong> Beech 200 / Beech 300 / Cessna 750 / Cessna S550 / De Havilland DHC-8-100 / DHC-8-300 / Canadair CL600 / Gulfstream G280<br>
+                      <strong>Service Type:</strong> Wheels
+                    </address>
+                    <div class="listing-actions">
+                      <a href="https://www.palairlines.ca/en/" class="btn btn-primary btn-directory" target="_blank" rel="noopener noreferrer">Request Quote</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </article>
+          </div>
+        </section>
+
+        <div class="section-card">
+          <div class="card-body text-center">
+            <h2 class="section-title">Related Directory Pages</h2>
+            <div class="row pagination-grid text-center">
+              <div class="col-12 col-sm-6 mb-2"><a class="btn btn-primary btn-block" href="newfoundland_labrador_air_charter_directory.html" aria-current="page">Main Air Charter Directory</a></div>
+              <div class="col-12 col-sm-6 mb-2"><a class="btn btn-outline-primary btn-block" href="newfoundland_labrador_float_plane_air_charter_directory.html">Float Plane Directory</a></div>
+            </div>
+            <p class="mt-3 mb-0"><a href="canadian_air_charter_directory_1.html"><u>Back to Main Canadian Menu</u></a></p>
+          </div>
+        </div>
+
+      </div>
+
+      <aside class="col-xl-4 col-lg-4 col-md-10 offset-md-1 offset-lg-0">
+
+        <div class="sidebar-card">
+          <div class="card-body">
+            <h2 class="section-title text-center">Explore Related Directories</h2>
+
+            <div class="sidebar-link-block text-center">
+              <img src="CFN%20Images/Air%20Charter%20650/Canadian%20Air%20Directory/canadian-directory-logo-b.jpg"
+                   width="500"
+                   height="400"
+                   alt="Canadian Air Charter Directory logo"
+                   class="img-fluid mx-auto d-block my-3"
+                   loading="lazy">
+              <h3><a href="canadian_air_charter_directory_1.html">1. Canadian Air Charter Directory</a></h3>
+              <p class="mb-0">Link to the main Canadian Air Charter Directory listing wheel plane, float plane and helicopter charter services in every province and territory of Canada.</p>
+            </div>
+
+            <div class="sidebar-link-block text-center">
+              <img src="CFN%20Images/Home%20Page/Charter-Types.jpg"
+                   width="650"
+                   height="362"
+                   alt="Canadian Air Charter Directory charter aircraft types"
+                   class="img-fluid mx-auto d-block my-3"
+                   loading="lazy">
+              <h3><a href="canadian_air_charter_licenced_flights_usa_directory.html">2. Canadian Air Charter Airlines Licenced To Fly Into The USA</a></h3>
+              <p class="mb-0">This directory lists Canadian air charter services licenced to provide charter flights into the USA, organized by province, territory, and city.</p>
+            </div>
+
+            <div class="sidebar-link-block text-center">
+              <img src="CFN%20Images/Air%20Charter%20650/Canadian_helicopter_directoryA_banner.jpg"
+                   width="650"
+                   height="433"
+                   alt="Canadian helicopter air charter directory"
+                   class="img-fluid mx-auto d-block my-3"
+                   loading="lazy">
+              <h3><a href="canadian_helicopter_air_charter_directory.html">3. Canadian Helicopter Air Charter Directory</a></h3>
+              <p class="mb-0">Immediate access to helicopter charter services in every province and territory of Canada, including aircraft types available.</p>
+            </div>
+
+            <div class="sidebar-link-block text-center">
+              <img src="CFN%20Images/Air%20Charter%20650/Canadian_float_plane_Bdirectory_banner.jpg"
+                   width="650"
+                   height="433"
+                   alt="Canadian float plane charter directory"
+                   class="img-fluid mx-auto d-block my-3"
+                   loading="lazy">
+              <h3><a href="canadian_float_plane_air_charter_directory.html">4. Canadian Float Plane Charter Directory</a></h3>
+              <p class="mb-0">When you need a float plane charter, find float plane operators across Canada in minutes.</p>
+            </div>
+          </div>
+        </div>
+
+        <article class="listing-card featured-card">
+          <div class="listing-content">
+            <h3 class="listing-title text-center">Receive 3 Competitive Charter Quotes</h3>
+            <address class="listing-meta">
+              <strong>Details:</strong> Submit your charter quote request through our free quote request service. It forwards to up to 3 air charter services best positioned and equipped to provide the service you require.
+            </address>
+            <div class="listing-actions">
+              <a href="charter_quote.html" class="btn btn-primary btn-directory" target="_blank" rel="noopener noreferrer">Request a Quote</a>
+            </div>
+          </div>
+        </article>
+
+      </aside>
+    </div>
+
+    <section class="section-card faq-section" aria-labelledby="faq-newfoundland-labrador">
+      <div class="card-body">
+        <h2 id="faq-newfoundland-labrador" class="section-title text-center">Newfoundland &amp; Labrador Air Charter Directory FAQ</h2>
+
+        <h3 class="listing-title h5">Which communities are covered on this page?</h3>
+        <p class="mb-3">This page includes Clarenville, Daniel's Harbour, Gander, L'Anse-au-Clair, Portland Creek, Port Blandford, and St. John's.</p>
+
+        <h3 class="listing-title h5">Does this page include float plane, wheel plane, and helicopter operators?</h3>
+        <p class="mb-3">Yes. The listings include a mix of float plane, wheel plane, and helicopter charter operators depending on each location.</p>
+
+        <h3 class="listing-title h5">Can I request charter quotes from this page?</h3>
+        <p class="mb-0">Yes. You may use the direct links in featured listings or submit one quote request through Charter Flight Network to receive competitive charter quote options.</p>
+      </div>
+    </section>
+
+    <div class="footer-card footer-band">
+      <div class="card-body">
+        <div class="row">
+
+          <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
+            <h2 class="h5">Contact Us</h2>
+            <address class="mb-0 footer-small">
+              <strong>Charter Flight Network</strong><br>
+              401 A Donald St West<br>
+              Thunder Bay, Ontario P7E 5Y1<br>
+              <abbr title="Phone">P:</abbr> <a href="tel:+18074721955">(807) 472-1955</a>
+            </address>
+          </div>
+
+          <div class="col-lg-3 col-md-6 mb-4 mb-lg-0">
+            <h2 class="h5">Links</h2>
+            <p class="mb-2"><a href="privacy_policy.htm">Privacy Policy</a></p>
+            <p class="mb-2"><a href="about_charter_flight_network.htm">About</a></p>
+            <p class="mb-0"><a href="index.html">Index / Home Page</a></p>
+          </div>
+
+          <div class="col-lg-5">
+            <h2 class="h5 text-center">The Canadian Air Charter Directory</h2>
+            <p class="footer-small mb-2">
+              We provide a free listing for every wheel plane, float plane, and helicopter charter service operating in every province and territory of Canada.
+            </p>
+            <p class="mb-0">
+              <a href="charter_quote_request_service.html" class="text-warning">Submit Your Free Listing / Submit Changes To An Existing Listing or Upgrade Your Free Listing To A Highly Visible Premium Listing</a>
+            </p>
+          </div>
+
+          <div class="col-12 mt-3">
+            <p class="mb-0 footer-small">
+              CharterFlightNetwork.com is not a charter service provider. We do not own nor operate any aircraft. All charter quotes are generated by the charter airlines who are best positioned and equipped to provide the service requested. Should you decide to book a charter flight, you book directly with the charter airline of your choice and all flight arrangements and payments are made directly with the airline.
+            </p>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <footer class="text-center copyright-note">
+      <p class="mb-0">Copyright &copy; CharterFlightNetwork.com All rights reserved.</p>
+    </footer>
+
+  </main>
+
+  <script src="js/jquery-3.4.1.min.js" defer></script>
+  <script src="js/popper.min.js" defer></script>
+  <script src="js/bootstrap-4.4.1.min.js" defer></script>
+
+  <script>
+(function () {
+  function scrollToHashTarget(hash) {
+    if (!hash) return;
+    var id = hash.replace('#', '');
+    if (!id) return;
+
+    var target = document.getElementById(id);
+    if (!target) return;
+
+    var yOffset = 110;
+    var y = target.getBoundingClientRect().top + window.pageYOffset - yOffset;
+
+    window.scrollTo({
+      top: y,
+      behavior: 'auto'
+    });
+  }
+
+  function delayedScroll(hash) {
+    setTimeout(function () { scrollToHashTarget(hash); }, 100);
+    setTimeout(function () { scrollToHashTarget(hash); }, 350);
+    setTimeout(function () { scrollToHashTarget(hash); }, 800);
+  }
+
+  document.addEventListener('DOMContentLoaded', function () {
+    if (window.location.hash) {
+      delayedScroll(window.location.hash);
+    }
+
+    var links = document.querySelectorAll('a[href*="#"]');
+    for (var i = 0; i < links.length; i++) {
+      links[i].addEventListener('click', function () {
+        var href = this.getAttribute('href');
+        if (!href) return;
+        var hashIndex = href.indexOf('#');
+        if (hashIndex === -1) return;
+        var hash = href.substring(hashIndex);
+        try {
+          sessionStorage.setItem('pendingAnchorHash', hash);
+        } catch (e) {}
+      });
+    }
+
+    try {
+      var pendingHash = sessionStorage.getItem('pendingAnchorHash');
+      if (pendingHash && window.location.hash === pendingHash) {
+        delayedScroll(pendingHash);
+        sessionStorage.removeItem('pendingAnchorHash');
+      }
+    } catch (e) {}
+  });
+
+  window.addEventListener('load', function () {
+    if (window.location.hash) {
+      delayedScroll(window.location.hash);
+    }
+  });
+
+  window.addEventListener('hashchange', function () {
+    delayedScroll(window.location.hash);
+  });
+})();
+  </script>
+</body>
+</html>

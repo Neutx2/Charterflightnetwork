@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 800" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Placeholder: float plane over a boreal lake at dawn — replace with photography">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#12314a"/>
+      <stop offset=".45" stop-color="#2f6f9f"/>
+      <stop offset=".75" stop-color="#e8940f" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#173a57"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#245a84"/>
+      <stop offset="1" stop-color="#0b2033"/>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="800" fill="url(#sky)"/>
+  <circle cx="1350" cy="330" r="90" fill="#f5a623" opacity=".8"/>
+  <circle cx="1350" cy="330" r="150" fill="#f5a623" opacity=".18"/>
+  <!-- far shoreline -->
+  <path d="M0 470 L120 452 L260 468 L420 448 L610 470 L800 452 L1020 468 L1240 450 L1460 466 L1680 450 L1920 464 L1920 520 L0 520 Z" fill="#12314a"/>
+  <!-- boreal treeline -->
+  <g fill="#1a382f">
+    <path d="M0 500 L1920 500 L1920 540 L0 540 Z"/>
+    <g>
+      <path d="M40 500 l14 -52 14 52 Z"/><path d="M80 500 l12 -40 12 40 Z"/><path d="M120 500 l16 -60 16 60 Z"/><path d="M170 500 l12 -44 12 44 Z"/><path d="M215 500 l14 -55 14 55 Z"/><path d="M260 500 l11 -38 11 38 Z"/><path d="M300 500 l15 -57 15 57 Z"/><path d="M350 500 l12 -42 12 42 Z"/><path d="M395 500 l14 -52 14 52 Z"/><path d="M445 500 l12 -40 12 40 Z"/><path d="M490 500 l16 -62 16 62 Z"/><path d="M545 500 l12 -44 12 44 Z"/><path d="M590 500 l14 -54 14 54 Z"/><path d="M640 500 l11 -38 11 38 Z"/><path d="M685 500 l15 -58 15 58 Z"/><path d="M735 500 l12 -42 12 42 Z"/><path d="M780 500 l14 -50 14 50 Z"/><path d="M830 500 l12 -40 12 40 Z"/><path d="M875 500 l16 -60 16 60 Z"/><path d="M930 500 l12 -44 12 44 Z"/><path d="M975 500 l14 -55 14 55 Z"/><path d="M1025 500 l11 -38 11 38 Z"/><path d="M1070 500 l15 -57 15 57 Z"/><path d="M1120 500 l12 -42 12 42 Z"/><path d="M1165 500 l14 -52 14 52 Z"/><path d="M1215 500 l12 -40 12 40 Z"/><path d="M1260 500 l16 -62 16 62 Z"/><path d="M1315 500 l12 -44 12 44 Z"/><path d="M1360 500 l14 -54 14 54 Z"/><path d="M1410 500 l11 -38 11 38 Z"/><path d="M1455 500 l15 -58 15 58 Z"/><path d="M1505 500 l12 -42 12 42 Z"/><path d="M1550 500 l14 -50 14 50 Z"/><path d="M1600 500 l12 -40 12 40 Z"/><path d="M1645 500 l16 -60 16 60 Z"/><path d="M1700 500 l12 -44 12 44 Z"/><path d="M1745 500 l14 -55 14 55 Z"/><path d="M1795 500 l11 -38 11 38 Z"/><path d="M1840 500 l15 -57 15 57 Z"/><path d="M1890 500 l12 -42 12 42 Z"/>
+    </g>
+  </g>
+  <!-- lake -->
+  <rect y="540" width="1920" height="260" fill="url(#water)"/>
+  <ellipse cx="1350" cy="560" rx="220" ry="10" fill="#f5a623" opacity=".25"/>
+  <ellipse cx="1350" cy="590" rx="150" ry="7" fill="#f5a623" opacity=".15"/>
+  <g stroke="#83b2d4" stroke-width="2" opacity=".25">
+    <path d="M100 600 h180"/><path d="M420 650 h240"/><path d="M900 620 h200"/><path d="M1550 660 h190"/><path d="M300 720 h260"/><path d="M1100 700 h220"/>
+  </g>
+  <!-- float plane silhouette -->
+  <g transform="translate(560 240) scale(1.15)" fill="#0b2033">
+    <path d="M0 40 c30 -6 120 -10 150 -8 l60 4 c30 2 40 20 20 26 l-70 6 c-60 4 -130 0 -160 -28 z"/>
+    <path d="M120 8 l16 26 60 2 -10 -28 c-2 -6 -10 -8 -16 -8 l-40 0 c-8 0 -12 4 -10 8 z" opacity=".95"/>
+    <path d="M95 36 l-70 -22 22 34 z"/>
+    <path d="M150 34 l110 -14 -6 16 z" opacity=".9"/>
+    <rect x="55" y="70" width="120" height="8" rx="4"/>
+    <rect x="140" y="70" width="100" height="8" rx="4"/>
+    <path d="M85 46 l4 24 6 0 -2 -24 z"/>
+    <path d="M175 42 l2 28 6 0 0 -28 z"/>
+  </g>
+</svg>

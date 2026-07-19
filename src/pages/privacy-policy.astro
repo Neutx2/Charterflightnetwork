@@ -1,0 +1,45 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+
+const title = 'Privacy Policy | Charter Flight Network';
+const description =
+  'How Charter Flight Network handles your personal information when you request charter quotes.';
+
+// TODO: the legacy privacy_policy.htm actually contains destination copy for
+// Sept Iles, QC — not a privacy policy. The statements below are limited to
+// privacy commitments that appear verbatim elsewhere on the legacy site
+// (quote-form privacy note). CFN should supply a full policy to replace this.
+---
+
+<BaseLayout title={title} description={description} canonicalPath="/privacy-policy">
+  <div class="bg-gradient-to-b from-lake-900 to-lake-800 text-white">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 py-10 sm:py-14">
+      <Breadcrumbs crumbs={[{ label: 'Privacy Policy' }]} />
+      <h1 class="mt-4 font-display text-3xl sm:text-4xl font-bold">Privacy Policy</h1>
+    </div>
+  </div>
+
+  <div class="mx-auto max-w-3xl px-4 sm:px-6 py-10 sm:py-14">
+    <article class="copy">
+      <h2>Your quote request</h2>
+      <p>
+        We don’t share your name or contact info with airlines. Your request is
+        assigned a unique ID; airlines submit quotes for that ID and we forward them
+        to you.
+      </p>
+      <h2>Booking</h2>
+      <p>
+        Should you decide to book a charter flight, you book directly with the
+        charter airline of your choice and all flight arrangements and payments are
+        made directly with the airline.
+      </p>
+      <h2>Questions</h2>
+      <p>
+        Contact us at <a href="tel:+18074721955">(807) 472-1955</a> or
+        <a href="mailto:phil@charterflightnetwork.com">phil@charterflightnetwork.com</a>
+        with any questions about how your information is handled.
+      </p>
+    </article>
+  </div>
+</BaseLayout>
