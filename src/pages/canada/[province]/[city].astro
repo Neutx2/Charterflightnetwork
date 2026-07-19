@@ -33,7 +33,7 @@ const h1 = d.airportCode
 const canonicalPath = `/${d.slug}`;
 const quoteSubject = d.quoteSubject ?? `Charter Flights ${d.city} ${d.province}`;
 
-const jsonLd = [
+const jsonLd: object[] = [
   {
     '@context': 'https://schema.org',
     '@type': 'Service',
@@ -59,6 +59,18 @@ const jsonLd = [
     ],
   },
 ];
+
+if (d.faqs?.length) {
+  jsonLd.push({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: d.faqs.map((f) => ({
+      '@type': 'Question',
+      name: f.q,
+      acceptedAnswer: { '@type': 'Answer', text: f.a },
+    })),
+  });
+}
 ---
 
 <BaseLayout title={d.title} description={d.description} canonicalPath={canonicalPath} jsonLd={jsonLd}>

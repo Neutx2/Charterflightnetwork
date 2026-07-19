@@ -1,0 +1,70 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import QuoteCTA from '../components/QuoteCTA.astro';
+import QuoteForm from '../components/QuoteForm.astro';
+
+// Migrated legacy pages that don't have a hand-built route:
+// /travel/*, /flights/*, /operators/* subpages.
+export async function getStaticPaths() {
+  // pages with hand-built static routes (which take precedence)
+  const handbuilt = new Set([
+    'about',
+    'contact',
+    'privacy-policy',
+    'quote',
+    'quote-confirmation',
+    'operators',
+    'directory',
+  ]);
+  const entries = await getCollection('pages');
+  return entries
+    .filter((e) => !handbuilt.has(e.data.slug))
+    .map((entry) => ({ params: { slug: entry.data.slug }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const d = entry.data;
+const isRoute = d.slug.startsWith('flights/');
+const section = d.slug.startsWith('travel/')
+  ? { label: 'Travel', href: undefined }
+  : isRoute
+    ? { label: 'Popular Routes', href: undefined }
+    : { label: 'For Operators', href: '/operators' };
+const pageLabel = d.h1 ?? d.title;
+---
+
+<BaseLayout title={d.title} description={d.description} canonicalPath={`/${d.slug}`}>
+  <div class="bg-gradient-to-b from-lake-900 to-lake-800 text-white">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 py-10 sm:py-14">
+      <Breadcrumbs crumbs={[section, { label: pageLabel }]} />
+      <h1 class="mt-4 font-display text-3xl sm:text-4xl font-bold">{pageLabel}</h1>
+      <p class="mt-3 max-w-3xl text-lake-100 text-lg leading-relaxed">{d.description}</p>
+    </div>
+  </div>
+
+  <div class="mx-auto max-w-4xl px-4 sm:px-6 py-10 sm:py-14">
+    <article class="copy">
+      <Content />
+    </article>
+
+    {isRoute ? (
+      <section id="quote" class="mt-14 scroll-mt-24">
+        <div class="rounded-2xl bg-white p-6 sm:p-10 ring-1 ring-birch-200 shadow-sm">
+          <h2 class="font-display text-2xl sm:text-3xl font-bold text-lake-900">
+            Receive up to 3 competitive quotes for this route
+          </h2>
+          <div class="mt-8">
+            <QuoteForm subject={d.quoteSubject ?? d.title} />
+          </div>
+        </div>
+      </section>
+    ) : (
+      <div class="mt-14">
+        <QuoteCTA />
+      </div>
+    )}
+  </div>
+</BaseLayout>

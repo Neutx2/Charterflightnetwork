@@ -1,0 +1,301 @@
+[Skip to main content](#main)
+
+# Alberta Helicopter Air Charter Directory â Page 2
+
+Helicopter charter services operating across Alberta, including Fort McMurray, Grande Prairie, High River, Manning, Medicine Hat, Nordegg, Okotoks, Red Deer, Slave Lake, Sturgeon County, and Whitecourt.
+
+[<< Page 1](alberta_helicopter_directory.html)
+[Request Charter Quotes](charter_quote.html)
+
+## Directory Navigation
+
+Alberta Helicopter Directory
+[<< Page 1](alberta_helicopter_directory.html)
+[Alberta Main Directory](alberta_air_charter_directory.html)
+
+[Back To Main Canadian Menu](canadian_air_charter_directory_1.html)
+
+Click for a quick index of Alberta helicopter charter locations
+
+[Berwyn](alberta_helicopter_directory.html#Berwyn)
+[Blackfalds](alberta_helicopter_directory.html#Blackfalds)
+[Blue Ridge](alberta_helicopter_directory.html#BlueRidge)
+[Calgary](alberta_helicopter_directory.html#Calgary)
+[Cold Lake](alberta_helicopter_directory.html#ColdLake)
+[Drayton Valley](alberta_helicopter_directory.html#DraytonValley)
+[Edmonton](alberta_helicopter_directory.html#Edmonton)
+[Fort McMurray](#FortMcMurray)
+[Grande Prairie](#GrandePrairie)
+
+[High River](#HighRiver)
+[Manning](#Manning)
+[Medicine Hat](#MedicineHat)
+[Nordegg](#Nordegg)
+[Okotoks](#Okotoks)
+[Red Deer](#RedDeer)
+[Slave Lake](#SlaveLake)
+[Sturgeon County](#SturgeonCounty)
+[Whitecourt](#Whitecourt)
+
+### Need Alberta Helicopter Charter Options?
+
+**Details:** Submit one charter quote request and it will forward to the air charter services best positioned and equipped to provide your required Alberta helicopter charter service.
+Each company prepares a competitive quote for your review. If you receive an acceptable quote, you finalize scheduling and payment directly with the charter airline of your choice.
+
+## Fort McMurray Helicopter Air Charter
+
+### Vortex Helicopters
+
+Fort McMurray, AB
+P: [(780) 713-2477](tel:+17807132477)
+**Base Locations:** Fort McMurray, AB
+**Aircraft Types:** Aerospatiale AS350 B2, BA / Bell 212
+**Service Type:** Helicopter
+
+### Phoenix Heli-Flight Inc
+
+Fort McMurray, AB
+P: [(780) 799-0141](tel:+17807990141)
+**Base Locations:** Fort McMurray, AB
+**Aircraft Types:** Aerospatiale AS350 B2, AS355 NP / Airbus Helicopters EC130 T2
+**Service Type:** Helicopter
+
+## Grande Prairie Helicopter Air Charter
+
+Featured Listing
+
+### Elevation Helicopters Ltd
+
+Grande Prairie, AB
+P: [780-933-3841](tel:+17809333841)
+**Base Locations:** Grande Prairie, AB
+**Aircraft Types:** Robinson R44 II
+**Service Type:** Helicopter
+
+### Gemini Heli Ltd.
+
+Grande Prairie, AB
+P: [780-539-4354](tel:+17805394354)
+**Base Locations:** Grande Prairie, AB
+**Aircraft Types:** Aerospatiale AS350 BA / Bell 206 L / Eurocopter EC135 P2
+**Service Type:** Helicopter
+
+### Highpoint Helicopters Ltd.
+
+Grande Prairie, AB
+P: [(780) 539-4417](tel:+17805394417)
+**Base Locations:** Grande Prairie, AB
+**Aircraft Types:** Bell 206 L / Eurocopter AS350 B2
+**Service Type:** Helicopter
+
+## High River, Alberta Helicopter Air Charter
+
+### Ram Head Outfitters Ltd
+
+High River, AB
+P: [780-446-8774](tel:+17804468774)
+**Base Locations:** High River, AB
+**Aircraft Types:** Robinson R44 II
+**Service Type:** Helicopter
+
+## Manning, Alberta Helicopter Air Charter
+
+### Valley B Aviation
+
+Manning, AB
+P: [780-836-4309](tel:+17808364309)
+**Base Locations:** Manning, AB
+**Aircraft Types:** Aerospatiale AS350 BA / Robinson R44 II / Robinson R66
+**Service Type:** Helicopter
+
+## Medicine Hat Helicopter Air Charter
+
+Featured Listing
+
+### Rangeland Helicopters Inc
+
+Medicine Hat, AB
+P: [403-528-3406](tel:+14035283406)
+**Base Locations:** Medicine Hat, AB
+**Aircraft Types:** Bell 206 L / MBB BK117 B
+**Service Type:** Helicopter
+
+## Nordegg Helicopter Air Charter
+
+### Ahlstrom Air Ltd.
+
+Nordegg, AB
+P: [(403) 721-2203](tel:+14037212203)
+**Base Locations:** Nordegg, AB
+**Aircraft Types:** Eurocopter AS350 B2
+**Service Type:** Helicopter
+
+## Okotoks Helicopter Air Charter
+
+### Advanced Airborne Applicators Ltd
+
+Okotoks, AB
+P: [705-238-0790](tel:+17052380790)
+**Base Locations:** Okotoks, AB
+**Aircraft Types:** Aerospatiale AS350 B1, B2
+**Service Type:** Helicopter
+
+Featured Listing
+
+### Access Helicopters Ltd
+
+Okotoks, AB
+P: [403-755-1791](tel:+14037551791)
+**Base Locations:** Okotoks, AB
+**Aircraft Types:** Aerospatiale AS350 BA, D, B2, B3 / Robinson R44 II
+**Service Type:** Helicopter
+
+### Exploration Helicopters
+
+Okotoks, AB
+P: [403-350-1590](tel:+14033501590)
+**Base Locations:** Okotoks, AB
+**Aircraft Types:** Aerospatiale AS350 BA / Robinson R22 Beta / Robinson R44 II
+**Service Type:** Helicopter
+
+## Red Deer, Alberta Helicopter Air Charter
+
+### Heli Source Ltd.
+
+Red Deer, AB
+P: [403-886-8601](tel:+14038868601)
+**Base Locations:** Red Deer, AB
+**Aircraft Types:** Aerospatiale AS350 B2 / Bell 206 B / Hughes 369 D / MBB BK117 B
+**Service Type:** Helicopter
+
+## Slave Lake, Alberta Helicopter Air Charter
+
+Featured Listing
+
+### Slave Lake Helicopters Ltd
+
+Slave Lake, AB
+P: [(780) 849-6666](tel:+17808496666)
+**Base Locations:** Slave Lake, AB
+**Aircraft Types:** Aerospatiale AS350 B2 / Bell 206 B / Eurocopter AS355 NP, EC120 B
+**Service Type:** Helicopter
+
+### Sloan Helicopters Ltd.
+
+Slave Lake, AB
+P: [(780) 849-4456](tel:+17808494456)
+**Base Locations:** Slave Lake, AB
+**Aircraft Types:** Eurocopter AS350 B2 / Robinson R44 II
+**Service Type:** Helicopter
+
+## Sturgeon County, Alberta Helicopter Air Charter
+
+Featured Listing
+
+### Delta Helicopters Ltd
+
+Sturgeon County, AB
+P: [(780) 458-3564](tel:+17804583564)
+**Base Locations:** Sturgeon County, AB
+**Aircraft Types:** Aerospatiale AS350 B2 / Bell 204 B / Bell 205 / Bell 206 B / Bell 212
+**Service Type:** Helicopter
+
+### Heliqwest Aviation Inc
+
+Sturgeon County, AB
+P: [(780) 458-3005](tel:+17804583005)
+**Base Locations:** Sturgeon County, AB
+**Aircraft Types:** Bell 205 / Bell 206 B / Bell 212 / Kaman K1200
+**Service Type:** Helicopter
+
+### Remote Helicopters Ltd
+
+Sturgeon County, AB
+P: [(780) 849-2222](tel:+17808492222)
+**Base Locations:** Sturgeon County, AB
+**Aircraft Types:** Aerospatiale AS350 B2 / Bell 205 / Bell 206 B / Bell 212
+**Service Type:** Helicopter
+
+## Whitecourt, Alberta Helicopter Air Charter
+
+### Airborne Energy Solutions Inc
+
+Whitecourt, AB
+P: [780-778-3080](tel:+17807783080)
+**Base Locations:** Whitecourt, AB
+**Aircraft Types:** Cessna 172 / Cessna 182 / Cessna U206 / Aerospatiale AS350 BA, D / Bell 206 B / Robinson R44 II
+**Service Type:** Helicopter / Wheels
+
+### Taiga Helicopters Ltd
+
+Whitecourt, AB
+P: [(780) 778-3674](tel:+17807783674)
+**Base Locations:** Whitecourt, AB
+**Aircraft Types:** Aerospatiale AS350 D / Bell 206 B
+**Service Type:** Helicopter
+
+Featured Listing
+
+### Rotorworks Inc
+
+Whitecourt, AB
+P: [780-778-6600](tel:+17807786600)
+**Base Locations:** Whitecourt, AB
+**Aircraft Types:** Bell 206 B / Robinson R22 Beta / Robinson R44 II
+**Service Type:** Helicopter
+
+## Alberta Helicopter Directory Pages
+
+[<< Page 1](alberta_helicopter_directory.html)
+
+[Page 2](alberta_helicopter_directory_2.html)
+
+[Back to Main Canadian Menu](canadian_air_charter_directory_1.html)
+
+## Explore Related Directories
+
+### [1. Canadian Air Charter Directory](canadian_air_charter_directory_1.html)
+
+Link to the main Canadian Air Charter Directory listing wheel plane, float plane and helicopter charter services in every province and territory of Canada.
+
+### [2. Canadian Charter Airlines Licensed To Fly Into The USA](canadian_air_charter_licenced_flights_usa_directory.html)
+
+Canadian air charter services licensed to provide charter flights into the USA, listed by province, territory, and city.
+
+### [3. Canadian Helicopter Air Charter Directory](canadian_helicopter_air_charter_directory.html)
+
+Immediate access to helicopter charter services in every province and territory of Canada, including aircraft types available.
+
+### [4. Canadian Float Plane Charter Directory](canadian_float_plane_air_charter_directory.html)
+
+When you need a float plane charter, find float plane operators across Canada in minutes.
+
+### Receive 3 Competitive Charter Quotes
+
+**Details:** Submit your charter quote request through our free quote request service. It forwards to up to 3 air charter services best positioned and equipped to provide the service you require.
+
+[Request a Quote](charter_quote.html)
+
+## Alberta Helicopter Charter Directory FAQ
+
+### Which Alberta helicopter locations are covered on page 2?
+
+Page 2 includes Fort McMurray, Grande Prairie, High River, Manning, Medicine Hat, Nordegg, Okotoks, Red Deer, Slave Lake, Sturgeon County, and Whitecourt.
+
+### Does this page include aircraft and fleet details?
+
+Yes. Each listing includes base location, aircraft types, phone number where available, and service type.
+
+### Can I request Alberta helicopter charter quotes from this page?
+
+Yes. You may use direct quote links where available or submit one request through Charter Flight Network to receive competitive helicopter charter quote options.
+
+[About](about_charter_flight_network.htm)
+
+## The Canadian Air Charter Directory
+
+We provide a free listing for every wheel plane, float plane, and helicopter charter service operating in every province and territory of Canada.
+
+[Submit Your Free Listing / Submit Changes To An Existing Listing or Upgrade Your Free Listing To A Highly Visible Premium Listing](charter_quote_request_service.html)
+
+CharterFlightNetwork.com is not a charter service provider. We do not own nor operate any aircraft. All charter quotes are generated by the charter airlines who are best positioned and equipped to provide the service requested. Should you decide to book a charter flight, you book directly with the charter airline of your choice and all flight arrangements and payments are made directly with the airline.

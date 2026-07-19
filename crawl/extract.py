@@ -113,6 +113,34 @@ def norm_line(ln: str) -> str:
     return t
 
 
+# Quote-band copy that repeats under the legacy on-page form. The new templates
+# render their own quote section, so these lines are dropped even when slight
+# wording variations keep them under the global frequency threshold.
+KILL_PREFIXES = (
+    "charter flight network specializes in finding clients the most cost",
+    "receive up to 3 competitive price quotes",
+    "receive up to 3 competitive quotes",
+    "how our quote service works",
+    "if a quote meets your needs and budget",
+    "*privacy: we don't share your name",
+    "privacy: we don't share your name",
+    "complete your travel details",
+    "submit form below or phone us",
+    "with just one click, receive up to 3",
+    "complete and submit the following no obligation",
+    "complete and submit your contact & travel information",
+    "each airline prepares and submits a competitive quote",
+    "here is how we do that",
+    "when you complete and submit the form below",
+    "request a free charter quote",
+)
+
+
+def is_killed(norm: str) -> bool:
+    n = norm.replace("’", "'")
+    return any(n.startswith(p) for p in KILL_PREFIXES)
+
+
 def main():
     pages = INV["pages"]
     print(f"{len(pages)} pages in inventory")
@@ -169,7 +197,7 @@ def main():
         kept = []
         for ln in lines:
             t = norm_line(ln)
-            if t and t in boiler:
+            if t and (t in boiler or is_killed(t)):
                 continue
             kept.append(ln)
         # collapse blanks again

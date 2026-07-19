@@ -20,6 +20,8 @@ const migratedPage = z.object({
   thin: z.boolean().default(false),
   /** subject line for the quote form on this page (legacy hidden field) */
   quoteSubject: z.string().optional(),
+  /** Q&A pairs extracted from the page's FAQ section (drives FAQPage JSON-LD) */
+  faqs: z.array(z.object({ q: z.string(), a: z.string() })).optional(),
 });
 
 const destinations = defineCollection({
@@ -29,11 +31,6 @@ const destinations = defineCollection({
 
 const hubs = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/hubs' }),
-  schema: migratedPage,
-});
-
-const aircraft = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/aircraft' }),
   schema: migratedPage,
 });
 
@@ -47,4 +44,4 @@ const pages = defineCollection({
   schema: migratedPage,
 });
 
-export const collections = { destinations, hubs, aircraft, directory, pages };
+export const collections = { destinations, hubs, directory, pages };

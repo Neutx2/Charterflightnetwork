@@ -27,7 +27,7 @@ const nearby = siblings
   .sort((a, b) => (a.data.city ?? '').localeCompare(b.data.city ?? ''))
   .slice(0, 12);
 
-const jsonLd = [
+const jsonLd: object[] = [
   {
     '@context': 'https://schema.org',
     '@type': 'Service',
@@ -48,6 +48,18 @@ const jsonLd = [
     ],
   },
 ];
+
+if (d.faqs?.length) {
+  jsonLd.push({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: d.faqs.map((f) => ({
+      '@type': 'Question',
+      name: f.q,
+      acceptedAnswer: { '@type': 'Answer', text: f.a },
+    })),
+  });
+}
 ---
 
 <BaseLayout title={d.title} description={d.description} canonicalPath={`/${d.slug}`} jsonLd={jsonLd}>

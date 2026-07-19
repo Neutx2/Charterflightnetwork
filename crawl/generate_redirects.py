@@ -8,6 +8,12 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 redirects = json.load(open(ROOT / "crawl" / "redirects.json"))
 
+# Defensive extras: legacy URLs that are referenced (form redirect target,
+# old bookmarks) but were not linked from any crawled page.
+redirects.setdefault("/charter_quote_confirmation.htm", "/quote-confirmation")
+redirects.setdefault("/charter_quote_confirmation.html", "/quote-confirmation")
+redirects.setdefault("/index.htm", "/")
+
 # skip self-maps (e.g. "/" -> "/")
 pairs = sorted(
     (old, new) for old, new in redirects.items()
