@@ -181,6 +181,7 @@ const uid = subject.length; // pages render at most one quote form
   <input type="hidden" name="recipient" value="phil@charterflightnetwork.com" />
   <input type="hidden" name="redirect" value="https://charterflightnetwork.com/quote-confirmation" />
   <input type="hidden" name="subject" value={subject} />
+  <input type="hidden" name="SourcePage" value={Astro.url.pathname} />
 </form>
 
 <script>
