@@ -12,3 +12,4 @@ npm-debug.log*
 .env.production
 # OS
 .DS_Store
+METRICS/*.json
