@@ -16,6 +16,32 @@ const entries = (await getCollection('directory')).sort((a, b) =>
 );
 // counts derived from the parsed directory listings (src/data/operators.json)
 const uniqueOperators = new Set(operators.map((o) => `${o.name}|${o.baseLocations}`)).size;
+
+// group directory pages by province/region, derived from their slugs
+const GROUPS: [string, string[]][] = [
+  ['Alberta', ['alberta-']],
+  ['British Columbia', ['bc-', 'british-columbia-']],
+  ['Manitoba', ['manitoba-']],
+  ['New Brunswick', ['new-brunswick-']],
+  ['Newfoundland & Labrador', ['newfoundland-']],
+  ['Northwest Territories', ['nwt-', 'northwest-territories-']],
+  ['Nova Scotia', ['nova-scotia-']],
+  ['Nunavut', ['nunavut-']],
+  ['Ontario', ['ontario-', 'northern-ontario-']],
+  ['Quebec', ['quebec-']],
+  ['Saskatchewan', ['saskatchewan-']],
+  ['Yukon', ['yukon-']],
+  ['Canada-wide & USA-licensed', ['canadian-', 'usa-']],
+];
+const grouped = GROUPS.map(([label, prefixes]) => ({
+  label,
+  pages: entries.filter((e) => {
+    const base = e.data.slug.replace(/^directory\//, '');
+    return prefixes.some((p) => base.startsWith(p));
+  }),
+}));
+const groupedSlugs = new Set(grouped.flatMap((g) => g.pages.map((p) => p.data.slug)));
+const other = entries.filter((e) => !groupedSlugs.has(e.data.slug));
 ---
 
 <BaseLayout title={title} description={description} canonicalPath="/directory">
@@ -35,18 +61,25 @@ const uniqueOperators = new Set(operators.map((o) => `${o.name}|${o.baseLocation
   </div>
 
   <div class="mx-auto max-w-7xl px-4 sm:px-6 py-10 sm:py-14">
-    <ul class="grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
-      {entries.map((e) => (
-        <li>
-          <a
-            href={`/${e.data.slug}`}
-            class="block rounded-lg bg-white px-4 py-3 text-sm font-medium text-lake-700 ring-1 ring-birch-200 hover:ring-lake-300 hover:text-lake-900 hover:shadow-sm transition"
-          >
-            {e.data.h1 ?? e.data.title}
-          </a>
-        </li>
+    {[...grouped, { label: 'Other listings', pages: other }]
+      .filter((g) => g.pages.length > 0)
+      .map((g) => (
+        <section class="mb-10">
+          <h2 class="font-display text-xl font-bold text-lake-900 mb-4">{g.label}</h2>
+          <ul class="grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
+            {g.pages.map((e) => (
+              <li>
+                <a
+                  href={`/${e.data.slug}`}
+                  class="block rounded-lg bg-white px-4 py-3 text-sm font-medium text-lake-700 ring-1 ring-birch-200 hover:ring-lake-300 hover:text-lake-900 hover:shadow-sm transition"
+                >
+                  {e.data.h1 ?? e.data.title}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
       ))}
-    </ul>
     <p class="mt-6 text-sm text-slate-600">
       Also available at
       <a href={SITE.directoryUrl} class="font-semibold text-lake-700 hover:underline" target="_blank" rel="noopener noreferrer">
