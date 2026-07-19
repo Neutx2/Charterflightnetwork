@@ -7,11 +7,6 @@ slug: "travel/fly-in-fishing"
 thin: false
 region: "global"
 ---
-<!-- Editorial override (crawl/overrides/pages/travel-fly-in-fishing.md):
-     evergreen rebuild of the dated 2021/2022 promo page. All statements below
-     are drawn from copy already on the migrated site (Thunder Bay destination
-     page, Superior Airways listing, empty-legs copy). No new facts invented. -->
-
 ## The trip of a lifetime starts with the flight in
 
 Canada's best fishing is on water no road reaches. Guests typically fly into a
