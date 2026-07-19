@@ -46,7 +46,7 @@
     "Empty Leg Alert Signup", but SENDING to the list is gated on
     CASL-compliant double opt-in + sender ID + unsubscribe.
     ICE: 8×6×4 = 192 | GATE: CASL + sending.
-13. Seasonal fly-in fishing content ahead of open-water season (spring)
+13. [DONE 2026-07-19 cycle 3] Evergreen fly-in fishing landing page (facts-only rebuild of the dated 2021 promo page)
     ICE: 8×7×6 = 336 | Rev: peak-intent seasonal search. Facts only; the
     migrated /travel/fly-in-fishing page is the base.
 14. Per-province / per-region landing improvements (real facts only)
@@ -54,15 +54,14 @@
 15. [DONE 2026-07-19] Empty-legs page with flexible-dates CTA + quote form.
 16. Winter/mining/ice-road & hunting-season content blocks (seasonal timing)
     ICE: 7×6×5 = 210 | Rev: diversifies beyond fishing.
-17. Internal linking pass: hub → destination → quote form (baseline shipped:
+17. [PARTIAL 2026-07-19 cycles 5-8] Internal linking: use-case chips on hubs, aircraft links in destination sidebars, popular routes on home, llms.txt sections. Iterate from GSC data. (baseline shipped:
     nearby-destination sidebars + breadcrumbs + hub grids; iterate from GSC data)
     ICE: 7×7×7 = 343
 18. [GATE] Digital-PR / backlink outreach targets for a niche directory
     ICE: 7×5×4 = 140 | GATE: any outreach/spend.
 19. [DONE 2026-07-19] Schema.org markup (Organization/LocalBusiness site-wide,
     Service+BreadcrumbList destinations, FAQPage ×28) — facts only.
-20. Structured operator directory data model (name/base/aircraft — verified
-    only; 143 migrated directory pages are the source material)
+20. [DONE 2026-07-19 cycle 4] Structured operator data model: scripts/build_operator_data.py -> src/data/operators.json (826 listings, 530 unique operators, 82 featured) parsed from directory pages
     ICE: 7×6×4 = 168 | Rev: foundation for featured listings.
 
 ## EXPLICITLY REJECTED
