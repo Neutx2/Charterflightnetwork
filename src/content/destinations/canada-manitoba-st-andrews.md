@@ -21,7 +21,7 @@ St Andrews Airport is located just north of Winnipeg and is one of Manitoba's mo
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 

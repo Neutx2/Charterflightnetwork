@@ -139,6 +139,12 @@ KILL_PREFIXES = (
 )
 
 
+NAV_LINK_LINE = re.compile(
+    r"^\s*\[\s*(HOME|CANADA|USA|BAHAMAS|CARIBBEAN|CONTACT|ABOUT|ADVERTISE)\s*\]\([^)]*\)\s*$",
+    re.I,
+)
+
+
 def is_killed(norm: str) -> bool:
     n = norm.replace("’", "'")
     return any(n.startswith(p) for p in KILL_PREFIXES)
@@ -210,6 +216,8 @@ def main():
     for url, lines in page_lines.items():
         kept = []
         for ln in lines:
+            if NAV_LINK_LINE.match(ln):
+                continue  # leftover nav on pages whose menu isn't a <nav>
             t = norm_line(ln)
             if t and (t in boiler or is_killed(t)):
                 continue

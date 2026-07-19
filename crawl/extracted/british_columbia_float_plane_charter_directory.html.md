@@ -296,8 +296,6 @@ Yes. Each operator listing includes a quote request button, with operator-specif
 
 The remaining British Columbia float plane locations are listed on British Columbia Float Plane Charter Directory Page 2.
 
-[About](about_charter_flight_network.htm)
-
 ## The Canadian Air Charter Directory
 
 We provide a free listing for every wheel plane, float plane and helicopter charter service operating in every province and territory of Canada.

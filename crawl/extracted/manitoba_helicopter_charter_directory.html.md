@@ -154,8 +154,6 @@ The page focuses on helicopter charter services. Some operators may also show wh
 
 Yes. Featured listings may include direct quote or website links, and Charter Flight Network also provides a quote request service to help source competitive charter quotes.
 
-[About](about_charter_flight_network.htm)
-
 ## The Canadian Air Charter Directory
 
 We provide a free listing for every wheel plane, float plane, and helicopter charter service operating in every province and territory of Canada.

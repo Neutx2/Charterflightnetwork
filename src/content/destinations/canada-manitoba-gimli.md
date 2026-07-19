@@ -21,7 +21,7 @@ Gimli is a well-known Lake Winnipeg destination for leisure travel, boating, fis
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 

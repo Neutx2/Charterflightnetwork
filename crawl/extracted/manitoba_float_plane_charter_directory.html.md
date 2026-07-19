@@ -231,8 +231,6 @@ Yes. Some operators are listed as float plane services only, while others operat
 
 Yes. Use the charter quote request option to send one request that can be reviewed by charter airlines best positioned and equipped to provide the service you require.
 
-[About](about_charter_flight_network.htm)
-
 ## The Canadian Air Charter Directory
 
 We provide a free listing for every wheel plane, float plane, and helicopter charter service operating in every province and territory of Canada.

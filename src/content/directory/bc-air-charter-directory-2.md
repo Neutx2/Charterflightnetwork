@@ -465,8 +465,6 @@ Yes. Several communities on this page include helicopter charter operators, espe
 
 Yes. This page includes float plane operators where applicable, including services in Fort St. John, Garibaldi Highlands, Gold River, Kelowna, Muncho Lake, and other listed areas.
 
-[About](/about)
-
 ## The Canadian Air Charter Directory
 
 We provide a free listing for every wheel plane, float plane, and helicopter charter service operating in every province and territory of Canada.

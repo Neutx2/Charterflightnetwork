@@ -21,7 +21,7 @@ Split Lake is a northern Manitoba community on the Nelson River system and is ho
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Thompson](/canada/manitoba/thompson)
 

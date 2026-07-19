@@ -23,7 +23,7 @@ Ontario Float Plane Directory
 [Page 3](/directory/ontario-float-plane-charter-directory-3)
 [Ontario Main Directory](/directory/ontario-air-charter-directory-1)
 
-[Back To Main Canadian Menu](//)
+[Back To Main Canadian Menu](/)
 
 Click for a quick index of Ontario float plane charter locations
 
@@ -301,7 +301,7 @@ P: [(807) 482-2362](tel:+18074822362)
 
 [Page 3](/directory/ontario-float-plane-charter-directory-3)
 
-[Back to Main Canadian Menu](//)
+[Back to Main Canadian Menu](/)
 
 ## Explore Related Directories
 
@@ -340,8 +340,6 @@ Yes. Each listing includes base location, phone number where available, aircraft
 ## Where are the other Ontario float plane listings?
 
 Additional Ontario float plane listings are available on Pages 2 and 3 of the Ontario Float Plane Charter Directory.
-
-[About](/about)
 
 ## The Canadian Air Charter Directory
 

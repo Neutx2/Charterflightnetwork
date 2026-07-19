@@ -21,7 +21,7 @@ Jenpeg is a remote northern Manitoba destination associated with the Jenpeg Gene
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 

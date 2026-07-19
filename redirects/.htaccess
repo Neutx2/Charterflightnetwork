@@ -884,7 +884,7 @@ RewriteRule ^idaho_air_charter_directory\.htm$ /directory/idaho-air-charter-dire
 RewriteRule ^ignace_charter_flights\.htm$ /canada/northern-ontario/ignace [R=301,L]
 RewriteRule ^illinois_air_charter_directory\.htm$ /directory/illinois-air-charter-directory [R=301,L]
 RewriteRule ^index\.htm$ / [R=301,L]
-RewriteRule ^index\.html$ // [R=301,L]
+RewriteRule ^index\.html$ / [R=301,L]
 RewriteRule ^indiana_air_charter_directory\.htm$ /directory/indiana-air-charter-directory [R=301,L]
 RewriteRule ^iowa_air_charter_directory\.htm$ /directory/iowa-air-charter-directory [R=301,L]
 RewriteRule ^jet_charter_toronto_chicago\.html$ /flights/toronto-chicago [R=301,L]

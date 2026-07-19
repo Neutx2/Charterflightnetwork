@@ -21,7 +21,7 @@ Shamattawa is a remote northeastern Manitoba community where the Echoing River m
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 

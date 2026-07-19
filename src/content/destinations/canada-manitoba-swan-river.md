@@ -21,7 +21,7 @@ Swan River is located in the Swan Valley near the Saskatchewan border and is one
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 

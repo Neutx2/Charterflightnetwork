@@ -141,8 +141,6 @@ This page links to helicopter directory pages for Alberta, British Columbia, Man
 
 Yes. You may browse the provincial directories or use Charter Flight Network's quote request service to source competitive helicopter charter options.
 
-[About](about_charter_flight_network.htm)
-
 ## The Canadian Air Charter Directory
 
 We provide a free listing for every wheel plane, float plane and helicopter charter service operating in every province and territory of Canada.

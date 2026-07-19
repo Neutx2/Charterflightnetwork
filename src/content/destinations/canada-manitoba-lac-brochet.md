@@ -21,7 +21,7 @@ Arrange wheel plane, float plane, or helicopter charter flights to Lac Brochet f
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 

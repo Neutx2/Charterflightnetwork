@@ -298,7 +298,7 @@ Get up to 3 competitive quotes for your next charter flight
 
 [Page 6](/directory/ontario-air-charter-directory-6)
 
-[Back To Main Canadian Menu](//)
+[Back To Main Canadian Menu](/)
 
 [Next: Page 6](/directory/ontario-air-charter-directory-6)
 
@@ -342,8 +342,6 @@ Yes. Many featured listings include direct quote request links, and Charter Flig
 
 Thunder Bay, ON P7E 5Y1
 P: [807-472-1955](tel:+18074721955)
-
-[About](/about)
 
 ## The Canadian Air Charter Directory
 

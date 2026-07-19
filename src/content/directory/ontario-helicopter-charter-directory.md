@@ -15,7 +15,7 @@ Direct links to helicopter charter services across Ontario (Page 1)
 
 Page 1
 
-[Back To Main Canadian Menu](//)
+[Back To Main Canadian Menu](/)
 
 ## Brampton / Cheltenham Helicopter Charter
 
@@ -197,7 +197,7 @@ P: [905-505-2151](tel:+19055052151)
 **Aircraft Types:** Sikorsky S-76C, S-76D
 **Service Type:** Helicopter
 
-[Back To Main Canadian Menu](//)
+[Back To Main Canadian Menu](/)
 
 P: [807-472-1955](tel:+18074721955)
 

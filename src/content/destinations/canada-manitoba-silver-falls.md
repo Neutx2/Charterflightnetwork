@@ -22,7 +22,7 @@ Silver Falls is located along the Winnipeg River northeast of Winnipeg and can b
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 

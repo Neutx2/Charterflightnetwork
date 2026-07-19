@@ -347,7 +347,8 @@ def main():
         counts[kind] = counts.get(kind, 0) + 1
         new_path = "/" + e["slug"] if e["slug"] != "/" else "/"
         if kind == "redirect-only":
-            redirects[e["legacyUrl"]] = "/" + e["redirect_to"]
+            target = e["redirect_to"]
+            redirects[e["legacyUrl"]] = target if target.startswith("/") else "/" + target
             continue
         redirects[e["legacyUrl"]] = new_path
 
@@ -420,8 +421,10 @@ def main():
     def rewrite_target(target: str) -> str | None:
         """Map a legacy link target to a new path; None = drop link keep text."""
         t = target.strip()
-        # our own domain → path
+        # our own domain → path; collapse stray protocol-relative slashes
         t = re.sub(r"^https?://(www\.)?charterflightnetwork\.com/?", "", t)
+        if re.fullmatch(r"/{2,}", t):
+            t = "/"
         if t.startswith(("http", "mailto:", "tel:")):
             return target  # external, keep as-is
         anchor = ""

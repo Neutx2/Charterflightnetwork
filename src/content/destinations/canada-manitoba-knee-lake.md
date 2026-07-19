@@ -21,7 +21,7 @@ Knee Lake is a remote fly-in fishing destination roughly 365 air miles north of 
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 

@@ -22,7 +22,7 @@ Wasagamack is an Anishininew community in the Island Lake region of northeastern
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Red Sucker Lake](/canada/manitoba/red-sucker-lake)
 

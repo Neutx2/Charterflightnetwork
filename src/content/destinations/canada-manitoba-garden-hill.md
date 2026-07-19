@@ -22,7 +22,7 @@ Charter flights to Garden Hill can be arranged by wheel plane through Island Lak
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Wasagamack](/canada/manitoba/wasagamack)
 

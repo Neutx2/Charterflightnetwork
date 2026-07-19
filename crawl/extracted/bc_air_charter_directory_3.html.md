@@ -408,8 +408,6 @@ Yes. Several page 3 destinations include float plane operators, including Nanaim
 
 Yes. Page 3 includes a number of helicopter charter operators serving areas such as Nelson, Oliver, Parksville, Penticton, Pitt Meadows, Port Alberni, Port McNeill, and Powell River.
 
-[About](about_charter_flight_network.htm)
-
 ## The Canadian Air Charter Directory
 
 We provide a free listing for every wheel plane, float plane, and helicopter charter service operating in every province and territory of Canada.

@@ -422,8 +422,6 @@ Each company prepares a competitive quote and sends it directly to your email.
 
 [Request A Quote](/quote)
 
-[About](/about)
-
 ## The Canadian Air Charter Directory
 
 We provide a free listing for every wheel plane / float plane / helicopter charter service operating in every province and territory of Canada.

@@ -120,8 +120,6 @@ Yes. Several listings show operators with aircraft or service categories that in
 
 Yes. You may use direct quote links where available or submit one request through Charter Flight Network to receive competitive charter quote options.
 
-[About](/about)
-
 ## The Canadian Air Charter Directory
 
 We provide a free listing for every wheel plane, float plane, and helicopter charter service operating in every province and territory of Canada.

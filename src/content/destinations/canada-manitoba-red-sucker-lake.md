@@ -21,7 +21,7 @@ Red Sucker Lake is a remote northern Manitoba community located roughly 335 air 
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Wasagamack](/canada/manitoba/wasagamack)
 

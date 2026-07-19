@@ -21,7 +21,7 @@ Brochet is a remote northern Manitoba community near the north end of Reindeer L
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Lynn Lake](/canada/manitoba/lynn-lake)
 

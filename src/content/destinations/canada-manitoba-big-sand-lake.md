@@ -21,7 +21,7 @@ Big Sand Lake Lodge is a remote northern Manitoba fly-in destination popular wit
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 

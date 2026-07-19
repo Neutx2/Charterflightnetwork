@@ -21,7 +21,7 @@ Gillam is a northern Manitoba community on the Nelson River corridor, situated b
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Thompson](/canada/manitoba/thompson)
 

@@ -1,17 +1,5 @@
 "Promoting The North American Air Charter Industry Since 2008"
 
-[HOME](index.html)
-
-[CANADA](canadian_charter_flight_network.htm)
-
-[USA](usa_charter_flight_network.htm)
-
-[BAHAMAS](charter_flights_bahamas.html)
-
-[CARIBBEAN](charter_flights_caribbean.html)
-
-[CONTACT](contact_us.htm)
-
 # Ragged Island Bahamas - Charter Flights Direct To Ragged Island Bahamas From Florida and All Bahamas Islands
 
 ## Receive Up To Three Competitive Price Quotes For Direct Charter Flights To Ragged Island Bahamas
@@ -86,18 +74,6 @@ Links To Bahamas Air Charter Destinations
 You Can Request Competitive Charter Quotes For Any Departure Point or Destination In North America / Bahamas & Caribbean. Start Your Search By Clicking Any Of The Following Links
 
 Search More North American Air Charter Destinations
-
-[HOME](index.html)
-
-[CANADA](canadian_charter_flight_network.htm)
-
-[USA](usa_charter_flight_network.htm)
-
-[BAHAMAS](charter_flights_bahamas.html)
-
-[CARIBBEAN](charter_flights_caribbean.html)
-
-[CONTACT](contact_us.htm)
 
 1100 Memorial Avenue
 Suite 424

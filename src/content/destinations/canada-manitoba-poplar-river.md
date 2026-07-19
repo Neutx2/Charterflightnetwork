@@ -21,7 +21,7 @@ Poplar River is a remote Manitoba First Nation community located roughly 450 kil
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Thompson,MB](/canada/manitoba/thompson)
 

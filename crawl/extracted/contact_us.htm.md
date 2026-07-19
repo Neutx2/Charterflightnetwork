@@ -1,30 +1,8 @@
 "Promoting The Air Charter Industry Throughout North America Since 2008"
 
-[HOME](index.html)
-
-[CANADA](canadian_charter_flight_network.htm)
-
-[USA](usa_charter_flight_network.htm)
-
-[BAHAMAS](charter_flights_bahamas.html)
-
-[CARIBBEAN](charter_flights_caribbean.html)
-
-[CONTACT](contact_us.htm)
-
 Subscribe To The Charter Flight Network Flight Pool Bulletins And Discover How You Can Increase Your Client Reach And Cut Travel Costs
 
 ---
-
-[HOME](index.html)
-
-[CANADA](canadian_charter_flight_network.htm)
-
-[USA](usa_charter_flight_network.htm)
-
-[BAHAMAS](charter_flights_bahamas.html)
-
-[CARIBBEAN](charter_flights_caribbean.html)
 
 CONTACT
 
@@ -43,18 +21,6 @@ Email: phil@charterflightnetwork.com
 ---
 
 Search More North American Air Charter Destinations
-
-[HOME](index.html)
-
-[CANADA](canadian_charter_flight_network.htm)
-
-[USA](usa_charter_flight_network.htm)
-
-[BAHAMAS](charter_flights_bahamas.html)
-
-[CARIBBEAN](charter_flights_caribbean.html)
-
-[CONTACT](contact_us.htm)
 
 1100 Memorial Avenue
 Suite 424

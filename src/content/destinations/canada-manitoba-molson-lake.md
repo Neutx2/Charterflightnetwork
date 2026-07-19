@@ -22,7 +22,7 @@ Molson Lake Lodge is located about 300 air miles north of Winnipeg and is known 
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 

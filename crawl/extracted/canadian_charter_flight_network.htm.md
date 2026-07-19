@@ -1,15 +1,3 @@
-[HOME](index.html)
-
-[CANADA](canadian_charter_flight_network.htm)
-
-[USA](usa_charter_flight_network.htm)
-
-[BAHAMAS](charter_flights_bahamas.html)
-
-[CARIBBEAN](charter_flights_caribbean.html)
-
-[CONTACT](contact_us.htm)
-
 # Canadian Charter Flights Listed For Every Province and Territory Including Wheel Plane, Float Plane and Helicopter Charters
 
 ### When You Need To Travel and You Want To Avoid Shoulder To Shoulder Seating on Commercial Airlines, Join The Charter Flight Network And Connect With Hundreds Of Business Travel Members Across Canada and USA, With Similar Travel Needs.

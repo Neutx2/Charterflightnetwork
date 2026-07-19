@@ -22,7 +22,7 @@ The community of Ilford is located just over 420 air miles north of Winnipeg. Yo
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Thompson](/canada/manitoba/thompson)
 

@@ -22,7 +22,7 @@ The town of Lac Du Bonnet is located about 70 miles northeast of Winnipeg on the
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 

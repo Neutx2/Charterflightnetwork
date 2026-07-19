@@ -20,7 +20,7 @@ Direct links to float plane charter services across Newfoundland and Labrador. B
 
 Page 1
 
-[Back To Main Canadian Menu](//)
+[Back To Main Canadian Menu](/)
 
 Click for a quick index of Newfoundland & Labrador float plane locations
 
@@ -130,8 +130,6 @@ Yes. The listings focus on float plane service, including aircraft such as Cessn
 ## Can I request charter quotes from this page?
 
 Yes. Some featured listings include direct quote or website links, and the page also links to the Charter Flight Network quote request service.
-
-[About](/about)
 
 ## The Canadian Air Charter Directory
 

@@ -470,8 +470,6 @@ Yes. Many featured listings include direct quote request links, and Charter Flig
 Thunder Bay, ON P7E 5Y1
 P: [807-472-1955](tel:+18074721955)
 
-[About](about_charter_flight_network.htm)
-
 ## The Canadian Air Charter Directory
 
 We provide a free listing for every wheel plane, float plane, and helicopter charter service operating in every province and territory of Canada.

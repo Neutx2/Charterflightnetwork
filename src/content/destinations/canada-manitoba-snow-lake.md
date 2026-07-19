@@ -21,7 +21,7 @@ Snow Lake is a northern Manitoba destination known for mining, lakes, fishing, a
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Thompson](/canada/manitoba/thompson)
 

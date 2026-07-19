@@ -331,7 +331,7 @@ Get up to 3 competitive quotes for your next charter flight
 
 [Page 6](/directory/ontario-air-charter-directory-6)
 
-[Back To Main Canadian Menu](//)
+[Back To Main Canadian Menu](/)
 
 [Back to Page 5](/directory/ontario-air-charter-directory-5)
 
@@ -374,8 +374,6 @@ Yes. Page 6 includes a mix of float plane, wheel plane, amphibious, and helicopt
 ## Can I request quotes from operators listed on this page?
 
 Yes. Many featured listings include direct quote request buttons, and Charter Flight Network also provides a quote request service to help source competitive charter quotes.
-
-[About](/about)
 
 ## The Canadian Air Charter Directory
 

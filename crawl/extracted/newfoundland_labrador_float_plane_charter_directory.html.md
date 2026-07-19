@@ -124,8 +124,6 @@ Yes. The listings focus on float plane service, including aircraft such as Cessn
 
 Yes. Some featured listings include direct quote or website links, and the page also links to the Charter Flight Network quote request service.
 
-[About](about_charter_flight_network.htm)
-
 ## The Canadian Air Charter Directory
 
 We provide a free listing for every wheel plane, float plane, and helicopter charter service operating in every province and territory of Canada.

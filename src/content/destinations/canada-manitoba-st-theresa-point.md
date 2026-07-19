@@ -21,7 +21,7 @@ The community of St Theresa Point is located just under 300 air miles north of W
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Wasagamack](/canada/manitoba/wasagamack)
 

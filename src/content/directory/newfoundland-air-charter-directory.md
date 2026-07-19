@@ -186,8 +186,6 @@ Yes. The listings include a mix of float plane, wheel plane, and helicopter char
 
 Yes. You may use the direct links in featured listings or submit one quote request through Charter Flight Network to receive competitive charter quote options.
 
-[About](/about)
-
 ## The Canadian Air Charter Directory
 
 We provide a free listing for every wheel plane, float plane, and helicopter charter service operating in every province and territory of Canada.

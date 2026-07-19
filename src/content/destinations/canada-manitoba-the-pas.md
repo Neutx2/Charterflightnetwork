@@ -21,7 +21,7 @@ The Pas is located about 325 air miles northwest of Winnipeg and is one of north
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Flin Flon](/canada/manitoba/flin-flon)
 

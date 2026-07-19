@@ -22,7 +22,7 @@ Charter flights to Lynn Lake can be arranged for wheel plane, float plane, and h
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 

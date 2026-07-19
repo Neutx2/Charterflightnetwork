@@ -250,8 +250,6 @@ Yes. Page 6 includes multiple helicopter charter operators serving Vernon, Victo
 
 Yes. Page 6 includes fixed-wing, float plane, and helicopter operators depending on the community and services available.
 
-[About](about_charter_flight_network.htm)
-
 ## The British Columbia Air Charter Directory
 
 We provide British Columbia wheel plane, float plane, and helicopter charter services with a basic free listing in our BC Air Charter Directory.

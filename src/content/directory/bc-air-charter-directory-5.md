@@ -422,8 +422,6 @@ Yes. This page includes float plane, helicopter, and fixed-wing charter operator
 
 Yes. The Vancouver section includes operators serving Richmond, Langley, Pitt Meadows, Vancouver, Coquitlam, Boundary Bay, and nearby areas.
 
-[About](/about)
-
 ## The British Columbia Air Charter Directory
 
 We provide British Columbia wheel plane, float plane, and helicopter charter services with a basic free listing in our BC Air Charter Directory.

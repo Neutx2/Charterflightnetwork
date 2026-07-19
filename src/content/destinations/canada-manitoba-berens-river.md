@@ -22,7 +22,7 @@ The community of Berens River is located near the mouth of the Berens River on t
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights St Andrews Airport](/canada/manitoba/st-andrews)
 

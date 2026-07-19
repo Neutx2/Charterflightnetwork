@@ -21,7 +21,7 @@ Flin Flon is located on the Manitoba-Saskatchewan border and works as a key nort
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 

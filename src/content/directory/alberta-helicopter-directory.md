@@ -229,8 +229,6 @@ Yes. Each listing includes base location, aircraft types, phone number where ava
 
 The remaining Alberta helicopter locations and operators are available on Alberta Helicopter Directory Page 2.
 
-[About](/about)
-
 ## The Canadian Air Charter Directory
 
 We provide a free listing for every wheel plane, float plane, and helicopter charter service operating in every province and territory of Canada.

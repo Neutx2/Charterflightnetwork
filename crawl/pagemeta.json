@@ -191,7 +191,7 @@
    }
   ],
   "canonical": "https://canadianaircharterdirectory.com/canadian_air_charter_directory_1.html",
-  "extracted_words": 463
+  "extracted_words": 460
  },
  "https://charterflightnetwork.com/charter_flights_bahamas.html": {
   "url": "https://charterflightnetwork.com/charter_flights_bahamas.html",
@@ -233,7 +233,7 @@
    }
   ],
   "canonical": null,
-  "extracted_words": 983
+  "extracted_words": 947
  },
  "https://charterflightnetwork.com/charter_flights_caribbean.html": {
   "url": "https://charterflightnetwork.com/charter_flights_caribbean.html",
@@ -922,7 +922,7 @@
    }
   ],
   "canonical": null,
-  "extracted_words": 1166
+  "extracted_words": 1148
  },
  "https://charterflightnetwork.com/canadian_directory_three_options.html": {
   "url": "https://charterflightnetwork.com/canadian_directory_three_options.html",
@@ -3383,7 +3383,7 @@
    }
   ],
   "canonical": "https://www.canadianaircharterdirectory.com/bc_air_charter_directory.html",
-  "extracted_words": 1692
+  "extracted_words": 1689
  },
  "https://charterflightnetwork.com/canadian_air_charter_licenced_flights_usa_directory.html": {
   "url": "https://charterflightnetwork.com/canadian_air_charter_licenced_flights_usa_directory.html",
@@ -3505,7 +3505,7 @@
    }
   ],
   "canonical": "https://canadianaircharterdirectory.com/canadian_helicopter_air_charter_directory.html",
-  "extracted_words": 867
+  "extracted_words": 864
  },
  "https://charterflightnetwork.com/manitoba_air_charter_directory_1.html": {
   "url": "https://charterflightnetwork.com/manitoba_air_charter_directory_1.html",
@@ -3619,7 +3619,7 @@
    }
   ],
   "canonical": "https://www.canadianaircharterdirectory.com/manitoba_air_charter_directory_1.html",
-  "extracted_words": 1863
+  "extracted_words": 1860
  },
  "https://charterflightnetwork.com/new_brunswick_air_charter_directory.html": {
   "url": "https://charterflightnetwork.com/new_brunswick_air_charter_directory.html",
@@ -3715,7 +3715,7 @@
    }
   ],
   "canonical": "https://charterflightnetwork.com/newfoundland_labrador_air_charter_directory.html",
-  "extracted_words": 812
+  "extracted_words": 809
  },
  "https://charterflightnetwork.com/nova_scotia_air_charter_directory.html": {
   "url": "https://charterflightnetwork.com/nova_scotia_air_charter_directory.html",
@@ -3983,7 +3983,7 @@
    }
   ],
   "canonical": "https://www.charterflightnetwork.com/ontario_air_charter_directory_1.html",
-  "extracted_words": 1798
+  "extracted_words": 1795
  },
  "https://charterflightnetwork.com/premium_listing_submit.html": {
   "url": "https://charterflightnetwork.com/premium_listing_submit.html",
@@ -4257,7 +4257,7 @@
    }
   ],
   "canonical": null,
-  "extracted_words": 1109
+  "extracted_words": 1073
  },
  "https://charterflightnetwork.com/charter_flights_acklins_bahamas.html": {
   "url": "https://charterflightnetwork.com/charter_flights_acklins_bahamas.html",
@@ -4303,7 +4303,7 @@
    }
   ],
   "canonical": null,
-  "extracted_words": 801
+  "extracted_words": 765
  },
  "https://charterflightnetwork.com/charter_flights_andros_bahamas.html": {
   "url": "https://charterflightnetwork.com/charter_flights_andros_bahamas.html",
@@ -4349,7 +4349,7 @@
    }
   ],
   "canonical": null,
-  "extracted_words": 924
+  "extracted_words": 888
  },
  "https://charterflightnetwork.com/charter_flights_berry_islands_bahamas.html": {
   "url": "https://charterflightnetwork.com/charter_flights_berry_islands_bahamas.html",
@@ -4395,7 +4395,7 @@
    }
   ],
   "canonical": null,
-  "extracted_words": 965
+  "extracted_words": 929
  },
  "https://charterflightnetwork.com/charter_flights_bimini_bahamas.html": {
   "url": "https://charterflightnetwork.com/charter_flights_bimini_bahamas.html",
@@ -4441,7 +4441,7 @@
    }
   ],
   "canonical": null,
-  "extracted_words": 823
+  "extracted_words": 787
  },
  "https://charterflightnetwork.com/charter_flights_cat_island_bahamas.html": {
   "url": "https://charterflightnetwork.com/charter_flights_cat_island_bahamas.html",
@@ -4487,7 +4487,7 @@
    }
   ],
   "canonical": null,
-  "extracted_words": 934
+  "extracted_words": 898
  },
  "https://charterflightnetwork.com/charter_flights_cay_sal_bahamas.html": {
   "url": "https://charterflightnetwork.com/charter_flights_cay_sal_bahamas.html",
@@ -4533,7 +4533,7 @@
    }
   ],
   "canonical": null,
-  "extracted_words": 807
+  "extracted_words": 771
  },
  "https://charterflightnetwork.com/charter_flights_crooked_island_bahamas.html": {
   "url": "https://charterflightnetwork.com/charter_flights_crooked_island_bahamas.html",
@@ -4575,7 +4575,7 @@
    }
   ],
   "canonical": null,
-  "extracted_words": 858
+  "extracted_words": 822
  },
  "https://charterflightnetwork.com/charter_flights_eleuthera_bahamas.html": {
   "url": "https://charterflightnetwork.com/charter_flights_eleuthera_bahamas.html",
@@ -4617,7 +4617,7 @@
    }
   ],
   "canonical": null,
-  "extracted_words": 907
+  "extracted_words": 871
  },
  "https://charterflightnetwork.com/charter_flights_exuma_bahamas.html": {
   "url": "https://charterflightnetwork.com/charter_flights_exuma_bahamas.html",
@@ -4659,7 +4659,7 @@
    }
   ],
   "canonical": null,
-  "extracted_words": 1252
+  "extracted_words": 1216
  },
  "https://charterflightnetwork.com/charter_flights_grand_bahama.html": {
   "url": "https://charterflightnetwork.com/charter_flights_grand_bahama.html",
@@ -4701,7 +4701,7 @@
    }
   ],
   "canonical": null,
-  "extracted_words": 949
+  "extracted_words": 913
  },
  "https://charterflightnetwork.com/charter_flights_inagua_bahamas.html": {
   "url": "https://charterflightnetwork.com/charter_flights_inagua_bahamas.html",
@@ -4743,7 +4743,7 @@
    }
   ],
   "canonical": null,
-  "extracted_words": 792
+  "extracted_words": 756
  },
  "https://charterflightnetwork.com/charter_flights_long_island_bahamas.html": {
   "url": "https://charterflightnetwork.com/charter_flights_long_island_bahamas.html",
@@ -4785,7 +4785,7 @@
    }
   ],
   "canonical": null,
-  "extracted_words": 903
+  "extracted_words": 867
  },
  "https://charterflightnetwork.com/charter_flights_mayaguana_bahamas.html": {
   "url": "https://charterflightnetwork.com/charter_flights_mayaguana_bahamas.html",
@@ -4827,7 +4827,7 @@
    }
   ],
   "canonical": null,
-  "extracted_words": 799
+  "extracted_words": 763
  },
  "https://charterflightnetwork.com/charter_flights_nassau_bahamas.html": {
   "url": "https://charterflightnetwork.com/charter_flights_nassau_bahamas.html",
@@ -4869,7 +4869,7 @@
    }
   ],
   "canonical": null,
-  "extracted_words": 884
+  "extracted_words": 848
  },
  "https://charterflightnetwork.com/charter_flights_paradise_island_bahamas.html": {
   "url": "https://charterflightnetwork.com/charter_flights_paradise_island_bahamas.html",
@@ -4911,7 +4911,7 @@
    }
   ],
   "canonical": null,
-  "extracted_words": 910
+  "extracted_words": 874
  },
  "https://charterflightnetwork.com/charter_flights_ragged_island_bahamas.html": {
   "url": "https://charterflightnetwork.com/charter_flights_ragged_island_bahamas.html",
@@ -4953,7 +4953,7 @@
    }
   ],
   "canonical": null,
-  "extracted_words": 848
+  "extracted_words": 812
  },
  "https://charterflightnetwork.com/charter_flights_rum_cay_bahamas.html": {
   "url": "https://charterflightnetwork.com/charter_flights_rum_cay_bahamas.html",
@@ -4995,7 +4995,7 @@
    }
   ],
   "canonical": null,
-  "extracted_words": 854
+  "extracted_words": 818
  },
  "https://charterflightnetwork.com/charter_flights_san_salvador_bahamas.html": {
   "url": "https://charterflightnetwork.com/charter_flights_san_salvador_bahamas.html",
@@ -5037,7 +5037,7 @@
    }
   ],
   "canonical": null,
-  "extracted_words": 883
+  "extracted_words": 847
  },
  "https://charterflightnetwork.com/contact_us.htm": {
   "url": "https://charterflightnetwork.com/contact_us.htm",
@@ -5055,7 +5055,7 @@
    }
   ],
   "canonical": null,
-  "extracted_words": 257
+  "extracted_words": 206
  },
  "https://charterflightnetwork.com/list_your_airline.html": {
   "url": "https://charterflightnetwork.com/list_your_airline.html",
@@ -30811,7 +30811,7 @@
    }
   ],
   "canonical": "https://www.canadianaircharterdirectory.com/alberta_air_charter_directory_2.html",
-  "extracted_words": 1170
+  "extracted_words": 1167
  },
  "https://charterflightnetwork.com/alberta_air_charter_directory_4.html": {
   "url": "https://charterflightnetwork.com/alberta_air_charter_directory_4.html",
@@ -30865,7 +30865,7 @@
    }
   ],
   "canonical": "https://www.canadianaircharterdirectory.com/alberta_air_charter_directory_4.html",
-  "extracted_words": 1049
+  "extracted_words": 1046
  },
  "https://charterflightnetwork.com/helicopter_charter_quote.html": {
   "url": "https://charterflightnetwork.com/helicopter_charter_quote.html",
@@ -37743,7 +37743,7 @@
    }
   ],
   "canonical": "https://www.canadianaircharterdirectory.com/bc_air_charter_directory_2.html",
-  "extracted_words": 1888
+  "extracted_words": 1885
  },
  "https://charterflightnetwork.com/bc_air_charter_directory_3.html": {
   "url": "https://charterflightnetwork.com/bc_air_charter_directory_3.html",
@@ -37805,7 +37805,7 @@
    }
   ],
   "canonical": "https://www.canadianaircharterdirectory.com/bc_air_charter_directory_3.html",
-  "extracted_words": 1709
+  "extracted_words": 1706
  },
  "https://charterflightnetwork.com/bc_air_charter_directory_4.html": {
   "url": "https://charterflightnetwork.com/bc_air_charter_directory_4.html",
@@ -37867,7 +37867,7 @@
    }
   ],
   "canonical": "https://www.canadianaircharterdirectory.com/bc_air_charter_directory_4.html",
-  "extracted_words": 1692
+  "extracted_words": 1689
  },
  "https://charterflightnetwork.com/bc_air_charter_directory_5.html": {
   "url": "https://charterflightnetwork.com/bc_air_charter_directory_5.html",
@@ -37937,7 +37937,7 @@
    }
   ],
   "canonical": "https://www.canadianaircharterdirectory.com/bc_air_charter_directory_5.html",
-  "extracted_words": 1768
+  "extracted_words": 1765
  },
  "https://charterflightnetwork.com/bc_air_charter_directory_6.html": {
   "url": "https://charterflightnetwork.com/bc_air_charter_directory_6.html",
@@ -37979,7 +37979,7 @@
    }
   ],
   "canonical": "https://www.canadianaircharterdirectory.com/bc_air_charter_directory_6.html",
-  "extracted_words": 1129
+  "extracted_words": 1126
  },
  "https://charterflightnetwork.com/float_plane_charter_quote.html": {
   "url": "https://charterflightnetwork.com/float_plane_charter_quote.html",
@@ -38059,7 +38059,7 @@
    }
   ],
   "canonical": "https://charterflightnetwork.com/alberta_air_charters_to_usa_directory.html",
-  "extracted_words": 784
+  "extracted_words": 781
  },
  "https://charterflightnetwork.com/bc_usa_charter_directory.html": {
   "url": "https://charterflightnetwork.com/bc_usa_charter_directory.html",
@@ -38125,7 +38125,7 @@
    }
   ],
   "canonical": "https://charterflightnetwork.com/canadian_air_charter_licenced_flights_usa_directory_bc.html",
-  "extracted_words": 951
+  "extracted_words": 948
  },
  "https://charterflightnetwork.com/manitoba_usa_air_charter_directory.html": {
   "url": "https://charterflightnetwork.com/manitoba_usa_air_charter_directory.html",
@@ -38175,7 +38175,7 @@
    }
   ],
   "canonical": "https://canadianaircharterdirectory.com/manitoba_air_charters_to_usa_directory.html",
-  "extracted_words": 729
+  "extracted_words": 726
  },
  "https://charterflightnetwork.com/new_brunswick_usa_air_charter_directory.html": {
   "url": "https://charterflightnetwork.com/new_brunswick_usa_air_charter_directory.html",
@@ -38655,7 +38655,7 @@
    }
   ],
   "canonical": "https://www.canadianaircharterdirectory.com/alberta_float_plane_air_charter_directory.html",
-  "extracted_words": 677
+  "extracted_words": 674
  },
  "https://charterflightnetwork.com/british_columbia_float_plane_charter_directory.html": {
   "url": "https://charterflightnetwork.com/british_columbia_float_plane_charter_directory.html",
@@ -38717,7 +38717,7 @@
    }
   ],
   "canonical": "https://www.canadianaircharterdirectory.com/british_columbia_float_plane_charter_directory.html",
-  "extracted_words": 1336
+  "extracted_words": 1333
  },
  "https://charterflightnetwork.com/manitoba_float_plane_charter_directory.html": {
   "url": "https://charterflightnetwork.com/manitoba_float_plane_charter_directory.html",
@@ -38771,7 +38771,7 @@
    }
   ],
   "canonical": "https://www.canadianaircharterdirectory.com/manitoba_float_plane_charter_directory_1.html",
-  "extracted_words": 1164
+  "extracted_words": 1161
  },
  "https://charterflightnetwork.com/newfoundland_labrador_float_plane_charter_directory.html": {
   "url": "https://charterflightnetwork.com/newfoundland_labrador_float_plane_charter_directory.html",
@@ -38821,7 +38821,7 @@
    }
   ],
   "canonical": "https://charterflightnetwork.com/newfoundland_labrador_float_plane_air_charter_directory.html",
-  "extracted_words": 640
+  "extracted_words": 637
  },
  "https://charterflightnetwork.com/ontario_float_plane_charter_directory.html": {
   "url": "https://charterflightnetwork.com/ontario_float_plane_charter_directory.html",
@@ -38899,7 +38899,7 @@
    }
   ],
   "canonical": "https://charterflightnetwork.com/ontario_float_plane_charter_directory.html",
-  "extracted_words": 1413
+  "extracted_words": 1410
  },
  "https://charterflightnetwork.com/quebec_float_plane_charter_directory.html": {
   "url": "https://charterflightnetwork.com/quebec_float_plane_charter_directory.html",
@@ -39151,7 +39151,7 @@
    }
   ],
   "canonical": "https://www.canadianaircharterdirectory.com/alberta_helicopter_directory.html",
-  "extracted_words": 1010
+  "extracted_words": 1007
  },
  "https://charterflightnetwork.com/bc_helicopter_directory.html": {
   "url": "https://charterflightnetwork.com/bc_helicopter_directory.html",
@@ -39205,7 +39205,7 @@
    }
   ],
   "canonical": "https://www.canadianaircharterdirectory.com/bc_helicopter_directory.html",
-  "extracted_words": 1118
+  "extracted_words": 1115
  },
  "https://charterflightnetwork.com/manitoba_helicopter_charter_directory.html": {
   "url": "https://charterflightnetwork.com/manitoba_helicopter_charter_directory.html",
@@ -39255,7 +39255,7 @@
    }
   ],
   "canonical": "https://www.canadianaircharterdirectory.com/manitoba_helicopter_air_charter_directory_1.html",
-  "extracted_words": 829
+  "extracted_words": 826
  },
  "https://charterflightnetwork.com/newfoundland_labrador_helicopter_directory.html": {
   "url": "https://charterflightnetwork.com/newfoundland_labrador_helicopter_directory.html",
@@ -39405,7 +39405,7 @@
    }
   ],
   "canonical": "https://canadianaircharterdirectory.com/canadian_helicopter_air_charter_directory.html",
-  "extracted_words": 867
+  "extracted_words": 864
  },
  "https://charterflightnetwork.com/nunavut_helicopter_directory.html": {
   "url": "https://charterflightnetwork.com/nunavut_helicopter_directory.html",
@@ -39821,7 +39821,7 @@
    }
   ],
   "canonical": "https://www.canadianaircharterdirectory.com/ontario_air_charter_directory_2.html",
-  "extracted_words": 1206
+  "extracted_words": 1203
  },
  "https://charterflightnetwork.com/ontario_air_charter_directory_3.html": {
   "url": "https://charterflightnetwork.com/ontario_air_charter_directory_3.html",
@@ -39883,7 +39883,7 @@
    }
   ],
   "canonical": "https://www.canadianaircharterdirectory.com/ontario_air_charter_directory_3.html",
-  "extracted_words": 1210
+  "extracted_words": 1207
  },
  "https://charterflightnetwork.com/ontario_air_charter_directory_4.html": {
   "url": "https://charterflightnetwork.com/ontario_air_charter_directory_4.html",
@@ -40001,7 +40001,7 @@
    }
   ],
   "canonical": "https://charterflightnetwork.com/ontario_air_charter_directory_4.html",
-  "extracted_words": 1945
+  "extracted_words": 1942
  },
  "https://charterflightnetwork.com/ontario_air_charter_directory_5.html": {
   "url": "https://charterflightnetwork.com/ontario_air_charter_directory_5.html",
@@ -40079,7 +40079,7 @@
    }
   ],
   "canonical": "https://charterflightnetwork.com/ontario_air_charter_directory_5.html",
-  "extracted_words": 1531
+  "extracted_words": 1528
  },
  "https://charterflightnetwork.com/ontario_air_charter_directory_6.html": {
   "url": "https://charterflightnetwork.com/ontario_air_charter_directory_6.html",
@@ -40153,7 +40153,7 @@
    }
   ],
   "canonical": "https://charterflightnetwork.com/ontario_air_charter_directory_6.html",
-  "extracted_words": 1510
+  "extracted_words": 1507
  },
  "https://charterflightnetwork.com/quebec_air_charter_directory_2.html": {
   "url": "https://charterflightnetwork.com/quebec_air_charter_directory_2.html",
@@ -40749,7 +40749,7 @@
    }
   ],
   "canonical": "https://www.charterflightnetwork.com/ontario_air_charter_directory_1.html",
-  "extracted_words": 1798
+  "extracted_words": 1795
  },
  "https://charterflightnetwork.com/caribbean_float_plane_quotes.html": {
   "url": "https://charterflightnetwork.com/caribbean_float_plane_quotes.html",
@@ -45315,7 +45315,7 @@
    }
   ],
   "canonical": "https://www.canadianaircharterdirectory.com/ontario_air_charter_directory_3.html",
-  "extracted_words": 1210
+  "extracted_words": 1207
  },
  "https://charterflightnetwork.com/northern_ontario_float_plane_4.html": {
   "url": "https://charterflightnetwork.com/northern_ontario_float_plane_4.html",
@@ -45433,7 +45433,7 @@
    }
   ],
   "canonical": "https://charterflightnetwork.com/ontario_air_charter_directory_4.html",
-  "extracted_words": 1945
+  "extracted_words": 1942
  },
  "https://charterflightnetwork.com/northern_ontario_float_plane_6.html": {
   "url": "https://charterflightnetwork.com/northern_ontario_float_plane_6.html",
@@ -45507,7 +45507,7 @@
    }
   ],
   "canonical": "https://charterflightnetwork.com/ontario_air_charter_directory_6.html",
-  "extracted_words": 1510
+  "extracted_words": 1507
  },
  "https://charterflightnetwork.com/charter_flights_obre_lake_nwt.html": {
   "url": "https://charterflightnetwork.com/charter_flights_obre_lake_nwt.html",
@@ -49583,7 +49583,7 @@
    }
   ],
   "canonical": "https://www.canadianaircharterdirectory.com/alberta_air_charter_directory_3.html",
-  "extracted_words": 933
+  "extracted_words": 930
  },
  "https://charterflightnetwork.com/charter_flights_usa_bc.html": {
   "url": "https://charterflightnetwork.com/charter_flights_usa_bc.html",
@@ -50503,7 +50503,7 @@
    }
   ],
   "canonical": "https://charterflightnetwork.com/ontario_float_plane_charter_directory_2.html",
-  "extracted_words": 1355
+  "extracted_words": 1352
  },
  "https://charterflightnetwork.com/ontario_float_plane_charter_directory_3.html": {
   "url": "https://charterflightnetwork.com/ontario_float_plane_charter_directory_3.html",
@@ -50687,7 +50687,7 @@
    }
   ],
   "canonical": "https://www.charterflightnetwork.com/alberta_helicopter_directory_2.html",
-  "extracted_words": 1268
+  "extracted_words": 1265
  },
  "https://charterflightnetwork.com/bc_helicopter_directory_2.html": {
   "url": "https://charterflightnetwork.com/bc_helicopter_directory_2.html",
@@ -50737,7 +50737,7 @@
    }
   ],
   "canonical": "https://charterflightnetwork.com/bc_helicopter_directory_2.html",
-  "extracted_words": 1311
+  "extracted_words": 1308
  },
  "https://charterflightnetwork.com/bc_helicopter_directory_3.html": {
   "url": "https://charterflightnetwork.com/bc_helicopter_directory_3.html",
@@ -50791,7 +50791,7 @@
    }
   ],
   "canonical": "https://charterflightnetwork.com/bc_helicopter_directory_3.html",
-  "extracted_words": 1570
+  "extracted_words": 1567
  },
  "https://charterflightnetwork.com/bc_helicopter_directory_4.html": {
   "url": "https://charterflightnetwork.com/bc_helicopter_directory_4.html",
@@ -50837,7 +50837,7 @@
    }
   ],
   "canonical": "https://charterflightnetwork.com/bc_helicopter_directory_4.html",
-  "extracted_words": 1244
+  "extracted_words": 1241
  },
  "https://charterflightnetwork.com/charter_quote_great_lakes_heli.html": {
   "url": "https://charterflightnetwork.com/charter_quote_great_lakes_heli.html",
@@ -51005,7 +51005,7 @@
    }
   ],
   "canonical": "https://charterflightnetwork.com/ontario_air_charter_directory_5.html",
-  "extracted_words": 1531
+  "extracted_words": 1528
  },
  "https://charterflightnetwork.com/usa_charter_quote.html": {
   "url": "https://charterflightnetwork.com/usa_charter_quote.html",

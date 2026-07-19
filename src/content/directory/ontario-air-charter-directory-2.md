@@ -265,7 +265,7 @@ P: [1-866-844-5700](tel:+18668445700)
 
 [Page 6](/directory/ontario-air-charter-directory-6)
 
-[Back to Main Canadian Menu](//)
+[Back to Main Canadian Menu](/)
 
 [Next: Page 3](/directory/ontario-air-charter-directory-3)
 
@@ -296,8 +296,6 @@ Each company prepares a competitive quote and sends it directly to your email.
 [Request A Quote](/quote)
 
 P: [807-472-1955](tel:+18074721955)
-
-[About](/about)
 
 ## The Canadian Air Charter Directory
 

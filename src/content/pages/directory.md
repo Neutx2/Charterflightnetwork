@@ -70,8 +70,6 @@ The Premium Listing is $175, with discounts available for charter services opera
 
 [Request Upgrade Information](/operators/listing-options)
 
-[About](/about)
-
 ## The Canadian Air Charter Directory
 
 We provide a free listing for every wheel plane, float plane, and helicopter charter service operating in every province and territory of Canada.

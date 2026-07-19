@@ -61,7 +61,7 @@ region: "canada"
 [Weagamow](#Weagamow)
 [White River](#WhiteRiver)
 
-### [Back To Main Canadian Menu](//)
+### [Back To Main Canadian Menu](/)
 
 ## Ottawa Float Plane Air Charter
 
@@ -299,7 +299,7 @@ P: (807) 822-2222
 
 ## [Page 3](/directory/ontario-float-plane-charter-directory-3)
 
-### [Back To Main Canadian Menu](//)
+### [Back To Main Canadian Menu](/)
 
 Copyright © Charter Flight Network. All rights reserved.
 

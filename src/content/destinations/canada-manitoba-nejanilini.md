@@ -22,7 +22,7 @@ The Lodge at Little Duck, formerly associated with Nejanilini Lodge, is a remote
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 

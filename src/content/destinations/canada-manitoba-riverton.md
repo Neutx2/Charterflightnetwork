@@ -21,7 +21,7 @@ Riverton is an Interlake community near the Icelandic River and Lake Winnipeg, k
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Gimli](/canada/manitoba/gimli)
 

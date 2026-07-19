@@ -292,8 +292,6 @@ Yes. Each listing includes base location, phone number where available, aircraft
 
 Additional British Columbia helicopter listings are available on Pages 1, 3 and 4 of the BC Helicopter Directory.
 
-[About](/about)
-
 ## The Canadian Air Charter Directory
 
 We provide a free listing for every wheel plane, float plane and helicopter charter service operating in every province and territory of Canada.

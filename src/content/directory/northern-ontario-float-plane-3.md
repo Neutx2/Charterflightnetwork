@@ -261,7 +261,7 @@ P: [705-687-5555](tel:+17056875555) / [705-706-5222](tel:+17057065222)
 
 [Page 6](/directory/ontario-air-charter-directory-6)
 
-[Back to Main Canadian Menu](//)
+[Back to Main Canadian Menu](/)
 
 [Next: Page 4](/directory/ontario-air-charter-directory-4)
 
@@ -304,8 +304,6 @@ Yes. Page 3 includes a mix of float plane, wheel plane, and helicopter charter l
 Yes. Some listings include direct quote request buttons, and Charter Flight Network also offers a quote request service to help source competitive charter quotes.
 
 P: [807-472-1955](tel:+18074721955)
-
-[About](/about)
 
 ## The Canadian Air Charter Directory
 

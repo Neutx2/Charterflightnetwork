@@ -419,8 +419,6 @@ Yes. Page 4 includes a mix of fixed-wing, float plane, and helicopter charter op
 
 Yes. Many listings include direct quote request links, and Charter Flight Network also offers a quote request service that can help source up to 3 competitive charter quotes.
 
-[About](about_charter_flight_network.htm)
-
 ## The British Columbia Air Charter Directory
 
 We provide a free listing for wheel plane, float plane, and helicopter charter services operating throughout British Columbia.

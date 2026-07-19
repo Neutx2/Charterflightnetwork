@@ -1,0 +1,52 @@
+<!doctype html>
+<!--
+  Netlify Forms registration page (only used if deploying to Netlify).
+  Netlify's build bot scans static HTML for form definitions; this file
+  registers the forms so runtime submissions are accepted once the live
+  forms are switched over (see TODO in src/components/QuoteForm.astro).
+  It is never linked from the site.
+-->
+<html lang="en">
+<head><meta charset="utf-8" /><title>Form definitions</title><meta name="robots" content="noindex" /></head>
+<body>
+  <form name="charter-quote" netlify netlify-honeypot="website" action="/quote-confirmation" hidden>
+    <input type="text" name="website" />
+    <input type="text" name="Name" />
+    <input type="text" name="Company" />
+    <input type="text" name="City" />
+    <input type="text" name="State" />
+    <input type="email" name="Email" />
+    <input type="tel" name="Phone" />
+    <input type="text" name="FlyFrom" />
+    <input type="text" name="FlyTo" />
+    <input type="text" name="TripType" />
+    <input type="date" name="DepartDate" />
+    <input type="date" name="ReturnDate" />
+    <input type="number" name="Passengers" />
+    <input type="checkbox" name="Jet" />
+    <input type="checkbox" name="Turboprop" />
+    <input type="checkbox" name="Piston" />
+    <input type="checkbox" name="Wheels" />
+    <input type="checkbox" name="Floats" />
+    <input type="checkbox" name="Helicopter" />
+    <textarea name="OtherInfo"></textarea>
+    <input type="text" name="subject" />
+  </form>
+  <form name="contact" netlify netlify-honeypot="website" action="/quote-confirmation" hidden>
+    <input type="text" name="website" />
+    <input type="text" name="Name" />
+    <input type="email" name="Email" />
+    <textarea name="OtherInfo"></textarea>
+  </form>
+  <form name="operator-application" netlify netlify-honeypot="website" action="/quote-confirmation" hidden>
+    <input type="text" name="website" />
+    <input type="text" name="Company" />
+    <input type="text" name="Name" />
+    <input type="email" name="Email" />
+    <input type="tel" name="Phone" />
+    <input type="text" name="City" />
+    <input type="text" name="State" />
+    <textarea name="OtherInfo"></textarea>
+  </form>
+</body>
+</html>

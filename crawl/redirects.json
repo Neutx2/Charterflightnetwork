@@ -1,5 +1,5 @@
 {
- "/": "//",
+ "/": "/",
  "/about_charter_flight_network.htm": "/about",
  "/alberta_charter_flights.htm": "/canada/alberta",
  "/british_columbia_charter_flights.htm": "/canada/british-columbia",
@@ -8,7 +8,7 @@
  "/charter_flights_caribbean.html": "/caribbean",
  "/charter_quote.html": "/quote",
  "/charter_quote_request_service.html": "/operators",
- "/index.html": "//",
+ "/index.html": "/",
  "/labrador_charter_flights.htm": "/canada/labrador",
  "/manitoba_charter_flights.htm": "/canada/manitoba",
  "/new_brunswick_charter_flights.htm": "/canada/new-brunswick",

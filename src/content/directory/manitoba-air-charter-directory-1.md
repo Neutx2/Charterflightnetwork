@@ -454,8 +454,6 @@ Yes. Manitoba page 1 includes a mix of wheel plane, float plane, and helicopter 
 
 Yes. Featured listings may include direct quote request links, and Charter Flight Network also provides a quote request service to help source competitive charter quotes.
 
-[About](/about)
-
 ## The Canadian Air Charter Directory
 
 We provide a free listing for every wheel plane, float plane, and helicopter charter service operating in every province and territory of Canada.

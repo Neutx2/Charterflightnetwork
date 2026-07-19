@@ -21,7 +21,7 @@ York Factory is a remote National Historic Site near the mouth of the Hayes Rive
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Gillam](/canada/manitoba/gillam)
 

@@ -21,7 +21,7 @@ Ask about direct charter flights to North Haven Resort from Winnipeg, Chicago, a
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 

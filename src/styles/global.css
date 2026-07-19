@@ -87,6 +87,9 @@ body {
 }
 .copy a {
   @apply text-lake-600 underline underline-offset-2 hover:text-lake-800;
+  /* comfortable tap targets for the dense legacy directory link lists */
+  display: inline-block;
+  padding-block: 0.2rem;
 }
 .copy strong {
   @apply text-slate-900;

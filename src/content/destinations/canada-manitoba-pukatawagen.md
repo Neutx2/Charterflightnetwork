@@ -21,7 +21,7 @@ Pukatawagan is a remote northern Manitoba community served by Pukatawagan Airpor
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 

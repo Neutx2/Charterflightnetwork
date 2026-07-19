@@ -22,7 +22,7 @@ Gangler's North Seal River Lodge is a premium fly-in fishing destination in far 
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 

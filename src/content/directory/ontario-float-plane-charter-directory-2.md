@@ -17,7 +17,7 @@ Float plane and amphibious charter operators serving Eva Lake, Foleyet, Fort Fra
 
 Ontario Float Plane Directory[<< Page 1](/directory/ontario-float-plane-charter-directory)[Page 2](/directory/ontario-float-plane-charter-directory-2)[Page 3 >>](/directory/ontario-float-plane-charter-directory-3)[Ontario Main Directory](/directory/ontario-air-charter-directory-1)
 
-[Back To Main Canadian Menu](//)
+[Back To Main Canadian Menu](/)
 
 Click for a quick index of Ontario float plane charter locations
 
@@ -291,7 +291,7 @@ Charter Quote Request
 
 [Page 3 >>](/directory/ontario-float-plane-charter-directory-3)
 
-[Back to Main Canadian Menu](//)
+[Back to Main Canadian Menu](/)
 
 ## Explore Related Directories
 
@@ -330,8 +330,6 @@ Yes. Each listing includes base location, phone number where available, aircraft
 ## Where are the other Ontario float plane listings?
 
 Additional Ontario float plane listings are available on Pages 1 and 3 of the Ontario Float Plane Charter Directory.
-
-[About](/about)
 
 ## The Canadian Air Charter Directory
 

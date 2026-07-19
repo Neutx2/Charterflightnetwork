@@ -21,7 +21,7 @@ Pauingassi is a remote Ojibwe First Nation in eastern Manitoba near the Ontario 
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Little Grand Rapids](/canada/manitoba/little-grand-rapids)
 

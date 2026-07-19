@@ -22,7 +22,7 @@ Charter Flight Network helps travelers compare charter options to Winnipeg, Mani
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 

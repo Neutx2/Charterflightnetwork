@@ -21,7 +21,7 @@ The Bloodvein River is one of Canada's classic wilderness canoe routes and trip 
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Winnipeg](/canada/manitoba/winnipeg)
 

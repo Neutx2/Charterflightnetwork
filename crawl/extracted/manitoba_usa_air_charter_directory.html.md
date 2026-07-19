@@ -115,8 +115,6 @@ Yes. Listings include business jets, turboprops, regional aircraft, wheel aircra
 
 Yes. You may contact listed operators directly or submit one quote request through Charter Flight Network to receive competitive charter quote options from operators best positioned for your route.
 
-[About](about_charter_flight_network.htm)
-
 ## The Canadian Air Charter Directory
 
 We provide a free listing for every wheel plane, float plane, and helicopter charter service operating in every province and territory of Canada.

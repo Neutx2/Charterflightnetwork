@@ -21,7 +21,7 @@ Dauphin is located about 140 air miles northwest of Winnipeg in Manitoba's Parkl
 
 [Manitoba Charter Flight Destinations](/canada/manitoba)
 
-[Canadian Air Charter Destinations](//)
+[Canadian Air Charter Destinations](/)
 
 [Charter Flights Swan River](/canada/manitoba/swan-river)
 
