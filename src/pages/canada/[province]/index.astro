@@ -17,10 +17,19 @@ const { entry } = Astro.props;
 const { Content } = await render(entry);
 const d = entry.data;
 
+// Newfoundland & Labrador share one destination set on the legacy site —
+// both hubs list all of it, so mirror that here.
+const siblingSlugs =
+  d.provinceSlug === 'labrador'
+    ? ['labrador', 'newfoundland']
+    : d.provinceSlug === 'newfoundland'
+      ? ['newfoundland', 'labrador']
+      : [d.provinceSlug];
+
 const destinations = (
   await getCollection(
     'destinations',
-    (e) => e.data.region === 'canada' && e.data.provinceSlug === d.provinceSlug
+    (e) => e.data.region === 'canada' && siblingSlugs.includes(e.data.provinceSlug ?? '')
   )
 ).sort((a, b) => (a.data.city ?? '').localeCompare(b.data.city ?? ''));
 

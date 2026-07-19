@@ -21,8 +21,13 @@ const { entry, all } = Astro.props;
 const { Content } = await render(entry);
 const d = entry.data;
 
+// Newfoundland & Labrador share one destination set (as on the legacy site)
+const siblingSlugs =
+  d.provinceSlug === 'labrador' || d.provinceSlug === 'newfoundland'
+    ? ['labrador', 'newfoundland']
+    : [d.provinceSlug];
 const nearby = all
-  .filter((e) => e.data.provinceSlug === d.provinceSlug && e.id !== entry.id)
+  .filter((e) => siblingSlugs.includes(e.data.provinceSlug ?? '') && e.id !== entry.id)
   .sort((a, b) => (a.data.city ?? '').localeCompare(b.data.city ?? ''))
   .slice(0, 12);
 

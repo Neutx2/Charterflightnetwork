@@ -12,8 +12,14 @@ const hubs = (await getCollection('hubs', (h) => h.data.region === 'canada')).so
   (a, b) => (a.data.province ?? '').localeCompare(b.data.province ?? '')
 );
 const destinations = await getCollection('destinations', (d) => d.data.region === 'canada');
-const countFor = (slug?: string) =>
-  destinations.filter((d) => d.data.provinceSlug === slug).length;
+const countFor = (slug?: string) => {
+  // Newfoundland & Labrador share one destination set (as on the legacy site)
+  const slugs =
+    slug === 'labrador' || slug === 'newfoundland'
+      ? ['labrador', 'newfoundland']
+      : [slug];
+  return destinations.filter((d) => slugs.includes(d.data.provinceSlug ?? '')).length;
+};
 ---
 
 <BaseLayout title={title} description={description} canonicalPath="/canada">
