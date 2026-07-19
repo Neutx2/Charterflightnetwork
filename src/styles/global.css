@@ -1,5 +1,22 @@
 @import "tailwindcss";
 
+/* Self-hosted variable fonts. font-display: optional prevents the swap-induced
+   layout shift (CLS) — the fallback stack renders if the font isn't cached. */
+@font-face {
+  font-family: "Inter Variable";
+  font-style: normal;
+  font-display: optional;
+  font-weight: 100 900;
+  src: url("/fonts/inter-latin-wght-normal.woff2") format("woff2-variations");
+}
+@font-face {
+  font-family: "Outfit Variable";
+  font-style: normal;
+  font-display: optional;
+  font-weight: 100 900;
+  src: url("/fonts/outfit-latin-wght-normal.woff2") format("woff2-variations");
+}
+
 @theme {
   /* Deep lake blue */
   --color-lake-50: #eef5fa;

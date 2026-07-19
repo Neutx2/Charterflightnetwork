@@ -37,7 +37,7 @@ for page in list(DIST.rglob("index.html")):
     html = page.read_text(errors="replace")
     for href in re.findall(r'href="(/[^"#?]*)', html):
         h = href.rstrip("/") or "/"
-        if h.startswith(("/images", "/_astro", "/CFN", "/formmailer", "/favicon")):
+        if h.startswith(("/images", "/_astro", "/CFN", "/formmailer", "/favicon", "/fonts")):
             continue
         if re.search(r"\.(xml|txt|svg|jpg|webp|png|css|js)$", h):
             continue
