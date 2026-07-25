@@ -52,7 +52,7 @@
 14. Per-province / per-region landing improvements (real facts only)
     ICE: 7×6×5 = 210 | Rev: long-tail organic; uniqueness floor enforced.
 15. [DONE 2026-07-19] Empty-legs page with flexible-dates CTA + quote form.
-16. Winter/mining/ice-road & hunting-season content blocks (seasonal timing)
+16. [PARTIAL 2026-07-19 cycles 11-13] Industry/seasonal content: mining & exploration, Canadian Arctic, business travel, remote communities, Churchill rebuilt evergreen. Remaining: hunting-season + ice-road blocks (need real facts).
     ICE: 7×6×5 = 210 | Rev: diversifies beyond fishing.
 17. [PARTIAL 2026-07-19 cycles 5-8] Internal linking: use-case chips on hubs, aircraft links in destination sidebars, popular routes on home, llms.txt sections. Iterate from GSC data. (baseline shipped:
     nearby-destination sidebars + breadcrumbs + hub grids; iterate from GSC data)

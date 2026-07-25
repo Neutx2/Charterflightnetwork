@@ -74,6 +74,27 @@
 - Guardrails: build clean, 1,047/1,047 redirects, 0 dead links (one bad
   Alberta link caught by the crawl check and fixed in-cycle).
 
+### [2026-07-19] Cycles 11-14: stale-content and title-integrity sweep
+- Cycles 11-13 Rebuilt five Covid-era membership-promo pages as evergreen
+  industry landing pages using only facts already on the site:
+  /travel/mining-exploration, /travel/canadian-arctic, /travel/business-travel,
+  /travel/ontario-remote-communities, /travel/churchill-polar-bears. These
+  were the targets of the province-hub use-case chips added in cycle 5, so the
+  hub link graph now points at pages that describe the actual service.
+  Also retitled 3 travel pages that shared the generic legacy title
+  "Charter Flight Network/Charter Flights Canada".
+- Cycle 14 Title integrity: 40 operator quote pages carried a copy-pasted
+  legacy <title> naming a DIFFERENT operator (e.g. /quote/wasaya titled
+  "…From Lakehead Airways"); titles/descriptions now derive from the operator
+  name, matching the visible H1. Six Canadian Air Charter Directory pages
+  mis-titled "Charter Flights To Pickle Lake Ontario" retitled by their real
+  role. Duplicate titles: 21 groups / 78 pages -> 15 groups / 30 pages.
+- Metrics to watch: CTR on retitled pages; impressions for industry-intent
+  queries (mining charter, arctic charter, remote community charter).
+- Guardrails: build clean, 1,047/1,047 redirects, 0 dead links, disclaimer
+  1,043/1,043 after every cycle.
+- READ DATE: two weeks after production launch + metrics activation.
+
 ## BASELINE (pre-loop)
 ### [2026-07-19] Full site modernization (PR #1)
 - Change shipped: 1,046-page migration to Astro/Tailwind, 301 map, quote

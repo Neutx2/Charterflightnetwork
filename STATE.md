@@ -1,5 +1,5 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 10 (session 2026-07-19, cycles 1-10)
+Cycle #: 14 (session 2026-07-19, cycles 1-14)
 Last run (UTC): 2026-07-19 (manual 8-cycle session; scheduled loop still pending secrets)
 Branch under optimization: claude/cfn-modernization-okp1pe (PR #1)
 Production host: not launched (staging = GitHub Pages preview, noindex)
