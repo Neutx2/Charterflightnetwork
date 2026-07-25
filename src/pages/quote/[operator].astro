@@ -19,12 +19,27 @@ interface Op {
   subject: string;
 }
 const { op } = Astro.props as { op: Op };
+
+// Many legacy operator quote pages carried a copy-pasted <title> naming a
+// DIFFERENT operator than the page is for (e.g. /quote/wasaya titled
+// "…From Lakehead Airways"). Where the legacy title doesn't name this
+// operator, derive title/description from the operator name — which is what
+// the visible H1 has always said.
+const titleNamesOperator = op.title
+  .toLowerCase()
+  .includes(op.name.split(' ')[0]!.toLowerCase());
+const pageTitle = titleNamesOperator
+  ? op.title
+  : `Request A Charter Quote From ${op.name} | Charter Flight Network`;
+const pageDescription = titleNamesOperator
+  ? op.description
+  : `Complete and submit this no cost charter quote request and receive a no obligation quote direct from ${op.name}.`;
 ---
 
 {/* Canonical points at /quote: these pages are form variants of the main
     quote page (near-duplicate content), differentiated only by the operator
     subject line — canonicalizing avoids duplicate-content dilution. */}
-<BaseLayout title={op.title} description={op.description} canonicalPath="/quote">
+<BaseLayout title={pageTitle} description={pageDescription} canonicalPath="/quote">
   <div class="bg-gradient-to-b from-lake-900 to-lake-800 text-white">
     <div class="mx-auto max-w-7xl px-4 sm:px-6 py-10 sm:py-14">
       <Breadcrumbs crumbs={[{ label: 'Charter Quote', href: '/quote' }, { label: op.name }]} />

@@ -535,7 +535,7 @@ def main():
     overrides = ROOT / "crawl" / "overrides"
     replaced = 0
     if overrides.exists():
-        for ov in overrides.rglob("*.md"):
+        for ov in sorted(overrides.rglob("*.md")):
             rel = ov.relative_to(overrides)
             target = content / rel
             target.parent.mkdir(parents=True, exist_ok=True)
