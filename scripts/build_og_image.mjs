@@ -1,0 +1,80 @@
+#!/usr/bin/env node
+/**
+ * Render the social share card (public/images/og-default.jpg) at 1200x630.
+ *
+ * Social platforms don't render SVG, so the brand mark + wordmark are drawn in
+ * HTML and rasterised with the bundled Chromium. Re-run after any logo change:
+ *   node scripts/build_og_image.mjs
+ */
+import { chromium } from 'playwright';
+import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
+import { fileURLToPath } from 'node:url';
+import { dirname, join } from 'node:path';
+
+const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
+const outDir = join(ROOT, 'public', 'images');
+mkdirSync(outDir, { recursive: true });
+
+const outfit = readFileSync(join(ROOT, 'public/fonts/outfit-latin-wght-normal.woff2')).toString('base64');
+const inter = readFileSync(join(ROOT, 'public/fonts/inter-latin-wght-normal.woff2')).toString('base64');
+
+const html = `<!doctype html><meta charset="utf-8"><style>
+@font-face{font-family:"Outfit V";font-weight:100 900;src:url(data:font/woff2;base64,${outfit}) format("woff2-variations")}
+@font-face{font-family:"Inter V";font-weight:100 900;src:url(data:font/woff2;base64,${inter}) format("woff2-variations")}
+*{margin:0;box-sizing:border-box}
+body{width:1200px;height:630px;overflow:hidden;position:relative;
+  background:linear-gradient(150deg,#12314a 0%,#0b2033 58%,#0d2a22 100%);
+  color:#f2f6fa;font-family:"Inter V",sans-serif;display:flex;flex-direction:column;
+  justify-content:center;padding:76px 84px}
+/* boreal horizon + arc echo, kept faint so the type owns the card */
+.ridge{position:absolute;left:0;right:0;bottom:0;height:230px;
+  background:linear-gradient(180deg,transparent,rgba(13,31,26,.85));}
+svg.trees{position:absolute;left:0;bottom:0;width:1200px;height:210px;opacity:.7}
+.arc{position:absolute;right:-60px;top:-120px;width:620px;height:620px;
+  border-radius:50%;border:3px solid rgba(232,148,15,.16)}
+.brand{display:flex;align-items:center;gap:20px;margin-bottom:34px;position:relative}
+.brand svg{filter:drop-shadow(0 6px 14px rgba(0,0,0,.35))}
+.brand b{font-family:"Outfit V",sans-serif;font-weight:700;font-size:32px;letter-spacing:-.01em}
+h1{position:relative;font-family:"Outfit V",sans-serif;font-weight:700;font-size:70px;
+  line-height:1.06;letter-spacing:-.02em;max-width:16ch}
+h1 em{font-style:normal;color:#f5a623}
+p{position:relative;margin-top:26px;font-size:26px;color:#bed3e4;max-width:34ch;line-height:1.4}
+.strip{position:relative;margin-top:40px;display:flex;gap:34px;font-size:20px;
+  font-weight:600;color:#9fc4b5}
+.strip span::before{content:"✓ ";color:#5e9f85}
+</style>
+<div class="arc"></div>
+<svg class="trees" viewBox="0 0 1200 210" preserveAspectRatio="none"><g fill="#0d1f1a">
+${Array.from({ length: 60 }, (_, i) => {
+  const x = i * 20 + (i % 3) * 4;
+  const h = 96 + ((i * 37) % 62);
+  return `<path d="M${x} 210 l${11 + (i % 4)} -${h} l${11 + (i % 4)} ${h} Z"/>`;
+}).join('')}
+</g></svg>
+<div class="ridge"></div>
+
+<div class="brand">
+  <svg width="64" height="64" viewBox="0 0 64 64">
+    <rect width="64" height="64" rx="15" fill="#1d486b"/>
+    <path d="M11 45c9.5 1.5 22-3.5 31.5-19" stroke="#e8940f" stroke-width="4.6" stroke-linecap="round" fill="none"/>
+    <g fill="#faf8f4" transform="translate(37.5 15.5) rotate(28)">
+      <path d="M0 8.4c0-1.2 1-2.1 2.3-2.1h13l6-2.6c.8-.35 1.7.2 1.7 1.05v2.6c0 1.25-1.05 2.25-2.35 2.25H2.3C1 9.8 0 9 0 8.4z"/>
+      <path d="M5.6 2.2h10.2c.55 0 .85.55.6 1l-1.3 2.6H6.8c-.6 0-1.1-.45-1.1-1.05z"/>
+    </g>
+  </svg>
+  <b>Charter Flight Network</b>
+</div>
+<h1>Charter flights across Canada — <em>up to 3 competitive quotes</em>.</h1>
+<p>Jet, turboprop, float plane and helicopter charters. Free, no obligation.</p>
+<div class="strip"><span>No cost</span><span>Book direct</span><span>Canadian since 2008</span></div>`;
+
+const browser = await chromium.launch({
+  executablePath: process.env.CHROME_PATH || '/opt/pw-browsers/chromium-1194/chrome-linux/chrome',
+});
+const page = await browser.newPage({ viewport: { width: 1200, height: 630 } });
+await page.setContent(html, { waitUntil: 'load' });
+await page.waitForTimeout(300);
+const buf = await page.screenshot({ type: 'jpeg', quality: 88 });
+writeFileSync(join(outDir, 'og-default.jpg'), buf);
+await browser.close();
+console.log(`wrote public/images/og-default.jpg (${Math.round(buf.length / 1024)} KB)`);

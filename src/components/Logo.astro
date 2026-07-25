@@ -1,0 +1,40 @@
+---
+/**
+ * Charter Flight Network mark — "the arc, kept".
+ *
+ * Descends from the legacy logo: the orange flight arc survives, redrawn as a
+ * clean climbing path with the aircraft at its leading tip, on a lake-blue
+ * tile. Single source of truth — header, favicon (public/favicon.svg) and the
+ * social share image (scripts/build_og_image.mjs) all use these same paths.
+ */
+interface Props {
+  /** rendered size in px */
+  size?: number;
+  /** tile colour — lighter on dark grounds so the mark doesn't disappear */
+  tile?: string;
+  class?: string;
+}
+const { size = 36, tile = '#1d486b', class: cls = '' } = Astro.props;
+---
+
+<svg
+  width={size}
+  height={size}
+  viewBox="0 0 64 64"
+  class={cls}
+  aria-hidden="true"
+  focusable="false"
+>
+  <rect width="64" height="64" rx="15" fill={tile} />
+  <path
+    d="M11 45c9.5 1.5 22-3.5 31.5-19"
+    stroke="#e8940f"
+    stroke-width="4.6"
+    stroke-linecap="round"
+    fill="none"
+  />
+  <g fill="#faf8f4" transform="translate(37.5 15.5) rotate(28)">
+    <path d="M0 8.4c0-1.2 1-2.1 2.3-2.1h13l6-2.6c.8-.35 1.7.2 1.7 1.05v2.6c0 1.25-1.05 2.25-2.35 2.25H2.3C1 9.8 0 9 0 8.4z" />
+    <path d="M5.6 2.2h10.2c.55 0 .85.55.6 1l-1.3 2.6H6.8c-.6 0-1.1-.45-1.1-1.05z" />
+  </g>
+</svg>

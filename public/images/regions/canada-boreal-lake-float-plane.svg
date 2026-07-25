@@ -1,7 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Placeholder: float plane on a boreal lake — Canada charter flights (replace with photography)">
-  <defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#173a57"/><stop offset="1" stop-color="#2f6f9f"/></linearGradient></defs>
-  <rect width="480" height="300" fill="url(#s)"/>
-  <path d="M0 175 L60 165 L140 176 L230 162 L330 176 L420 164 L480 172 L480 300 L0 300 Z" fill="#1a382f"/>
-  <rect y="220" width="480" height="80" fill="#12314a"/>
-  <g fill="#1a382f"><path d="M60 170 l16 -55 16 55Z"/><path d="M110 170 l13 -42 13 42Z"/><path d="M330 170 l16 -58 16 58Z"/><path d="M385 170 l12 -40 12 40Z"/></g><g transform="translate(170 90) scale(.55)" fill="#0b2033"><path d="M0 40c30-6 120-10 150-8l60 4c30 2 40 20 20 26l-70 6c-60 4-130 0-160-28z"/><path d="M120 8l16 26 60 2-10-28c-2-6-10-8-16-8h-40c-8 0-12 4-10 8z"/><path d="M95 36-25 14l22 34z"/><rect x="55" y="70" width="120" height="8" rx="4"/><rect x="140" y="70" width="100" height="8" rx="4"/></g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Float plane moored at a dock on a boreal lake, Canada">
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#12314a"/><stop offset=".55" stop-color="#2f6f9f"/><stop offset="1" stop-color="#83b2d4" stop-opacity=".8"/></linearGradient>
+<linearGradient id="w" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#245a84"/><stop offset="1" stop-color="#0b2033"/></linearGradient></defs>
+<rect width="480" height="300" fill="url(#s)"/>
+<path d="M0 150 L0 150 L90 132 L180 150 L280 128 L380 148 L480 134 L480 300 L0 300 Z" fill="#1d486b" opacity="0.75"/>
+<g fill="#12271f" opacity="1"><path d="M0 178 l5 -34 l5 34 Z"/><path d="M16 178 l6 -38 l6 38 Z"/><path d="M32 178 l7 -42 l7 42 Z"/><path d="M39 178 l5 -46 l5 46 Z"/><path d="M55 178 l6 -50 l6 50 Z"/><path d="M71 178 l7 -54 l7 54 Z"/><path d="M78 178 l5 -58 l5 58 Z"/><path d="M94 178 l6 -37 l6 37 Z"/><path d="M110 178 l7 -41 l7 41 Z"/><path d="M117 178 l5 -45 l5 45 Z"/><path d="M133 178 l6 -49 l6 49 Z"/><path d="M149 178 l7 -53 l7 53 Z"/><path d="M156 178 l5 -57 l5 57 Z"/><path d="M172 178 l6 -36 l6 36 Z"/><path d="M188 178 l7 -40 l7 40 Z"/><path d="M195 178 l5 -44 l5 44 Z"/><path d="M211 178 l6 -48 l6 48 Z"/><path d="M227 178 l7 -52 l7 52 Z"/><path d="M234 178 l5 -56 l5 56 Z"/><path d="M250 178 l6 -35 l6 35 Z"/><path d="M266 178 l7 -39 l7 39 Z"/><path d="M273 178 l5 -43 l5 43 Z"/><path d="M289 178 l6 -47 l6 47 Z"/><path d="M305 178 l7 -51 l7 51 Z"/><path d="M312 178 l5 -55 l5 55 Z"/><path d="M328 178 l6 -34 l6 34 Z"/><path d="M344 178 l7 -38 l7 38 Z"/><path d="M351 178 l5 -42 l5 42 Z"/><path d="M367 178 l6 -46 l6 46 Z"/><path d="M383 178 l7 -50 l7 50 Z"/><path d="M390 178 l5 -54 l5 54 Z"/><path d="M406 178 l6 -58 l6 58 Z"/><path d="M422 178 l7 -37 l7 37 Z"/><path d="M429 178 l5 -41 l5 41 Z"/><path d="M445 178 l6 -45 l6 45 Z"/><path d="M461 178 l7 -49 l7 49 Z"/><path d="M468 178 l5 -53 l5 53 Z"/><path d="M484 178 l6 -57 l6 57 Z"/><path d="M500 178 l7 -36 l7 36 Z"/><path d="M507 178 l5 -40 l5 40 Z"/></g>
+<rect y="176" width="480" height="124" fill="url(#w)"/>
+<g stroke="#83b2d4" stroke-width="2" opacity=".22" stroke-linecap="round"><path d="M40 210h70"/><path d="M300 232h90"/><path d="M120 262h110"/></g>
+<!-- dock -->
+<g fill="#0d1f1a"><rect x="196" y="206" width="150" height="7" rx="2"/><rect x="212" y="213" width="5" height="18"/><rect x="268" y="213" width="5" height="18"/><rect x="326" y="213" width="5" height="18"/></g>
+<!-- float plane at the dock -->
+<g fill="#0a1d2e" transform="translate(96 44) scale(.6)">
+<path d="M0 44c34-7 132-11 166-9l66 4c33 2 44 22 22 29l-77 7c-66 4-143 0-177-31z"/>
+<path d="M96 24h150c8 0 12 7 9 13l-9 17H104c-7 0-12-5-12-12z"/>
+<path d="M18 40 L-58 14 l16 38z"/>
+<rect x="52" y="84" width="132" height="10" rx="5"/><rect x="150" y="84" width="112" height="10" rx="5"/>
+<path d="M92 56 l5 28h7l-4-28zM196 52 l3 32h7l-2-32z"/></g>
 </svg>

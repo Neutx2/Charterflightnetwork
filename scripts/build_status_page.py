@@ -85,6 +85,19 @@ KEY_PAGES = [
     ("About", "/about/"),
 ]
 
+# ---- home-page thumbnail (rendered from the current build) ---------------
+THUMB = ROOT / "scratchpad-thumb.jpg"
+thumb_uri = ""
+try:
+    subprocess.run(
+        ["node", "scripts/shoot_thumb.mjs", str(THUMB)],
+        cwd=ROOT, capture_output=True, timeout=120, check=True,
+    )
+    thumb_uri = "data:image/jpeg;base64," + base64.b64encode(THUMB.read_bytes()).decode()
+    THUMB.unlink(missing_ok=True)
+except Exception as exc:  # thumbnail is a nicety, never fail the page for it
+    print(f"(thumbnail skipped: {str(exc)[:80]})")
+
 now = datetime.now(timezone.utc)
 
 
@@ -174,6 +187,14 @@ h1 {{ font-family:"Outfit V", sans-serif; font-size:clamp(1.5rem,3.6vw,2.1rem); 
   padding:.85rem 1.4rem; border-radius:.6rem; box-shadow:0 6px 18px rgba(0,0,0,.22); white-space:nowrap; }}
 .cta:hover {{ filter:brightness(1.06); }}
 .cta:focus-visible {{ outline:3px solid #fff; outline-offset:3px; }}
+.eyebrow {{ display:flex; align-items:center; gap:.55rem; }}
+.eyebrow svg {{ border-radius:.3rem; }}
+.shot {{ display:block; text-decoration:none; position:relative; border-radius:.7rem; overflow:hidden;
+  border:1px solid rgba(255,255,255,.16); box-shadow:0 10px 30px rgba(0,0,0,.32); max-width:23rem; flex:none; }}
+.shot img {{ display:block; width:100%; height:auto; }}
+.shot .cta {{ position:absolute; left:50%; bottom:.85rem; transform:translateX(-50%); font-size:.9rem; padding:.6rem 1rem; }}
+.shot:hover img {{ filter:brightness(1.06); }}
+.shot:focus-visible {{ outline:3px solid #fff; outline-offset:3px; }}
 
 /* ---- guardrail chips ---- */
 .status {{ border-bottom:1px solid var(--line); background:var(--panel); }}
@@ -225,13 +246,16 @@ footer p {{ margin:.35rem 0; }}
 
 <header class="top">
   <div class="wrap">
-    <div>
-      <p class="eyebrow">Charter Flight Network · preview build</p>
+    <div class="lede">
+      <p class="eyebrow"><svg width="22" height="22" viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="15" fill="#1d486b"/><path d="M11 45c9.5 1.5 22-3.5 31.5-19" stroke="#e8940f" stroke-width="4.6" stroke-linecap="round" fill="none"/><g fill="#faf8f4" transform="translate(37.5 15.5) rotate(28)"><path d="M0 8.4c0-1.2 1-2.1 2.3-2.1h13l6-2.6c.8-.35 1.7.2 1.7 1.05v2.6c0 1.25-1.05 2.25-2.35 2.25H2.3C1 9.8 0 9 0 8.4z"/><path d="M5.6 2.2h10.2c.55 0 .85.55.6 1l-1.3 2.6H6.8c-.6 0-1.1-.45-1.1-1.05z"/></g></svg>Charter Flight Network · preview build</p>
       <h1>Your website, as it stands right now</h1>
       <p class="built">Updated {now.strftime('%b %-d, %Y at %H:%M UTC')} · {pages_built:,} pages built ·
         cycle {m_cycle.group(1) if m_cycle else '—'}</p>
     </div>
-    <a class="cta" href="{LIVE}/" target="_blank" rel="noopener">Open the live preview →</a>
+    <a class="shot" href="{LIVE}/" target="_blank" rel="noopener" aria-label="Open the live preview site">
+      {f'<img src="{thumb_uri}" alt="Current home page of the site">' if thumb_uri else ''}
+      <span class="cta">Open the live preview →</span>
+    </a>
   </div>
 </header>
 

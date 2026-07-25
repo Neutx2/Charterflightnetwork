@@ -1,44 +1,79 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 800" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Placeholder: float plane over a boreal lake at dawn — replace with photography">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 800" preserveAspectRatio="xMidYMid slice" role="img" aria-label="A float plane on approach over a boreal lake at dawn, layered ridgelines behind">
   <defs>
     <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#12314a"/>
-      <stop offset=".45" stop-color="#2f6f9f"/>
-      <stop offset=".75" stop-color="#e8940f" stop-opacity=".35"/>
-      <stop offset="1" stop-color="#173a57"/>
+      <stop offset="0" stop-color="#0b2033"/>
+      <stop offset=".38" stop-color="#1d486b"/>
+      <stop offset=".66" stop-color="#4d8dbc"/>
+      <stop offset=".82" stop-color="#e8940f" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#f5a623" stop-opacity=".28"/>
     </linearGradient>
     <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#245a84"/>
+      <stop offset="0" stop-color="#2f6f9f"/>
+      <stop offset=".28" stop-color="#1d486b"/>
       <stop offset="1" stop-color="#0b2033"/>
     </linearGradient>
+    <radialGradient id="glow" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#ffd08a" stop-opacity=".95"/>
+      <stop offset=".45" stop-color="#f5a623" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#f5a623" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="haze" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4d8dbc" stop-opacity="0"/>
+      <stop offset="1" stop-color="#83b2d4" stop-opacity=".32"/>
+    </linearGradient>
   </defs>
+
   <rect width="1920" height="800" fill="url(#sky)"/>
-  <circle cx="1350" cy="330" r="90" fill="#f5a623" opacity=".8"/>
-  <circle cx="1350" cy="330" r="150" fill="#f5a623" opacity=".18"/>
-  <!-- far shoreline -->
-  <path d="M0 470 L120 452 L260 468 L420 448 L610 470 L800 452 L1020 468 L1240 450 L1460 466 L1680 450 L1920 464 L1920 520 L0 520 Z" fill="#12314a"/>
-  <!-- boreal treeline -->
-  <g fill="#1a382f">
-    <path d="M0 500 L1920 500 L1920 540 L0 540 Z"/>
+  <circle cx="1530" cy="452" r="330" fill="url(#glow)"/>
+  <circle cx="1530" cy="454" r="52" fill="#ffdfae" opacity=".9"/>
+
+  <!-- distant ridge, palest: aerial perspective -->
+  <path d="M0 452 L150 424 L300 446 L470 410 L640 442 L820 416 L1010 444 L1200 414 L1400 440 L1600 418 L1780 442 L1920 424 L1920 500 L0 500 Z" fill="#2f6f9f" opacity=".55"/>
+  <!-- middle ridge -->
+  <path d="M0 480 L180 456 L360 478 L560 450 L760 476 L980 452 L1200 478 L1420 454 L1650 476 L1920 456 L1920 520 L0 520 Z" fill="#1d486b" opacity=".85"/>
+  <rect y="400" width="1920" height="120" fill="url(#haze)"/>
+
+  <!-- near treeline -->
+  <g fill="#12271f">
+    <rect y="498" width="1920" height="46"/>
     <g>
-      <path d="M40 500 l14 -52 14 52 Z"/><path d="M80 500 l12 -40 12 40 Z"/><path d="M120 500 l16 -60 16 60 Z"/><path d="M170 500 l12 -44 12 44 Z"/><path d="M215 500 l14 -55 14 55 Z"/><path d="M260 500 l11 -38 11 38 Z"/><path d="M300 500 l15 -57 15 57 Z"/><path d="M350 500 l12 -42 12 42 Z"/><path d="M395 500 l14 -52 14 52 Z"/><path d="M445 500 l12 -40 12 40 Z"/><path d="M490 500 l16 -62 16 62 Z"/><path d="M545 500 l12 -44 12 44 Z"/><path d="M590 500 l14 -54 14 54 Z"/><path d="M640 500 l11 -38 11 38 Z"/><path d="M685 500 l15 -58 15 58 Z"/><path d="M735 500 l12 -42 12 42 Z"/><path d="M780 500 l14 -50 14 50 Z"/><path d="M830 500 l12 -40 12 40 Z"/><path d="M875 500 l16 -60 16 60 Z"/><path d="M930 500 l12 -44 12 44 Z"/><path d="M975 500 l14 -55 14 55 Z"/><path d="M1025 500 l11 -38 11 38 Z"/><path d="M1070 500 l15 -57 15 57 Z"/><path d="M1120 500 l12 -42 12 42 Z"/><path d="M1165 500 l14 -52 14 52 Z"/><path d="M1215 500 l12 -40 12 40 Z"/><path d="M1260 500 l16 -62 16 62 Z"/><path d="M1315 500 l12 -44 12 44 Z"/><path d="M1360 500 l14 -54 14 54 Z"/><path d="M1410 500 l11 -38 11 38 Z"/><path d="M1455 500 l15 -58 15 58 Z"/><path d="M1505 500 l12 -42 12 42 Z"/><path d="M1550 500 l14 -50 14 50 Z"/><path d="M1600 500 l12 -40 12 40 Z"/><path d="M1645 500 l16 -60 16 60 Z"/><path d="M1700 500 l12 -44 12 44 Z"/><path d="M1745 500 l14 -55 14 55 Z"/><path d="M1795 500 l11 -38 11 38 Z"/><path d="M1840 500 l15 -57 15 57 Z"/><path d="M1890 500 l12 -42 12 42 Z"/>
+      <path d="M24 500 l15 -58 15 58 Z"/><path d="M66 500 l12 -44 12 44 Z"/><path d="M104 500 l17 -66 17 66 Z"/><path d="M156 500 l12 -47 12 47 Z"/><path d="M200 500 l15 -60 15 60 Z"/><path d="M244 500 l11 -41 11 41 Z"/><path d="M282 500 l16 -63 16 63 Z"/><path d="M332 500 l12 -45 12 45 Z"/><path d="M376 500 l15 -57 15 57 Z"/><path d="M424 500 l12 -43 12 43 Z"/><path d="M468 500 l17 -68 17 68 Z"/><path d="M520 500 l12 -47 12 47 Z"/><path d="M564 500 l15 -59 15 59 Z"/><path d="M610 500 l11 -41 11 41 Z"/><path d="M652 500 l16 -64 16 64 Z"/><path d="M702 500 l12 -46 12 46 Z"/><path d="M746 500 l15 -55 15 55 Z"/><path d="M792 500 l12 -43 12 43 Z"/><path d="M836 500 l17 -66 17 66 Z"/><path d="M888 500 l12 -48 12 48 Z"/><path d="M932 500 l15 -60 15 60 Z"/><path d="M978 500 l11 -41 11 41 Z"/><path d="M1020 500 l16 -62 16 62 Z"/><path d="M1070 500 l12 -46 12 46 Z"/><path d="M1114 500 l15 -57 15 57 Z"/><path d="M1160 500 l12 -43 12 43 Z"/><path d="M1204 500 l17 -67 17 67 Z"/><path d="M1256 500 l12 -47 12 47 Z"/><path d="M1300 500 l15 -59 15 59 Z"/><path d="M1346 500 l11 -41 11 41 Z"/><path d="M1388 500 l16 -63 16 63 Z"/><path d="M1438 500 l12 -46 12 46 Z"/><path d="M1482 500 l15 -55 15 55 Z"/><path d="M1528 500 l12 -43 12 43 Z"/><path d="M1572 500 l17 -66 17 66 Z"/><path d="M1624 500 l12 -48 12 48 Z"/><path d="M1668 500 l15 -60 15 60 Z"/><path d="M1714 500 l11 -41 11 41 Z"/><path d="M1756 500 l16 -62 16 62 Z"/><path d="M1806 500 l12 -46 12 46 Z"/><path d="M1850 500 l15 -58 15 58 Z"/><path d="M1896 500 l12 -44 12 44 Z"/>
     </g>
   </g>
+
   <!-- lake -->
   <rect y="540" width="1920" height="260" fill="url(#water)"/>
-  <ellipse cx="1350" cy="560" rx="220" ry="10" fill="#f5a623" opacity=".25"/>
-  <ellipse cx="1350" cy="590" rx="150" ry="7" fill="#f5a623" opacity=".15"/>
-  <g stroke="#83b2d4" stroke-width="2" opacity=".25">
-    <path d="M100 600 h180"/><path d="M420 650 h240"/><path d="M900 620 h200"/><path d="M1550 660 h190"/><path d="M300 720 h260"/><path d="M1100 700 h220"/>
+  <!-- sun column on the water, broken into bands so it reads as ripple -->
+  <g fill="#f5a623" opacity=".5">
+    <rect x="1440" y="552" width="180" height="7" rx="3.5"/>
+    <rect x="1410" y="574" width="242" height="6" rx="3"/>
+    <rect x="1448" y="596" width="164" height="5" rx="2.5"/>
+    <rect x="1398" y="620" width="266" height="5" rx="2.5"/>
+    <rect x="1456" y="648" width="148" height="4" rx="2"/>
+    <rect x="1410" y="680" width="240" height="4" rx="2"/>
   </g>
-  <!-- float plane silhouette -->
-  <g transform="translate(560 240) scale(1.15)" fill="#0b2033">
-    <path d="M0 40 c30 -6 120 -10 150 -8 l60 4 c30 2 40 20 20 26 l-70 6 c-60 4 -130 0 -160 -28 z"/>
-    <path d="M120 8 l16 26 60 2 -10 -28 c-2 -6 -10 -8 -16 -8 l-40 0 c-8 0 -12 4 -10 8 z" opacity=".95"/>
-    <path d="M95 36 l-70 -22 22 34 z"/>
-    <path d="M150 34 l110 -14 -6 16 z" opacity=".9"/>
-    <rect x="55" y="70" width="120" height="8" rx="4"/>
-    <rect x="140" y="70" width="100" height="8" rx="4"/>
-    <path d="M85 46 l4 24 6 0 -2 -24 z"/>
-    <path d="M175 42 l2 28 6 0 0 -28 z"/>
+  <g stroke="#83b2d4" stroke-linecap="round" opacity=".2">
+    <path d="M120 596 h210" stroke-width="3"/><path d="M430 640 h260" stroke-width="3"/>
+    <path d="M880 612 h190" stroke-width="2.5"/><path d="M250 706 h300" stroke-width="2.5"/>
+    <path d="M980 744 h240" stroke-width="2"/><path d="M1560 664 h200" stroke-width="2.5"/>
+  </g>
+
+  <!-- float plane on approach against the dawn sky, clear of the headline column -->
+  <g transform="translate(1120 150) scale(.92)">
+    <g fill="#0a1d2e">
+      <!-- fuselage -->
+      <path d="M0 44c34-7 132-11 166-9l66 4c33 2 44 22 22 29l-77 7c-66 4-143 0-177-31z"/>
+      <!-- high wing -->
+      <path d="M96 24h150c8 0 12 7 9 13l-9 17H104c-7 0-12-5-12-12z"/>
+      <!-- tail -->
+      <path d="M18 40 L-58 14 l16 38z"/>
+      <path d="M-6 46 l-52 26 20 6z" opacity=".9"/>
+      <!-- floats + struts -->
+      <rect x="52" y="84" width="132" height="10" rx="5"/>
+      <rect x="150" y="84" width="112" height="10" rx="5"/>
+      <path d="M92 56 l5 28h7l-4-28zM196 52 l3 32h7l-2-32z"/>
+      <!-- prop disc -->
+      <ellipse cx="256" cy="46" rx="4" ry="30" opacity=".35"/>
+    </g>
   </g>
 </svg>

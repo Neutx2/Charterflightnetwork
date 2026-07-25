@@ -1,7 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Placeholder: charter aircraft over Caribbean islands (replace with photography)">
-  <defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#245a84"/><stop offset="1" stop-color="#83b2d4"/></linearGradient></defs>
-  <rect width="480" height="300" fill="url(#s)"/>
-  <path d="M0 175 L60 165 L140 176 L230 162 L330 176 L420 164 L480 172 L480 300 L0 300 Z" fill="#2d6a54"/>
-  <rect y="220" width="480" height="80" fill="#2f6f9f"/>
-  <circle cx="400" cy="60" r="26" fill="#f5a623" opacity=".8"/><ellipse cx="150" cy="235" rx="90" ry="20" fill="#3f8369"/><ellipse cx="350" cy="255" rx="70" ry="16" fill="#3f8369"/><g transform="translate(190 70) rotate(8) scale(.5)" fill="#0b2033"><path d="M0 40c30-6 120-10 150-8l60 4c30 2 40 20 20 26l-70 6c-60 4-130 0-160-28z"/><path d="M95 36-25 14l22 34z"/></g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" preserveAspectRatio="xMidYMid slice" role="img" aria-label="A chain of Caribbean islands seen from a charter flight above the sea">
+<defs><linearGradient id="s4" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#245a84"/><stop offset=".6" stop-color="#2f6f9f"/><stop offset="1" stop-color="#4d8dbc"/></linearGradient></defs>
+<rect width="480" height="300" fill="url(#s4)"/>
+<g opacity=".9">
+<ellipse cx="140" cy="120" rx="86" ry="34" fill="#8dbfa9" opacity=".45"/><ellipse cx="140" cy="118" rx="58" ry="21" fill="#3f8369"/><ellipse cx="128" cy="112" rx="26" ry="10" fill="#255545"/>
+<ellipse cx="330" cy="196" rx="104" ry="40" fill="#8dbfa9" opacity=".45"/><ellipse cx="330" cy="194" rx="72" ry="26" fill="#3f8369"/><ellipse cx="344" cy="188" rx="32" ry="12" fill="#255545"/>
+<ellipse cx="96" cy="252" rx="70" ry="26" fill="#8dbfa9" opacity=".4"/><ellipse cx="96" cy="250" rx="44" ry="16" fill="#3f8369"/>
+</g>
+<g stroke="#b3d1e7" stroke-width="2" opacity=".28" stroke-linecap="round"><path d="M20 168h70"/><path d="M242 250h90"/><path d="M400 118h60"/></g>
+<!-- charter aircraft crossing, high -->
+<g fill="#081a2a" opacity=".92" transform="translate(228 44) rotate(8) scale(.5)">
+<path d="M0 44c34-7 132-11 166-9l66 4c33 2 44 22 22 29l-77 7c-66 4-143 0-177-31z"/>
+<path d="M104 22h140c8 0 12 7 9 13l-10 19H112c-7 0-12-5-12-12z"/>
+<path d="M18 40 L-58 14 l16 38z"/></g>
 </svg>
