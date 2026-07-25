@@ -6,6 +6,15 @@ Production host: not launched (staging = GitHub Pages preview, noindex)
 Indexation: staging=noindex (injected by scripts/make-preview.mjs);
             production build = index-clean, not yet deployed
 
+
+## OWNER STATUS PAGE (refresh every cycle)
+Stable URL: https://claude.ai/code/artifact/204ea267-296b-4fa7-a1e8-357e1497cd0e
+After each cycle's verification passes and the commit lands, run:
+  python3 scripts/build_status_page.py
+then re-publish the SAME file path with the Artifact tool
+(scratchpad/cfn-status.html) so the URL stays stable for the owner.
+It reads git log (loop(cycle-N) commits), STATE.md, APPROVALS.md and dist/.
+
 ## GUARDRAIL FLOORS (do not regress)
 Lighthouse (mobile) — Performance ≥ 90 | SEO ≥ 95 | Accessibility ≥ 95
   (baseline 2026-07-19: 100/100/100 on home, Thunder Bay, quote, Bahamas
