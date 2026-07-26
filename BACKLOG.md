@@ -18,6 +18,11 @@
    a monthly manual count in STATE.md). Endpoint is centralized in
    src/lib/site.ts (SITE.formEndpoint), currently /formmailer.php.
    ICE: 8×8×6 = 384 | Rev: closes the loop on the conversion metric.
+   PARTIAL [2026-07-26 cycle 15]: a client-side `generate_lead` GA4 event now
+   fires on every validated submit (params: form_subject, source_page), so
+   submissions are countable per page in GA4. Still open: server-side
+   confirmation that formmailer.php actually delivered the mail — the GA4
+   event proves intent, not delivery.
 5. [DONE 2026-07-19] Working form funnel with success state (/quote-confirmation),
    honeypot, per-page subjects, client-side validation.
 
@@ -28,6 +33,8 @@
    than single-page at the same traffic.
 7. [DONE 2026-07-19] Click-to-call on mobile (tel: link in sticky header +
    every quote section). Remaining: call tracking [GATE if paid tool].
+   [DONE 2026-07-26 cycle 15] Free call *signal* now exists without a paid
+   tool: a `contact_phone` GA4 event on every tel: tap, with source_page.
 8. [DONE 2026-07-19] Trust signals near form ("up to 3 competitive quotes",
    "no cost", privacy note). Remaining: response-time promise — [GATE]
    (needs owner confirmation of a real turnaround time).

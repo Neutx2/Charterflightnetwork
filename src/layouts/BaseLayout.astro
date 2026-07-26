@@ -113,5 +113,17 @@ const siteGraph = {
       <slot />
     </main>
     <Footer />
+    <script>
+      // Click-to-call is a real conversion for this business (many callers never
+      // fill a form). Delegated listener, no per-link markup needed.
+      document.addEventListener('click', (ev) => {
+        const link = (ev.target as HTMLElement)?.closest?.('a[href^="tel:"]');
+        if (!link) return;
+        const gtag = (window as any).gtag;
+        if (typeof gtag === 'function') {
+          gtag('event', 'contact_phone', { source_page: location.pathname });
+        }
+      });
+    </script>
   </body>
 </html>

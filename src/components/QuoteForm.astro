@@ -266,6 +266,17 @@ const uid = subject.length; // pages render at most one quote form
 
     form.addEventListener('submit', (e) => {
       const missing = validateWithin(form);
+      if (!missing.length) {
+        // Conversion signal for GA4 (tag already loaded site-wide). Sends no
+        // personal data — only which form and which page it came from.
+        const gtag = (window as any).gtag;
+        if (typeof gtag === 'function') {
+          gtag('event', 'generate_lead', {
+            form_subject: (form.querySelector('input[name="subject"]') as HTMLInputElement)?.value ?? '',
+            source_page: (form.querySelector('input[name="SourcePage"]') as HTMLInputElement)?.value ?? location.pathname,
+          });
+        }
+      }
       if (missing.length) {
         e.preventDefault();
         // jump to the first step containing a missing required field

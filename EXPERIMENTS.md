@@ -95,6 +95,27 @@
   1,043/1,043 after every cycle.
 - READ DATE: two weeks after production launch + metrics activation.
 
+### [2026-07-26] Cycle 15: GA4 conversion events (measurement, not layout)
+- Change shipped: the funnel is now measurable. `generate_lead` fires on a
+  quote form submit that passes validation (params: form_subject, source_page);
+  `contact_phone` fires on any tel: link tap (param: source_page), via one
+  delegated listener in BaseLayout. Both push into the existing GA4 tag
+  (G-2E2LY4BMTF) already carried over from the legacy site. No personal data is
+  sent — only which form and which page.
+- Why: every prior cycle optimised on judgement because there was no
+  conversion signal at all. Phone calls in particular are a real close path for
+  this business and were previously invisible.
+- Primary metric: quote submissions per session, and phone taps per session,
+  split by source_page — so the next cycles can rank pages by conversion
+  instead of by traffic guesswork.
+- Verification: scripts/verify_ga_events.mjs drives a real browser and asserts
+  against window.dataLayer (the page defines its own gtag(), so a stubbed
+  window.gtag is overwritten and would give a false negative). 4/4 checks pass:
+  phone tap fires, an incomplete submit does NOT fire generate_lead, a complete
+  submit does, and the params are populated.
+- Guardrails: build clean, 1,047/1,047 redirects, 0 dead links.
+- READ DATE: two weeks after production launch (GA4 needs live traffic).
+
 ## BASELINE (pre-loop)
 ### [2026-07-19] Full site modernization (PR #1)
 - Change shipped: 1,046-page migration to Astro/Tailwind, 301 map, quote

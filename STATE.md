@@ -1,6 +1,6 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 14 (session 2026-07-19, cycles 1-14)
-Last run (UTC): 2026-07-19 (manual 8-cycle session; scheduled loop still pending secrets)
+Cycle #: 15 (session 2026-07-26)
+Last run (UTC): 2026-07-26 (manual; scheduled loop still pending secrets)
 Branch under optimization: claude/cfn-modernization-okp1pe (PR #1)
 Production host: not launched (staging = GitHub Pages preview, noindex)
 Indexation: staging=noindex (injected by scripts/make-preview.mjs);
@@ -32,7 +32,8 @@ Clicks:            —
 CTR:               —
 Avg position:      —
 Sessions:          —
-Quote submissions: —
+Phone taps:        — (GA4 `contact_phone` wired cycle 15)
+Quote submissions: — (GA4 `generate_lead` wired cycle 15; needs live traffic)
 Qualified leads:   — (owner-reported)
 Revenue:           — (owner-reported)
 
