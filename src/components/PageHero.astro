@@ -1,0 +1,57 @@
+---
+/**
+ * The dark band at the top of every inner page.
+ *
+ * It was a flat navy rectangle repeated verbatim in fifteen files — roughly a
+ * thousand built pages whose masthead was an empty slab with nothing on the
+ * right two-thirds. This adds the same visual language the home page hero
+ * uses (dawn glow, boreal ridgelines) at a weight that stays behind the type,
+ * and gives the fifteen copies one definition.
+ *
+ * Everything here is inline SVG and CSS: no image request, no layout shift,
+ * nothing for the browser to wait on.
+ */
+interface Props {
+  /** inner container width — the quote page runs narrower and centred */
+  width?: 'wide' | 'narrow';
+  center?: boolean;
+  class?: string;
+}
+const { width = 'wide', center = false, class: cls = '' } = Astro.props;
+const inner = [
+  'relative mx-auto px-4 sm:px-6',
+  width === 'narrow' ? 'max-w-4xl py-12 sm:py-16' : 'max-w-7xl py-10 sm:py-14',
+  center ? 'text-center' : '',
+  cls,
+].join(' ');
+---
+
+<div class="relative overflow-hidden bg-gradient-to-b from-lake-900 to-lake-800 text-white">
+  <div class="pointer-events-none absolute inset-0" aria-hidden="true">
+    <!-- dawn glow, upper right — echoes the sun position in the home hero -->
+    <div class="absolute -right-20 -top-28 h-80 w-80 rounded-full bg-ember-500/[0.07] blur-3xl"></div>
+    <!-- layered ridgelines along the bottom edge. Smooth ridges rather than
+         conifers because this stretches to any viewport width, and stretched
+         trees look wrong where stretched hills do not. -->
+    <svg
+      class="absolute inset-x-0 bottom-0 h-14 w-full sm:h-20"
+      viewBox="0 0 1440 80"
+      preserveAspectRatio="none"
+      fill="none"
+    >
+      <path
+        d="M0 46 L120 30 L260 44 L420 24 L560 42 L720 26 L880 44 L1040 28 L1200 42 L1320 30 L1440 40 L1440 80 L0 80 Z"
+        fill="#0b2033"
+        opacity=".3"
+      />
+      <path
+        d="M0 60 L160 46 L320 60 L500 42 L660 56 L840 44 L1000 60 L1180 46 L1320 58 L1440 48 L1440 80 L0 80 Z"
+        fill="#0b2033"
+        opacity=".55"
+      />
+    </svg>
+  </div>
+  <div class={inner}>
+    <slot />
+  </div>
+</div>

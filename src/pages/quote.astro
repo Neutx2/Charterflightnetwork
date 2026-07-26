@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import PageHero from '../components/PageHero.astro';
 import QuoteForm from '../components/QuoteForm.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import { SITE } from '../lib/site';
@@ -46,22 +47,20 @@ const jsonLd = [
 ---
 
 <BaseLayout title={title} description={description} jsonLd={jsonLd}>
-  <div class="bg-gradient-to-b from-lake-900 to-lake-800 text-white">
-    <div class="mx-auto max-w-4xl px-4 sm:px-6 py-12 sm:py-16 text-center">
-      <h1 class="font-display text-3xl sm:text-4xl lg:text-5xl font-bold">
-        Request Free Charter Quotes
-      </h1>
-      <p class="mt-4 text-lg text-lake-100 max-w-2xl mx-auto leading-relaxed">
-        With just one click, receive up to 3 competitive quotes from the charter
-        airlines best positioned and equipped to provide the service you require.
-      </p>
-      <ul class="mt-6 flex flex-wrap justify-center gap-x-8 gap-y-2 text-sm font-semibold text-lake-100">
-        <li>✓ Up to 3 competitive quotes</li>
-        <li>✓ No cost, no obligation</li>
-        <li>✓ Book direct with the operator</li>
-      </ul>
-    </div>
-  </div>
+  <PageHero width="narrow" center>
+    <h1 class="font-display text-3xl sm:text-4xl lg:text-5xl font-bold">
+      Request Free Charter Quotes
+    </h1>
+    <p class="mt-4 text-lg text-lake-100 max-w-2xl mx-auto leading-relaxed">
+      With just one click, receive up to 3 competitive quotes from the charter
+      airlines best positioned and equipped to provide the service you require.
+    </p>
+    <ul class="mt-6 flex flex-wrap justify-center gap-x-8 gap-y-2 text-sm font-semibold text-lake-100">
+      <li>✓ Up to 3 competitive quotes</li>
+      <li>✓ No cost, no obligation</li>
+      <li>✓ Book direct with the operator</li>
+    </ul>
+  </PageHero>
 
   <div class="mx-auto max-w-4xl px-4 sm:px-6 py-10 sm:py-14">
     <Breadcrumbs crumbs={[{ label: 'Charter Quote Request' }]} />

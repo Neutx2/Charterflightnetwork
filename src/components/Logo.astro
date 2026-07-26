@@ -1,20 +1,21 @@
 ---
 /**
- * Charter Flight Network mark — "three routes, one answer".
+ * Charter Flight Network mark — the propeller.
  *
- * Three flight paths converge on a single point: one request reaches the
- * network, up to three competitive quotes come back to you. That is the whole
- * business model, so the mark says something only this company can say —
- * unlike an aircraft glyph, which every operator, broker and booking app on
- * earth already uses, and which the name "Charter Flight Network" says in
- * words anyway.
+ * Why a prop and not an aircraft: three earlier attempts drew a plane and all
+ * three failed the same way. A side-on aircraft is ~9px of thin detail at the
+ * 36px header size and collapses into a speck; a top-down one is legible but
+ * indistinguishable from every airline app icon in existence. A propeller is
+ * aviation without being generic aviation, and it is specifically *this*
+ * business — float planes, turboprops and gravel strips, not airliners. Three
+ * blades, three quotes, which is a coincidence worth keeping.
  *
- * Drawn as strokes rather than filled detail so it survives being 16px in a
- * browser tab. Two earlier attempts failed exactly there: a side-on aircraft
- * was ~9px of thin detail at header size and collapsed into a speck.
+ * Radial symmetry is the reason it survives 16px: there is no orientation to
+ * misread and no thin detail to lose. The ember hub carries brand colour and
+ * gives the eye a centre.
  *
- * Single source of truth — header, favicon (public/favicon.svg), the social
- * card (scripts/build_og_image.mjs) and the owner status board
+ * Single source of truth — header, footer, favicon (public/favicon.svg), the
+ * social card (scripts/build_og_image.mjs) and the owner status board
  * (scripts/build_status_page.py) all reproduce these same paths.
  */
 interface Props {
@@ -36,10 +37,10 @@ const { size = 36, tile = '#1d486b', class: cls = '' } = Astro.props;
   focusable="false"
 >
   <rect width="64" height="64" rx="15" fill={tile} />
-  <g fill="none" stroke="#faf8f4" stroke-linecap="round" stroke-width="5">
-    <path d="M11 13C29 13 36 20 45 31" />
-    <path d="M11 32h34" />
-    <path d="M11 51C29 51 36 44 45 33" />
+  <g fill="#faf8f4">
+    <path d="M32 7.4c2.8 0 4.7 2.2 4.7 4.9l-1.7 14.6c-.2 1.8-1.3 2.8-3 2.8s-2.8-1-3-2.8L27.3 12.3c0-2.7 1.9-4.9 4.7-4.9z" />
+    <path d="M55.3 47.6c-1.4 2.4-4.4 3.1-6.7 1.7l-12.4-8.1c-1.5-1-1.9-2.4-1.1-3.9s2.2-1.9 3.9-1.3l13.9 5.5c2.4 1 3.8 3.7 2.4 6.1z" />
+    <path d="M8.7 47.6c-1.4-2.4 0-5.1 2.4-6.1l13.9-5.5c1.7-.6 3.1-.2 3.9 1.3s.4 2.9-1.1 3.9l-12.4 8.1c-2.3 1.4-5.3.7-6.7-1.7z" />
   </g>
-  <circle cx="47" cy="32" r="8" fill="#e8940f" />
+  <circle cx="32" cy="32" r="6.6" fill="#e8940f" />
 </svg>

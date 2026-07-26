@@ -1,6 +1,7 @@
 ---
 /** Shared hub template for USA / Bahamas / Caribbean directory pages. */
 import { render } from 'astro:content';
+import PageHero from './PageHero.astro';
 import type { CollectionEntry } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
@@ -46,18 +47,16 @@ const jsonLd = [
 ---
 
 <BaseLayout title={title} description={description} canonicalPath={regionPath} jsonLd={jsonLd}>
-  <div class="bg-gradient-to-b from-lake-900 to-lake-800 text-white">
-    <div class="mx-auto max-w-7xl px-4 sm:px-6 py-10 sm:py-14">
-      <Breadcrumbs crumbs={[{ label: regionLabel }]} />
-      <h1 class="mt-4 font-display text-3xl sm:text-4xl lg:text-5xl font-bold">{h1}</h1>
-      <p class="mt-3 max-w-3xl text-lake-100 text-lg leading-relaxed">{description}</p>
-      <div class="mt-6">
-        <a href="#quote" class="rounded-lg bg-ember-500 px-6 py-3 font-bold text-lake-950 hover:bg-ember-400 transition-colors">
-          Get Free Quotes
-        </a>
-      </div>
+  <PageHero>
+    <Breadcrumbs crumbs={[{ label: regionLabel }]} />
+    <h1 class="mt-4 font-display text-3xl sm:text-4xl lg:text-5xl font-bold">{h1}</h1>
+    <p class="mt-3 max-w-3xl text-lake-100 text-lg leading-relaxed">{description}</p>
+    <div class="mt-6">
+      <a href="#quote" class="rounded-lg bg-ember-500 px-6 py-3 font-bold text-lake-950 hover:bg-ember-400 transition-colors">
+        Get Free Quotes
+      </a>
     </div>
-  </div>
+  </PageHero>
 
   <div class="mx-auto max-w-7xl px-4 sm:px-6 py-10 sm:py-14">
     {sorted.length > 0 && (

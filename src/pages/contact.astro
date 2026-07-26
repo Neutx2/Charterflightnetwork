@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import PageHero from '../components/PageHero.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import { SITE } from '../lib/site';
 
@@ -9,16 +10,14 @@ const description =
 ---
 
 <BaseLayout title={title} description={description} canonicalPath="/contact">
-  <div class="bg-gradient-to-b from-lake-900 to-lake-800 text-white">
-    <div class="mx-auto max-w-7xl px-4 sm:px-6 py-10 sm:py-14">
-      <Breadcrumbs crumbs={[{ label: 'Contact' }]} />
-      <h1 class="mt-4 font-display text-3xl sm:text-4xl lg:text-5xl font-bold">Contact Us</h1>
-      <p class="mt-3 max-w-3xl text-lake-100 text-lg leading-relaxed">
-        Questions about a quote request, or about listing your charter service?
-        We're based in Thunder Bay, Ontario.
-      </p>
-    </div>
-  </div>
+  <PageHero>
+    <Breadcrumbs crumbs={[{ label: 'Contact' }]} />
+    <h1 class="mt-4 font-display text-3xl sm:text-4xl lg:text-5xl font-bold">Contact Us</h1>
+    <p class="mt-3 max-w-3xl text-lake-100 text-lg leading-relaxed">
+      Questions about a quote request, or about listing your charter service?
+      We're based in Thunder Bay, Ontario.
+    </p>
+  </PageHero>
 
   <div class="mx-auto max-w-5xl px-4 sm:px-6 py-10 sm:py-14 grid gap-10 md:grid-cols-2">
     <div>

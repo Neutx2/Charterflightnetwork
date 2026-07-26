@@ -2,6 +2,7 @@
 import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
 import sitemap from '@astrojs/sitemap';
+import { DUPLICATE_PATHS } from './src/lib/directory-dupes.ts';
 
 // https://astro.build/config
 export default defineConfig({
@@ -18,7 +19,9 @@ export default defineConfig({
       filter: (page) =>
         !/\/quote\/.+/.test(page) &&
         !page.endsWith('/quote-confirmation/') &&
-        !page.endsWith('/404/'),
+        !page.endsWith('/404/') &&
+        // duplicate directory twins canonicalize to their primary
+        !DUPLICATE_PATHS.some((d) => page.endsWith(d)),
     }),
   ],
   vite: {
