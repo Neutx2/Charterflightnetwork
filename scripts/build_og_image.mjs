@@ -55,7 +55,7 @@ ${Array.from({ length: 60 }, (_, i) => {
 
 <div class="brand">
   <svg width="64" height="64" viewBox="0 0 64 64">
-    <rect width="64" height="64" rx="15" fill="#1c5b6a"/><path d="M9 21C14 40 32 45 47 32" stroke="#ff7d02" stroke-width="4.6" stroke-linecap="round" fill="none"/><g transform="translate(45 20) rotate(38) scale(.52) translate(-32 -32)" fill="#ff7d02"><path d="M32 8c2.6 0 4.2 2.9 4.2 7.4v9.1l16.3 9.6c.9.5 1.5 1.5 1.5 2.6v4.1c0 .9-.9 1.6-1.8 1.3l-16-5.2v9.4l4.6 3.7c.5.4.8 1 .8 1.6v2.2c0 .8-.7 1.3-1.4 1.1L32 52.8l-8.2 1.1c-.7.2-1.4-.3-1.4-1.1v-2.2c0-.6.3-1.2.8-1.6l4.6-3.7v-9.4l-16 5.2c-.9.3-1.8-.4-1.8-1.3v-4.1c0-1.1.6-2.1 1.5-2.6l16.3-9.6v-9.1C27.8 10.9 29.4 8 32 8z"/></g>
+    <rect width="64" height="64" rx="15" fill="#1c5b6a"/><g stroke="#faf8f4" stroke-width="5" stroke-linecap="round" opacity=".85"><path d="M8 50h12"/><path d="M8 36h10"/><path d="M11 22h8"/></g><g transform="translate(39 29) rotate(40) scale(1.06) translate(-32 -32)" fill="#ff7d02"><path d="M32 8c2.6 0 4.2 2.9 4.2 7.4v9.1l16.3 9.6c.9.5 1.5 1.5 1.5 2.6v4.1c0 .9-.9 1.6-1.8 1.3l-16-5.2v9.4l4.6 3.7c.5.4.8 1 .8 1.6v2.2c0 .8-.7 1.3-1.4 1.1L32 52.8l-8.2 1.1c-.7.2-1.4-.3-1.4-1.1v-2.2c0-.6.3-1.2.8-1.6l4.6-3.7v-9.4l-16 5.2c-.9.3-1.8-.4-1.8-1.3v-4.1c0-1.1.6-2.1 1.5-2.6l16.3-9.6v-9.1C27.8 10.9 29.4 8 32 8z"/></g>
   </svg>
   <b>Charter Flight Network</b>
 </div>
