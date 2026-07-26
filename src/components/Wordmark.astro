@@ -1,24 +1,32 @@
 ---
 /**
- * The full logotype, composed the way the classic logo composes it: the orange
- * swoosh arcs over the front of a closed-up, two-tone wordmark with the
- * aircraft banking away at its tip — "Charterflight" in white, "Network" in
- * the classic orange.
+ * The full logotype, composed the way the classic logo composes it
+ * (src/assets/legacy/Logo_green_white.jpg): the orange swoosh with its dashed
+ * contrail arcing over the front of a closed-up, two-tone wordmark, aircraft
+ * banking away at the tip — "Charterflight" white, "Network" orange, ".com"
+ * trailing in a lighter tone.
  *
  * That lockup is the most recognisable thing about the 2008 identity. Anyone
  * who knew the old site reads it before they read it.
  *
- * The arc is positioned in `em`, so the whole lockup scales as one unit with
- * font-size and needs no per-breakpoint tuning.
+ * Everything is sized in `em`, so the whole lockup — arc, contrail, aircraft,
+ * type and domain — scales as one unit with font-size and needs no
+ * per-breakpoint tuning.
  *
- * Companion, not replacement, to Logo.astro: this is the logotype for the
- * header and footer, and Logo.astro is the square mark for places that need a
+ * Two departures from the original, both legibility rather than taste:
+ *   · No drop shadow on the letterforms. It is the most dated part of the
+ *     original and it muddies the type at the 15-18px this actually renders at.
+ *   · The aircraft is drawn from above rather than three-quarter — the
+ *     original's plane relies on tail detail that goes sub-pixel at this size.
+ *
+ * Companion, not replacement, to Logo.astro: this is the logotype for header
+ * and footer; Logo.astro is the square mark for the places that need a
  * container — favicon, social card, status board. The classic worked the same
  * way, with no square mark of its own.
  *
  * The company name keeps its spaces everywhere it carries meaning — page
  * titles, the JSON-LD Organization, the footer copyright, and the accessible
- * name of the link that wraps this. Only the visual lockup closes up, exactly
+ * name on the link that wraps this. Only the visual lockup closes up, exactly
  * as the original artwork does.
  */
 interface Props {
@@ -29,26 +37,35 @@ interface Props {
 const { class: cls = '', tagline = false } = Astro.props;
 ---
 
-<span class={`relative block pt-[0.7em] leading-tight ${cls}`}>
+<span class={`relative block pt-[0.72em] leading-[1.12] ${cls}`}>
   <svg
-    class="pointer-events-none absolute left-[0.05em] top-[-0.3em] h-[1.4em] w-[4.4em]"
+    class="pointer-events-none absolute left-[0.02em] top-[-0.42em] h-[1.7em] w-[4.6em]"
     viewBox="0 0 200 56"
     preserveAspectRatio="xMinYMid meet"
     aria-hidden="true"
     focusable="false"
   >
-    <path d="M6 40C34 8 96 4 140 26" stroke="#ff7d02" stroke-width="7" stroke-linecap="round" fill="none" />
-    <g transform="translate(150 8) rotate(34) scale(.62) translate(-32 -32)" fill="#ff7d02">
+    <path d="M4 42C32 6 96 2 136 24" stroke="#ff7d02" stroke-width="7.5" stroke-linecap="round" fill="none" />
+    <path
+      d="M16 46C42 18 96 14 132 32"
+      stroke="#ff7d02"
+      stroke-width="4.5"
+      stroke-linecap="round"
+      stroke-dasharray="2 7"
+      fill="none"
+    />
+    <g transform="translate(152 6) rotate(34) scale(.86) translate(-32 -32)" fill="#ff7d02">
       <path
         d="M32 8c2.6 0 4.2 2.9 4.2 7.4v9.1l16.3 9.6c.9.5 1.5 1.5 1.5 2.6v4.1c0 .9-.9 1.6-1.8 1.3l-16-5.2v9.4l4.6 3.7c.5.4.8 1 .8 1.6v2.2c0 .8-.7 1.3-1.4 1.1L32 52.8l-8.2 1.1c-.7.2-1.4-.3-1.4-1.1v-2.2c0-.6.3-1.2.8-1.6l4.6-3.7v-9.4l-16 5.2c-.9.3-1.8-.4-1.8-1.3v-4.1c0-1.1.6-2.1 1.5-2.6l16.3-9.6v-9.1C27.8 10.9 29.4 8 32 8z"
       />
     </g>
   </svg>
-  <span class="block font-display font-bold tracking-tight whitespace-nowrap">
-    Charterflight<span class="text-ember-400">Network</span>
+  <span class="block font-display font-extrabold tracking-[-0.035em] whitespace-nowrap text-white">
+    Charterflight<span class="text-ember-400">Network</span><span
+      class="font-medium text-[0.62em] text-lake-200">.com</span>
   </span>
   {tagline && (
-    <span class="hidden sm:block text-[11px] font-normal text-lake-200 whitespace-nowrap">
+    <span class="hidden sm:block text-[11px] font-normal tracking-normal text-lake-200 whitespace-nowrap">
       Canadian owned &amp; operated since 2008
     </span>
   )}
