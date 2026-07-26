@@ -95,18 +95,21 @@ const uid = subject.length; // pages render at most one quote form
       </div>
     </fieldset>
 
-    <div>
-      <label class={labelCls} for={`DepartDate-${uid}`}>Departure date</label>
-      <input class={inputCls} type="date" id={`DepartDate-${uid}`} name="DepartDate" />
-    </div>
-    <div data-return-date-wrap>
-      <label class={labelCls} for={`ReturnDate-${uid}`}>Return date</label>
-      <input class={inputCls} type="date" id={`ReturnDate-${uid}`} name="ReturnDate" />
-    </div>
-
-    <div>
-      <label class={labelCls} for={`Passengers-${uid}`}>Passengers <span class="text-red-600">*</span></label>
-      <input class={inputCls} type="number" min="1" inputmode="numeric" id={`Passengers-${uid}`} name="Passengers" required />
+    <!-- Dates and passenger count share one row so Passengers isn't left
+         stranded alone on a half-width final row. -->
+    <div class="sm:col-span-2 grid gap-4 sm:grid-cols-3">
+      <div>
+        <label class={labelCls} for={`DepartDate-${uid}`}>Departure date</label>
+        <input class={inputCls} type="date" id={`DepartDate-${uid}`} name="DepartDate" />
+      </div>
+      <div data-return-date-wrap>
+        <label class={labelCls} for={`ReturnDate-${uid}`}>Return date</label>
+        <input class={inputCls} type="date" id={`ReturnDate-${uid}`} name="ReturnDate" />
+      </div>
+      <div>
+        <label class={labelCls} for={`Passengers-${uid}`}>Passengers <span class="text-red-600">*</span></label>
+        <input class={inputCls} type="number" min="1" inputmode="numeric" id={`Passengers-${uid}`} name="Passengers" required />
+      </div>
     </div>
   </div>
 
@@ -165,7 +168,7 @@ const uid = subject.length; // pages render at most one quote form
     </button>
     <button
       type="button"
-      class="quote-next hidden w-full sm:w-auto rounded-lg bg-lake-800 px-8 py-3.5 text-base font-bold text-white shadow-md hover:bg-lake-700 transition-colors"
+      class="quote-next hidden w-full sm:w-auto rounded-lg bg-ember-500 px-8 py-3.5 text-base font-bold text-lake-950 shadow-md hover:bg-ember-400 transition-colors"
     >
       Continue
     </button>

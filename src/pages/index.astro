@@ -2,6 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import QuoteForm from '../components/QuoteForm.astro';
 import QuoteCTA from '../components/QuoteCTA.astro';
+import AircraftIcon from '../components/AircraftIcon.astro';
 import { SITE } from '../lib/site';
 
 const title = 'Canadian Charter Flight Network - 3 Competitive Quotes';
@@ -43,21 +44,25 @@ const aircraftTypes = [
   {
     href: '/aircraft/jets',
     name: 'Jets',
+    icon: 'jet' as const,
     blurb: 'Speed and range for business and long-haul trips.',
   },
   {
     href: '/aircraft/turboprops',
     name: 'Turboprops',
+    icon: 'turboprop' as const,
     blurb: 'Efficient workhorses like the Pilatus PC-12 and King Air — gravel-strip capable.',
   },
   {
     href: '/aircraft/float-planes',
     name: 'Float Planes',
+    icon: 'float' as const,
     blurb: 'Beavers, Otters and Caravans on floats — direct to lakes, lodges and outposts.',
   },
   {
     href: '/aircraft/helicopters',
     name: 'Helicopters',
+    icon: 'helicopter' as const,
     blurb: 'Reach survey sites, remote camps and locations with no strip at all.',
   },
 ];
@@ -224,10 +229,14 @@ const steps = [
     </p>
     <div class="mt-12 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
       {aircraftTypes.map((type) => (
-        <a href={type.href} class="group rounded-2xl bg-white p-6 ring-1 ring-birch-200 shadow-sm hover:ring-lake-300 hover:shadow-md transition">
-          <h3 class="font-display text-xl font-semibold text-lake-900 group-hover:text-lake-700">{type.name}</h3>
+        <a href={type.href} class="group flex flex-col rounded-2xl bg-white p-6 ring-1 ring-birch-200 shadow-sm hover:ring-lake-300 hover:shadow-md transition">
+          <AircraftIcon
+            type={type.icon}
+            class="h-12 w-auto text-lake-700/85 transition-colors group-hover:text-lake-800"
+          />
+          <h3 class="mt-4 font-display text-xl font-semibold text-lake-900 group-hover:text-lake-700">{type.name}</h3>
           <p class="mt-2 text-sm text-slate-600 leading-relaxed">{type.blurb}</p>
-          <span class="mt-3 inline-block text-sm font-semibold text-boreal-600">Learn more →</span>
+          <span class="mt-auto pt-3 inline-block text-sm font-semibold text-boreal-600">Learn more →</span>
         </a>
       ))}
     </div>
@@ -261,8 +270,24 @@ const steps = [
         With just one click, your request reaches the charter airlines best positioned
         and equipped to provide the service you require.
       </p>
-      <div class="mt-10 rounded-2xl bg-birch-50 p-6 sm:p-10 ring-1 ring-birch-200">
-        <QuoteForm subject="Charter Quote Request - Home Page" />
+      <!-- The form is the only thing on this page that earns money, so it gets
+           real elevation instead of sitting flat on the section background. -->
+      <div class="mt-10 overflow-hidden rounded-2xl bg-white shadow-xl shadow-lake-950/10 ring-1 ring-birch-200">
+        <div class="border-b border-birch-200 bg-birch-50 px-6 py-4 sm:px-10">
+          <p class="flex flex-wrap items-center gap-x-6 gap-y-1 text-sm font-semibold text-lake-800">
+            <span class="flex items-center gap-1.5">
+              <svg class="h-4 w-4 text-boreal-600" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path fill-rule="evenodd" d="M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12zm13.36-1.814a.75.75 0 10-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 00-1.06 1.06l2.25 2.25a.75.75 0 001.14-.094l3.75-5.25z" clip-rule="evenodd"/></svg>
+              Takes about a minute
+            </span>
+            <span class="flex items-center gap-1.5">
+              <svg class="h-4 w-4 text-boreal-600" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path fill-rule="evenodd" d="M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12zm13.36-1.814a.75.75 0 10-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 00-1.06 1.06l2.25 2.25a.75.75 0 001.14-.094l3.75-5.25z" clip-rule="evenodd"/></svg>
+              No cost, no obligation
+            </span>
+          </p>
+        </div>
+        <div class="p-6 sm:p-10">
+          <QuoteForm subject="Charter Quote Request - Home Page" />
+        </div>
       </div>
     </div>
   </section>
@@ -286,6 +311,8 @@ const steps = [
     <QuoteCTA
       heading="Prefer to contact operators yourself?"
       sub="Our Canadian Air Charter Directory lists every wheel plane, float plane and helicopter charter service operating in every province and territory of Canada — contact any of them directly and request a quote."
+      ctaHref="/directory"
+      ctaLabel="Browse the directory"
     />
   </section>
 </BaseLayout>

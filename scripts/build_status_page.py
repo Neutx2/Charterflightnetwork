@@ -247,7 +247,7 @@ footer p {{ margin:.35rem 0; }}
 <header class="top">
   <div class="wrap">
     <div class="lede">
-      <p class="eyebrow"><svg width="22" height="22" viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="15" fill="#1d486b"/><path d="M10 50C22 50 34 42 42 26" stroke="#e8940f" stroke-width="5.4" stroke-linecap="round" fill="none"/><g transform="translate(43 21) rotate(45) scale(.55) translate(-32 -32)"><path fill="#faf8f4" d="M32 8c2.6 0 4.2 2.9 4.2 7.4v9.1l16.3 9.6c.9.5 1.5 1.5 1.5 2.6v4.1c0 .9-.9 1.6-1.8 1.3l-16-5.2v9.4l4.6 3.7c.5.4.8 1 .8 1.6v2.2c0 .8-.7 1.3-1.4 1.1L32 52.8l-8.2 1.1c-.7.2-1.4-.3-1.4-1.1v-2.2c0-.6.3-1.2.8-1.6l4.6-3.7v-9.4l-16 5.2c-.9.3-1.8-.4-1.8-1.3v-4.1c0-1.1.6-2.1 1.5-2.6l16.3-9.6v-9.1C27.8 10.9 29.4 8 32 8z"/></g></svg>Charter Flight Network · preview build</p>
+      <p class="eyebrow"><svg width="22" height="22" viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="15" fill="#1d486b"/><g fill="none" stroke="#faf8f4" stroke-linecap="round" stroke-width="5"><path d="M11 13C29 13 36 20 45 31"/><path d="M11 32h34"/><path d="M11 51C29 51 36 44 45 33"/></g><circle cx="47" cy="32" r="8" fill="#e8940f"/></svg>Charter Flight Network · preview build</p>
       <h1>Your website, as it stands right now</h1>
       <p class="built">Updated {now.strftime('%b %-d, %Y at %H:%M UTC')} · {pages_built:,} pages built ·
         cycle {m_cycle.group(1) if m_cycle else '—'}</p>

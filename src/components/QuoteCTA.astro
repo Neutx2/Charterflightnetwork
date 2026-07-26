@@ -5,10 +5,17 @@ import { SITE } from '../lib/site';
 interface Props {
   heading?: string;
   sub?: string;
+  /** Where the button goes. Override when the copy promises something other
+   *  than the quote form — a band that says "browse the directory yourself"
+   *  and then buttons through to /quote is a dead end for that reader. */
+  ctaHref?: string;
+  ctaLabel?: string;
 }
 const {
   heading = 'Receive up to 3 competitive charter quotes',
   sub = 'Free, no obligation. Your request goes to the operators best positioned and equipped for your trip — quotes come straight to your email.',
+  ctaHref = '/quote',
+  ctaLabel = 'Get Free Quotes',
 } = Astro.props;
 ---
 
@@ -19,8 +26,8 @@ const {
       <p class="mt-2 text-lake-100 leading-relaxed">{sub}</p>
     </div>
     <div class="flex flex-col items-start gap-2 shrink-0">
-      <a href="/quote" class="rounded-lg bg-ember-500 px-6 py-3 font-bold text-lake-950 shadow hover:bg-ember-400 transition-colors">
-        Get Free Quotes
+      <a href={ctaHref} class="rounded-lg bg-ember-500 px-6 py-3 font-bold text-lake-950 whitespace-nowrap shadow hover:bg-ember-400 transition-colors">
+        {ctaLabel}
       </a>
       <a href={SITE.phoneHref} class="text-sm font-semibold text-lake-100 hover:text-white">
         or call {SITE.phone}

@@ -1,18 +1,44 @@
 ---
 import { SITE } from '../lib/site';
+import Logo from './Logo.astro';
 const year = new Date().getFullYear();
+
+/**
+ * Four columns rather than three: the brand block was previously folded into
+ * "Contact Us", which left that column short and the footer visually
+ * lopsided, and meant the mark appeared nowhere below the fold. The Explore
+ * list is split across two columns for the same reason — as a single stack of
+ * eight it ran far past its neighbours.
+ */
+const explore = [
+  { href: '/quote', label: 'Request Charter Quotes' },
+  { href: '/canada', label: 'Canada Charter Flights' },
+  { href: '/usa', label: 'USA Charter Flights' },
+  { href: '/bahamas', label: 'Bahamas Charter Flights' },
+  { href: '/caribbean', label: 'Caribbean Charter Flights' },
+  { href: '/empty-legs', label: 'Empty Leg Flights' },
+];
+const more = [
+  { href: '/directory', label: 'Charter Directory' },
+  { href: '/aircraft', label: 'Aircraft Types' },
+  { href: '/about', label: 'About' },
+  { href: '/contact', label: 'Contact' },
+  { href: '/privacy-policy', label: 'Privacy Policy' },
+];
 ---
 
 <footer class="bg-lake-950 text-lake-100">
   <div class="mx-auto max-w-7xl px-4 sm:px-6 py-12">
-    <div class="grid gap-10 md:grid-cols-3">
-      <div>
-        <h2 class="font-display text-lg font-bold text-white mb-3">Contact Us</h2>
-        <address class="not-italic leading-relaxed text-sm">
-          <strong class="text-white">{SITE.name}</strong><br />
+    <div class="grid gap-10 sm:grid-cols-2 lg:grid-cols-4">
+      <div class="lg:col-span-1">
+        <a href="/" class="inline-flex items-center gap-2.5" aria-label="Charter Flight Network — home">
+          <Logo size={38} class="shrink-0" />
+          <span class="font-display text-[15px] font-bold leading-tight text-white">Charter Flight<br />Network</span>
+        </a>
+        <address class="mt-4 not-italic leading-relaxed text-sm">
           {SITE.address.street}<br />
           {SITE.address.city}, {SITE.address.regionLong} {SITE.address.postalCode}<br />
-          <a href={SITE.phoneHref} class="mt-1 inline-flex items-center gap-1.5 font-semibold text-ember-400 hover:text-ember-500">
+          <a href={SITE.phoneHref} class="mt-2 inline-flex items-center gap-1.5 font-semibold text-ember-400 hover:text-ember-500">
             <svg class="h-4 w-4" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6.6 10.8a15.5 15.5 0 006.6 6.6l2.2-2.2a1 1 0 011-.24c1.2.4 2.4.6 3.6.6a1 1 0 011 1V20a1 1 0 01-1 1C10.6 21 3 13.4 3 4a1 1 0 011-1h3.5a1 1 0 011 1c0 1.25.2 2.45.6 3.6a1 1 0 01-.25 1z"/></svg>
             {SITE.phone}
           </a>
@@ -22,14 +48,14 @@ const year = new Date().getFullYear();
       <div>
         <h2 class="font-display text-lg font-bold text-white mb-3">Explore</h2>
         <ul class="space-y-2 text-sm">
-          <li><a href="/quote" class="hover:text-white">Request Charter Quotes</a></li>
-          <li><a href="/canada" class="hover:text-white">Canada Charter Flights</a></li>
-          <li><a href="/usa" class="hover:text-white">USA Charter Flights</a></li>
-          <li><a href="/bahamas" class="hover:text-white">Bahamas Charter Flights</a></li>
-          <li><a href="/caribbean" class="hover:text-white">Caribbean Charter Flights</a></li>
-          <li><a href="/empty-legs" class="hover:text-white">Empty Leg Flights</a></li>
-          <li><a href="/about" class="hover:text-white">About</a></li>
-          <li><a href="/privacy-policy" class="hover:text-white">Privacy Policy</a></li>
+          {explore.map((l) => <li><a href={l.href} class="hover:text-white">{l.label}</a></li>)}
+        </ul>
+      </div>
+
+      <div>
+        <h2 class="font-display text-lg font-bold text-white mb-3">Also on the site</h2>
+        <ul class="space-y-2 text-sm">
+          {more.map((l) => <li><a href={l.href} class="hover:text-white">{l.label}</a></li>)}
         </ul>
       </div>
 
