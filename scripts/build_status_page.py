@@ -148,24 +148,24 @@ doc = f"""<title>Charter Flight Network — build status</title>
 :root {{
   --ground:#faf8f4; --panel:#ffffff; --ink:#16283a; --ink-soft:#4a5c6d;
   --line:#e5ded0; --deep:#12314a; --deep-2:#0b2033;
-  --good:#2d6a54; --accent:#e8940f; --accent-ink:#0b2033; --chip:#f0f7f4;
+  --good:#2d6a54; --accent:#ff7d02; --accent-ink:#0b2033; --chip:#f0f7f4;
 }}
 @media (prefers-color-scheme: dark) {{
   :root {{
     --ground:#0d1926; --panel:#152535; --ink:#e2eaf2; --ink-soft:#9db0c2;
     --line:#22374b; --deep:#0b2033; --deep-2:#081827;
-    --good:#8dbfa9; --accent:#f5a623; --accent-ink:#0b2033; --chip:#16302a;
+    --good:#8dbfa9; --accent:#ff9424; --accent-ink:#0b2033; --chip:#16302a;
   }}
 }}
 :root[data-theme="dark"] {{
   --ground:#0d1926; --panel:#152535; --ink:#e2eaf2; --ink-soft:#9db0c2;
   --line:#22374b; --deep:#0b2033; --deep-2:#081827;
-  --good:#8dbfa9; --accent:#f5a623; --accent-ink:#0b2033; --chip:#16302a;
+  --good:#8dbfa9; --accent:#ff9424; --accent-ink:#0b2033; --chip:#16302a;
 }}
 :root[data-theme="light"] {{
   --ground:#faf8f4; --panel:#ffffff; --ink:#16283a; --ink-soft:#4a5c6d;
   --line:#e5ded0; --deep:#12314a; --deep-2:#0b2033;
-  --good:#2d6a54; --accent:#e8940f; --accent-ink:#0b2033; --chip:#f0f7f4;
+  --good:#2d6a54; --accent:#ff7d02; --accent-ink:#0b2033; --chip:#f0f7f4;
 }}
 
 * {{ box-sizing:border-box; }}
@@ -247,7 +247,7 @@ footer p {{ margin:.35rem 0; }}
 <header class="top">
   <div class="wrap">
     <div class="lede">
-      <p class="eyebrow"><svg width="22" height="22" viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="15" fill="#1d486b"/><g fill="#faf8f4"><path d="M32 7.4c2.8 0 4.7 2.2 4.7 4.9l-1.7 14.6c-.2 1.8-1.3 2.8-3 2.8s-2.8-1-3-2.8L27.3 12.3c0-2.7 1.9-4.9 4.7-4.9z"/><path d="M55.3 47.6c-1.4 2.4-4.4 3.1-6.7 1.7l-12.4-8.1c-1.5-1-1.9-2.4-1.1-3.9s2.2-1.9 3.9-1.3l13.9 5.5c2.4 1 3.8 3.7 2.4 6.1z"/><path d="M8.7 47.6c-1.4-2.4 0-5.1 2.4-6.1l13.9-5.5c1.7-.6 3.1-.2 3.9 1.3s.4 2.9-1.1 3.9l-12.4 8.1c-2.3 1.4-5.3.7-6.7-1.7z"/></g><circle cx="32" cy="32" r="6.6" fill="#e8940f"/></svg>Charter Flight Network · preview build</p>
+      <p class="eyebrow"><svg width="22" height="22" viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="15" fill="#1c5b6a"/><path d="M9 21C14 40 32 45 47 32" stroke="#ff7d02" stroke-width="4.6" stroke-linecap="round" fill="none"/><g transform="translate(45 20) rotate(38) scale(.52) translate(-32 -32)" fill="#ff7d02"><path d="M32 8c2.6 0 4.2 2.9 4.2 7.4v9.1l16.3 9.6c.9.5 1.5 1.5 1.5 2.6v4.1c0 .9-.9 1.6-1.8 1.3l-16-5.2v9.4l4.6 3.7c.5.4.8 1 .8 1.6v2.2c0 .8-.7 1.3-1.4 1.1L32 52.8l-8.2 1.1c-.7.2-1.4-.3-1.4-1.1v-2.2c0-.6.3-1.2.8-1.6l4.6-3.7v-9.4l-16 5.2c-.9.3-1.8-.4-1.8-1.3v-4.1c0-1.1.6-2.1 1.5-2.6l16.3-9.6v-9.1C27.8 10.9 29.4 8 32 8z"/></g></svg>Charter Flight Network · preview build</p>
       <h1>Your website, as it stands right now</h1>
       <p class="built">Updated {now.strftime('%b %-d, %Y at %H:%M UTC')} · {pages_built:,} pages built ·
         cycle {m_cycle.group(1) if m_cycle else '—'}</p>

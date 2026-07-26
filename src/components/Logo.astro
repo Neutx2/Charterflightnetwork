@@ -1,31 +1,41 @@
 ---
 /**
- * Charter Flight Network mark — the propeller.
+ * Charter Flight Network mark — the classic arc, redrawn.
  *
- * Why a prop and not an aircraft: three earlier attempts drew a plane and all
- * three failed the same way. A side-on aircraft is ~9px of thin detail at the
- * 36px header size and collapses into a speck; a top-down one is legible but
- * indistinguishable from every airline app icon in existence. A propeller is
- * aviation without being generic aviation, and it is specifically *this*
- * business — float planes, turboprops and gravel strips, not airliners. Three
- * blades, three quotes, which is a coincidence worth keeping.
+ * This is a deliberate descendant of the logo the site has used since 2008
+ * (src/assets/legacy/Logo_green_white.jpg): an orange swoosh scooping up from
+ * the left with an aircraft banking away at its tip. Colours are sampled from
+ * that file rather than invented — #ff7d02 for the arc and aircraft, #1c5b6a
+ * for the field.
  *
- * Radial symmetry is the reason it survives 16px: there is no orientation to
- * misread and no thin detail to lose. The ember hub carries brand colour and
- * gives the eye a centre.
+ * Two departures from the original, both for legibility rather than taste:
+ *   · The dashed contrail inside the arc is dropped. At the 36px header size
+ *     the dashes collapse into a smudge and at favicon size they disappear
+ *     entirely, so they cost clarity and bought nothing.
+ *   · The aircraft is drawn from above rather than in three-quarter view.
+ *     The original's plane relies on fine tail detail that is sub-pixel below
+ *     about 40px; a plan form holds its shape down to 16px.
  *
- * Single source of truth — header, footer, favicon (public/favicon.svg), the
- * social card (scripts/build_og_image.mjs) and the owner status board
- * (scripts/build_status_page.py) all reproduce these same paths.
+ * By default the mark has no tile, matching how the classic sits directly on
+ * the page beside the wordmark. Pass a `tile` colour for contexts that need a
+ * container — favicon, social card, status board.
  */
 interface Props {
   /** rendered size in px */
   size?: number;
-  /** tile colour — lighter on dark grounds so the mark doesn't disappear */
+  /** optional tile behind the mark; omit for the bare classic treatment */
   tile?: string;
   class?: string;
 }
-const { size = 36, tile = '#1d486b', class: cls = '' } = Astro.props;
+const { size = 36, tile, class: cls = '' } = Astro.props;
+
+// A bare mark uses the full canvas; a tiled one insets so it doesn't crowd the
+// rounded corners.
+const arc = tile ? 'M9 21C14 40 32 45 47 32' : 'M4 18C9 41 32 48 52 32';
+const plane = tile
+  ? 'translate(45 20) rotate(38) scale(.52) translate(-32 -32)'
+  : 'translate(49 18) rotate(38) scale(.62) translate(-32 -32)';
+const stroke = tile ? 4.6 : 5;
 ---
 
 <svg
@@ -36,11 +46,11 @@ const { size = 36, tile = '#1d486b', class: cls = '' } = Astro.props;
   aria-hidden="true"
   focusable="false"
 >
-  <rect width="64" height="64" rx="15" fill={tile} />
-  <g fill="#faf8f4">
-    <path d="M32 7.4c2.8 0 4.7 2.2 4.7 4.9l-1.7 14.6c-.2 1.8-1.3 2.8-3 2.8s-2.8-1-3-2.8L27.3 12.3c0-2.7 1.9-4.9 4.7-4.9z" />
-    <path d="M55.3 47.6c-1.4 2.4-4.4 3.1-6.7 1.7l-12.4-8.1c-1.5-1-1.9-2.4-1.1-3.9s2.2-1.9 3.9-1.3l13.9 5.5c2.4 1 3.8 3.7 2.4 6.1z" />
-    <path d="M8.7 47.6c-1.4-2.4 0-5.1 2.4-6.1l13.9-5.5c1.7-.6 3.1-.2 3.9 1.3s.4 2.9-1.1 3.9l-12.4 8.1c-2.3 1.4-5.3.7-6.7-1.7z" />
+  {tile && <rect width="64" height="64" rx="15" fill={tile} />}
+  <path d={arc} stroke="#ff7d02" stroke-width={stroke} stroke-linecap="round" fill="none" />
+  <g transform={plane} fill="#ff7d02">
+    <path
+      d="M32 8c2.6 0 4.2 2.9 4.2 7.4v9.1l16.3 9.6c.9.5 1.5 1.5 1.5 2.6v4.1c0 .9-.9 1.6-1.8 1.3l-16-5.2v9.4l4.6 3.7c.5.4.8 1 .8 1.6v2.2c0 .8-.7 1.3-1.4 1.1L32 52.8l-8.2 1.1c-.7.2-1.4-.3-1.4-1.1v-2.2c0-.6.3-1.2.8-1.6l4.6-3.7v-9.4l-16 5.2c-.9.3-1.8-.4-1.8-1.3v-4.1c0-1.1.6-2.1 1.5-2.6l16.3-9.6v-9.1C27.8 10.9 29.4 8 32 8z"
+    />
   </g>
-  <circle cx="32" cy="32" r="6.6" fill="#e8940f" />
 </svg>

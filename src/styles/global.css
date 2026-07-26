@@ -52,10 +52,21 @@
   --color-birch-400: #b7a78c;
   --color-birch-500: #a08e70;
 
-  /* Accent — sunrise amber for CTAs */
-  --color-ember-400: #f5a623;
-  --color-ember-500: #e8940f;
-  --color-ember-600: #c77a08;
+  /* Accent — the orange sampled straight off the classic CharterflightNetwork
+     logo (src/assets/legacy/Logo_green_white.jpg), so CTAs, the mark and the
+     wordmark all carry the colour the site has used since 2008. Every ember
+     text usage sits on a dark ground; the lightest pairing is ember-500 with
+     text-lake-950 at 6.4:1, comfortably past AA. */
+  --color-ember-400: #ff9424;
+  --color-ember-500: #ff7d02;
+  --color-ember-600: #d96500;
+
+  /* Heritage teal — the classic logo's field colour. Sits between the lake
+     blues and the boreal greens; used for the logo tile so the mark reads the
+     same on a business card as it does in a browser tab. */
+  --color-heritage-400: #2d7b8c;
+  --color-heritage-500: #1c5b6a;
+  --color-heritage-600: #164754;
 
   --font-sans: "Inter Variable", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   --font-display: "Outfit Variable", var(--font-sans);

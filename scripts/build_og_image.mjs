@@ -37,7 +37,7 @@ svg.trees{position:absolute;left:0;bottom:0;width:1200px;height:210px;opacity:.7
 .brand b{font-family:"Outfit V",sans-serif;font-weight:700;font-size:32px;letter-spacing:-.01em}
 h1{position:relative;font-family:"Outfit V",sans-serif;font-weight:700;font-size:70px;
   line-height:1.06;letter-spacing:-.02em;max-width:16ch}
-h1 em{font-style:normal;color:#f5a623}
+h1 em{font-style:normal;color:#ff9424}
 p{position:relative;margin-top:26px;font-size:26px;color:#bed3e4;max-width:34ch;line-height:1.4}
 .strip{position:relative;margin-top:40px;display:flex;gap:34px;font-size:20px;
   font-weight:600;color:#9fc4b5}
@@ -55,8 +55,7 @@ ${Array.from({ length: 60 }, (_, i) => {
 
 <div class="brand">
   <svg width="64" height="64" viewBox="0 0 64 64">
-    <rect width="64" height="64" rx="15" fill="#1d486b"/>
-    <g fill="#faf8f4"><path d="M32 7.4c2.8 0 4.7 2.2 4.7 4.9l-1.7 14.6c-.2 1.8-1.3 2.8-3 2.8s-2.8-1-3-2.8L27.3 12.3c0-2.7 1.9-4.9 4.7-4.9z"/><path d="M55.3 47.6c-1.4 2.4-4.4 3.1-6.7 1.7l-12.4-8.1c-1.5-1-1.9-2.4-1.1-3.9s2.2-1.9 3.9-1.3l13.9 5.5c2.4 1 3.8 3.7 2.4 6.1z"/><path d="M8.7 47.6c-1.4-2.4 0-5.1 2.4-6.1l13.9-5.5c1.7-.6 3.1-.2 3.9 1.3s.4 2.9-1.1 3.9l-12.4 8.1c-2.3 1.4-5.3.7-6.7-1.7z"/></g><circle cx="32" cy="32" r="6.6" fill="#e8940f"/>
+    <rect width="64" height="64" rx="15" fill="#1c5b6a"/><path d="M9 21C14 40 32 45 47 32" stroke="#ff7d02" stroke-width="4.6" stroke-linecap="round" fill="none"/><g transform="translate(45 20) rotate(38) scale(.52) translate(-32 -32)" fill="#ff7d02"><path d="M32 8c2.6 0 4.2 2.9 4.2 7.4v9.1l16.3 9.6c.9.5 1.5 1.5 1.5 2.6v4.1c0 .9-.9 1.6-1.8 1.3l-16-5.2v9.4l4.6 3.7c.5.4.8 1 .8 1.6v2.2c0 .8-.7 1.3-1.4 1.1L32 52.8l-8.2 1.1c-.7.2-1.4-.3-1.4-1.1v-2.2c0-.6.3-1.2.8-1.6l4.6-3.7v-9.4l-16 5.2c-.9.3-1.8-.4-1.8-1.3v-4.1c0-1.1.6-2.1 1.5-2.6l16.3-9.6v-9.1C27.8 10.9 29.4 8 32 8z"/></g>
   </svg>
   <b>Charter Flight Network</b>
 </div>
