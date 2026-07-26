@@ -1,17 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Turboprop climbing away over a wide river valley on a cross-border flight to the USA">
-<defs><linearGradient id="s2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b2033"/><stop offset=".5" stop-color="#245a84"/><stop offset=".85" stop-color="#e8940f" stop-opacity=".45"/><stop offset="1" stop-color="#f5a623" stop-opacity=".25"/></linearGradient>
-<radialGradient id="g2" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#ffd08a" stop-opacity=".9"/><stop offset="1" stop-color="#f5a623" stop-opacity="0"/></radialGradient></defs>
-<rect width="480" height="300" fill="url(#s2)"/>
-<circle cx="368" cy="188" r="96" fill="url(#g2)"/><circle cx="368" cy="190" r="17" fill="#ffdfae" opacity=".92"/>
-<path d="M0 168 L0 168 L80 150 L170 168 L260 146 L360 166 L480 150 L480 300 L0 300 Z" fill="#173a57" opacity="0.8"/>
-<g fill="#12271f" opacity="1"><path d="M0 192 l5 -26 l5 26 Z"/><path d="M16 192 l6 -34 l6 34 Z"/><path d="M32 192 l7 -42 l7 42 Z"/><path d="M39 192 l5 -29 l5 29 Z"/><path d="M55 192 l6 -37 l6 37 Z"/><path d="M71 192 l7 -45 l7 45 Z"/><path d="M78 192 l5 -32 l5 32 Z"/><path d="M94 192 l6 -40 l6 40 Z"/><path d="M110 192 l7 -27 l7 27 Z"/><path d="M117 192 l5 -35 l5 35 Z"/><path d="M133 192 l6 -43 l6 43 Z"/><path d="M149 192 l7 -30 l7 30 Z"/><path d="M156 192 l5 -38 l5 38 Z"/><path d="M172 192 l6 -46 l6 46 Z"/><path d="M188 192 l7 -33 l7 33 Z"/><path d="M195 192 l5 -41 l5 41 Z"/><path d="M211 192 l6 -28 l6 28 Z"/><path d="M227 192 l7 -36 l7 36 Z"/><path d="M234 192 l5 -44 l5 44 Z"/><path d="M250 192 l6 -31 l6 31 Z"/><path d="M266 192 l7 -39 l7 39 Z"/><path d="M273 192 l5 -26 l5 26 Z"/><path d="M289 192 l6 -34 l6 34 Z"/><path d="M305 192 l7 -42 l7 42 Z"/><path d="M312 192 l5 -29 l5 29 Z"/><path d="M328 192 l6 -37 l6 37 Z"/><path d="M344 192 l7 -45 l7 45 Z"/><path d="M351 192 l5 -32 l5 32 Z"/><path d="M367 192 l6 -40 l6 40 Z"/><path d="M383 192 l7 -27 l7 27 Z"/><path d="M390 192 l5 -35 l5 35 Z"/><path d="M406 192 l6 -43 l6 43 Z"/><path d="M422 192 l7 -30 l7 30 Z"/><path d="M429 192 l5 -38 l5 38 Z"/><path d="M445 192 l6 -46 l6 46 Z"/><path d="M461 192 l7 -33 l7 33 Z"/><path d="M468 192 l5 -41 l5 41 Z"/><path d="M484 192 l6 -28 l6 28 Z"/><path d="M500 192 l7 -36 l7 36 Z"/><path d="M507 192 l5 -44 l5 44 Z"/></g>
-<rect y="190" width="480" height="110" fill="#0f2b40"/>
-<path d="M0 246 C120 232 180 268 300 250 S430 236 480 246 L480 300 L0 300 Z" fill="#1d486b" opacity=".9"/>
-<g fill="#f5a623" opacity=".35"><rect x="330" y="204" width="80" height="4" rx="2"/><rect x="316" y="216" width="106" height="3" rx="1.5"/></g>
-<!-- climbing turboprop -->
-<g fill="#081a2a" transform="translate(96 92) rotate(-13) scale(.62)">
-<path d="M0 44c34-7 132-11 166-9l66 4c33 2 44 22 22 29l-77 7c-66 4-143 0-177-31z"/>
-<path d="M104 22h140c8 0 12 7 9 13l-10 19H112c-7 0-12-5-12-12z"/>
-<path d="M18 40 L-58 14 l16 38z"/><path d="M-6 46 l-52 26 20 6z" opacity=".9"/>
-<ellipse cx="258" cy="46" rx="4" ry="26" opacity=".4"/></g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img" aria-label="Turboprop climbing away over a river valley on a cross-border flight to the USA">
+  <!-- Region card art. See canada-boreal-lake-float-plane.svg for the shared
+       layout rules: horizon y=170, aircraft upper-right, clear of the title. -->
+  <defs>
+    <linearGradient id="uSky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b2033"/>
+      <stop offset=".5" stop-color="#245a84"/>
+      <stop offset=".85" stop-color="#e8940f" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#f5a623" stop-opacity=".25"/>
+    </linearGradient>
+    <radialGradient id="uGlow" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#ffd08a" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#f5a623" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="480" height="300" fill="url(#uSky)"/>
+  <circle cx="128" cy="168" r="96" fill="url(#uGlow)"/>
+  <circle cx="128" cy="170" r="16" fill="#ffdfae" opacity=".92"/>
+
+  <!-- layered ridges, palest furthest -->
+  <path d="M0 150 L90 132 L180 150 L280 128 L380 148 L480 134 L480 176 L0 176 Z" fill="#2f6f9f" opacity=".5"/>
+  <path d="M0 162 L100 146 L200 164 L310 142 L400 162 L480 148 L480 180 L0 180 Z" fill="#173a57" opacity=".9"/>
+
+  <g fill="#12271f">
+    <rect y="170" width="480" height="16"/>
+    <path d="M10 172 l6 -22 6 22 Z"/><path d="M32 172 l5 -17 5 17 Z"/><path d="M52 172 l7 -26 7 26 Z"/><path d="M76 172 l5 -19 5 19 Z"/><path d="M96 172 l6 -24 6 24 Z"/><path d="M118 172 l5 -16 5 16 Z"/><path d="M138 172 l7 -25 7 25 Z"/><path d="M162 172 l5 -18 5 18 Z"/><path d="M182 172 l6 -23 6 23 Z"/><path d="M204 172 l5 -17 5 17 Z"/><path d="M224 172 l7 -26 7 26 Z"/><path d="M248 172 l5 -19 5 19 Z"/><path d="M268 172 l6 -24 6 24 Z"/><path d="M290 172 l5 -16 5 16 Z"/><path d="M310 172 l7 -25 7 25 Z"/><path d="M334 172 l5 -18 5 18 Z"/><path d="M354 172 l6 -23 6 23 Z"/><path d="M376 172 l5 -17 5 17 Z"/><path d="M396 172 l7 -26 7 26 Z"/><path d="M420 172 l5 -19 5 19 Z"/><path d="M440 172 l6 -24 6 24 Z"/><path d="M462 172 l5 -16 5 16 Z"/>
+  </g>
+
+  <!-- river valley -->
+  <rect y="184" width="480" height="116" fill="#0f2b40"/>
+  <path d="M0 232 C120 218 180 254 300 236 S430 222 480 232 L480 300 L0 300 Z" fill="#1d486b" opacity=".9"/>
+  <g fill="#f5a623" opacity=".3">
+    <rect x="88" y="196" width="80" height="4" rx="2"/>
+    <rect x="74" y="208" width="106" height="3" rx="1.5"/>
+  </g>
+
+  <!-- climbing turboprop, upper right -->
+  <g transform="translate(292 32) rotate(-13)" fill="#07131f">
+    <path d="M0 18c12-3 46-4 58-3l24 1.5c12 .8 16 8 8 10.5l-28 2.5c-24 1.5-52 0-62-11.5z"/>
+    <path d="M37 8h50c3 0 4.4 2.5 3.2 4.7l-3.6 6.9H40c-2.5 0-4.3-1.8-4.3-4.3z"/>
+    <path d="M6 16 L-21 5 l6 14 z"/>
+    <path d="M-2 19 l-19 9 7 2 z" opacity=".9"/>
+    <ellipse cx="92" cy="19" rx="1.7" ry="10" opacity=".4"/>
+  </g>
 </svg>

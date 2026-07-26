@@ -1,4 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 800" preserveAspectRatio="xMidYMid slice" role="img" aria-label="A float plane on approach over a boreal lake at dawn, layered ridgelines behind">
+  <!--
+    Composition notes (learned the hard way):
+    · A silhouette only reads against LIGHT. The aircraft used to sit at the top
+      of the frame in near-black on a near-black sky and disappeared. It now
+      crosses the sun glow, which is the one genuinely bright region.
+    · The left ~55% is covered by a lake-950 gradient so the headline stays
+      legible, so nothing detailed is drawn there — it would only be wasted.
+    · The old "ripple bands" on the water were hard-edged rects that read as
+      rendering glitches. Replaced with one soft, tapered sun column.
+  -->
   <defs>
     <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#0b2033"/>
@@ -21,11 +31,28 @@
       <stop offset="0" stop-color="#4d8dbc" stop-opacity="0"/>
       <stop offset="1" stop-color="#83b2d4" stop-opacity=".32"/>
     </linearGradient>
+    <!-- Sun column: brightest at the horizon, gone well before the bottom
+         edge. A hard-edged wedge that reached the frame bottom read as a
+         searchlight beam rather than a reflection, so it fades out by 60%. -->
+    <linearGradient id="column" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd08a" stop-opacity=".38"/>
+      <stop offset=".3" stop-color="#f5a623" stop-opacity=".13"/>
+      <stop offset=".62" stop-color="#f5a623" stop-opacity="0"/>
+    </linearGradient>
+    <!-- feathers the column's vertical edges so it has no hard sides -->
+    <linearGradient id="columnFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#000" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="columnMask">
+      <rect x="1380" y="540" width="360" height="260" fill="url(#columnFade)"/>
+    </mask>
   </defs>
 
   <rect width="1920" height="800" fill="url(#sky)"/>
-  <circle cx="1530" cy="452" r="330" fill="url(#glow)"/>
-  <circle cx="1530" cy="454" r="52" fill="#ffdfae" opacity=".9"/>
+  <circle cx="1560" cy="455" r="340" fill="url(#glow)"/>
+  <circle cx="1560" cy="457" r="52" fill="#ffdfae" opacity=".9"/>
 
   <!-- distant ridge, palest: aerial perspective -->
   <path d="M0 452 L150 424 L300 446 L470 410 L640 442 L820 416 L1010 444 L1200 414 L1400 440 L1600 418 L1780 442 L1920 424 L1920 500 L0 500 Z" fill="#2f6f9f" opacity=".55"/>
@@ -43,24 +70,17 @@
 
   <!-- lake -->
   <rect y="540" width="1920" height="260" fill="url(#water)"/>
-  <!-- sun column on the water, broken into bands so it reads as ripple -->
-  <g fill="#f5a623" opacity=".5">
-    <rect x="1440" y="552" width="180" height="7" rx="3.5"/>
-    <rect x="1410" y="574" width="242" height="6" rx="3"/>
-    <rect x="1448" y="596" width="164" height="5" rx="2.5"/>
-    <rect x="1398" y="620" width="266" height="5" rx="2.5"/>
-    <rect x="1456" y="648" width="148" height="4" rx="2"/>
-    <rect x="1410" y="680" width="240" height="4" rx="2"/>
-  </g>
-  <g stroke="#83b2d4" stroke-linecap="round" opacity=".2">
-    <path d="M120 596 h210" stroke-width="3"/><path d="M430 640 h260" stroke-width="3"/>
-    <path d="M880 612 h190" stroke-width="2.5"/><path d="M250 706 h300" stroke-width="2.5"/>
-    <path d="M980 744 h240" stroke-width="2"/><path d="M1560 664 h200" stroke-width="2.5"/>
+  <path d="M1508 540 h104 l86 260 h-276 z" fill="url(#column)" mask="url(#columnMask)"/>
+  <g stroke="#83b2d4" stroke-linecap="round" opacity=".16" fill="none">
+    <path d="M980 612 h190" stroke-width="3"/>
+    <path d="M1180 700 h240" stroke-width="2.5"/>
+    <path d="M860 748 h300" stroke-width="2"/>
   </g>
 
-  <!-- float plane on approach against the dawn sky, clear of the headline column -->
-  <g transform="translate(1120 150) scale(.92)">
-    <g fill="#0a1d2e">
+  <!-- Float plane on approach, crossing the dawn glow. Kept clear of the
+       headline column at every breakpoint the hero is cropped to. -->
+  <g transform="translate(1236 300) scale(1.02)">
+    <g fill="#071726">
       <!-- fuselage -->
       <path d="M0 44c34-7 132-11 166-9l66 4c33 2 44 22 22 29l-77 7c-66 4-143 0-177-31z"/>
       <!-- high wing -->

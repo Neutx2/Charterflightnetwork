@@ -2,58 +2,97 @@
 import { SITE } from '../lib/site';
 import Logo from './Logo.astro';
 
+/**
+ * Nine flat top-level items plus a phone number plus a CTA did not fit on a
+ * 1440px header — "Empty Legs", "For Operators", the phone number and the CTA
+ * all wrapped onto a second line. The four destination regions now live in one
+ * menu. Every link is still rendered in the DOM (just visually collapsed), so
+ * the internal link graph the migration depends on is unchanged.
+ */
+const regions = [
+  { href: '/canada', label: 'Canada', note: 'Every province & territory' },
+  { href: '/usa', label: 'USA', note: 'Cross-border charters' },
+  { href: '/bahamas', label: 'Bahamas', note: 'Out-island hops' },
+  { href: '/caribbean', label: 'Caribbean', note: 'Island charters' },
+];
 const nav = [
-  { href: '/canada', label: 'Canada' },
-  { href: '/usa', label: 'USA' },
-  { href: '/bahamas', label: 'Bahamas' },
-  { href: '/caribbean', label: 'Caribbean' },
   { href: '/aircraft', label: 'Aircraft' },
   { href: '/empty-legs', label: 'Empty Legs' },
   { href: '/operators', label: 'For Operators' },
   { href: '/about', label: 'About' },
   { href: '/contact', label: 'Contact' },
 ];
+
 const { pathname } = Astro.url;
-const isActive = (href: string) =>
-  pathname === href || pathname.startsWith(href + '/');
+const isActive = (href: string) => pathname === href || pathname.startsWith(href + '/');
+const inRegions = regions.some((r) => isActive(r.href));
+
+const navLink = 'rounded-md px-2.5 py-2 font-medium whitespace-nowrap transition-colors hover:bg-white/10 hover:text-white';
 ---
 
 <header class="sticky top-0 z-50 bg-lake-950/95 backdrop-blur supports-[backdrop-filter]:bg-lake-950/90 text-white shadow-lg shadow-lake-950/20">
   <div class="mx-auto max-w-7xl px-4 sm:px-6">
-    <div class="flex h-16 items-center justify-between gap-4">
+    <div class="flex h-16 items-center justify-between gap-3">
       <a href="/" class="flex items-center gap-2.5 shrink-0" aria-label="Charter Flight Network — home">
         <Logo size={36} class="shrink-0" />
         <span class="leading-tight">
-          <span class="block font-display font-bold text-[15px] tracking-tight">Charter Flight Network</span>
-          <span class="hidden sm:block text-[11px] text-lake-200">Canadian owned &amp; operated since {SITE.founded}</span>
+          <span class="block font-display font-bold text-[13.5px] sm:text-[15px] tracking-tight whitespace-nowrap">Charter Flight Network</span>
+          <span class="hidden sm:block text-[11px] text-lake-200 whitespace-nowrap">Canadian owned &amp; operated since {SITE.founded}</span>
         </span>
       </a>
 
-      <nav class="hidden lg:flex items-center gap-1 text-sm" aria-label="Main">
+      <nav class="hidden xl:flex items-center gap-0.5 text-sm" aria-label="Main">
+        <div class="relative" data-menu>
+          <button
+            type="button"
+            data-menu-button
+            aria-expanded="false"
+            class:list={[navLink, 'inline-flex items-center gap-1', inRegions ? 'text-ember-400' : 'text-lake-100']}
+          >
+            Destinations
+            <svg class="h-3.5 w-3.5" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true"><path d="M5.5 7.5L10 12l4.5-4.5z"/></svg>
+          </button>
+          <div
+            data-menu-panel
+            class="hidden absolute left-0 top-full mt-1 w-64 rounded-xl border border-white/10 bg-lake-900 p-1.5 shadow-xl shadow-lake-950/40"
+          >
+            {regions.map((r) => (
+              <a
+                href={r.href}
+                aria-current={isActive(r.href) ? 'page' : undefined}
+                class:list={[
+                  'block rounded-lg px-3 py-2 hover:bg-white/10',
+                  isActive(r.href) ? 'text-ember-400' : 'text-lake-100',
+                ]}
+              >
+                <span class="block font-semibold">{r.label}</span>
+                <span class="block text-xs text-lake-300">{r.note}</span>
+              </a>
+            ))}
+          </div>
+        </div>
+
         {nav.map((item) => (
           <a
             href={item.href}
             aria-current={isActive(item.href) ? 'page' : undefined}
-            class:list={[
-              'rounded-md px-2.5 py-2 font-medium transition-colors hover:bg-white/10 hover:text-white',
-              isActive(item.href) ? 'text-ember-400' : 'text-lake-100',
-            ]}
+            class:list={[navLink, isActive(item.href) ? 'text-ember-400' : 'text-lake-100']}
           >{item.label}</a>
         ))}
       </nav>
 
-      <div class="flex items-center gap-2">
-        <a href={SITE.phoneHref} class="hidden md:flex items-center gap-1.5 text-sm font-semibold text-lake-100 hover:text-white px-2 py-2">
-          <svg class="h-4 w-4" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6.6 10.8a15.5 15.5 0 006.6 6.6l2.2-2.2a1 1 0 011-.24c1.2.4 2.4.6 3.6.6a1 1 0 011 1V20a1 1 0 01-1 1C10.6 21 3 13.4 3 4a1 1 0 011-1h3.5a1 1 0 011 1c0 1.25.2 2.45.6 3.6a1 1 0 01-.25 1z"/></svg>
+      <div class="flex items-center gap-1.5 shrink-0">
+        <a href={SITE.phoneHref} class="hidden md:flex items-center gap-1.5 whitespace-nowrap text-sm font-semibold text-lake-100 hover:text-white px-2 py-2">
+          <svg class="h-4 w-4 shrink-0" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6.6 10.8a15.5 15.5 0 006.6 6.6l2.2-2.2a1 1 0 011-.24c1.2.4 2.4.6 3.6.6a1 1 0 011 1V20a1 1 0 01-1 1C10.6 21 3 13.4 3 4a1 1 0 011-1h3.5a1 1 0 011 1c0 1.25.2 2.45.6 3.6a1 1 0 01-.25 1z"/></svg>
           {SITE.phone}
         </a>
-        <a href="/quote" class="rounded-lg bg-ember-500 px-4 py-2 text-sm font-bold text-lake-950 shadow hover:bg-ember-400 transition-colors">
-          Get Free Quotes
+        <a href="/quote" class="rounded-lg bg-ember-500 px-3 sm:px-4 py-2 text-[13px] sm:text-sm font-bold text-lake-950 whitespace-nowrap shadow hover:bg-ember-400 transition-colors">
+          Get <span class="hidden sm:inline">Free </span>Quotes
         </a>
         <button
           id="mobile-nav-toggle"
           type="button"
-          class="lg:hidden inline-flex items-center justify-center rounded-md p-2 text-lake-100 hover:bg-white/10"
+          class="xl:hidden inline-flex items-center justify-center rounded-md p-2 text-lake-100 hover:bg-white/10"
           aria-controls="mobile-nav"
           aria-expanded="false"
           aria-label="Open menu"
@@ -67,8 +106,20 @@ const isActive = (href: string) =>
     </div>
   </div>
 
-  <div id="mobile-nav" class="hidden lg:hidden border-t border-white/10 bg-lake-950">
+  <div id="mobile-nav" class="hidden xl:hidden border-t border-white/10 bg-lake-950 max-h-[calc(100vh-4rem)] overflow-y-auto">
     <nav class="mx-auto max-w-7xl px-4 py-3 flex flex-col gap-1 text-base" aria-label="Mobile">
+      <p class="px-3 pt-1 pb-1 text-xs font-bold uppercase tracking-wide text-lake-300">Destinations</p>
+      {regions.map((item) => (
+        <a
+          href={item.href}
+          aria-current={isActive(item.href) ? 'page' : undefined}
+          class:list={[
+            'rounded-md px-3 py-2.5 font-medium hover:bg-white/10',
+            isActive(item.href) ? 'text-ember-400' : 'text-lake-100',
+          ]}
+        >{item.label}</a>
+      ))}
+      <p class="px-3 pt-3 pb-1 text-xs font-bold uppercase tracking-wide text-lake-300">Browse</p>
       {nav.map((item) => (
         <a
           href={item.href}
@@ -79,7 +130,7 @@ const isActive = (href: string) =>
           ]}
         >{item.label}</a>
       ))}
-      <a href={SITE.phoneHref} class="rounded-md px-3 py-2.5 font-semibold text-white flex items-center gap-2">
+      <a href={SITE.phoneHref} class="mt-2 rounded-md px-3 py-2.5 font-semibold text-white flex items-center gap-2">
         <svg class="h-4 w-4" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6.6 10.8a15.5 15.5 0 006.6 6.6l2.2-2.2a1 1 0 011-.24c1.2.4 2.4.6 3.6.6a1 1 0 011 1V20a1 1 0 01-1 1C10.6 21 3 13.4 3 4a1 1 0 011-1h3.5a1 1 0 011 1c0 1.25.2 2.45.6 3.6a1 1 0 01-.25 1z"/></svg>
         Call {SITE.phone}
       </a>
@@ -96,5 +147,28 @@ const isActive = (href: string) =>
     toggle.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
     toggle.querySelector('.nav-open-icon')?.classList.toggle('hidden', open);
     toggle.querySelector('.nav-close-icon')?.classList.toggle('hidden', !open);
+  });
+
+  // Destinations menu. Closes on outside click, Escape, and focus leaving —
+  // a hover-only menu strands keyboard and touch users.
+  document.querySelectorAll<HTMLElement>('[data-menu]').forEach((root) => {
+    const button = root.querySelector<HTMLButtonElement>('[data-menu-button]');
+    const panel = root.querySelector<HTMLElement>('[data-menu-panel]');
+    if (!button || !panel) return;
+    const setOpen = (open: boolean) => {
+      panel.classList.toggle('hidden', !open);
+      button.setAttribute('aria-expanded', String(open));
+    };
+    button.addEventListener('click', () => setOpen(panel.classList.contains('hidden')));
+    root.addEventListener('keydown', (e) => {
+      if ((e as KeyboardEvent).key === 'Escape') { setOpen(false); button.focus(); }
+    });
+    document.addEventListener('click', (e) => {
+      if (!root.contains(e.target as Node)) setOpen(false);
+    });
+    root.addEventListener('focusout', () => {
+      // focusout fires before the new element takes focus
+      setTimeout(() => { if (!root.contains(document.activeElement)) setOpen(false); }, 0);
+    });
   });
 </script>

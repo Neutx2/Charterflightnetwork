@@ -1,8 +1,9 @@
+<!-- Mirrors src/components/Logo.astro. Tile is darker here so the mark keeps
+     contrast against the light chrome of a browser tab. -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
   <rect width="64" height="64" rx="15" fill="#12314a"/>
-  <path d="M11 45c9.5 1.5 22-3.5 31.5-19" stroke="#e8940f" stroke-width="5.4" stroke-linecap="round" fill="none"/>
-  <g fill="#faf8f4" transform="translate(37 15) rotate(28) scale(1.12)">
-    <path d="M0 8.4c0-1.2 1-2.1 2.3-2.1h13l6-2.6c.8-.35 1.7.2 1.7 1.05v2.6c0 1.25-1.05 2.25-2.35 2.25H2.3C1 9.8 0 9 0 8.4z"/>
-    <path d="M5.6 2.2h10.2c.55 0 .85.55.6 1l-1.3 2.6H6.8c-.6 0-1.1-.45-1.1-1.05z"/>
+  <path d="M10 50C22 50 34 42 42 26" stroke="#e8940f" stroke-width="5.8" stroke-linecap="round" fill="none"/>
+  <g transform="translate(43 21) rotate(45) scale(.58) translate(-32 -32)">
+    <path fill="#faf8f4" d="M32 8c2.6 0 4.2 2.9 4.2 7.4v9.1l16.3 9.6c.9.5 1.5 1.5 1.5 2.6v4.1c0 .9-.9 1.6-1.8 1.3l-16-5.2v9.4l4.6 3.7c.5.4.8 1 .8 1.6v2.2c0 .8-.7 1.3-1.4 1.1L32 52.8l-8.2 1.1c-.7.2-1.4-.3-1.4-1.1v-2.2c0-.6.3-1.2.8-1.6l4.6-3.7v-9.4l-16 5.2c-.9.3-1.8-.4-1.8-1.3v-4.1c0-1.1.6-2.1 1.5-2.6l16.3-9.6v-9.1C27.8 10.9 29.4 8 32 8z"/>
   </g>
 </svg>
