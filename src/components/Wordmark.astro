@@ -8,11 +8,14 @@
  * That lockup is the most recognisable thing about the 2008 identity. Anyone
  * who knew the old site reads it before they read it.
  *
- * The swoosh geometry lives in src/lib/wordmark-arcs.ts, which holds the eight
- * variants offered for selection. To switch the site's logotype, change
+ * The swoosh geometry lives in src/lib/wordmark-arcs.ts, which holds every
+ * variant offered for selection. To switch the site's logotype, change
  * DEFAULT_VARIANT there — nothing else moves. Everything is sized in `em`, so
  * arc, contrail, aircraft, type and domain scale as one unit and need no
- * per-breakpoint tuning.
+ * per-breakpoint tuning. Variants marked `behind` paint the art underneath
+ * the letterforms (the type gets position:relative so it occludes the SVG) —
+ * that is how the shipped teal-horizon variant tucks the aircraft's belly
+ * behind "Network".
  *
  * Two departures from the original, both legibility rather than taste:
  *   · No drop shadow on the letterforms. It is the most dated part of the
@@ -68,7 +71,7 @@ const padTop = v.padTop ?? '0.72em';
     set:html={v.paths}
   />
   <span
-    class="block font-display whitespace-nowrap text-white"
+    class:list={['block font-display whitespace-nowrap text-white', v.behind && 'relative']}
     style={`font-weight:${heavy};letter-spacing:${track}`}
   >
     Charterflight<span class="text-ember-400" style={`font-weight:${light}`}>Network</span><span
@@ -76,7 +79,10 @@ const padTop = v.padTop ?? '0.72em';
   </span>
   {tagline && (
     <span
-      class="hidden sm:block text-[11px] font-normal tracking-normal text-lake-200 whitespace-nowrap"
+      class:list={[
+        'hidden sm:block text-[11px] font-normal tracking-normal text-lake-200 whitespace-nowrap',
+        v.behind && 'relative',
+      ]}
       style={v.under ? 'margin-top:1.2em' : ''}
     >
       Canadian owned &amp; operated since 2008

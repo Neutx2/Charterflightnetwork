@@ -37,9 +37,19 @@ export type WordmarkVariant = {
   track?: string;
   /** space above the wordmark for art that sits over it */
   padTop?: string;
+  /**
+   * The art paints BEHIND the letterforms instead of over them. The artwork
+   * SVG is absolutely positioned, so by default it paints above the type;
+   * Wordmark.astro gives the type position:relative when this is set, which
+   * places it later in the stacking context and lets the letters occlude the
+   * art. That occlusion is what makes "aircraft behind the word" possible.
+   */
+  behind?: boolean;
 };
 
 const O = '#ff7d02';
+/** heritage-400 from src/styles/global.css — recedes so the aircraft leads */
+const TEAL = '#2d7b8c';
 const PLANE =
   'M32 8c2.6 0 4.2 2.9 4.2 7.4v9.1l16.3 9.6c.9.5 1.5 1.5 1.5 2.6v4.1c0 .9-.9 1.6-1.8 1.3l-16-5.2v9.4l4.6 3.7c.5.4.8 1 .8 1.6v2.2c0 .8-.7 1.3-1.4 1.1L32 52.8l-8.2 1.1c-.7.2-1.4-.3-1.4-1.1v-2.2c0-.6.3-1.2.8-1.6l4.6-3.7v-9.4l-16 5.2c-.9.3-1.8-.4-1.8-1.3v-4.1c0-1.1.6-2.1 1.5-2.6l16.3-9.6v-9.1C27.8 10.9 29.4 8 32 8z';
 
@@ -195,9 +205,34 @@ export const WORDMARK_VARIANTS = {
     <path d="M20 26C40 44 80.6 48.5 116 34" stroke="${O}" stroke-width="4.2" stroke-linecap="round" stroke-dasharray="2 7" fill="none" />
     ${plane('translate(138.6 19.2) rotate(67.75) scale(.84)')}`,
   },
+  // ---------------------------------------------------------------------
+  // Chosen by the owner from the 23-variation decision board (option 24 —
+  // options 14 and 15 combined): the aircraft climbing out from behind the
+  // end of "Network" over a wide teal horizon.
+  //
+  // Geometry is measured, not eyeballed. The artboard maps 0.025em per unit
+  // with the wordmark's cap line at y=105; "Network" spans x 237-390. The
+  // aircraft is scale 1.7 — its ~60-unit rotated bounding box becomes 102
+  // units, two-thirds of the word's 153-unit width — at (368, 84), so its
+  // belly tucks behind the letters and ~65% shows above them. The viewport
+  // clips at y=120, which is what hides the horizon's ends and the art
+  // below the letter tops. Horizon in heritage teal so the single orange
+  // aircraft owns the focus; the wordmark keeps uniform ExtraBold.
+  // ---------------------------------------------------------------------
+  'teal-horizon-climbout': {
+    label: 'Teal horizon climb-out',
+    note: 'wide teal horizon behind the word, aircraft leaving past the end of "Network"',
+    viewBox: '0 -60 460 180',
+    place: 'left:-.06em;top:-2.7em;height:4.5em;width:11.5em',
+    behind: true,
+    padTop: '1.6em',
+    paths: `
+    <path d="M-16 132C90 74 370 74 476 132" stroke="${TEAL}" stroke-width="6" stroke-linecap="round" fill="none" />
+    ${plane('translate(368 84) rotate(38) scale(1.7)')}`,
+  },
 } satisfies Record<string, WordmarkVariant>;
 
 export type WordmarkVariantName = keyof typeof WORDMARK_VARIANTS;
 
 /** The logotype the site ships. Change this one value to switch. */
-export const DEFAULT_VARIANT: WordmarkVariantName = 'classic-climb';
+export const DEFAULT_VARIANT: WordmarkVariantName = 'teal-horizon-climbout';
