@@ -24,6 +24,19 @@ export type WordmarkVariant = {
   /** true when the swoosh runs beneath the word rather than over it */
   under?: boolean;
   paths: string;
+  /**
+   * Type settings. Close reading of the 2008 artwork showed "Charterflight"
+   * and "Network" are set in different typefaces at different weights — a
+   * heavy rounded geometric against a lighter neutral grotesque. The colour
+   * split is the obvious half of that contrast; the weight split is the half
+   * that gives the classic its character. Variants that omit these fall back
+   * to the older uniform-ExtraBold setting.
+   */
+  heavy?: number;
+  light?: number;
+  track?: string;
+  /** space above the wordmark for art that sits over it */
+  padTop?: string;
 };
 
 const O = '#ff7d02';
@@ -112,9 +125,71 @@ export const WORDMARK_VARIANTS = {
     <path d="M6 20C90 46 290 48 392 20" stroke="${O}" stroke-width="7" stroke-linecap="round" fill="none" />
     ${plane('translate(416 14) rotate(-34) scale(.8)')}`,
   },
+
+  // ---------------------------------------------------------------------
+  // Modernised classic: the 2008 logo with the dated parts removed rather
+  // than a new design. Drop shadows, the bevelled banner box, irregular
+  // hand-set dash spacing and the raster artwork all go; the heavy/light type
+  // contrast, the shallow scoop (not a rising arc) and the swoosh's overlap
+  // with the tops of the letters all come back.
+  // ---------------------------------------------------------------------
+  'modern-faithful': {
+    label: 'Modernised — faithful',
+    note: 'the classic de-dated: heavy/light contrast restored, scoop overlapping the letters, shadows gone',
+    viewBox: '0 0 170 56',
+    place: 'left:-.02em;top:-.30em;height:1.45em;width:4.5em',
+    heavy: 800,
+    light: 450,
+    track: '-0.03em',
+    padTop: '0.62em',
+    paths: `
+    <path d="M4 14C26 40 78 44 122 26" stroke="${O}" stroke-width="7" stroke-linecap="round" fill="none" />
+    <path d="M20 26C40 44 80 47 116 34" stroke="${O}" stroke-width="4.2" stroke-linecap="round" stroke-dasharray="2 7" fill="none" />
+    ${plane('translate(138 18) rotate(28) scale(.84)')}`,
+  },
+  'modern-clean': {
+    label: 'Modernised — clean',
+    note: 'same structure, contrail dropped — the sharpest reading at small sizes',
+    viewBox: '0 0 170 56',
+    place: 'left:-.02em;top:-.30em;height:1.45em;width:4.5em',
+    heavy: 800,
+    light: 450,
+    track: '-0.03em',
+    padTop: '0.62em',
+    paths: `
+    <path d="M4 14C26 40 78 44 122 26" stroke="${O}" stroke-width="7.5" stroke-linecap="round" fill="none" />
+    ${plane('translate(138 18) rotate(28) scale(.84)')}`,
+  },
+  'modern-refined': {
+    label: 'Modernised — refined',
+    note: 'more air, lighter "Network", wider fit — the most contemporary',
+    viewBox: '0 0 170 56',
+    place: 'left:-.02em;top:-.32em;height:1.5em;width:4.6em',
+    heavy: 700,
+    light: 350,
+    track: '-0.01em',
+    padTop: '0.62em',
+    paths: `
+    <path d="M4 14C26 40 78 44 122 26" stroke="${O}" stroke-width="7.5" stroke-linecap="round" fill="none" />
+    ${plane('translate(138 18) rotate(28) scale(.84)')}`,
+  },
+  'modern-bold': {
+    label: 'Modernised — bold',
+    note: 'everything heavier and tighter — the most present in a header',
+    viewBox: '0 0 170 56',
+    place: 'left:-.02em;top:-.32em;height:1.5em;width:4.5em',
+    heavy: 900,
+    light: 600,
+    track: '-0.045em',
+    padTop: '0.62em',
+    paths: `
+    <path d="M4 14C26 40 78 44 122 26" stroke="${O}" stroke-width="7" stroke-linecap="round" fill="none" />
+    <path d="M20 26C40 44 80 47 116 34" stroke="${O}" stroke-width="4.2" stroke-linecap="round" stroke-dasharray="2 7" fill="none" />
+    ${plane('translate(138 18) rotate(28) scale(.84)')}`,
+  },
 } satisfies Record<string, WordmarkVariant>;
 
 export type WordmarkVariantName = keyof typeof WORDMARK_VARIANTS;
 
 /** The logotype the site ships. Change this one value to switch. */
-export const DEFAULT_VARIANT: WordmarkVariantName = 'classic-climb';
+export const DEFAULT_VARIANT: WordmarkVariantName = 'modern-faithful';

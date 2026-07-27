@@ -44,12 +44,19 @@ interface Props {
   variant?: WordmarkVariantName;
 }
 const { class: cls = '', tagline = false, variant = DEFAULT_VARIANT } = Astro.props;
-const v = WORDMARK_VARIANTS[variant];
+const v: import('../lib/wordmark-arcs').WordmarkVariant = WORDMARK_VARIANTS[variant];
+
+// The 2008 artwork sets "Charterflight" heavy and "Network" markedly lighter.
+// Variants that predate that finding fall back to the old uniform ExtraBold.
+const heavy = v.heavy ?? 800;
+const light = v.light ?? 800;
+const track = v.track ?? '-0.035em';
+const padTop = v.padTop ?? '0.72em';
 ---
 
 <span
   class={`relative block leading-[1.12] ${cls}`}
-  style={v.under ? (tagline ? '' : 'padding-bottom:1.25em') : 'padding-top:0.72em'}
+  style={v.under ? (tagline ? '' : 'padding-bottom:1.25em') : `padding-top:${padTop}`}
 >
   <svg
     class="pointer-events-none absolute"
@@ -60,9 +67,12 @@ const v = WORDMARK_VARIANTS[variant];
     focusable="false"
     set:html={v.paths}
   />
-  <span class="block font-display font-extrabold tracking-[-0.035em] whitespace-nowrap text-white">
-    Charterflight<span class="text-ember-400">Network</span><span
-      class="font-medium text-[0.62em] text-lake-200">.com</span>
+  <span
+    class="block font-display whitespace-nowrap text-white"
+    style={`font-weight:${heavy};letter-spacing:${track}`}
+  >
+    Charterflight<span class="text-ember-400" style={`font-weight:${light}`}>Network</span><span
+      class="text-[0.6em] text-lake-200" style="font-weight:400">.com</span>
   </span>
   {tagline && (
     <span

@@ -27,6 +27,19 @@
    honeypot, per-page subjects, client-side validation.
 
 ## P1 — Conversion-rate optimization (low-traffic appropriate)
+5b. Intermittent layout shift on /quote. The multi-step enhancement hides
+    steps 2 and 3 after first paint, so under slow conditions the form
+    collapses visibly. Measured CLS 0.067 once, then 0 on three consecutive
+    re-runs — a timing race, not a deterministic regression, and below the 0.1
+    "good" threshold, but the kind of intermittent shift that still shows up in
+    field data.
+    Fix is to hide steps 2-3 before paint, which means the enhancement script
+    must run during parse rather than as a deferred module. NOT done yet
+    because the obvious version introduces a worse failure mode: if the script
+    is prevented from running, the contact fields stay hidden and the form
+    cannot be completed. Needs a self-healing fallback before it ships.
+    ICE: 5×7×5 = 175 | Rev: minor; protects the highest-value page's field CWV.
+
 6. [DONE 2026-07-19 cycle 1] Multi-step quote form (3 steps, progress bar, contact last,
    no-JS fallback verified)
    ICE: 9×7×6 = 378 | Rev: multi-step lead forms convert materially better
