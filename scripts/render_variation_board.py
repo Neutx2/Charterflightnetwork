@@ -79,6 +79,58 @@ CARDS = [
     ('15', 'Teal horizon', 'the horizon in the site\'s deep teal, only the aircraft orange',
      f'<path d="M-16 132C90 74 370 74 476 132" stroke="{TEAL}" stroke-width="6"'
      f' stroke-linecap="round" fill="none"/>' + AC),
+
+    ('E', 'Journeys', 'the logo tells the story of a flight'),
+    # Route: origin dot, dashed great-circle that passes behind the word and
+    # emerges rising into the aircraft. End tangent (25,-32) matches the
+    # aircraft's 38-degree heading, so the route and the aircraft agree.
+    ('16', 'Route to anywhere', 'a departure point, a dashed route behind the word, the aircraft flying it',
+     f'<circle cx="24" cy="96" r="5.5" fill="{O}"/>'
+     f'<path d="M24 96C110 10 267 126 292 94" stroke="{O}" stroke-width="4.5"'
+     f' stroke-linecap="round" stroke-dasharray="2 8" fill="none"/>'
+     + plane('translate(320 58) rotate(38) scale(1.55)')),
+    ('17', 'Take-off run', 'a runway of long dashes along the letter tops, the aircraft rotating off the end',
+     f'<path d="M8 100H224" stroke="{O}" stroke-width="6" stroke-dasharray="16 11" fill="none"/>'
+     + plane('translate(298 66) rotate(38) scale(1.55)')),
+    ('18', 'The fleet', 'three aircraft in formation — the network itself, flying together',
+     HZ + plane('translate(340 46) rotate(38) scale(1.35)')
+     + plane('translate(268 82) rotate(38) scale(.9)')
+     + plane('translate(222 106) rotate(38) scale(.65)')),
+    # Underline needs a deeper artboard: same 0.025em/unit mapping, viewport
+    # extended to y=180 so a line under the baseline isn't clipped.
+    # End tangent P3-P2 = (102,-28) -> heading atan2(102,28) = 74.6deg, and the
+    # aircraft sits on that tangent extended, past the end of ".com".
+    ('19', 'Underline sweep', 'the line runs under the whole name and lifts into the aircraft past .com',
+     f'<path d="M10 146C130 170 340 168 442 140" stroke="{O}" stroke-width="6"'
+     f' stroke-linecap="round" fill="none"/>'
+     + plane('translate(479 130) rotate(75) scale(1.05)'),
+     '0 -60 512 240', 'left:-.06em;top:-2.7em;height:6em;width:12.8em'),
+
+    ('F', 'Emblems & Canada', 'a mark rising behind the word'),
+    ('20', 'Compass ring', 'an open ring rising behind “Network”, the aircraft flying within it',
+     f'<circle cx="313" cy="62" r="55" stroke="{O}" stroke-width="6.5" fill="none"/>'
+     f'<g stroke="{O}" stroke-width="5" stroke-linecap="round">'
+     f'<path d="M313 3v-11"/><path d="M254 62h-11"/><path d="M372 62h11"/></g>'
+     + plane('translate(313 58) rotate(38) scale(1.15)')),
+    ('21', 'Around the globe', 'a small globe rising behind “Network”, the aircraft climbing away',
+     f'<circle cx="313" cy="80" r="44" stroke="{O}" stroke-width="6" fill="none"/>'
+     f'<path d="M271 88Q313 102 355 88" stroke="{O}" stroke-width="4" fill="none"/>'
+     f'<path d="M276 62Q313 74 350 62" stroke="{O}" stroke-width="4" fill="none"/>'
+     + plane('translate(382 26) rotate(38) scale(1.3)')),
+    ('22', 'The big sunrise', 'one broad dome behind the whole name, the aircraft well clear',
+     f'<circle cx="230" cy="250" r="165" fill="{O}"/>'
+     + plane('translate(338 38) rotate(38) scale(1.7)')),
+    # The leaf is a union of five narrow pointed lobes about a common centre
+    # plus a stem — a plotted-point outline rendered as a starburst, this
+    # doesn't. Deep notches between lobes are what make it read as maple.
+    ('23', 'Maple climb', 'the maple leaf where the sun was — Canadian owned, said quietly',
+     f'<g transform="translate(112 64) scale(1.15)" fill="{O}">'
+     f'<path d="M0 -28L7 -8L0 0L-7 -8Z"/>'
+     f'<path transform="rotate(52)" d="M0 -23L6 -7L0 0L-6 -7Z"/>'
+     f'<path transform="rotate(-52)" d="M0 -23L6 -7L0 0L-6 -7Z"/>'
+     f'<path transform="rotate(90)" d="M0 -18L5 -6L0 0L-5 -6Z"/>'
+     f'<path transform="rotate(-90)" d="M0 -18L5 -6L0 0L-5 -6Z"/>'
+     f'<rect x="-1.6" y="-2" width="3.2" height="16"/></g>' + AC),
 ]
 
 
@@ -129,8 +181,8 @@ for item in CARDS:
         group = (f'<div class="fam" data-shot><h2><span class="famkey">{item[0]}</span>{item[1]}'
                  f' <small>— {item[2]}</small></h2>')
     else:
-        n, name, note, art = item
-        group += card(n, name, note, art)
+        n, name, note, art, *extra = item
+        group += card(n, name, note, art, *extra)
 if group:
     sections += group + '</div>'
 
@@ -169,10 +221,10 @@ h2 small{{font:400 15px system-ui;color:#8fb0c8}}
 .bar .wm{{color:#fff}} .bar .tag,.bar .dom{{color:#b3d1e7}}
 </style>
 <div class="wrap">
-<h1>Charter Flight Network — the logo, 15 ways</h1>
-<p class="lede">Every option is the same wordmark with the aircraft behind “Network” at two-thirds of the word's width — the direction already chosen. What changes from card to card is <b>one thing at a time</b>: the horizon line, the sun, or the aircraft itself. Numbers <b>1</b> and <b>6</b> are the two favourites exactly as shown before. Each option appears small and large, on dark and light, and inside the real website header. <b>To choose, just say the number.</b></p>
+<h1>Charter Flight Network — the logo, 23 ways</h1>
+<p class="lede">Families A–D vary the chosen direction — the aircraft behind “Network” at two-thirds of the word's width — <b>one thing at a time</b>: the horizon line, the sun, the aircraft. Numbers <b>1</b> and <b>6</b> are the two favourites exactly as shown before. Families E–F go further afield: routes, runways, a formation, a compass, a globe, the maple leaf. Each option appears small and large, on dark and light, and inside the real website header. <b>To choose, just say the number.</b></p>
 {sections}</div>'''
 
 out = pathlib.Path('/tmp/claude-0/-home-user-Charterflightnetwork/3291c930-1fc0-50cf-88b3-1ad6857d793c/scratchpad/variations.html')
 out.write_text(HTML)
-print(f'wrote {out} — 15 variations + 2 references, {len(HTML)//1024} KB')
+print(f'wrote {out} — 23 variations + 2 references, {len(HTML)//1024} KB')
