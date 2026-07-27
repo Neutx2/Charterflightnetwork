@@ -127,6 +127,14 @@ export const WORDMARK_VARIANTS = {
   },
 
   // ---------------------------------------------------------------------
+  // A note on the aircraft's angle, because it is not a free choice:
+  // the contrail is a cubic Bezier, and its direction where it ends is
+  // P3 - P2 = (44, -18). The aircraft is drawn nose-up at rotate(0), so the
+  // rotation that puts it on that heading is atan2(44, 18) = 67.75 degrees,
+  // and its position is that endpoint extended along the same unit vector.
+  // Anything else and the aircraft flies at an angle to its own trail. Every
+  // variant here was previously wrong by 40 to 90 degrees.
+  //
   // Modernised classic: the 2008 logo with the dated parts removed rather
   // than a new design. Drop shadows, the bevelled banner box, irregular
   // hand-set dash spacing and the raster artwork all go; the heavy/light type
@@ -144,8 +152,8 @@ export const WORDMARK_VARIANTS = {
     padTop: '0.62em',
     paths: `
     <path d="M4 14C26 40 78 44 122 26" stroke="${O}" stroke-width="7" stroke-linecap="round" fill="none" />
-    <path d="M20 26C40 44 80 47 116 34" stroke="${O}" stroke-width="4.2" stroke-linecap="round" stroke-dasharray="2 7" fill="none" />
-    ${plane('translate(138 18) rotate(28) scale(.84)')}`,
+    <path d="M20 26C40 44 80.6 48.5 116 34" stroke="${O}" stroke-width="4.2" stroke-linecap="round" stroke-dasharray="2 7" fill="none" />
+    ${plane('translate(138.6 19.2) rotate(67.75) scale(.84)')}`,
   },
   'modern-clean': {
     label: 'Modernised — clean',
@@ -158,7 +166,7 @@ export const WORDMARK_VARIANTS = {
     padTop: '0.62em',
     paths: `
     <path d="M4 14C26 40 78 44 122 26" stroke="${O}" stroke-width="7.5" stroke-linecap="round" fill="none" />
-    ${plane('translate(138 18) rotate(28) scale(.84)')}`,
+    ${plane('translate(138.6 19.2) rotate(67.75) scale(.84)')}`,
   },
   'modern-refined': {
     label: 'Modernised — refined',
@@ -171,7 +179,7 @@ export const WORDMARK_VARIANTS = {
     padTop: '0.62em',
     paths: `
     <path d="M4 14C26 40 78 44 122 26" stroke="${O}" stroke-width="7.5" stroke-linecap="round" fill="none" />
-    ${plane('translate(138 18) rotate(28) scale(.84)')}`,
+    ${plane('translate(138.6 19.2) rotate(67.75) scale(.84)')}`,
   },
   'modern-bold': {
     label: 'Modernised — bold',
@@ -184,12 +192,12 @@ export const WORDMARK_VARIANTS = {
     padTop: '0.62em',
     paths: `
     <path d="M4 14C26 40 78 44 122 26" stroke="${O}" stroke-width="7" stroke-linecap="round" fill="none" />
-    <path d="M20 26C40 44 80 47 116 34" stroke="${O}" stroke-width="4.2" stroke-linecap="round" stroke-dasharray="2 7" fill="none" />
-    ${plane('translate(138 18) rotate(28) scale(.84)')}`,
+    <path d="M20 26C40 44 80.6 48.5 116 34" stroke="${O}" stroke-width="4.2" stroke-linecap="round" stroke-dasharray="2 7" fill="none" />
+    ${plane('translate(138.6 19.2) rotate(67.75) scale(.84)')}`,
   },
 } satisfies Record<string, WordmarkVariant>;
 
 export type WordmarkVariantName = keyof typeof WORDMARK_VARIANTS;
 
 /** The logotype the site ships. Change this one value to switch. */
-export const DEFAULT_VARIANT: WordmarkVariantName = 'modern-faithful';
+export const DEFAULT_VARIANT: WordmarkVariantName = 'classic-climb';
