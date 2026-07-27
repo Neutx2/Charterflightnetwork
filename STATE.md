@@ -44,11 +44,12 @@ Revenue:           — (owner-reported)
 - /canada/* province hubs — "<province> charter flights"
 
 ## OPEN NOTES
-- Logotype decided by owner 2026-07-27 from the 23-variation decision board
-  (scripts/render_variation_board.py): option 24 — wide teal horizon with the
-  orange aircraft, at 2/3 the width of "Network", climbing out from behind the
-  end of the word. Shipped as `teal-horizon-climbout` in
-  src/lib/wordmark-arcs.ts; square icon (favicon/OG) unchanged.
+- Logotype FINAL, decided by owner 2026-07-27 through three refinement
+  rounds (decision boards in scripts/render_*.py, options 1-44): option 25 —
+  tapered teal horizon (lens that fades at the ends) with the orange
+  aircraft, at 2/3 the width of "Network", climbing out from behind the end
+  of the word. Shipped as `teal-taper-climbout` in src/lib/wordmark-arcs.ts
+  ("thats perfect" — owner); square icon (favicon/OG) unchanged.
 - 52 thin pages listed in crawl/thin_pages.json (mostly operator quote forms,
   which now canonicalize to /quote; the rest are enrichment candidates).
 - Content edits should go through crawl/overrides/ so pipeline re-runs don't

@@ -205,20 +205,6 @@ export const WORDMARK_VARIANTS = {
     <path d="M20 26C40 44 80.6 48.5 116 34" stroke="${O}" stroke-width="4.2" stroke-linecap="round" stroke-dasharray="2 7" fill="none" />
     ${plane('translate(138.6 19.2) rotate(67.75) scale(.84)')}`,
   },
-  // ---------------------------------------------------------------------
-  // Chosen by the owner from the 23-variation decision board (option 24 —
-  // options 14 and 15 combined): the aircraft climbing out from behind the
-  // end of "Network" over a wide teal horizon.
-  //
-  // Geometry is measured, not eyeballed. The artboard maps 0.025em per unit
-  // with the wordmark's cap line at y=105; "Network" spans x 237-390. The
-  // aircraft is scale 1.7 — its ~60-unit rotated bounding box becomes 102
-  // units, two-thirds of the word's 153-unit width — at (368, 84), so its
-  // belly tucks behind the letters and ~65% shows above them. The viewport
-  // clips at y=120, which is what hides the horizon's ends and the art
-  // below the letter tops. Horizon in heritage teal so the single orange
-  // aircraft owns the focus; the wordmark keeps uniform ExtraBold.
-  // ---------------------------------------------------------------------
   'teal-horizon-climbout': {
     label: 'Teal horizon climb-out',
     note: 'wide teal horizon behind the word, aircraft leaving past the end of "Network"',
@@ -230,9 +216,37 @@ export const WORDMARK_VARIANTS = {
     <path d="M-16 132C90 74 370 74 476 132" stroke="${TEAL}" stroke-width="6" stroke-linecap="round" fill="none" />
     ${plane('translate(368 84) rotate(38) scale(1.7)')}`,
   },
+  // ---------------------------------------------------------------------
+  // THE SHIPPED LOGOTYPE. Chosen by the owner through three refinement
+  // rounds (options 24 -> 25 across the decision boards; generators live in
+  // scripts/render_*.py): the aircraft climbing out from behind the end of
+  // "Network" over a wide teal horizon drawn as a tapered lens — the line
+  // swells to 9 units at the centre and fades to nothing at the ends,
+  // rather than being a uniform stroke that stops.
+  //
+  // Geometry is measured, not eyeballed. The artboard maps 0.025em per unit
+  // with the wordmark's cap line at y=105; "Network" spans x 237-390. The
+  // aircraft is scale 1.7 — its ~60-unit rotated bounding box becomes 102
+  // units, two-thirds of the word's 153-unit width — at (368, 84), so its
+  // belly tucks behind the letters and ~65% shows above them. The viewport
+  // clips at y=120, which is what hides the art below the letter tops.
+  // The taper is the same cubic doubled back on itself (controls 68/80).
+  // Horizon in heritage teal so the single orange aircraft owns the focus.
+  // ---------------------------------------------------------------------
+  'teal-taper-climbout': {
+    label: 'Teal taper climb-out',
+    note: 'tapered teal horizon fading at the ends, aircraft leaving past the end of "Network"',
+    viewBox: '0 -60 460 180',
+    place: 'left:-.06em;top:-2.7em;height:4.5em;width:11.5em',
+    behind: true,
+    padTop: '1.6em',
+    paths: `
+    <path d="M-16 132C90 68 370 68 476 132C370 80 90 80 -16 132Z" fill="${TEAL}" />
+    ${plane('translate(368 84) rotate(38) scale(1.7)')}`,
+  },
 } satisfies Record<string, WordmarkVariant>;
 
 export type WordmarkVariantName = keyof typeof WORDMARK_VARIANTS;
 
 /** The logotype the site ships. Change this one value to switch. */
-export const DEFAULT_VARIANT: WordmarkVariantName = 'teal-horizon-climbout';
+export const DEFAULT_VARIANT: WordmarkVariantName = 'teal-taper-climbout';
