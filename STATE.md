@@ -1,5 +1,9 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 27 (2026-07-28 — finn-loop 5-min cadence: all 12 flights route
+Cycle #: 28 (2026-07-28 — empty-legs page teaches searching operators
+  directly (finder cross-link as a 4th 'how to catch one' tip); footer
+  gains a Find an Operator link site-wide. Queue from the market-review
+  build-out is now complete. Prior — cycle 27: finn-loop 5-min cadence:
+  all 12 flights route
   pages link into the finder pre-filtered to the route's Canadian province
   (Winnipeg-Red Lake -> Manitoba etc., generic fallback); travel openings
   audited and found already strong (honest skip). Prior — cycle 26: mobile
