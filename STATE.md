@@ -1,5 +1,8 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 32 (2026-07-28 — nationwide operator modules on the aircraft
+Cycle #: 33 (2026-07-28 — contact form gets its GA4 signal
+  (contact_message w/ source_page) and its own confirmation copy via
+  ?from=contact ('Message received'), fixing the same two gaps the alert
+  signup had. Prior — cycle 32: nationwide operator modules on the aircraft
   subpages: turboprops->wheel planes, float-planes->floats,
   helicopters->helicopters, 6 cards each; jets honestly carries none (no
   jet facet in the directory data). Prior — cycle 31: empty-legs signup

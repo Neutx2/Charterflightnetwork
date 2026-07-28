@@ -20,10 +20,14 @@ const description =
     <script is:inline>
       // Alert signups share this page via ?from=alerts — swap the heading so
       // the message matches what was submitted. Static copy is the fallback.
-      if (new URLSearchParams(location.search).get('from') === 'alerts') {
-        var h = document.querySelector('[data-confirm-heading]');
-        if (h) h.textContent = "You're signed up — we'll flag matching empty legs.";
+      var from = new URLSearchParams(location.search).get('from');
+      var h = document.querySelector('[data-confirm-heading]');
+      if (from === 'alerts' && h) {
+        h.textContent = "You're signed up — we'll flag matching empty legs.";
         document.title = 'Signed Up | Charter Flight Network';
+      } else if (from === 'contact' && h) {
+        h.textContent = 'Message received — we\'ll get back to you.';
+        document.title = 'Message Received | Charter Flight Network';
       }
     </script>
     <p class="mt-4 text-lg text-slate-600 leading-relaxed">
