@@ -1,5 +1,8 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 41 (2026-07-28 — two playbook guardrails automated into the gate:
+Cycle #: 42 (2026-07-28 — directory hero count made exact ('480' not
+  '480+' - the dedup made the number precise, so the plus was inflation);
+  PR #1 deploy confirmed green on latest push. Prior — cycle 41: two
+  playbook guardrails automated into the gate:
   indexation health (production dist must be index-clean; a stray noindex
   would deindex the site at launch) and gated-draft containment (approval-
   pending pages must never reach dist). Gate now 9 checks/suites. Prior —
