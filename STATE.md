@@ -1,5 +1,8 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 24 (2026-07-28 — finder as connective tissue: home-hero operator
+Cycle #: 25 (2026-07-28 — operator modules on ALL use-case travel pages:
+  mining/exploration (helicopters), Ontario remote communities (wheels),
+  Churchill (Manitoba), joining fly-in fishing and Arctic. Prior — cycle
+  24: finder as connective tissue: home-hero operator
   search box, aircraft-card deep links by type, float/northern operator
   modules on fly-in fishing and Arctic pages. Prior — cycle 23: LOCAL
   OPERATORS on all 689 destination pages:

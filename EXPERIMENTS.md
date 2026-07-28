@@ -12,6 +12,19 @@
 - Result (filled on read date): <win/flat/loss + numbers>
 - Decision: <keep / revert / iterate>
 
+### [2026-07-28] Cycle 25: operator modules complete the use-case pages  (PR #1)
+- Hypothesis: same as cycle 24 — every high-intent surface should reach the
+  operator dataset; this closes the remaining three use-case pages.
+- Change shipped: FACET_MODULES entries for travel/mining-exploration
+  (Helicopter; BC/ON/QC/NT/NU/YT), travel/ontario-remote-communities
+  (Wheels; Ontario), travel/churchill-polar-bears (Wheels; Manitoba).
+  All four travel modules verified rendering 6 cards each.
+- Guardrail metrics: npm run verify 6/6; mining page Lighthouse 100/100/100
+  CLS 0.
+- READ DATE: two weeks after production launch (with cycle 24's metrics).
+- Result (filled on read date): —
+- Decision: —
+
 ### [2026-07-28] Cycle 24: the finder becomes the site's connective tissue  (PR #1)
 - Hypothesis: If the operator dataset is reachable from every high-intent
   surface — a search box in the home hero, aircraft-type cards deep-linking
