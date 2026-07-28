@@ -19,6 +19,7 @@
  * The static fallback form for Netlify build-bots is in public/netlify-forms.html.
  */
 import { SITE } from '../lib/site';
+import AircraftIcon from './AircraftIcon.astro';
 
 interface Props {
   /** Email subject line forwarded by formmailer.php, e.g. "Charter Flights Thunder Bay ON" */
@@ -30,14 +31,16 @@ interface Props {
 
 const { subject = 'Charter Quote Request', flyTo } = Astro.props;
 
+// icon: silhouette from AircraftIcon; piston and wheel planes share the
+// turboprop profile (straight wing + prop disc) - visually honest for all three
 const aircraft = [
-  { name: 'Jet', label: 'Jet' },
-  { name: 'Turboprop', label: 'Turboprop' },
-  { name: 'Piston', label: 'Piston Aircraft' },
-  { name: 'Wheels', label: 'Wheel Plane' },
-  { name: 'Floats', label: 'Float Plane' },
-  { name: 'Helicopter', label: 'Helicopter' },
-];
+  { name: 'Jet', label: 'Jet', icon: 'jet' },
+  { name: 'Turboprop', label: 'Turboprop', icon: 'turboprop' },
+  { name: 'Piston', label: 'Piston Aircraft', icon: 'turboprop' },
+  { name: 'Wheels', label: 'Wheel Plane', icon: 'turboprop' },
+  { name: 'Floats', label: 'Float Plane', icon: 'float' },
+  { name: 'Helicopter', label: 'Helicopter', icon: 'helicopter' },
+] as const;
 
 const inputCls =
   'w-full rounded-lg border border-slate-300 bg-white px-3.5 py-2.5 text-slate-900 placeholder-slate-400 shadow-sm focus:border-lake-500 focus:outline-none focus:ring-2 focus:ring-lake-500/30';
@@ -143,6 +146,7 @@ const uid = subject.length; // pages render at most one quote form
         {aircraft.map((a) => (
           <label class="inline-flex items-center gap-2 text-sm text-slate-700">
             <input type="checkbox" name={a.name} value={a.name} class="h-4 w-4 rounded accent-lake-600" />
+            <AircraftIcon type={a.icon} class="h-5 w-9 shrink-0 text-lake-500" aria-hidden="true" />
             {a.label}
           </label>
         ))}

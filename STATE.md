@@ -1,5 +1,8 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 33 (2026-07-28 — contact form gets its GA4 signal
+Cycle #: 34 (2026-07-28 — quote form aircraft step gains silhouette icons
+  (AircraftIcon per option; piston/wheels share the turboprop profile);
+  home popular-routes audited complete: all 11 unique routes linked, dupe
+  page correctly excluded. Prior — cycle 33: contact form gets its GA4 signal
   (contact_message w/ source_page) and its own confirmation copy via
   ?from=contact ('Message received'), fixing the same two gaps the alert
   signup had. Prior — cycle 32: nationwide operator modules on the aircraft
