@@ -105,7 +105,10 @@ body {
 .copy p {
   @apply mb-4;
 }
-.copy ul {
+/* prose bullets — but defer to components that opt out (operator card grids
+   rendered inside .copy carry list-none/p-0, which this rule would otherwise
+   out-rank on specificity) */
+.copy ul:not(.list-none) {
   @apply list-disc pl-6 mb-4 space-y-1;
 }
 .copy a {

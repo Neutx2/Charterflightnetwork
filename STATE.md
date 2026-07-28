@@ -1,5 +1,13 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 45 (2026-07-28 — graphics/UI push begins per owner ('work on
+Cycle #: 46 (2026-07-28 — graphics/UI: aircraft silhouettes on all
+  operator cards (LocalOperators on 689 destination pages +
+  FacetOperators on travel/aircraft pages) via new facetIconTypes()
+  helper — wheels/skis share the fixed-wing profile so no duplicate
+  glyphs; also found and fixed a bullet regression: `.copy ul`
+  out-ranked the cards' list-none on specificity, so destination-page
+  cards showed stray discs — rule is now `.copy ul:not(.list-none)`,
+  prose bullets verified intact. Prior — cycle 45: graphics/UI push
+  begins per owner ('work on
   graphics and ui for a while'): new HorizonRule brand-motif divider —
   the logotype's tapered teal horizon + climbing orange aircraft as a
   reusable ornament (tone teal/light, aria-hidden, em-scaled). Shipped as

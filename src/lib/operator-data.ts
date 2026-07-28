@@ -41,6 +41,21 @@ export function serviceFacets(serviceType: string | null): string[] {
   return out;
 }
 
+/**
+ * Deduped AircraftIcon types for an operator's facets — wheels and skis share
+ * the fixed-wing turboprop profile (same aircraft, different undercarriage),
+ * so an operator listing both shows one silhouette, not two identical ones.
+ */
+export function facetIconTypes(serviceType: string | null): Array<'turboprop' | 'float' | 'helicopter'> {
+  const map: Record<string, 'turboprop' | 'float' | 'helicopter'> = {
+    Floats: 'float',
+    Wheels: 'turboprop',
+    Skis: 'turboprop',
+    Helicopter: 'helicopter',
+  };
+  return [...new Set(serviceFacets(serviceType).map((f) => map[f]).filter(Boolean))];
+}
+
 function tokens(base: string | null): string[] {
   if (!base) return [];
   return base

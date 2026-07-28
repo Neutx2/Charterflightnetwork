@@ -10,8 +10,9 @@
  * local, featured-first operators from the same province fill the remainder,
  * clearly labelled with their own base so nothing pretends to be local.
  */
-import { operatorsForCity } from '../lib/operator-data';
+import { operatorsForCity, facetIconTypes } from '../lib/operator-data';
 import { SLUG_TO_PROVINCE_LABEL } from '../lib/directory-provinces';
+import AircraftIcon from './AircraftIcon.astro';
 
 interface Props {
   city?: string;
@@ -46,8 +47,15 @@ const finderHref = provinceLabel
           </div>
           {o.base && <div class="mt-0.5 text-sm text-slate-600">{o.base}</div>}
           {o.serviceType && (
-            <div class="mt-0.5 text-xs text-slate-600">
-              {o.serviceType}{o.aircraft ? ` · ${o.aircraft}` : ''}
+            <div class="mt-1 flex items-center gap-2 text-xs text-slate-600">
+              {facetIconTypes(o.serviceType).length > 0 && (
+                <span class="flex shrink-0 gap-1.5 text-lake-400" aria-hidden="true">
+                  {facetIconTypes(o.serviceType).map((t) => (
+                    <AircraftIcon type={t} class="h-4 w-auto" />
+                  ))}
+                </span>
+              )}
+              <span>{o.serviceType}{o.aircraft ? ` · ${o.aircraft}` : ''}</span>
             </div>
           )}
           <div class="mt-2 flex flex-wrap gap-x-4 gap-y-1 text-sm">

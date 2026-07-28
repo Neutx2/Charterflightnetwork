@@ -5,7 +5,8 @@
  * Manitoba on the fly-in fishing page). Fully static, no-JS-safe; phone
  * links inherit the delegated GA4 contact_phone event.
  */
-import { operatorsByFacet } from '../lib/operator-data';
+import { operatorsByFacet, facetIconTypes } from '../lib/operator-data';
+import AircraftIcon from './AircraftIcon.astro';
 
 interface Props {
   heading: string;
@@ -37,8 +38,15 @@ const links = provinces.map((p) => ({
           </div>
           {o.base && <div class="mt-0.5 text-sm text-slate-600">{o.base}</div>}
           {o.serviceType && (
-            <div class="mt-0.5 text-xs text-slate-600">
-              {o.serviceType}{o.aircraft ? ` · ${o.aircraft}` : ''}
+            <div class="mt-1 flex items-center gap-2 text-xs text-slate-600">
+              {facetIconTypes(o.serviceType).length > 0 && (
+                <span class="flex shrink-0 gap-1.5 text-lake-400" aria-hidden="true">
+                  {facetIconTypes(o.serviceType).map((t) => (
+                    <AircraftIcon type={t} class="h-4 w-auto" />
+                  ))}
+                </span>
+              )}
+              <span>{o.serviceType}{o.aircraft ? ` · ${o.aircraft}` : ''}</span>
             </div>
           )}
           <div class="mt-2 flex flex-wrap gap-x-4 gap-y-1 text-sm">
