@@ -20,7 +20,7 @@ const provinces = DIRECTORY_GROUPS.map(([label]) => label);
 const services = ['Floats', 'Wheels', 'Helicopter', 'Skis'];
 ---
 
-<section id="find-an-operator" class="operator-finder hidden mb-12 rounded-2xl bg-white p-5 sm:p-7 ring-1 ring-birch-200 shadow-sm" aria-label="Operator finder">
+<section id="find-an-operator" tabindex="-1" class="operator-finder hidden focus:outline-none mb-12 rounded-2xl bg-white p-5 sm:p-7 ring-1 ring-birch-200 shadow-sm" aria-label="Operator finder">
   <h2 class="font-display text-xl font-bold text-lake-900">Find an operator</h2>
   <p class="mt-1 text-sm text-slate-600">
     Search every listed operator by name or base, or filter by province and aircraft type.

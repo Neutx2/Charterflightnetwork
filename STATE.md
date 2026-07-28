@@ -1,5 +1,9 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 38 (2026-07-28 — operator application form instrumented: sign_up
+Cycle #: 39 (2026-07-28 — a11y on the money paths: quote form announces
+  step changes to screen readers (sr-only aria-live 'Step N of 3: name');
+  finder anchor target focusable (tabindex=-1) so deep links land keyboard
+  users correctly. Prior — cycle 38: operator application form
+  instrumented: sign_up
   (method=operator_listing) GA4 event + 'Application received' confirmation
   via ?from=operator - the supply side of the funnel was the last
   un-instrumented form. Every form on the site now emits a distinct signal.

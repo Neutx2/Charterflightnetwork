@@ -208,6 +208,7 @@ const uid = subject.length; // pages render at most one quote form
   </div>
 
   <p class="quote-form-error mt-3 hidden rounded-lg bg-red-50 px-4 py-3 text-sm font-medium text-red-800" role="alert"></p>
+  <p class="quote-step-announce sr-only" aria-live="polite"></p>
 
   <input type="hidden" name="recipient" value="phil@charterflightnetwork.com" />
   <input type="hidden" name="redirect" value="https://charterflightnetwork.com/quote-confirmation" />
@@ -281,8 +282,11 @@ const uid = subject.length; // pages render at most one quote form
     const submitBtn = form.querySelector<HTMLElement>('.quote-submit');
     let current = 0;
 
+    const stepNames = ['Your trip', 'Aircraft', 'Your details'];
+    const announce = form.querySelector<HTMLElement>('.quote-step-announce');
     const render = () => {
       steps.forEach((s, i) => s.classList.toggle('hidden', i !== current));
+      if (announce) announce.textContent = `Step ${current + 1} of ${steps.length}: ${stepNames[current] ?? ''}`;
       progress?.classList.remove('hidden');
       if (bar) bar.style.width = `${((current + 1) / steps.length) * 100}%`;
       form.querySelectorAll<HTMLElement>('[data-step-label]').forEach((l, i) => {
