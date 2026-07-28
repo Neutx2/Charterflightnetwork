@@ -75,6 +75,11 @@
   elsewhere on the legacy site. Supply a real policy (PIPEDA-appropriate).
 - Why: legal hygiene for a lead-gen site collecting contact details.
 - Decision needed: approved policy text.
+- NOTE (2026-07-28, cycle 43): the supplied policy must also disclose
+  Google Analytics 4 usage (the site fires generate_lead, contact_phone,
+  sign_up and contact_message events; no personal data is sent in event
+  parameters, but GA4 sets cookies) and the formmailer email handling.
+
 
 ### [2026-07-28] "What does a charter cost" guide page
 - Category: PRICING
