@@ -3,11 +3,9 @@ Cycle #: 22 (2026-07-28 — template-wide Lighthouse sweep: 7 previously
   unaudited templates measured (city, travel, directory subpage, route,
   operators, about, contact) — all 100 perf / CLS 0; one finding fixed
   (about page heading-order: strapline was an h3 under the h1, now bold
-  text — via content + override). Continuous godmode loop active.); quotability round 2 on
-  regional hubs via pipeline-safe overrides; thin-page item closed with
-  evidence; approval-ready drafts for the cost guide and safety page linked
-  from APPROVALS. Cycles 18-20 same day. All ungated backlog now shipped or
-  iterative; the board waits on the 9 APPROVALS items.)
+  text — via content + override). Continuous godmode loop active. Cycles
+  18-21 same day; all ungated backlog shipped, board waits on the 9
+  APPROVALS items.)
 Last run (UTC): 2026-07-28
 Scheduled loop: ACTIVE — Claude Routine `trig_017fT4PmoririEtcJCUWgf5J`
   fires Sundays 08:00 UTC (first: 2026-08-02) into a fresh cloud session on
