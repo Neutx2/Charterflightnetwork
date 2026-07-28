@@ -1,5 +1,7 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 34 (2026-07-28 — quote form aircraft step gains silhouette icons
+Cycle #: 35 (2026-07-28 — /aircraft type cards gain their silhouettes
+  (jet, turboprop, float, helicopter), matching the quote form. Prior —
+  cycle 34: quote form aircraft step gains silhouette icons
   (AircraftIcon per option; piston/wheels share the turboprop profile);
   home popular-routes audited complete: all 11 unique routes linked, dupe
   page correctly excluded. Prior — cycle 33: contact form gets its GA4 signal
