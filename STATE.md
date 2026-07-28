@@ -1,9 +1,9 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 19 (2026-07-28 — competitive-strategy cycle: operator finder shipped
-  on /directory (BACKLOG 21, the directory-as-moat play); strategy items
-  22-26 added to BACKLOG with 3 new gated items queued in APPROVALS (cost
-  guide, safety page, route data); 2 a11y fixes. Cycle 18 same day: /quote
-  CLS fix with self-healing fallback.)
+Cycle #: 20 (2026-07-28 — AI-quotability pass, first round: hero openings on
+  /, /quote, /aircraft, /empty-legs rewritten as self-contained entity-named
+  answers; llms.txt stable-facts section. Same day: cycle 19 operator finder
+  on /directory; cycle 18 /quote CLS fix. Remaining ungated work is
+  iteration; the big levers now wait on the 9 APPROVALS items.)
 Last run (UTC): 2026-07-28
 Scheduled loop: ACTIVE — Claude Routine `trig_017fT4PmoririEtcJCUWgf5J`
   fires Sundays 08:00 UTC (first: 2026-08-02) into a fresh cloud session on

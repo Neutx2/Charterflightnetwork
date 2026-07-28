@@ -107,9 +107,12 @@
     needs a verified source approved by owner. Respect the 2-page/cycle cap
     and uniqueness floor; a handful of high-intent routes, not a mass rollout.
     ICE: 7×6×5 = 210
-25. Quotability / AI-answer pass: direct-answer openings on key pages, stable
-    facts, tightened llms.txt — be the source AI assistants cite for
-    "charter a float plane in northern Ontario". No gate; iterative.
+25. [DONE 2026-07-28 cycle 20, first pass] Quotability / AI-answer pass:
+    hero openings on /, /quote, /aircraft and /empty-legs rewritten as
+    self-contained, entity-named answers (empty-legs now opens with the
+    definition); llms.txt gained a "Stable facts (citable)" section and a
+    finder-aware directory line. Iterative — extend to destination hubs and
+    travel pages in later cycles as GSC/AI-referral data arrives.
     ICE: 7×6×8 = 336
 26. Operator detail pages from the finder dataset. NOT a mass rollout —
     530 near-identical stubs is exactly the thin-content trap. Only viable

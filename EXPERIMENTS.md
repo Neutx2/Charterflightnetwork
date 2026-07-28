@@ -12,6 +12,30 @@
 - Result (filled on read date): <win/flat/loss + numbers>
 - Decision: <keep / revert / iterate>
 
+### [2026-07-28] Cycle 20: AI-quotability pass, first round  (PR #1)
+- Hypothesis: If key pages open with self-contained, entity-named answers and
+  llms.txt carries a stable-facts section, then AI assistants and answer
+  engines cite Charter Flight Network for charter-in-Canada questions,
+  because extraction favours passages that stand alone with the entity named
+  — a channel none of the niche competitors optimize for.
+- Change shipped: hero paragraphs on /, /quote, /aircraft, /empty-legs
+  rewritten as quotable answers using only on-site facts (empty-legs now
+  opens with the definition of an empty leg; aircraft names all six classes;
+  quote states the full process; home names the entity). llms.txt: "Stable
+  facts (citable)" section + finder-aware directory line. robots.txt already
+  allows all crawlers — no change needed.
+- Primary metric: AI/LLM referral sessions and branded-query impressions
+  (GSC), once measurement exists; qualitatively, whether assistants cite the
+  site for "charter a float plane in northern Ontario"-class questions.
+- Guardrail metrics: all copy statements verified against existing site
+  facts (no new claims); full suite green — redirects 1047/1047, dead links
+  0, disclaimer 1044/1044, nav 13/13, GA 4/4, quote fallback 5/5, finder
+  6/6, home Lighthouse 100/100/100 CLS 0.
+- Baseline value: no AI-referral baseline exists pre-launch.
+- READ DATE: four weeks after production launch (AI citation shifts slowly).
+- Result (filled on read date): —
+- Decision: —
+
 ### [2026-07-28] Cycle 19: operator finder on /directory  (PR #1)
 - Hypothesis: If the 530-operator directory becomes searchable and filterable
   (name/base search, province, aircraft type) instead of flat link lists,
