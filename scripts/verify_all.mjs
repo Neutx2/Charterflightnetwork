@@ -49,6 +49,32 @@ run('disclaimer verbatim on every page', () => {
   return `${pages.length}/${pages.length} pages`;
 });
 
+run('indexation health: production build is index-clean', () => {
+  // Playbook guardrail 2: prod stays index,follow; only the staging preview
+  // (scripts/make-preview.mjs) may inject noindex. A noindex in dist/ would
+  // silently deindex the whole site at launch.
+  const pages = ['dist/index.html', 'dist/quote/index.html', 'dist/directory/index.html'];
+  const bad = pages.filter((f) => /<meta[^>]+noindex/i.test(readFileSync(join(ROOT, f), 'utf8')));
+  if (bad.length) throw new Error(`noindex found in ${bad.join(', ')}`);
+  return `${pages.length} key pages index-clean`;
+});
+
+run('gated drafts stay out of the build', () => {
+  // drafts/ holds approval-pending pages (cost guide, safety guide). If one
+  // ever appears in dist/, gated content shipped without owner sign-off.
+  const hits = [];
+  const walk = (dir) => {
+    for (const f of readdirSync(dir)) {
+      const p = join(dir, f);
+      if (statSync(p).isDirectory()) walk(p);
+      else if (/what-does-a-charter-cost|how-to-choose-a-charter-operator/.test(p)) hits.push(p);
+    }
+  };
+  walk(join(ROOT, 'dist'));
+  if (hits.length) throw new Error(`draft content in build: ${hits.join(', ')}`);
+  return 'no draft URLs in dist';
+});
+
 // ---- server-dependent suites -----------------------------------------------
 const alive = await fetch('http://localhost:4321/', { signal: AbortSignal.timeout(1500) })
   .then((r) => r.ok)

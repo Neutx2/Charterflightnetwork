@@ -1,5 +1,9 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 40 (2026-07-28 — finder 0-match dead end fixed: empty state with
+Cycle #: 41 (2026-07-28 — two playbook guardrails automated into the gate:
+  indexation health (production dist must be index-clean; a stray noindex
+  would deindex the site at launch) and gated-draft containment (approval-
+  pending pages must never reach dist). Gate now 9 checks/suites. Prior —
+  cycle 40: finder 0-match dead end fixed: empty state with
   a Clear-filters button (delegated, refocuses search) and a quote-form
   escape hatch; finder suite up to 9 checks. PR #1 deploy check confirmed
   green on the latest push. Prior — cycle 39: a11y on the money paths:
