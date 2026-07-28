@@ -1,0 +1,71 @@
+---
+/**
+ * Locally based charter operators on a destination page — the structured
+ * operator dataset surfaced exactly where organic traffic lands. Rendered
+ * fully static (works without JavaScript); phone links inherit the delegated
+ * GA4 contact_phone event from BaseLayout.
+ *
+ * "Local" means the operator's published base includes this city — the
+ * strongest, most honest signal in the data. When fewer than the limit are
+ * local, featured-first operators from the same province fill the remainder,
+ * clearly labelled with their own base so nothing pretends to be local.
+ */
+import { operatorsForCity } from '../lib/operator-data';
+import { SLUG_TO_PROVINCE_LABEL } from '../lib/directory-provinces';
+
+interface Props {
+  city?: string;
+  provinceSlug?: string;
+}
+const { city, provinceSlug } = Astro.props;
+const provinceLabel = SLUG_TO_PROVINCE_LABEL[provinceSlug ?? ''];
+const { local, regional, provinceTotal } = operatorsForCity(city, provinceLabel);
+const finderHref = provinceLabel
+  ? `/directory/?prov=${encodeURIComponent(provinceLabel)}#find-an-operator`
+  : '/directory/#find-an-operator';
+---
+
+{provinceTotal > 0 && (
+  <section class="mt-10" aria-label={`Charter operators for ${city}`}>
+    <h2 class="font-display text-2xl font-bold text-lake-900">
+      {local.length > 0 ? `Charter operators based in ${city}` : `${provinceLabel} charter operators`}
+    </h2>
+    <p class="mt-2 text-slate-600">
+      {local.length > 0
+        ? `These operators list ${city} among their bases in our directory. Contact them directly, or let one free request reach the whole network.`
+        : `No operator in our directory lists ${city} as a base — these ${provinceLabel} operators serve the region. One free request reaches the operators equipped for your trip.`}
+    </p>
+    <ul class="mt-5 grid gap-3 sm:grid-cols-2">
+      {[...local, ...regional].map((o) => (
+        <li class="rounded-xl bg-white p-4 ring-1 ring-birch-200">
+          <div class="flex items-start justify-between gap-2">
+            <span class="font-semibold text-lake-900">{o.name}</span>
+            {o.featured && (
+              <span class="rounded bg-ember-500 px-1.5 py-0.5 text-[11px] font-bold text-lake-950">Featured</span>
+            )}
+          </div>
+          {o.base && <div class="mt-0.5 text-sm text-slate-600">{o.base}</div>}
+          {o.serviceType && (
+            <div class="mt-0.5 text-xs text-slate-600">
+              {o.serviceType}{o.aircraft ? ` · ${o.aircraft}` : ''}
+            </div>
+          )}
+          <div class="mt-2 flex flex-wrap gap-x-4 gap-y-1 text-sm">
+            {o.phoneDisplay && o.phoneTel && (
+              <a href={`tel:${o.phoneTel}`} class="font-semibold text-lake-700 hover:underline">{o.phoneDisplay}</a>
+            )}
+            <a href={o.directoryPage} class="text-lake-700 hover:underline">Directory page</a>
+          </div>
+        </li>
+      ))}
+    </ul>
+    <p class="mt-4 text-sm">
+      <a href={finderHref} class="font-semibold text-lake-700 hover:underline">
+        Search all {provinceTotal} {provinceLabel} operators →
+      </a>
+      <span class="text-slate-600"> or skip the phone calls — </span>
+      <a href="#quote" class="font-semibold text-boreal-700 hover:underline">get up to 3 competitive quotes</a>
+      <span class="text-slate-600"> with one request.</span>
+    </p>
+  </section>
+)}

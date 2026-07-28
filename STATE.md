@@ -1,5 +1,8 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 22 (2026-07-28 — template-wide Lighthouse sweep: 7 previously
+Cycle #: 23 (2026-07-28 — LOCAL OPERATORS on all 689 destination pages:
+  city-matched operator cards with phones, province fallback, finder deep
+  links; dedup corrected to 480 true unique operators and public counts
+  fixed. Prior same day — cycle 22: template Lighthouse sweep: 7 previously
   unaudited templates measured (city, travel, directory subpage, route,
   operators, about, contact) — all 100 perf / CLS 0; one finding fixed
   (about page heading-order: strapline was an h3 under the h1, now bold

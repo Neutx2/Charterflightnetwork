@@ -19,6 +19,24 @@ export const DIRECTORY_GROUPS: [string, string[]][] = [
   ['Canada-wide & USA-licensed', ['canadian-', 'usa-']],
 ];
 
+/** Destination-page provinceSlug → finder/group label (Ontario spans two hubs). */
+export const SLUG_TO_PROVINCE_LABEL: Record<string, string> = {
+  alberta: 'Alberta',
+  'british-columbia': 'British Columbia',
+  manitoba: 'Manitoba',
+  'new-brunswick': 'New Brunswick',
+  newfoundland: 'Newfoundland & Labrador',
+  labrador: 'Newfoundland & Labrador',
+  'northwest-territories': 'Northwest Territories',
+  'nova-scotia': 'Nova Scotia',
+  nunavut: 'Nunavut',
+  'northern-ontario': 'Ontario',
+  'southern-ontario': 'Ontario',
+  quebec: 'Quebec',
+  saskatchewan: 'Saskatchewan',
+  yukon: 'Yukon',
+};
+
 /** Province/region label for a directory page path like "/directory/bc-…". */
 export function provinceForDirectoryPage(path: string): string {
   const base = path.replace(/^\/?directory\//, '');

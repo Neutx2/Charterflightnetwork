@@ -4,6 +4,7 @@ import PageHero from '../../../components/PageHero.astro';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import QuoteForm from '../../../components/QuoteForm.astro';
+import LocalOperators from '../../../components/LocalOperators.astro';
 import QuoteCTA from '../../../components/QuoteCTA.astro';
 import { SITE } from '../../../lib/site';
 
@@ -104,6 +105,9 @@ if (d.faqs?.length) {
     <div class="grid gap-10 lg:grid-cols-3">
       <article class="lg:col-span-2 copy">
         <Content />
+        <div class="not-prose">
+          <LocalOperators city={d.city} provinceSlug={d.provinceSlug} />
+        </div>
       </article>
 
       <aside class="space-y-6">

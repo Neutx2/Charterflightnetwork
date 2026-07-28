@@ -12,6 +12,31 @@
 - Result (filled on read date): <win/flat/loss + numbers>
 - Decision: <keep / revert / iterate>
 
+### [2026-07-28] Cycle 23: local operators on every destination page  (PR #1)
+- Hypothesis: If each of the 689 destination pages shows the charter
+  operators actually based in that city (province fallback, featured first,
+  phones inline), then destination-page conversion (phone taps + quote
+  submissions) and organic performance improve, because the pages gain real
+  local utility and uniqueness where organic traffic lands - the largest
+  visible product gap on the site.
+- Change shipped: src/lib/operator-data.ts (shared merged dataset used by
+  both the finder endpoint and the new module), LocalOperators.astro
+  (fully static, no-JS-safe, GA contact_phone inherited, finder deep link
+  per province), wired into the city template. Dedup corrected from
+  name+base to normalized-name keying after the module surfaced Wilderness
+  North Air twice (slash vs comma base strings): 530 -> 480 true unique
+  operators, verified zero disjoint-base name collisions (the only 2 were
+  punctuation variants). Public counts corrected to 480 (directory hero,
+  llms.txt) - accuracy over the bigger number.
+- Primary metric: contact_phone and generate_lead events with destination
+  source_page values (GA4, post-launch); destination-page impressions (GSC).
+- Guardrail metrics: npm run verify 6/6; Thunder Bay page Lighthouse
+  100/100/100 CLS 0 with the module rendered.
+- Baseline value: destination pages previously showed no operator data.
+- READ DATE: two weeks after production launch.
+- Result (filled on read date): —
+- Decision: —
+
 ### [2026-07-28] Cycle 21: godmode sweep — deep links, unified gate, drafts  (PR #1)
 - Hypothesis: (a) province hubs deep-linking into a pre-filtered operator
   finder shortens the path from regional intent to operator contact;
