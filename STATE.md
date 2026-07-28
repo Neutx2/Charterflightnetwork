@@ -1,5 +1,9 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 36 (2026-07-28 — 390px mobile pass over newest surfaces: clean,
+Cycle #: 37 (2026-07-28 — the directory finally enters the header nav:
+  'Charter Directory - Search 480 operators' in the Destinations dropdown
+  and the mobile Browse group; it was previously unreachable from primary
+  navigation. Nav suite updated for the fifth dropdown item and the taller
+  panel. Prior — cycle 36: 390px mobile pass over newest surfaces: clean,
   no overflow, no fix forced; banked the wake into a permanent
   verify_form_signals.mjs suite (5 checks: confirmation variants + sign_up
   + contact_message) - the gate is now 7 suites. Prior — cycle 35:

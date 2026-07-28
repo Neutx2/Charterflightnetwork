@@ -65,6 +65,17 @@ const navLink = 'rounded-md px-2.5 py-2 font-medium whitespace-nowrap transition
                 <span class="block text-xs text-lake-300">{r.note}</span>
               </a>
             ))}
+            <a
+              href="/directory"
+              aria-current={isActive('/directory') ? 'page' : undefined}
+              class:list={[
+                'block rounded-lg px-3 py-2 mt-1 border-t border-white/10 pt-3 hover:bg-white/10',
+                isActive('/directory') ? 'text-ember-400' : 'text-lake-100',
+              ]}
+            >
+              <span class="block font-semibold">Charter Directory</span>
+              <span class="block text-xs text-lake-300">Search 480 operators</span>
+            </a>
           </div>
         </div>
 
@@ -116,6 +127,14 @@ const navLink = 'rounded-md px-2.5 py-2 font-medium whitespace-nowrap transition
         >{item.label}</a>
       ))}
       <p class="px-3 pt-3 pb-1 text-xs font-bold uppercase tracking-wide text-lake-300">Browse</p>
+      <a
+        href="/directory"
+        aria-current={isActive('/directory') ? 'page' : undefined}
+        class:list={[
+          'rounded-md px-3 py-2.5 font-medium hover:bg-white/10',
+          isActive('/directory') ? 'text-ember-400' : 'text-lake-100',
+        ]}
+      >Charter Directory</a>
       {nav.map((item) => (
         <a
           href={item.href}

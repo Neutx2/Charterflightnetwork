@@ -39,8 +39,8 @@ const browser = await chromium.launch({ executablePath: EXE });
   await page.click('[data-menu-button]');
   check('click opens menu', await panel.isVisible());
   check(
-    'menu exposes all four region links',
-    (await panel.locator('a').count()) === 4,
+    'menu exposes four region links + the directory',
+    (await panel.locator('a').count()) === 5,
     (await panel.locator('a').allInnerTexts()).join(' | ').replace(/\n/g, ' ')
   );
   check(
@@ -52,7 +52,8 @@ const browser = await chromium.launch({ executablePath: EXE });
   check('Escape closes menu', await panel.isHidden());
 
   await page.click('[data-menu-button]');
-  await page.click('h1');
+  // click well clear of the (now taller) dropdown panel
+  await page.mouse.click(1200, 500);
   check('outside click closes menu', await panel.isHidden());
 
   // keyboard: tab to the button and open with Enter
@@ -75,7 +76,7 @@ const browser = await chromium.launch({ executablePath: EXE });
   await page.click('#mobile-nav-toggle');
   check('hamburger opens mobile menu', await menu.isVisible());
   const links = await menu.locator('a').count();
-  check('mobile menu lists all 9 destinations/sections + phone', links === 10, `${links} links`);
+  check('mobile menu lists destinations + directory + sections + phone', links === 11, `${links} links`);
 
   const cta = page.locator('header a[href="/quote"]');
   const box = await cta.boundingBox();
