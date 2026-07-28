@@ -80,6 +80,28 @@ const FACET_MODULES: Record<
   },
 };
 const facetModule = FACET_MODULES[d.slug] ?? null;
+
+// Route pages: link into the finder pre-filtered to the route's Canadian
+// province (by its Canadian endpoint). Unmapped routes fall back to the
+// unfiltered finder.
+const ROUTE_PROVINCES: Record<string, string> = {
+  'flights/campbell-river-from-calgary': 'British Columbia',
+  'flights/kitchener-to-montreal-quebec': 'Ontario',
+  'flights/kitchener-to-raleigh-durham': 'Ontario',
+  'flights/minneapolis-to-red-lake-ontario': 'Ontario',
+  'flights/toronto-chicago': 'Ontario',
+  'flights/toronto-teterboro': 'Ontario',
+  'flights/toronto-to-boston': 'Ontario',
+  'flights/toronto-to-chicago': 'Ontario',
+  'flights/toronto-to-montreal': 'Ontario',
+  'flights/toronto-to-sault-ste-marie': 'Ontario',
+  'flights/toronto-to-sudbury': 'Ontario',
+  'flights/winnipeg-to-red-lake': 'Manitoba',
+};
+const routeProv = isRoute ? (ROUTE_PROVINCES[d.slug] ?? null) : null;
+const routeFinderHref = routeProv
+  ? `/directory/?prov=${encodeURIComponent(routeProv)}#find-an-operator`
+  : '/directory/#find-an-operator';
 ---
 
 <BaseLayout title={d.title} description={d.description} canonicalPath={`/${d.slug}`}>
@@ -110,6 +132,12 @@ const facetModule = FACET_MODULES[d.slug] ?? null;
             <QuoteForm subject={d.quoteSubject ?? d.title} />
           </div>
         </div>
+        <p class="mt-4 text-sm text-slate-600">
+          Prefer to contact operators yourself?
+          <a href={routeFinderHref} class="font-semibold text-lake-700 hover:underline">
+            Search {routeProv ? `${routeProv} operators` : 'the operator directory'} →
+          </a>
+        </p>
       </section>
     ) : (
       <div class="mt-14">

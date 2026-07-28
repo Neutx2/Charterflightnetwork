@@ -1,5 +1,9 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 26 (2026-07-28 — mobile review at 390px of all new modules: no
+Cycle #: 27 (2026-07-28 — finn-loop 5-min cadence: all 12 flights route
+  pages link into the finder pre-filtered to the route's Canadian province
+  (Winnipeg-Red Lake -> Manitoba etc., generic fallback); travel openings
+  audited and found already strong (honest skip). Prior — cycle 26: mobile
+  review at 390px of all new modules: no
   horizontal overflow anywhere; fixed inherited list bullets on operator
   cards (.copy ul markers; not-prose was a no-op since the site doesn't
   use Tailwind Typography). 5-minute loop cadence per owner. Prior —
