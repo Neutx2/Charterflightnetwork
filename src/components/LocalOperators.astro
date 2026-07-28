@@ -35,7 +35,7 @@ const finderHref = provinceLabel
         ? `These operators list ${city} among their bases in our directory. Contact them directly, or let one free request reach the whole network.`
         : `No operator in our directory lists ${city} as a base — these ${provinceLabel} operators serve the region. One free request reaches the operators equipped for your trip.`}
     </p>
-    <ul class="mt-5 grid gap-3 sm:grid-cols-2">
+    <ul class="mt-5 grid list-none gap-3 p-0 sm:grid-cols-2">
       {[...local, ...regional].map((o) => (
         <li class="rounded-xl bg-white p-4 ring-1 ring-birch-200">
           <div class="flex items-start justify-between gap-2">

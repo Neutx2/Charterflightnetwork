@@ -1,5 +1,9 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 25 (2026-07-28 — operator modules on ALL use-case travel pages:
+Cycle #: 26 (2026-07-28 — mobile review at 390px of all new modules: no
+  horizontal overflow anywhere; fixed inherited list bullets on operator
+  cards (.copy ul markers; not-prose was a no-op since the site doesn't
+  use Tailwind Typography). 5-minute loop cadence per owner. Prior —
+  cycle 25: operator modules on ALL use-case travel pages:
   mining/exploration (helicopters), Ontario remote communities (wheels),
   Churchill (Manitoba), joining fly-in fishing and Arctic. Prior — cycle
   24: finder as connective tissue: home-hero operator
