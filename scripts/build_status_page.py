@@ -62,7 +62,7 @@ m_cycle = re.search(r"Cycle #: (\d+)", state)
 # ---- approvals -------------------------------------------------------------
 approvals = []
 if (ROOT / "APPROVALS.md").exists():
-    for m in re.finditer(r"^### \[seed\] (.+?)$\n(.*?)(?=^### |\Z)", (ROOT / "APPROVALS.md").read_text(), re.M | re.S):
+    for m in re.finditer(r"^### \[(?:seed|\d{4}-\d{2}-\d{2})\] (.+?)$\n(.*?)(?=^### |\Z)", (ROOT / "APPROVALS.md").read_text(), re.M | re.S):
         cat = re.search(r"- Category: (.+)", m.group(2))
         need = re.search(r"- Decision needed(?: from owner)?: (.+)", m.group(2))
         approvals.append({
