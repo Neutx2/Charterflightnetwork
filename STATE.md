@@ -1,5 +1,9 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 39 (2026-07-28 — a11y on the money paths: quote form announces
+Cycle #: 40 (2026-07-28 — finder 0-match dead end fixed: empty state with
+  a Clear-filters button (delegated, refocuses search) and a quote-form
+  escape hatch; finder suite up to 9 checks. PR #1 deploy check confirmed
+  green on the latest push. Prior — cycle 39: a11y on the money paths:
+  quote form announces
   step changes to screen readers (sr-only aria-live 'Step N of 3: name');
   finder anchor target focusable (tabindex=-1) so deep links land keyboard
   users correctly. Prior — cycle 38: operator application form

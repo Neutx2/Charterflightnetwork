@@ -129,15 +129,38 @@ const services = ['Floats', 'Wheels', 'Helicopter', 'Skis'];
         </div>
       </li>`;
 
+    const emptyState = `
+      <li class="sm:col-span-2 rounded-lg bg-birch-50 px-4 py-6 text-center ring-1 ring-birch-200">
+        <p class="font-semibold text-lake-900">No operators match those filters.</p>
+        <p class="mt-1 text-sm text-slate-600">
+          <button type="button" class="finder-clear font-semibold text-lake-700 underline">Clear the filters</button>
+          — or skip the search: <a href="/quote" class="font-semibold text-boreal-700 underline">one free request</a>
+          reaches the operators equipped for your trip.
+        </p>
+      </li>`;
+
     const render = (reset: boolean) => {
       if (reset) shown = PAGE;
       const m = matches();
       count.textContent = rows
         ? `${m.length} operator${m.length === 1 ? '' : 's'} match${m.length === 1 ? 'es' : ''}`
         : 'Loading operators…';
-      list.innerHTML = m.slice(0, shown).map(card).join('');
+      list.innerHTML = rows && m.length === 0 ? emptyState : m.slice(0, shown).map(card).join('');
       more.classList.toggle('hidden', m.length <= shown);
     };
+
+    // Clear-filters lives inside re-rendered HTML — delegate it.
+    list.addEventListener('click', (ev) => {
+      if (!(ev.target as HTMLElement).closest?.('.finder-clear')) return;
+      q.value = '';
+      prov.value = '';
+      chips.forEach((c) => {
+        c.setAttribute('aria-pressed', 'false');
+        c.classList.remove('bg-lake-700', 'text-white', 'border-lake-700');
+      });
+      render(true);
+      q.focus();
+    });
 
     q.addEventListener('focus', load, { once: true });
     q.addEventListener('input', () => (rows ? render(true) : load()));

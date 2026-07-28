@@ -35,6 +35,21 @@ await page.screenshot({
 });
 await page.close();
 
+// empty state: gibberish search offers clear + quote escape hatches
+{
+  const page = await browser.newPage();
+  await page.goto(`${BASE}/directory/`, { waitUntil: 'networkidle' });
+  await page.fill('.finder-q', 'zzzznotanoperator');
+  await page.waitForTimeout(400);
+  const empty = await page.locator('.finder-results .finder-clear').count();
+  check('0-match state offers Clear filters + quote link', empty === 1 && (await page.locator('.finder-results a[href="/quote"]').count()) === 1);
+  await page.click('.finder-clear');
+  await page.waitForTimeout(300);
+  const countText = (await page.locator('.finder-count').textContent()).trim();
+  check('Clear filters restores the full list', /^480 operators match/.test(countText), countText);
+  await page.close();
+}
+
 // deep-link path: province hubs link to /directory/?prov=...#find-an-operator
 {
   const page = await browser.newPage();
