@@ -1,5 +1,7 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 29 (2026-07-28 — operators-page value prop now reflects reality:
+Cycle #: 30 (2026-07-28 — 404 page gains an operator search box (old
+  bookmarks are often operator links; plain GET into the finder). Prior —
+  cycle 29: operators-page value prop now reflects reality:
   a listing appears in the searchable finder and on destination pages with
   fleet + tap-to-call, featured first everywhere; no pricing touched.
   Prior — cycle 28: empty-legs page teaches searching operators

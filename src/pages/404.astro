@@ -26,6 +26,23 @@ const description =
         Canada Destinations
       </a>
     </div>
+    <!-- Old bookmarks are often operator links — put the finder right here. -->
+    <form action="/directory/" method="get" class="mx-auto mt-6 flex max-w-md gap-2" role="search">
+      <label class="sr-only" for="nf-operator-q">Search charter operators</label>
+      <input
+        id="nf-operator-q"
+        type="search"
+        name="q"
+        placeholder="Looking for an operator? Search by name or base…"
+        class="w-full rounded-lg border border-slate-300 bg-white px-4 py-2.5 text-slate-900 placeholder-slate-400 focus:border-lake-500 focus:outline-none focus:ring-2 focus:ring-lake-500/30"
+      />
+      <button
+        type="submit"
+        class="shrink-0 rounded-lg border border-lake-300 px-4 py-2.5 font-semibold text-lake-800 hover:bg-lake-50 transition-colors"
+      >
+        Search
+      </button>
+    </form>
     <ul class="mt-10 flex flex-wrap justify-center gap-x-6 gap-y-2 text-sm font-medium text-lake-700">
       <li><a href="/usa" class="hover:underline">USA</a></li>
       <li><a href="/bahamas" class="hover:underline">Bahamas</a></li>
