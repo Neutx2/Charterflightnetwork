@@ -67,6 +67,7 @@ for (const suite of [
   'verify_ga_events.mjs',
   'verify_quote_fallback.mjs',
   'verify_operator_finder.mjs',
+  'verify_form_signals.mjs',
 ]) {
   run(suite, () => {
     const out = execSync(`node scripts/${suite}`, { cwd: ROOT, encoding: 'utf8' });
