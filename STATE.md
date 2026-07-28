@@ -1,5 +1,15 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 42 (2026-07-28 — directory hero count made exact ('480' not
+Cycle #: 45 (2026-07-28 — graphics/UI push begins per owner ('work on
+  graphics and ui for a while'): new HorizonRule brand-motif divider —
+  the logotype's tapered teal horizon + climbing orange aircraft as a
+  reusable ornament (tone teal/light, aria-hidden, em-scaled). Shipped as
+  a crest atop the dark footer site-wide and as the section divider before
+  the home Popular-routes band. Queue for next graphics cycles:
+  aircraft-type mini-icons on operator cards, plane riding the quote-form
+  progress bar, hero/region scene art, 404 artwork. Prior — cycles 43-44:
+  honest no-ops + privacy APPROVALS note (policy must disclose GA4 +
+  formmailer); deploy green. Prior — cycle 42: directory hero count made
+  exact ('480' not
   '480+' - the dedup made the number precise, so the plus was inflation);
   PR #1 deploy confirmed green on latest push. Prior — cycle 41: two
   playbook guardrails automated into the gate:
