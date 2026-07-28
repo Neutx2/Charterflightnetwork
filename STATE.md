@@ -1,5 +1,10 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 37 (2026-07-28 — the directory finally enters the header nav:
+Cycle #: 38 (2026-07-28 — operator application form instrumented: sign_up
+  (method=operator_listing) GA4 event + 'Application received' confirmation
+  via ?from=operator - the supply side of the funnel was the last
+  un-instrumented form. Every form on the site now emits a distinct signal.
+  Form-signals suite up to 7 checks. Prior — cycle 37: the directory
+  finally enters the header nav:
   'Charter Directory - Search 480 operators' in the Destinations dropdown
   and the mobile Browse group; it was previously unreachable from primary
   navigation. Nav suite updated for the fifth dropdown item and the taller

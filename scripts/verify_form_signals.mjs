@@ -22,6 +22,8 @@ await page.goto(`${BASE}/quote-confirmation/?from=contact`, { waitUntil: 'domcon
 check('confirmation adapts for contact', (await page.locator('[data-confirm-heading]').textContent()).includes('Message received'));
 await page.goto(`${BASE}/quote-confirmation/?from=alerts`, { waitUntil: 'domcontentloaded' });
 check('confirmation adapts for alerts', (await page.locator('[data-confirm-heading]').textContent()).includes('signed up'));
+await page.goto(`${BASE}/quote-confirmation/?from=operator`, { waitUntil: 'domcontentloaded' });
+check('confirmation adapts for operator applications', (await page.locator('[data-confirm-heading]').textContent()).includes('Application received'));
 await page.goto(`${BASE}/quote-confirmation/`, { waitUntil: 'domcontentloaded' });
 check('default confirmation is the quote copy', (await page.locator('[data-confirm-heading]').textContent()).includes('forwarded to matching'));
 
@@ -47,6 +49,19 @@ await page.click('button:has-text("Send Message")');
 await page.waitForTimeout(200);
 const cm = await page.evaluate(() => (window).__ev.filter((e) => e[1] === 'contact_message'));
 check('contact_message fires on contact form', cm.length === 1 && cm[0][2].source_page === '/contact/', JSON.stringify(cm));
+
+await page.goto(`${BASE}/operators/`, { waitUntil: 'networkidle' });
+await armCapture();
+await page.evaluate(() => {
+  document.querySelectorAll('form:not(.quote-form) input[required], form:not(.quote-form) textarea[required]').forEach((el) => {
+    if (el.type === 'email') el.value = 't@e.com';
+    else el.value = 'test';
+  });
+});
+await page.click('button[type="submit"]:not(.quote-submit)');
+await page.waitForTimeout(200);
+const ol = await page.evaluate(() => (window).__ev.filter((e) => e[1] === 'sign_up' && e[2].method === 'operator_listing'));
+check('sign_up fires on operator application', ol.length === 1, JSON.stringify(ol));
 
 await browser.close();
 const passed = results.filter(Boolean).length;

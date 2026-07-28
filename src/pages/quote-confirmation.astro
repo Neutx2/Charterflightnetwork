@@ -28,6 +28,9 @@ const description =
       } else if (from === 'contact' && h) {
         h.textContent = 'Message received — we\'ll get back to you.';
         document.title = 'Message Received | Charter Flight Network';
+      } else if (from === 'operator' && h) {
+        h.textContent = 'Application received — we\'ll be in touch about your listing.';
+        document.title = 'Application Received | Charter Flight Network';
       }
     </script>
     <p class="mt-4 text-lg text-slate-600 leading-relaxed">
