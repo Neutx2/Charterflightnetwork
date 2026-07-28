@@ -1,5 +1,8 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 28 (2026-07-28 — empty-legs page teaches searching operators
+Cycle #: 29 (2026-07-28 — operators-page value prop now reflects reality:
+  a listing appears in the searchable finder and on destination pages with
+  fleet + tap-to-call, featured first everywhere; no pricing touched.
+  Prior — cycle 28: empty-legs page teaches searching operators
   directly (finder cross-link as a 4th 'how to catch one' tip); footer
   gains a Find an Operator link site-wide. Queue from the market-review
   build-out is now complete. Prior — cycle 27: finn-loop 5-min cadence:
