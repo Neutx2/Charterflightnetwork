@@ -1,6 +1,14 @@
 # STATE — Charter Flight Network Revenue Loop
 Cycle #: 17 (session 2026-07-28 — brand finalization: logotype decided and shipped)
-Last run (UTC): 2026-07-28 (manual; scheduled loop still pending secrets)
+Last run (UTC): 2026-07-28
+Scheduled loop: ACTIVE — Claude Routine `trig_017fT4PmoririEtcJCUWgf5J`
+  fires Sundays 08:00 UTC (first: 2026-08-02) into a fresh cloud session on
+  this repo; runs one cycle in metrics-degraded mode (no GSC/PSI secrets yet),
+  ships to this branch only, refreshes the owner status board.
+  The GitHub Actions path (.github/workflows/revenue-loop.yml) stays INACTIVE
+  until the owner adds the four secrets and the PR merges to main (cron only
+  fires from the default branch); once live, disable the Routine to avoid
+  double cycles.
 Branch under optimization: claude/cfn-modernization-okp1pe (PR #1)
 Production host: not launched (staging = GitHub Pages preview, noindex)
 Indexation: staging=noindex (injected by scripts/make-preview.mjs);
