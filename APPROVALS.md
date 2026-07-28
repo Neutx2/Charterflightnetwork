@@ -75,3 +75,47 @@
   elsewhere on the legacy site. Supply a real policy (PIPEDA-appropriate).
 - Why: legal hygiene for a lead-gen site collecting contact details.
 - Decision needed: approved policy text.
+
+### [2026-07-28] "What does a charter cost" guide page
+- Category: PRICING
+- What the loop wants to do: publish an honest cost-education page — market
+  hourly ranges attributed to third-party sources (BLADE, Stratos, Jettly
+  publish such guides), what drives price (distance, aircraft class,
+  floats/wheels, season, positioning), and why a quote beats a calculator for
+  northern trips. No CFN prices, no invented numbers.
+- Why it matters (revenue): price fear is the top reason visitors bounce from
+  quote forms; every serious competitor anchors price. This is the
+  highest-ICE unshipped item on the board (441).
+- Decision needed from owner: approve publishing attributed third-party
+  ranges (yes/no), and optionally supply any real anchor the network can
+  stand behind.
+- Blocked backlog item(s): 22
+- Owner decision: <___>   Date: <___>
+
+### [2026-07-28] Safety & vetting education page facts
+- Category: FACT VERIFICATION
+- What the loop wants to do: publish "how to choose a charter operator" —
+  what Transport Canada AOC certification means, what to ask an operator
+  (insurance, pilot experience, aircraft maintenance), how the quote network
+  fits in. Facts are external to the site, so each needs a verifiable
+  primary source (Transport Canada / CARs) before publication.
+- Why it matters (revenue): converts safety anxiety into quote requests;
+  education content nobody in the niche does; strong E-E-A-T signal.
+- Decision needed from owner: approve the approach; flag anything about
+  operator vetting the network actually does (or does not do) so the page
+  never overstates CFN's role.
+- Blocked backlog item(s): 23
+- Owner decision: <___>   Date: <___>
+
+### [2026-07-28] Route-page distance/flight-time data source
+- Category: FACT VERIFICATION
+- What the loop wants to do: build a handful of high-intent route pages
+  (e.g. Thunder Bay → named northern destinations) with real distances and
+  flight-time context computed from published airport coordinates.
+- Why it matters (revenue): route-level utility content captures long-tail
+  search the big brokers ignore; the lodges rank on it today.
+- Decision needed from owner: approve using published airport data (e.g.
+  Canada Flight Supplement / Nav Canada data) as a source, and name the
+  first 3-5 routes worth building.
+- Blocked backlog item(s): 24
+- Owner decision: <___>   Date: <___>

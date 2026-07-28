@@ -1,7 +1,9 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 18 (2026-07-28 — first loop-procedure cycle, run on demand: BACKLOG
-  5b shipped — /quote pre-paint step collapse with self-healing fallback;
-  CLS 0 ×4 runs; new permanent check scripts/verify_quote_fallback.mjs)
+Cycle #: 19 (2026-07-28 — competitive-strategy cycle: operator finder shipped
+  on /directory (BACKLOG 21, the directory-as-moat play); strategy items
+  22-26 added to BACKLOG with 3 new gated items queued in APPROVALS (cost
+  guide, safety page, route data); 2 a11y fixes. Cycle 18 same day: /quote
+  CLS fix with self-healing fallback.)
 Last run (UTC): 2026-07-28
 Scheduled loop: ACTIVE — Claude Routine `trig_017fT4PmoririEtcJCUWgf5J`
   fires Sundays 08:00 UTC (first: 2026-08-02) into a fresh cloud session on

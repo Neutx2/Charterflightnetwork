@@ -12,6 +12,8 @@ const description =
 
 import operators from '../../data/operators.json';
 import { isDuplicate } from '../../lib/directory-dupes';
+import { DIRECTORY_GROUPS } from '../../lib/directory-provinces';
+import OperatorFinder from '../../components/OperatorFinder.astro';
 
 // Duplicate twins are excluded from the listing — showing both put two
 // identical-looking links side by side, one of which led somewhere the
@@ -23,22 +25,8 @@ const entries = (await getCollection('directory'))
 const uniqueOperators = new Set(operators.map((o) => `${o.name}|${o.baseLocations}`)).size;
 
 // group directory pages by province/region, derived from their slugs
-const GROUPS: [string, string[]][] = [
-  ['Alberta', ['alberta-']],
-  ['British Columbia', ['bc-', 'british-columbia-']],
-  ['Manitoba', ['manitoba-']],
-  ['New Brunswick', ['new-brunswick-']],
-  ['Newfoundland & Labrador', ['newfoundland-']],
-  ['Northwest Territories', ['nwt-', 'northwest-territories-']],
-  ['Nova Scotia', ['nova-scotia-']],
-  ['Nunavut', ['nunavut-']],
-  ['Ontario', ['ontario-', 'northern-ontario-']],
-  ['Quebec', ['quebec-']],
-  ['Saskatchewan', ['saskatchewan-']],
-  ['Yukon', ['yukon-']],
-  ['Canada-wide & USA-licensed', ['canadian-', 'usa-']],
-];
-const grouped = GROUPS.map(([label, prefixes]) => ({
+// (mapping shared with the operator-finder endpoint via lib/directory-provinces)
+const grouped = DIRECTORY_GROUPS.map(([label, prefixes]) => ({
   label,
   pages: entries.filter((e) => {
     const base = e.data.slug.replace(/^directory\//, '');
@@ -64,6 +52,7 @@ const other = entries.filter((e) => !groupedSlugs.has(e.data.slug));
   </PageHero>
 
   <div class="mx-auto max-w-7xl px-4 sm:px-6 py-10 sm:py-14">
+    <OperatorFinder />
     {[...grouped, { label: 'Other listings', pages: other }]
       .filter((g) => g.pages.length > 0)
       .map((g) => (

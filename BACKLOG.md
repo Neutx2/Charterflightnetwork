@@ -83,6 +83,40 @@
 20. [DONE 2026-07-19 cycle 4] Structured operator data model: scripts/build_operator_data.py -> src/data/operators.json (826 listings, 530 unique operators, 82 featured) parsed from directory pages
     ICE: 7×6×4 = 168 | Rev: foundation for featured listings.
 
+## P1.5 — Competitive strategy (added 2026-07-28 from the market review;
+## sources and rationale in the session log / EXPERIMENTS.md cycle 19)
+21. [DONE 2026-07-28 cycle 19] Operator finder on /directory: search + province
+    + aircraft-type filters over the 530-operator dataset (deduped, merged,
+    lazily fetched from /data/operator-finder.json). The directory as a
+    product is the moat no competitor in the niche has.
+    ICE: 8×8×7 = 448 | Rev: utility → time-on-site, phone taps (tel links in
+    results feed contact_phone), operator-side value for featured tiers.
+22. [GATE] "What does a charter cost" guide page: honest third-party market
+    ranges (attributed: BLADE/Stratos/Jettly publish hourly-rate guides),
+    what drives price, why quotes beat calculators at this trip complexity.
+    Addresses the #1 form-abandonment fear; every serious competitor anchors
+    price. GATE: pricing content needs owner sign-off even when attributed.
+    ICE: 9×7×7 = 441
+23. [GATE] Safety & vetting education page ("how to choose an operator",
+    what Transport Canada certification means, questions to ask). Converts
+    anxiety into quote requests; education play nobody in the niche does.
+    GATE: facts are external to the site — verify before publishing.
+    ICE: 7×7×6 = 294
+24. [GATE] Route-utility pages (Thunder Bay → named destinations with
+    distances/flight-time context). GATE: airport/distance data is external —
+    needs a verified source approved by owner. Respect the 2-page/cycle cap
+    and uniqueness floor; a handful of high-intent routes, not a mass rollout.
+    ICE: 7×6×5 = 210
+25. Quotability / AI-answer pass: direct-answer openings on key pages, stable
+    facts, tightened llms.txt — be the source AI assistants cite for
+    "charter a float plane in northern Ontario". No gate; iterative.
+    ICE: 7×6×8 = 336
+26. Operator detail pages from the finder dataset. NOT a mass rollout —
+    530 near-identical stubs is exactly the thin-content trap. Only viable
+    as enriched pages (real fleet/base/contact + owner-verified facts), a
+    few per cycle, featured operators first. Design before building.
+    ICE: 6×5×4 = 120
+
 ## EXPLICITLY REJECTED
 - Display ads / third-party affiliate banners: REJECT. They cheapen a lead-gen
   funnel, distract from the single conversion goal (quote request), add cookie/

@@ -12,6 +12,34 @@
 - Result (filled on read date): <win/flat/loss + numbers>
 - Decision: <keep / revert / iterate>
 
+### [2026-07-28] Cycle 19: operator finder on /directory  (PR #1)
+- Hypothesis: If the 530-operator directory becomes searchable and filterable
+  (name/base search, province, aircraft type) instead of flat link lists,
+  then directory engagement (phone taps via contact_phone, quote submissions
+  from directory sessions) rises, because the dataset becomes a product no
+  competitor in the niche offers — the market review found brokers competing
+  on estimators and lodges on content, with nobody serving "find me a float
+  plane operator near X" directly.
+- Change shipped: OperatorFinder component on /directory; static
+  /data/operator-finder.json endpoint (built from src/data/operators.json,
+  duplicates merged by unioning fields — naive dedup lost 56 phone numbers;
+  merged coverage is 223/530 operators with phones, the rest genuinely have
+  none on the source pages). Lazy fetch keeps the page light; no-JS visitors
+  see the unchanged province lists; tel links inherit the delegated
+  contact_phone GA event. Also fixed two a11y findings the new page surfaced
+  (badge contrast; logo link accessible-name mismatch, site-wide).
+- Primary metric: contact_phone events with source_page=/directory, and
+  generate_lead from directory-originated sessions (GA4, post-launch).
+- Guardrail metrics: /directory Lighthouse 100/100/100 + CLS 0 after fixes;
+  scripts/verify_operator_finder.mjs 6/6; full suite green (redirects
+  1047/1047, dead links 0, disclaimer 1044/1044, nav 13/13, GA 4/4,
+  quote fallback 5/5).
+- Baseline value: no baseline (feature is new); directory sessions currently
+  unmeasured until launch.
+- READ DATE: two weeks after production launch.
+- Result (filled on read date): —
+- Decision: —
+
 ### [2026-07-28] Cycle 18: /quote pre-paint step collapse + self-healing fallback  (PR #1)
 - Hypothesis: If the multi-step enhancement's step-1 state is applied before
   first paint instead of after it, the intermittent CLS on /quote (0.067
