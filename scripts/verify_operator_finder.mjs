@@ -27,7 +27,11 @@ await page.click('.finder-chip[data-service="Floats"]'); // toggle Floats back o
 await page.waitForTimeout(300);
 const telCount = await page.locator('.finder-results a[href^="tel:"]').count();
 check('tel: links render (GA delegated listener covers them)', telCount > 0, `${telCount} phone links in default view`);
-await page.screenshot({ path: 'finder.png', clip: { x: 0, y: 260, width: 1280, height: 620 } });
+// visual reference goes to the OS temp dir, never the repo working tree
+await page.screenshot({
+  path: (process.env.TMPDIR ?? '/tmp') + '/finder-verify.png',
+  clip: { x: 0, y: 260, width: 1280, height: 620 },
+});
 await page.close();
 
 // no-JS path
