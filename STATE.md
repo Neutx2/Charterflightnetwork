@@ -1,6 +1,9 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 21 (2026-07-28 — godmode sweep: finder deep links from all 15
-  province hubs; unified verify gate (npm run verify); quotability round 2 on
+Cycle #: 22 (2026-07-28 — template-wide Lighthouse sweep: 7 previously
+  unaudited templates measured (city, travel, directory subpage, route,
+  operators, about, contact) — all 100 perf / CLS 0; one finding fixed
+  (about page heading-order: strapline was an h3 under the h1, now bold
+  text — via content + override). Continuous godmode loop active.); quotability round 2 on
   regional hubs via pipeline-safe overrides; thin-page item closed with
   evidence; approval-ready drafts for the cost guide and safety page linked
   from APPROVALS. Cycles 18-20 same day. All ungated backlog now shipped or

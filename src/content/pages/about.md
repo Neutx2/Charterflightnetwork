@@ -12,7 +12,7 @@ region: "global"
      title tag is preserved for ranking continuity.
      TODO(owner): confirm "since 2008", "50 years", and the network-size figure. -->
 
-### Charter Flight Network — 100% Canadian owned & operated. Finding clients the most cost efficient air charter options since 2008.
+**Charter Flight Network — 100% Canadian owned & operated. Finding clients the most cost efficient air charter options since 2008.**
 
 ## Our Mission
 
