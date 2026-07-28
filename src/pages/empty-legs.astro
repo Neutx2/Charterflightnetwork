@@ -89,12 +89,27 @@ const description =
             </button>
           </div>
           <input type="hidden" name="recipient" value="phil@charterflightnetwork.com" />
-          <input type="hidden" name="redirect" value="https://charterflightnetwork.com/quote-confirmation" />
+          <input type="hidden" name="redirect" value="https://charterflightnetwork.com/quote-confirmation?from=alerts" />
           <input type="hidden" name="SourcePage" value={Astro.url.pathname} />
         <input type="hidden" name="subject" value="Empty Leg Alert Signup" />
         </form>
       </div>
     </section>
+
+    <script>
+      // Signup signal for GA4 — the quote form's generate_lead listener only
+      // covers .quote-form, so the alert signup needs its own. Fires only on
+      // a submit the browser accepted (required fields valid).
+      document.querySelectorAll<HTMLFormElement>('form:not(.quote-form)').forEach((form) => {
+        if (!form.querySelector('input[value="Empty Leg Alert Signup"]')) return;
+        form.addEventListener('submit', () => {
+          const gtag = (window as any).gtag;
+          if (typeof gtag === 'function') {
+            gtag('event', 'sign_up', { method: 'empty_leg_alerts', source_page: location.pathname });
+          }
+        });
+      });
+    </script>
 
     <section id="quote" class="mt-14 scroll-mt-24">
       <div class="rounded-2xl bg-white p-6 sm:p-10 ring-1 ring-birch-200 shadow-sm">

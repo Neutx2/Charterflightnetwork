@@ -1,5 +1,9 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 30 (2026-07-28 — 404 page gains an operator search box (old
+Cycle #: 31 (2026-07-28 — empty-legs signup UX: GA4 sign_up event
+  (method=empty_leg_alerts, source_page) so list growth is measurable;
+  confirmation page adapts its heading for ?from=alerts so signups no
+  longer read a quote-request message. No sending - CASL gate untouched.
+  Prior — cycle 30: 404 page gains an operator search box (old
   bookmarks are often operator links; plain GET into the finder). Prior —
   cycle 29: operators-page value prop now reflects reality:
   a listing appears in the searchable finder and on destination pages with
