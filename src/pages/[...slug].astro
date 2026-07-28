@@ -5,6 +5,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import QuoteCTA from '../components/QuoteCTA.astro';
 import QuoteForm from '../components/QuoteForm.astro';
+import FacetOperators from '../components/FacetOperators.astro';
 
 // Migrated legacy pages that don't have a hand-built route:
 // /travel/*, /flights/*, /operators/* subpages.
@@ -35,6 +36,29 @@ const section = d.slug.startsWith('travel/')
     ? { label: 'Popular Routes', href: undefined }
     : { label: 'For Operators', href: '/operators' };
 const pageLabel = d.h1 ?? d.title;
+
+// Use-case pages get an operator module matched to their subject — the same
+// structured data destination pages surface, filtered by service facet.
+const FACET_MODULES: Record<
+  string,
+  { heading: string; description: string; facet: 'Floats' | 'Wheels' | 'Helicopter' | 'Skis'; provinces: string[] }
+> = {
+  'travel/fly-in-fishing': {
+    heading: 'Float plane operators for fly-in trips',
+    description:
+      'Directory operators flying floats in Ontario and Manitoba — the heart of fly-in fishing country. Contact them directly, or let one free request reach the network.',
+    facet: 'Floats',
+    provinces: ['Ontario', 'Manitoba'],
+  },
+  'travel/canadian-arctic': {
+    heading: 'Operators serving the North',
+    description:
+      'Directory operators based in the three territories. Contact them directly, or let one free request reach the operators equipped for Arctic flying.',
+    facet: 'Wheels',
+    provinces: ['Northwest Territories', 'Nunavut', 'Yukon'],
+  },
+};
+const facetModule = FACET_MODULES[d.slug] ?? null;
 ---
 
 <BaseLayout title={d.title} description={d.description} canonicalPath={`/${d.slug}`}>
@@ -48,6 +72,12 @@ const pageLabel = d.h1 ?? d.title;
     <article class="copy">
       <Content />
     </article>
+
+    {facetModule && (
+      <div class="not-prose">
+        <FacetOperators {...facetModule} />
+      </div>
+    )}
 
     {isRoute ? (
       <section id="quote" class="mt-14 scroll-mt-24">

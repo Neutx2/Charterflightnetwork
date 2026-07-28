@@ -139,6 +139,24 @@ const steps = [
             Call {SITE.phone}
           </a>
         </div>
+        <!-- Direct line into the operator finder: plain GET form, no JS needed
+             here — /directory reads the q param and opens pre-filtered. -->
+        <form action="/directory/" method="get" class="mt-6 flex max-w-xl gap-2" role="search">
+          <label class="sr-only" for="home-operator-q">Search charter operators</label>
+          <input
+            id="home-operator-q"
+            type="search"
+            name="q"
+            placeholder="Or search 480 operators — name, city or base…"
+            class="w-full rounded-lg border border-white/25 bg-white/10 px-4 py-3 text-white placeholder-lake-200 focus:border-white/60 focus:outline-none focus:ring-2 focus:ring-white/30"
+          />
+          <button
+            type="submit"
+            class="shrink-0 rounded-lg border border-white/30 px-5 py-3 font-semibold text-white hover:bg-white/10 transition-colors"
+          >
+            Search
+          </button>
+        </form>
       </div>
     </div>
   </section>

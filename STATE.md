@@ -1,5 +1,8 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 23 (2026-07-28 — LOCAL OPERATORS on all 689 destination pages:
+Cycle #: 24 (2026-07-28 — finder as connective tissue: home-hero operator
+  search box, aircraft-card deep links by type, float/northern operator
+  modules on fly-in fishing and Arctic pages. Prior — cycle 23: LOCAL
+  OPERATORS on all 689 destination pages:
   city-matched operator cards with phones, province fallback, finder deep
   links; dedup corrected to 480 true unique operators and public counts
   fixed. Prior same day — cycle 22: template Lighthouse sweep: 7 previously

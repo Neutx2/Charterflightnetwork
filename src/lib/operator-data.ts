@@ -101,6 +101,22 @@ function build(): MergedOperator[] {
 export const MERGED_OPERATORS: MergedOperator[] = build();
 
 /**
+ * Operators matching a service facet within given province groups —
+ * featured first. Powers use-case pages (e.g. fly-in fishing → float
+ * operators in Ontario/Manitoba).
+ */
+export function operatorsByFacet(
+  facet: string,
+  provinces: string[],
+  limit = 6
+): { operators: MergedOperator[]; total: number } {
+  const all = MERGED_OPERATORS.filter(
+    (o) => o.serviceFacets.includes(facet) && provinces.includes(o.province)
+  );
+  return { operators: all.slice(0, limit), total: all.length };
+}
+
+/**
  * Operators for a destination page: those whose base includes the city
  * (strongest signal — genuinely local), topped up with featured-first
  * operators from the same province group.

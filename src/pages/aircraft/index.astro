@@ -18,16 +18,19 @@ const types = [
     href: '/aircraft/turboprops',
     name: 'Turboprops & Piston Aircraft',
     blurb: 'Turboprop and piston aircraft charters for regional and remote destinations.',
+    finder: { type: 'Wheels', label: 'Find wheel plane operators' },
   },
   {
     href: '/aircraft/float-planes',
     name: 'Float Planes',
     blurb: 'Float plane charters for access to wilderness lodges, northern communities, and fishing or hunting camps.',
+    finder: { type: 'Floats', label: 'Find float plane operators' },
   },
   {
     href: '/aircraft/helicopters',
     name: 'Helicopters',
     blurb: 'Helicopter charters for business, sightseeing, and specialized missions.',
+    finder: { type: 'Helicopter', label: 'Find helicopter operators' },
   },
 ];
 ---
@@ -49,12 +52,22 @@ const types = [
   <div class="mx-auto max-w-7xl px-4 sm:px-6 py-10 sm:py-14">
     <ul class="grid gap-6 sm:grid-cols-2">
       {types.map((t) => (
-        <li>
-          <a href={t.href} class="group block rounded-2xl bg-white p-8 ring-1 ring-birch-200 shadow-sm hover:ring-lake-300 hover:shadow-md transition">
+        <li class="rounded-2xl bg-white ring-1 ring-birch-200 shadow-sm hover:ring-lake-300 hover:shadow-md transition">
+          <a href={t.href} class="group block p-8 pb-4">
             <h2 class="font-display text-2xl font-semibold text-lake-900 group-hover:text-lake-700">{t.name}</h2>
             <p class="mt-2 text-slate-600 leading-relaxed">{t.blurb}</p>
             <span class="mt-4 inline-block font-semibold text-boreal-600">Learn more →</span>
           </a>
+          {t.finder && (
+            <div class="border-t border-birch-200 px-8 py-3">
+              <a
+                href={`/directory/?type=${t.finder.type}#find-an-operator`}
+                class="text-sm font-semibold text-lake-700 hover:underline"
+              >
+                {t.finder.label} in the directory →
+              </a>
+            </div>
+          )}
         </li>
       ))}
     </ul>

@@ -12,6 +12,28 @@
 - Result (filled on read date): <win/flat/loss + numbers>
 - Decision: <keep / revert / iterate>
 
+### [2026-07-28] Cycle 24: the finder becomes the site's connective tissue  (PR #1)
+- Hypothesis: If the operator dataset is reachable from every high-intent
+  surface — a search box in the home hero, aircraft-type cards deep-linking
+  by facet, float/northern operator modules on the fly-in fishing and Arctic
+  pages — then operator-contact actions (contact_phone) and finder sessions
+  rise, because the site's strongest asset stops being one page deep.
+- Change shipped: home hero search form (plain GET to /directory/?q=, no JS
+  required on the home side); finder deep links on the turboprop, float and
+  helicopter aircraft cards; FacetOperators component (facet+province
+  operator cards) on travel/fly-in-fishing (Floats, ON+MB) and
+  travel/canadian-arctic (Wheels, NT+NU+YT); operatorsByFacet helper in the
+  shared operator-data lib.
+- Primary metric: finder arrivals with q/prov/type params and contact_phone
+  from travel pages (GA4, post-launch).
+- Guardrail metrics: npm run verify 6/6; home Lighthouse 100/100/100 CLS 0
+  with the search form; 4/4 ad-hoc surface checks (home search lands
+  filtered, aircraft links, both travel modules render).
+- Baseline value: finder previously reachable only via /directory.
+- READ DATE: two weeks after production launch.
+- Result (filled on read date): —
+- Decision: —
+
 ### [2026-07-28] Cycle 23: local operators on every destination page  (PR #1)
 - Hypothesis: If each of the 689 destination pages shows the charter
   operators actually based in that city (province fallback, featured first,
