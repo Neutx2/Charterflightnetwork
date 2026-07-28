@@ -1,6 +1,6 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 15 (session 2026-07-26)
-Last run (UTC): 2026-07-26 (manual; scheduled loop still pending secrets)
+Cycle #: 17 (session 2026-07-28 — brand finalization: logotype decided and shipped)
+Last run (UTC): 2026-07-28 (manual; scheduled loop still pending secrets)
 Branch under optimization: claude/cfn-modernization-okp1pe (PR #1)
 Production host: not launched (staging = GitHub Pages preview, noindex)
 Indexation: staging=noindex (injected by scripts/make-preview.mjs);
