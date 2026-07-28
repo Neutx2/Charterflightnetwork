@@ -1,5 +1,9 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 31 (2026-07-28 — empty-legs signup UX: GA4 sign_up event
+Cycle #: 32 (2026-07-28 — nationwide operator modules on the aircraft
+  subpages: turboprops->wheel planes, float-planes->floats,
+  helicopters->helicopters, 6 cards each; jets honestly carries none (no
+  jet facet in the directory data). Prior — cycle 31: empty-legs signup
+  UX: GA4 sign_up event
   (method=empty_leg_alerts, source_page) so list growth is measurable;
   confirmation page adapts its heading for ?from=alerts so signups no
   longer read a quote-request message. No sending - CASL gate untouched.

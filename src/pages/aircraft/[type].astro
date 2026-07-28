@@ -3,6 +3,8 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import PageHero from '../../components/PageHero.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import QuoteForm from '../../components/QuoteForm.astro';
+import FacetOperators from '../../components/FacetOperators.astro';
+import { DIRECTORY_GROUPS } from '../../lib/directory-provinces';
 
 // Copy on these pages is assembled from wording that appears on the legacy site
 // (about page "What We Offer", destination-page operator descriptions, Bahamas
@@ -95,6 +97,29 @@ export function getStaticPaths() {
 const { name, title, description, sections, subject } = Astro.props;
 
 const SITE_URL = 'https://charterflightnetwork.com';
+
+// Nationwide operator module per aircraft type. Jets have no facet in the
+// directory's service data (the dataset covers wheel/float/helicopter/ski
+// bush and regional operators), so the jets page honestly carries none.
+const ALL_PROVINCES = DIRECTORY_GROUPS.map(([label]) => label);
+const TYPE_FACETS: Record<string, { heading: string; description: string; facet: 'Floats' | 'Wheels' | 'Helicopter' }> = {
+  turboprops: {
+    heading: 'Wheel plane operators in the directory',
+    description: 'Operators flying wheel planes across Canada — turboprop and piston fleets for regional and remote destinations. Contact them directly, or let one free request reach the network.',
+    facet: 'Wheels',
+  },
+  'float-planes': {
+    heading: 'Float plane operators in the directory',
+    description: 'Operators flying floats across Canada. Contact them directly, or let one free request reach the operators equipped for your lake or lodge.',
+    facet: 'Floats',
+  },
+  helicopters: {
+    heading: 'Helicopter operators in the directory',
+    description: 'Helicopter operators across Canada. Contact them directly, or let one free request reach the operators equipped for your mission.',
+    facet: 'Helicopter',
+  },
+};
+const typeFacet = TYPE_FACETS[Astro.params.type ?? ''] ?? null;
 const jsonLd = [
   {
     '@context': 'https://schema.org',
@@ -139,6 +164,12 @@ const jsonLd = [
         </>
       ))}
     </article>
+
+    {typeFacet && (
+      <div class="not-prose">
+        <FacetOperators {...typeFacet} provinces={ALL_PROVINCES} />
+      </div>
+    )}
 
     <section id="quote" class="mt-14 scroll-mt-24">
       <div class="rounded-2xl bg-white p-6 sm:p-10 ring-1 ring-birch-200 shadow-sm">
