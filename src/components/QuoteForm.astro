@@ -58,6 +58,28 @@ const uid = subject.length; // pages render at most one quote form
     <input type="text" id={`website-${uid}`} name="website" tabindex="-1" autocomplete="off" />
   </div>
 
+  <!--
+    Pre-paint collapse to step 1, so the multi-step enhancement (a deferred
+    module that runs after first paint) causes no layout shift. The js-ms CSS
+    below reproduces the enhancement's step-1 state exactly; the module takes
+    over by setting data-ms-ready and dropping the class.
+
+    Self-healing: if the module never runs (blocked, failed, still loading on
+    a bad connection), the watchdog removes js-ms after 3s and the form is the
+    plain single-page version again — the contact fields must never be
+    trapped behind a step UI that isn't there.
+  -->
+  <script is:inline>
+    (function () {
+      var f = document.currentScript && document.currentScript.closest('form');
+      if (!f) return;
+      f.classList.add('js-ms');
+      setTimeout(function () {
+        if (!f.dataset.msReady) f.classList.remove('js-ms');
+      }, 3000);
+    })();
+  </script>
+
   <!-- progress indicator: hidden without JS -->
   <div class="quote-progress hidden mb-6" aria-hidden="true">
     <div class="flex items-center justify-between text-xs font-semibold text-slate-600 mb-2">
@@ -189,6 +211,26 @@ const uid = subject.length; // pages render at most one quote form
   <input type="hidden" name="SourcePage" value={Astro.url.pathname} />
 </form>
 
+<style>
+  /* The pre-paint step-1 state, byte-for-byte what the enhancement's first
+     render() produces, so the module's takeover moves nothing (CLS 0). These
+     out-specify Tailwind's .hidden while js-ms is on; the module removes the
+     class after its first render and the utility classes rule again. */
+  form.quote-form.js-ms :global(.quote-step[data-step='2']),
+  form.quote-form.js-ms :global(.quote-step[data-step='3']) {
+    display: none;
+  }
+  form.quote-form.js-ms :global(.quote-progress) {
+    display: block;
+  }
+  form.quote-form.js-ms :global(.quote-next) {
+    display: inline-block;
+  }
+  form.quote-form.js-ms :global(.quote-submit) {
+    display: none;
+  }
+</style>
+
 <script>
   // Multi-step flow + validation + one-way/return toggle. Without JS the form
   // renders as one plain page and submits natively.
@@ -266,6 +308,13 @@ const uid = subject.length; // pages render at most one quote form
         render();
       });
     }
+
+    // Hand over from the pre-paint js-ms state (see the inline script in the
+    // markup). Marking ready stops the watchdog; dropping the class returns
+    // display control to the utility classes render() manages. When the
+    // multi-step branch didn't run, this restores the single-page form.
+    form.dataset.msReady = '1';
+    form.classList.remove('js-ms');
 
     form.addEventListener('submit', (e) => {
       const missing = validateWithin(form);

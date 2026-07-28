@@ -27,17 +27,16 @@
    honeypot, per-page subjects, client-side validation.
 
 ## P1 — Conversion-rate optimization (low-traffic appropriate)
-5b. Intermittent layout shift on /quote. The multi-step enhancement hides
-    steps 2 and 3 after first paint, so under slow conditions the form
-    collapses visibly. Measured CLS 0.067 once, then 0 on three consecutive
-    re-runs — a timing race, not a deterministic regression, and below the 0.1
-    "good" threshold, but the kind of intermittent shift that still shows up in
-    field data.
-    Fix is to hide steps 2-3 before paint, which means the enhancement script
-    must run during parse rather than as a deferred module. NOT done yet
-    because the obvious version introduces a worse failure mode: if the script
-    is prevented from running, the contact fields stay hidden and the form
-    cannot be completed. Needs a self-healing fallback before it ships.
+5b. [DONE 2026-07-28 cycle 18] Intermittent layout shift on /quote (CLS 0.067
+    measured once). Fixed with a pre-paint inline script that collapses the
+    form to step 1 (js-ms class + CSS reproducing the enhancement's step-1
+    state exactly) plus the self-healing fallback the first attempt lacked: a
+    3s watchdog restores the full single-page form if the enhancement module
+    never runs (CSP, runtime error, or HTML truncated on a stalled
+    connection — the module is inlined at end-of-body, so the form can arrive
+    without it). Verified by scripts/verify_quote_fallback.mjs (5 checks:
+    takeover, step-1 state, blocked-module engage, watchdog restore, no-JS)
+    and CLS 0 on 4 consecutive Lighthouse runs, perf 100.
     ICE: 5×7×5 = 175 | Rev: minor; protects the highest-value page's field CWV.
 
 6. [DONE 2026-07-19 cycle 1] Multi-step quote form (3 steps, progress bar, contact last,

@@ -12,6 +12,28 @@
 - Result (filled on read date): <win/flat/loss + numbers>
 - Decision: <keep / revert / iterate>
 
+### [2026-07-28] Cycle 18: /quote pre-paint step collapse + self-healing fallback  (PR #1)
+- Hypothesis: If the multi-step enhancement's step-1 state is applied before
+  first paint instead of after it, the intermittent CLS on /quote (0.067
+  observed once in lab) disappears from field data, protecting the
+  highest-value page's Core Web Vitals as real traffic arrives.
+- Change shipped: inline js-ms script inside the form applies CSS reproducing
+  the enhancement's step-1 state pre-paint; the enhancement module hands over
+  via data-ms-ready and drops the class; a 3s watchdog restores the full
+  single-page form if the module never runs. This is BACKLOG 5b, previously
+  parked because the naive version traps the contact fields hidden when the
+  script fails — the watchdog is the missing piece that made it safe.
+- Primary metric: lab CLS on /quote (0 across 4 consecutive runs, was
+  intermittently 0.067); field CLS in CrUX/GA4 once launched.
+- Guardrail metrics: form must remain completable in ALL degradation modes —
+  scripts/verify_quote_fallback.mjs asserts takeover, blocked-module watchdog
+  restore, and no-JS; GA 4/4 (drives the real step flow); nav 13/13;
+  1,047/1,047 redirects; 0 dead links; disclaimer 1,044/1,044; perf 100.
+- Baseline value: CLS 0.067 (one lab observation, then 0×3 — a timing race).
+- READ DATE: two weeks after production launch (needs field data).
+- Result (filled on read date): —
+- Decision: —
+
 ### [2026-07-19] Multi-step quote form  (PR #1, cycle 1)
 - Hypothesis: If the quote form becomes a 3-step flow (trip → aircraft →
   contact, contact fields last), then quote-submission rate will increase,

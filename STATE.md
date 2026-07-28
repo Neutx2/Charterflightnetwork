@@ -1,5 +1,7 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 17 (session 2026-07-28 — brand finalization: logotype decided and shipped)
+Cycle #: 18 (2026-07-28 — first loop-procedure cycle, run on demand: BACKLOG
+  5b shipped — /quote pre-paint step collapse with self-healing fallback;
+  CLS 0 ×4 runs; new permanent check scripts/verify_quote_fallback.mjs)
 Last run (UTC): 2026-07-28
 Scheduled loop: ACTIVE — Claude Routine `trig_017fT4PmoririEtcJCUWgf5J`
   fires Sundays 08:00 UTC (first: 2026-08-02) into a fresh cloud session on
