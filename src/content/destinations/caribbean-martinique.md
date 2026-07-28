@@ -1,6 +1,6 @@
 ---
 title: "Martinique Caribbean Charter Flights"
-description: "Search Martinique Caribbean Charter Airlines. No Obigation Charter Quote Request From Your Departure Point"
+description: "Search Martinique Caribbean Charter Airlines. No obligation Charter Quote Request From Your Departure Point"
 h1: "Martinique Caribbean Air Charter Flights - Request A No Obligation Charter Quote For Direct Flights To Martinique Caribbean.  Wheel Plane, Float Plane and Helicopter Air Charter Services Throughout The Caribbean Islands"
 legacyUrl: "/charter_flights_martinique_caribbean.html"
 slug: "caribbean/martinique"

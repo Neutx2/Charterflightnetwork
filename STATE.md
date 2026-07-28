@@ -1,9 +1,10 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 20 (2026-07-28 — AI-quotability pass, first round: hero openings on
-  /, /quote, /aircraft, /empty-legs rewritten as self-contained entity-named
-  answers; llms.txt stable-facts section. Same day: cycle 19 operator finder
-  on /directory; cycle 18 /quote CLS fix. Remaining ungated work is
-  iteration; the big levers now wait on the 9 APPROVALS items.)
+Cycle #: 21 (2026-07-28 — godmode sweep: finder deep links from all 15
+  province hubs; unified verify gate (npm run verify); quotability round 2 on
+  regional hubs via pipeline-safe overrides; thin-page item closed with
+  evidence; approval-ready drafts for the cost guide and safety page linked
+  from APPROVALS. Cycles 18-20 same day. All ungated backlog now shipped or
+  iterative; the board waits on the 9 APPROVALS items.)
 Last run (UTC): 2026-07-28
 Scheduled loop: ACTIVE — Claude Routine `trig_017fT4PmoririEtcJCUWgf5J`
   fires Sundays 08:00 UTC (first: 2026-08-02) into a fresh cloud session on

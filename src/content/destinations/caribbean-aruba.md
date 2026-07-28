@@ -1,6 +1,6 @@
 ---
 title: "Aruba Charter Flights - 3 Competitive Quotes"
-description: "Search Aruba Caribbean Charter Airlines. No Obigation Charter Quote Request From Your Departure Point"
+description: "Search Aruba Caribbean Charter Airlines. No obligation Charter Quote Request From Your Departure Point"
 h1: "Aruba Charter Flights"
 legacyUrl: "/charter_flights_aruba_caribbean.html"
 slug: "caribbean/aruba"

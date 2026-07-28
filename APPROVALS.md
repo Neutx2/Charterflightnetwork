@@ -90,6 +90,8 @@
   ranges (yes/no), and optionally supply any real anchor the network can
   stand behind.
 - Blocked backlog item(s): 22
+- DRAFT READY: drafts/what-does-a-charter-cost.md — full page copy with
+  attributed sources; approving it (and each figure) makes this a same-day ship.
 - Owner decision: <___>   Date: <___>
 
 ### [2026-07-28] Safety & vetting education page facts
@@ -105,6 +107,9 @@
   operator vetting the network actually does (or does not do) so the page
   never overstates CFN's role.
 - Blocked backlog item(s): 23
+- DRAFT READY: drafts/how-to-choose-a-charter-operator.md — full page copy;
+  every external fact carries a [VERIFY] marker with its primary source, and
+  the "where CFN fits" section needs your word-for-word confirmation.
 - Owner decision: <___>   Date: <___>
 
 ### [2026-07-28] Route-page distance/flight-time data source

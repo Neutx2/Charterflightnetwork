@@ -50,9 +50,11 @@
 8. [DONE 2026-07-19] Trust signals near form ("up to 3 competitive quotes",
    "no cost", privacy note). Remaining: response-time promise — [GATE]
    (needs owner confirmation of a real turnaround time).
-9. [DONE 2026-07-19] Content-migration artifacts fixed; region data corrected.
-   Remaining: consolidate/noindex the 52 thin pages (crawl/thin_pages.json)
-   or enrich them with real facts — enrichment items needing new facts → GATE.
+9. [DONE 2026-07-19; remainder closed 2026-07-28 cycle 21] Content-migration
+   artifacts fixed; region data corrected. Thin-page remainder VERIFIED
+   resolved: all 52 pages in crawl/thin_pages.json exist in the build and
+   every quote/* page canonicalizes away from itself (checked against dist,
+   not assumed). Enrichment items needing new facts remain GATE.
 10. [DONE 2026-07-19] About-page rewritten (puffery softened, E-E-A-T prose,
     unverifiable claims TODO-flagged).
 
@@ -107,7 +109,12 @@
     needs a verified source approved by owner. Respect the 2-page/cycle cap
     and uniqueness floor; a handful of high-intent routes, not a mass rollout.
     ICE: 7×6×5 = 210
-25. [DONE 2026-07-28 cycle 20, first pass] Quotability / AI-answer pass:
+25. [DONE 2026-07-28 cycles 20-21] Quotability / AI-answer pass:
+    Round 2 (cycle 21): /usa, /bahamas, /caribbean hub titles/h1/descriptions
+    rewritten as entity-named answers via crawl/overrides/hubs/ (pipeline-safe);
+    "No Obigation" typo fixed across 25 files + a source-level fix in
+    generate_content.py so reruns can't resurrect it.
+    Round 1 (cycle 20):
     hero openings on /, /quote, /aircraft and /empty-legs rewritten as
     self-contained, entity-named answers (empty-legs now opens with the
     definition); llms.txt gained a "Stable facts (citable)" section and a

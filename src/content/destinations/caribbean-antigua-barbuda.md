@@ -1,6 +1,6 @@
 ---
 title: "Antigua and Barbuda Caribbean Charter Flights - 3 Competitive Quotes"
-description: "Search Antigua & Barbuda Caribbean Charter Airlines. No Obigation Charter Quote Request From Your Departure Point"
+description: "Search Antigua & Barbuda Caribbean Charter Airlines. No obligation Charter Quote Request From Your Departure Point"
 h1: "Antigua & Barbuda Charter Flights"
 legacyUrl: "/charter_flights_antigua_barbuda_caribbean.html"
 slug: "caribbean/antigua-barbuda"

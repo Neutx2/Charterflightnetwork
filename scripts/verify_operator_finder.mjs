@@ -1,4 +1,5 @@
 import { chromium } from '/home/user/Charterflightnetwork/node_modules/playwright/index.mjs';
+const BASE = process.env.BASE ?? 'http://localhost:4321';
 const browser = await chromium.launch({ executablePath: '/opt/pw-browsers/chromium-1194/chrome-linux/chrome' });
 const results = [];
 const check = (n, ok, d = '') => { results.push(ok); console.log(`${ok ? 'PASS' : 'FAIL'}  ${n}${d ? ' — ' + d : ''}`); };
@@ -33,6 +34,22 @@ await page.screenshot({
   clip: { x: 0, y: 260, width: 1280, height: 620 },
 });
 await page.close();
+
+// deep-link path: province hubs link to /directory/?prov=...#find-an-operator
+{
+  const page = await browser.newPage();
+  await page.goto(`${BASE}/directory/?prov=British%20Columbia&type=Helicopter`, { waitUntil: 'networkidle' });
+  await page.waitForTimeout(600);
+  const c = (await page.locator('.finder-count').textContent()).trim();
+  const chipOn = await page.locator('.finder-chip[data-service="Helicopter"]').getAttribute('aria-pressed');
+  const provVal = await page.locator('.finder-prov').inputValue();
+  check(
+    'URL params pre-filter the finder (prov + type)',
+    provVal === 'British Columbia' && chipOn === 'true' && /^[1-9]\d* operators? match/.test(c),
+    c
+  );
+  await page.close();
+}
 
 // no-JS path
 const nojs = await browser.newPage({ javaScriptEnabled: false });

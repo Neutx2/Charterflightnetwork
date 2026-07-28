@@ -1,6 +1,6 @@
 ---
 title: "Dominica Caribbean Charter Flights"
-description: "Search Dominica Caribbean Charter Airlines. No Obigation Charter Quote Request From Your Departure Point"
+description: "Search Dominica Caribbean Charter Airlines. No obligation Charter Quote Request From Your Departure Point"
 h1: "Dominica Caribbean Air Charter Flights - Request A No Obligation Charter Quote For Direct Flights To Dominica Caribbean.  Wheel Plane, Float Plane and Helicopter Air Charter Services Throughout The Caribbean Islands"
 legacyUrl: "/charter_flights_dominica_caribbean.html"
 slug: "caribbean/dominica"

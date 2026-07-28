@@ -1,6 +1,6 @@
 ---
 title: "Trinidad & Tobago Charter Flights - 3 Competitive Quotes"
-description: "Search Trinidad & Tobago Caribbean Charter Airlines. No Obigation Charter Quote Request From Your Departure Point"
+description: "Search Trinidad & Tobago Caribbean Charter Airlines. No obligation Charter Quote Request From Your Departure Point"
 h1: "Trinidad & Tobago Charter Flights"
 legacyUrl: "/charter_flights_trinidad_tobago_caribbean.html"
 slug: "caribbean/trinidad-tobago"

@@ -529,7 +529,14 @@ def main():
                 continue
             cleaned.append(ln)
             prev_blankish = blankish
-        md.write_text(fm + "\n" + "\n".join(cleaned).strip() + "\n")
+        body = "\n".join(cleaned).strip()
+        # recurring legacy typos, fixed at the source so reruns can't
+        # resurrect them (they appear across dozens of migrated pages)
+        for typo, fix in (("No Obigation", "No obligation"), ("Obigation", "obligation"),
+                          ("High Performa ce", "High Performance")):
+            body = body.replace(typo, fix)
+            fm = fm.replace(typo, fix)
+        md.write_text(fm + "\n" + body + "\n")
 
     # ---- editorial overrides: curated replacements applied last
     overrides = ROOT / "crawl" / "overrides"

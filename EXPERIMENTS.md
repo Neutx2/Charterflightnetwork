@@ -12,6 +12,31 @@
 - Result (filled on read date): <win/flat/loss + numbers>
 - Decision: <keep / revert / iterate>
 
+### [2026-07-28] Cycle 21: godmode sweep — deep links, unified gate, drafts  (PR #1)
+- Hypothesis: (a) province hubs deep-linking into a pre-filtered operator
+  finder shortens the path from regional intent to operator contact;
+  (b) approval-ready drafts convert owner sign-off into same-day ships,
+  compressing the revenue-critical approval latency.
+- Change shipped: finder URL params (?q,prov,type) + #find-an-operator anchor;
+  all 15 province-hub directory links now land pre-filtered; unified
+  verification gate (npm run verify, scripts/verify_all.mjs) shared by
+  humans, the Sunday Routine and the Actions workflow; quotability round 2 on
+  /usa /bahamas /caribbean via pipeline-safe overrides; legacy typo fixed at
+  source; thin-page item closed with build evidence (all 52 verified);
+  drafts/what-does-a-charter-cost.md + drafts/how-to-choose-a-charter-operator.md
+  written, sourced, [VERIFY]-marked and linked from APPROVALS (not built,
+  not published).
+- Primary metric: directory-finder engagement from hub referrals
+  (contact_phone with source_page=/directory after arriving via ?prov= links)
+  once GA4 has traffic; approval-to-ship latency for items 22/23.
+- Guardrail metrics: npm run verify 6/6 suites (finder suite now 7 checks,
+  incl. URL-param prefiltering); /canada/manitoba Lighthouse 100/100/100
+  CLS 0; drafts confirmed absent from dist.
+- Baseline value: none (features new).
+- READ DATE: two weeks after production launch.
+- Result (filled on read date): —
+- Decision: —
+
 ### [2026-07-28] Cycle 20: AI-quotability pass, first round  (PR #1)
 - Hypothesis: If key pages open with self-contained, entity-named answers and
   llms.txt carries a stable-facts section, then AI assistants and answer

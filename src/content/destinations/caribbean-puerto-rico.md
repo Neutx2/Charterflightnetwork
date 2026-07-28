@@ -1,6 +1,6 @@
 ---
 title: "Puerto Rico Charter Flights - 3 Competitive Quotes"
-description: "Search Puerto Rico Caribbean Charter Airlines. No Obigation Charter Quote Request From Your Departure Point"
+description: "Search Puerto Rico Caribbean Charter Airlines. No obligation Charter Quote Request From Your Departure Point"
 h1: "Puerto Rico Charter Flights"
 legacyUrl: "/charter_flights_puerto_rico_caribbean.html"
 slug: "caribbean/puerto-rico"

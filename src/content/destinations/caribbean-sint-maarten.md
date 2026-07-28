@@ -1,6 +1,6 @@
 ---
 title: "Sint Maarten Caribbean Charter Flights"
-description: "Search Sint Maarten Caribbean Charter Airlines. No Obigation Charter Quote Request From Your Departure Point"
+description: "Search Sint Maarten Caribbean Charter Airlines. No obligation Charter Quote Request From Your Departure Point"
 h1: "Sint Maarten Caribbean Air Charter Flights - Request A No Obligation Charter Quote For Direct Flights To Sint Maarten Caribbean.  Wheel Plane, Float Plane and Helicopter Air Charter Services Throughout The Caribbean Islands"
 legacyUrl: "/charter_flights_sint_maarten_caribbean.html"
 slug: "caribbean/sint-maarten"

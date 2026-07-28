@@ -1,6 +1,6 @@
 ---
 title: "St Lucia Caribbean Charter Flights - 3 Competitive Quotes"
-description: "Search St Lucia Caribbean Charter Airlines. No Obigation Charter Quote Request From Your Departure Point"
+description: "Search St Lucia Caribbean Charter Airlines. No obligation Charter Quote Request From Your Departure Point"
 h1: "St Lucia Charter Flights"
 legacyUrl: "/charter_flights_st_lucia_caribbean.html"
 slug: "caribbean/st-lucia"

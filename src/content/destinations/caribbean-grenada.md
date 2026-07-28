@@ -1,6 +1,6 @@
 ---
 title: "Grenada Caribbean Charter Flights"
-description: "Search Grenada Caribbean Charter Airlines. No Obigation Charter Quote Request From Your Departure Point"
+description: "Search Grenada Caribbean Charter Airlines. No obligation Charter Quote Request From Your Departure Point"
 h1: "Grenada Caribbean Air Charter Flights - Request A No Obligation Charter Quote For Direct Flights To Grenada Caribbean.  Wheel Plane, Float Plane and Helicopter Air Charter Services Throughout The Caribbean Islands"
 legacyUrl: "/charter_flights_grenada_caribbean.html"
 slug: "caribbean/grenada"

@@ -1,6 +1,6 @@
 ---
 title: "Turks & Caicos Caribbean Charter Flights"
-description: "Search Turks & Caicos Caribbean Charter Airlines. No Obigation Charter Quote Request From Your Departure Point"
+description: "Search Turks & Caicos Caribbean Charter Airlines. No obligation Charter Quote Request From Your Departure Point"
 h1: "Turks & Caicos Caribbean Air Charter Flights - Request A No Obligation Charter Quote For Direct Flights To Turks & Caicos Caribbean.  Wheel Plane, Float Plane and Helicopter Air Charter Services Throughout The Caribbean Islands"
 legacyUrl: "/charter_flights_turks_caicos_caribbean.html"
 slug: "caribbean/turks-caicos"

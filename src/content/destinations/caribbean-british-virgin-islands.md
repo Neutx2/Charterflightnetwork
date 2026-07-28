@@ -1,6 +1,6 @@
 ---
 title: "British Virgin Islands Caribbean Charter Flights"
-description: "Search British Virgin Islands Caribbean Charter Airlines. No Obigation Charter Quote Request From Your Departure Point"
+description: "Search British Virgin Islands Caribbean Charter Airlines. No obligation Charter Quote Request From Your Departure Point"
 h1: "British Virgin Islands Caribbean Air Charter Flights - Request A No Obligation Charter Quote For Direct Flights To British Virgin Islands Caribbean.  Wheel Plane, Float Plane and Helicopter Air Charter Services Throughout The Caribbean Islands"
 legacyUrl: "/charter_flights_british_virgin_islands_caribbean.html"
 slug: "caribbean/british-virgin-islands"

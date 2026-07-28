@@ -1,6 +1,6 @@
 ---
 title: "US Virgin Islands  Caribbean Charter Flights"
-description: "Search US Virgin Islands  Caribbean Charter Airlines. No Obigation Charter Quote Request From Your Departure Point"
+description: "Search US Virgin Islands  Caribbean Charter Airlines. No obligation Charter Quote Request From Your Departure Point"
 h1: "US Virgin Islands  Caribbean Air Charter Flights - Request A No Obligation Charter Quote For Direct Flights To US Virgin Islands  Caribbean.  Wheel Plane, Float Plane and Helicopter Air Charter Services Throughout The Caribbean Islands"
 legacyUrl: "/charter_flights_us_virgin_islands_caribbean.html"
 slug: "caribbean/us-virgin-islands"

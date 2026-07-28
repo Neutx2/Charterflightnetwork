@@ -1,6 +1,6 @@
 ---
 title: "Cayman Islands Charter Flights - 3 Competitive Quotes"
-description: "Search Cayman Islands Caribbean Charter Airlines. No Obigation Charter Quote Request From Your Departure Point"
+description: "Search Cayman Islands Caribbean Charter Airlines. No obligation Charter Quote Request From Your Departure Point"
 h1: "Cayman Islands Charter Flights"
 legacyUrl: "/charter_flights_cayman_islands_caribbean.html"
 slug: "caribbean/cayman-islands"

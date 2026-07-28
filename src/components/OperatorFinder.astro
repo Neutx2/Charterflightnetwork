@@ -20,7 +20,7 @@ const provinces = DIRECTORY_GROUPS.map(([label]) => label);
 const services = ['Floats', 'Wheels', 'Helicopter', 'Skis'];
 ---
 
-<section class="operator-finder hidden mb-12 rounded-2xl bg-white p-5 sm:p-7 ring-1 ring-birch-200 shadow-sm" aria-label="Operator finder">
+<section id="find-an-operator" class="operator-finder hidden mb-12 rounded-2xl bg-white p-5 sm:p-7 ring-1 ring-birch-200 shadow-sm" aria-label="Operator finder">
   <h2 class="font-display text-xl font-bold text-lake-900">Find an operator</h2>
   <p class="mt-1 text-sm text-slate-600">
     Search every listed operator by name or base, or filter by province and aircraft type.
@@ -165,7 +165,23 @@ const services = ['Floats', 'Wheels', 'Helicopter', 'Skis'];
       }
     }).observe(root);
 
+    // Deep links: /directory/?prov=Ontario&type=Floats&q=kenora#find-an-operator
+    // lets province hubs (and anyone else) link straight into a filtered view.
+    const params = new URLSearchParams(location.search);
+    const q0 = params.get('q');
+    const prov0 = params.get('prov');
+    const types0 = (params.get('type') ?? '').split(',').filter(Boolean);
+    if (q0) q.value = q0;
+    if (prov0 && [...prov.options].some((o) => o.value === prov0)) prov.value = prov0;
+    for (const t of types0) {
+      const chip = chips.find((c) => c.dataset.service === t);
+      if (chip && chip.getAttribute('aria-pressed') !== 'true') {
+        chip.setAttribute('aria-pressed', 'true');
+        chip.classList.add('bg-lake-700', 'text-white', 'border-lake-700');
+      }
+    }
     count.textContent = 'Start typing, or pick a province.';
     root.classList.remove('hidden');
+    if (q0 || prov0 || types0.length) load();
   }
 </script>
