@@ -90,22 +90,4 @@ Links To Bahamas Air Charter Destinations
 
 You Can Request Competitive Charter Quotes For Any Departure Point or Destination In North America / Bahamas & Caribbean. Start Your Search By Clicking Any Of The Following Links
 
-Search More North American Air Charter Destinations
-
-## Advertise - 1
-
-**How To List Your Air Charter Service On This Site:**
-
-## [Air Charter Services](/operators/update-your-listing)
-
-We offer a very unique and specialized marketing program that impacts your target market not only throughout your Province or Territory but right across North America - While at the same time generating High Quality Charter Leads.
-
-We are currently offering a very attractive 6 month introductory opportunity that will allow you to fully evaluate our program with very little investment.
-
-## Advertise - 2
-
-**How To List Your Hotel / Resort / Car Rental / FBO / Golf Course / Outdoor Adventure On This Site:**
-
-## Hotels / Resorts / Car Rentals / FBO / Golf Courses / Outdoor Adventures
-
-Our audience is made up of individuals and companies searching for Air Charter Services. When they reach their destination they need Accommodations / Car Rentals / FBO Services / Golf Courses / Resorts and a Selection of Outdoor Adventures. Lets make sure they have access to your services at the exact time they are making their travel decisions.
+*Operate a charter service, resort or destination business? [List your service on Charter Flight Network](/operators).*

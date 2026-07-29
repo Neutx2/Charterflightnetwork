@@ -1,5 +1,16 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 60 (2026-07-29 — about/contact/quote coherence review: contact
+Cycle #: 63 (2026-07-29 — Bahamas/Caribbean subpage spot-check found the
+  legacy 'Advertise - 1 / Advertise - 2' solicitation blocks (list your
+  charter service / hotel / golf course) still shipping on 20 pages,
+  wedged between the island content and the quote form. Stripped from
+  all 20 content files (plus each file's orphan 'Search More…' line),
+  replaced with one compact italic operator pointer to /operators.
+  Cycles 61-62: honest no-op + verification — hero art evaluated and
+  skipped (would clutter), keyboard focus rings confirmed visible,
+  Lighthouse floors re-measured on home/city/quote: all 100/100/100 CLS
+  0 after the full graphics push (first run's 99/96/0.049 was a stale
+  server race, disproven on clean re-run). Prior — cycle 60:
+  about/contact/quote coherence review: contact
   and quote pages read clean; the about page opened by repeating its
   hero strapline verbatim as a bold first paragraph — duplicate removed
   from content + crawl/overrides so the article now opens at 'Our
