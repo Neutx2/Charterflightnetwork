@@ -75,6 +75,31 @@ run('gated drafts stay out of the build', () => {
   return 'no draft URLs in dist';
 });
 
+run('no glued link text (whitespace-collapse regression)', () => {
+  // Astro drops the line-break space between a text node and an anchor when
+  // the tag starts its own line ("theCanadian Air Charter Directory"). Ten
+  // instances shipped across ~106 pages before cycle 52 swept them; this
+  // keeps the pattern from ever coming back. A letter directly against <a …>
+  // or </a> is never intentional in this codebase.
+  const glued = [];
+  const before = /[A-Za-z][a-z]+<a [^>]*>[A-Za-z]/;
+  const after = /<\/a>[a-z]{2,}/;
+  const walk = (dir) => {
+    for (const f of readdirSync(dir)) {
+      const p = join(dir, f);
+      if (statSync(p).isDirectory()) walk(p);
+      else if (f.endsWith('.html')) {
+        const html = readFileSync(p, 'utf8');
+        const m = html.match(before) ?? html.match(after);
+        if (m) glued.push(`${p}: …${m[0]}…`);
+      }
+    }
+  };
+  walk(join(ROOT, 'dist'));
+  if (glued.length) throw new Error(`${glued.length} pages, e.g. ${glued[0]}`);
+  return 'dist scans clean';
+});
+
 // ---- server-dependent suites -----------------------------------------------
 const alive = await fetch('http://localhost:4321/', { signal: AbortSignal.timeout(1500) })
   .then((r) => r.ok)

@@ -1,5 +1,10 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 52 (2026-07-29 — site-wide glued-text sweep: scanned every built
+Cycle #: 53 (2026-07-29 — the glued-text scan is now a permanent gate
+  check: verify_all gains a 10th item scanning every dist page for a
+  letter glued to <a …> or </a> (the Astro whitespace-collapse pattern);
+  negative-tested with a planted regression (correctly FAILs) and the
+  real dist scans clean. Gate is 10 checks/suites. Prior — cycle 52:
+  site-wide glued-text sweep: scanned every built
   page for the Astro whitespace-collapse bug cycle 51 exposed (word glued
   to a link, e.g. 'theCanadian') — found and fixed 10 instances across 8
   source files affecting ~106 pages: quote ('…-1955and we'll'), all 99
