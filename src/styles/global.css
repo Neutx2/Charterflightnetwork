@@ -111,6 +111,30 @@ body {
 .copy ul:not(.list-none) {
   @apply list-disc pl-6 mb-4 space-y-1;
 }
+/* Legacy directory-style lists — 8+ items that are each a lone link — read
+   as page-tall single columns on destination pages. Flow them into columns
+   instead; browsers without :has() keep the single column. */
+.copy ul:not(.list-none) > li {
+  break-inside: avoid;
+}
+/* loose markdown lists wrap each item in <p>; the prose paragraph margin
+   would double every gap inside a list */
+.copy li > p {
+  @apply mb-0;
+}
+@media (min-width: 640px) {
+  .copy ul:not(.list-none):has(> li:nth-child(8)):has(> li > a:only-child),
+  .copy ul:not(.list-none):has(> li:nth-child(8)):has(> li > p:only-child > a:only-child) {
+    columns: 2;
+    column-gap: 2.5rem;
+  }
+}
+@media (min-width: 1024px) {
+  .copy ul:not(.list-none):has(> li:nth-child(8)):has(> li > a:only-child),
+  .copy ul:not(.list-none):has(> li:nth-child(8)):has(> li > p:only-child > a:only-child) {
+    columns: 3;
+  }
+}
 .copy a {
   @apply text-lake-600 underline underline-offset-2 hover:text-lake-800;
   /* comfortable tap targets for the dense legacy directory link lists */

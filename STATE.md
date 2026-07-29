@@ -1,5 +1,15 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 48 (2026-07-29 — graphics/UI: finder result cards get the same
+Cycle #: 49 (2026-07-29 — NEW OWNER DIRECTIVE folded into the loop: 'clean
+  up and make all the pages as coherent and organised as possible …
+  intuitive and easy to read … easy funnel to convert clicks into
+  revenue.' First coherence fix, found by full-page audit: destination
+  pages carried page-tall single-column lists of bare links (35+ items on
+  Thunder Bay). Long lone-link lists (8+ items, incl. loose-markdown
+  <li><p><a> shape) now flow into 2/3 responsive columns via :has() — no
+  markup changes, prose bullets unaffected, single column kept on old
+  browsers; loose-list <p> margin zeroed so list gaps stop doubling.
+  Applies across hundreds of destination/hub pages. Prior — cycle 48:
+  graphics/UI: finder result cards get the same
   aircraft silhouettes as the server-rendered operator cards — AircraftIcon
   instances server-rendered into a <template> and cloned by the client
   script (no duplicated path data), wheels/skis share the fixed-wing
