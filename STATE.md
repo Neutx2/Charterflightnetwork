@@ -1,5 +1,10 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 46 (2026-07-28 — graphics/UI: aircraft silhouettes on all
+Cycle #: 47 (2026-07-29 — graphics/UI: the brand aircraft now rides the
+  quote-form progress bar — orange glyph pinned to the bar tip, left
+  position synced to the same step percentage as the fill, smooth
+  transition between steps; verified at steps 1 and 2 by screenshot and
+  computed style (66.6667% both). Prior — cycle 46: graphics/UI:
+  aircraft silhouettes on all
   operator cards (LocalOperators on 689 destination pages +
   FacetOperators on travel/aircraft pages) via new facetIconTypes()
   helper — wheels/skis share the fixed-wing profile so no duplicate
