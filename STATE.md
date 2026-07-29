@@ -1,5 +1,13 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 53 (2026-07-29 — the glued-text scan is now a permanent gate
+Cycle #: 54 (2026-07-29 — travel/route coherence: all 20+ travel and
+  route heroes gain the Get Free Quotes + tap-to-call CTA row that city
+  and hub heroes carry (routes anchor to the on-page form, travel pages
+  to /quote; operator-facing subpages correctly excluded); fixed
+  'yourself?Search Ontario operators' glue on all 12 route pages (and a
+  'SearchOntario' variant Astro introduced when text precedes an
+  {expression} on a new line — single template literal now); gate's
+  glued-text regex extended to catch punctuation glued to anchors.
+  Prior — cycle 53: the glued-text scan is now a permanent gate
   check: verify_all gains a 10th item scanning every dist page for a
   letter glued to <a …> or </a> (the Astro whitespace-collapse pattern);
   negative-tested with a planted regression (correctly FAILs) and the
