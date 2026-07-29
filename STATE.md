@@ -1,5 +1,12 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 57 (2026-07-29 — 390px mobile audit of six top templates (home,
+Cycle #: 58 (2026-07-29 — audit of less-covered templates found two
+  fixes: quote-confirmation read 'Call(807) 472-1955' (glue the gate
+  missed because the link text starts with '('; regex now also matches
+  digit/paren after the tag, with ';' excluded so &nbsp; entities don't
+  false-positive) and aircraft subpage heroes lacked the tap-to-call
+  button — added, completing the CTA row on every customer-facing hero.
+  PR #1 deploy check confirmed green on latest push. Prior — cycle 57:
+  390px mobile audit of six top templates (home,
   city, hub, directory, quote, travel): zero horizontal overflow
   anywhere, section order holds up; one finding fixed — the long
   link-lists were still single-column on phones (the column rule started

@@ -82,7 +82,8 @@ run('no glued link text (whitespace-collapse regression)', () => {
   // keeps the pattern from ever coming back. A letter directly against <a …>
   // or </a> is never intentional in this codebase.
   const glued = [];
-  const before = /[A-Za-z][a-z?!,;]<a [^>]*>[A-Za-z]/;
+  // second char excludes ';' so HTML entities like &nbsp; don't false-positive
+  const before = /[A-Za-z][a-z?!,]<a [^>]*>[A-Za-z0-9(]/;
   const after = /<\/a>[a-z]{2,}/;
   const walk = (dir) => {
     for (const f of readdirSync(dir)) {
