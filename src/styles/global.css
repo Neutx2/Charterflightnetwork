@@ -122,12 +122,10 @@ body {
 .copy li > p {
   @apply mb-0;
 }
-@media (min-width: 640px) {
-  .copy ul:not(.list-none):has(> li:nth-child(8)):has(> li > a:only-child),
-  .copy ul:not(.list-none):has(> li:nth-child(8)):has(> li > p:only-child > a:only-child) {
-    columns: 2;
-    column-gap: 2.5rem;
-  }
+.copy ul:not(.list-none):has(> li:nth-child(8)):has(> li > a:only-child),
+.copy ul:not(.list-none):has(> li:nth-child(8)):has(> li > p:only-child > a:only-child) {
+  columns: 2;
+  column-gap: 2.5rem;
 }
 @media (min-width: 1024px) {
   .copy ul:not(.list-none):has(> li:nth-child(8)):has(> li > a:only-child),

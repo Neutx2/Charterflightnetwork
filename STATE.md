@@ -1,5 +1,11 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 56 (2026-07-29 — graphics: 404 page gets brand scene art — the
+Cycle #: 57 (2026-07-29 — 390px mobile audit of six top templates (home,
+  city, hub, directory, quote, travel): zero horizontal overflow
+  anywhere, section order holds up; one finding fixed — the long
+  link-lists were still single-column on phones (the column rule started
+  at 640px), now 2 columns at every width (3 at lg), halving the mobile
+  scroll on hundreds of destination pages. Prior — cycle 56: graphics:
+  404 page gets brand scene art — the
   numerals sit behind the logotype's teal horizon while the orange
   aircraft climbs away on a dotted trail, making the 'That page has
   flown on' headline visual; decorative-only (aria-hidden), pure inline
