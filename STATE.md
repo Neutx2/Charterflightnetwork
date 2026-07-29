@@ -1,5 +1,12 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 63 (2026-07-29 — Bahamas/Caribbean subpage spot-check found the
+Cycle #: 64 (2026-07-29 — full content-tree sweep for remaining
+  solicitation copy: Yukon hub still carried an '## Advertise' variant
+  ('less than 0.65 cents a day') — stripped, same compact /operators
+  pointer as cycle 63; contact.md content cleaned too (defensive — the
+  hand-built contact page shadows it). The directory/* marketing pages
+  keep their content deliberately: they ARE the B2B pages, now behind
+  the directory accordion. Prior — cycle 63: Bahamas/Caribbean subpage
+  spot-check found the
   legacy 'Advertise - 1 / Advertise - 2' solicitation blocks (list your
   charter service / hotel / golf course) still shipping on 20 pages,
   wedged between the island content and the quote form. Stripped from
