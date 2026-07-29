@@ -1,5 +1,9 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 59 (2026-07-29 — directory decluttered: the 64 legacy
+Cycle #: 60 (2026-07-29 — about/contact/quote coherence review: contact
+  and quote pages read clean; the about page opened by repeating its
+  hero strapline verbatim as a bold first paragraph — duplicate removed
+  from content + crawl/overrides so the article now opens at 'Our
+  Mission'. Prior — cycle 59: directory decluttered: the 64 legacy
   marketing/route pages ('Other listings') no longer sprawl below the
   province groups as a wall of long titles — they collapse into one
   <details> accordion ('More charter pages — routes & regional listings

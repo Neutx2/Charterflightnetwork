@@ -12,8 +12,6 @@ region: "global"
      title tag is preserved for ranking continuity.
      TODO(owner): confirm "since 2008", "50 years", and the network-size figure. -->
 
-**Charter Flight Network — 100% Canadian owned & operated. Finding clients the most cost efficient air charter options since 2008.**
-
 ## Our Mission
 
 At Charter Flight Network, our mission is simple yet powerful: to connect clients with the most cost-efficient and reliable air charter solutions across Canada and beyond. We achieve this by streamlining the process of obtaining quotes from multiple professional charter airlines, allowing clients to quickly compare options and book with confidence. Our focus is on saving time, reducing costs, and ensuring every traveler finds the charter service that perfectly matches their needs.
