@@ -70,7 +70,7 @@ Request a charter quote to Tofino from any of these British Columbia communities
 * [Victoria](/canada/british-columbia/victoria)
 * [Whistler](/canada/british-columbia/whistler)
 
-## Option #2 — Receive Competitive Quotes From All Helicopter Operators Listed On This Page
+## Receive competitive quotes from the helicopter operators listed on this page
 
 Charter Flight Network specializes in finding the most cost-efficient helicopter charter options that match your schedule and destination. When you submit the form below, your request is forwarded to multiple helicopter operators best positioned to provide the service you require. Each operator prepares a competitive quote.
 

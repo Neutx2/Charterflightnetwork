@@ -114,7 +114,7 @@ Request A Charter Quote To Any Of The Following
 * [Tanquary Fiord](/canada/nunavut/tanquary-fiord)
 * [Whale Cove](/canada/nunavut/whale-cove)
 
-## Option #2. With Just One Click, Receive Competitive Quotes From All The Charter Airlines Listed On This Page.
+## Receive competitive quotes with one request
 
 **\*Privacy:** we don't share your name or contact info with airlines. Your request is assigned a unique ID; airlines submit quotes for that ID and we forward them to you.
 

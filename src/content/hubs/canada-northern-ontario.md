@@ -50,15 +50,6 @@ Northern Ontario's landscape of lakes and rivers makes float planes an essential
 
 Helicopters are widely used for resource exploration, hydro line patrols, environmental monitoring and access to sites with no landing strip or water body. They can operate from small clearings, gravel bars and temporary pads, providing the shortest possible travel time between staging areas and work sites. Charter Flight Network can connect you with operators that have the aircraft types and equipment required for your project.
 
-## Northern Ontario Charter Flight Destinations
-
-The following Northern Ontario destinations have dedicated Charter Flight Network pages with more detailed information on local airports and charter operators serving each community:
-
-## Option #2. With Just One Click, Receive Competitive Quotes From All The Charter Airlines Listed On This Page.
-
-**\*Privacy:** we don't share your name or contact info with airlines. Your request is assigned a unique ID;
-airlines submit quotes for that ID and we forward them to you.
-
 ## Charter Flights to Neighbouring Regions
 
 Many travellers combine Northern Ontario destinations with trips to Manitoba, Southern Ontario and Nunavut. Continue planning your travel with these regional pages:

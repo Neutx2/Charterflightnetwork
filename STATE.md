@@ -1,5 +1,14 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 64 (2026-07-29 — full content-tree sweep for remaining
+Cycle #: 65 (2026-07-29 — legacy 'Option #2' artifacts and broken
+  promises cleaned across 15 pages: headings numbered 'Option #2' with
+  no Option #1 on the page (the legacy per-operator form list that no
+  longer exists) renamed to plain 'Receive competitive quotes with one
+  request'; 4 hubs promised 'the following destinations have dedicated
+  pages:' and 'these regional pages:' with no list following (the
+  template's destination grid already covers it) — sections removed,
+  along with the empty headings the removal exposed. Built HTML
+  re-scanned: no heading is now immediately followed by another. PR #1
+  deploy green. Prior — cycle 64: full content-tree sweep for remaining
   solicitation copy: Yukon hub still carried an '## Advertise' variant
   ('less than 0.65 cents a day') — stripped, same compact /operators
   pointer as cycle 63; contact.md content cleaned too (defensive — the

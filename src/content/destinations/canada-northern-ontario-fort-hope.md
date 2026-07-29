@@ -130,7 +130,7 @@ Winnipeg is 425 air miles south west of Fort Hope and stands as Manitoba's aviat
 
 Get up to 3 competitive quotes for your Fort Hope charter
 
-## Option #2. Receive Up To 3 Competitive Quotes With Just One Click
+## Receive Up To 3 Competitive Quotes With Just One Click
 
 **\*Privacy:** we don't share your name or contact info with airlines. Your request is assigned a unique ID; airlines submit quotes for that ID and we forward them to you.
 

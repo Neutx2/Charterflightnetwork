@@ -50,19 +50,6 @@ Manitoba is famous for its fly-in fishing lodges, wilderness camps and remote ca
 
 Helicopter charters in Manitoba provide access to survey lines, hydro corridors, remote work sites and scientific study areas. Helicopters can operate from clearings, pads and river bars, making them ideal for projects where ground access is limited. They are also used for aerial photography, wildlife studies and access to backcountry recreation areas.
 
-## Manitoba Charter Flight Destinations
-
-The following Manitoba destinations have dedicated Charter Flight Network pages with more detailed information on local airports and charter operators serving each community:
-
-## Option #2. With Just One Click, Receive Competitive Quotes From All The Charter Airlines Listed On This Page.
-
-**\*Privacy:** we don't share your name or contact info with airlines. Your request is assigned a unique ID;
-airlines submit quotes for that ID and we forward them to you.
-
-## Charter Flights to Neighbouring Regions
-
-Many travellers combine Manitoba destinations with travel to neighbouring provinces and territories. Continue planning your trip with these regional pages:
-
 ## How far in advance should I book a charter flight in Manitoba?
 
 For routine business or personal travel, booking one to two weeks in advance usually provides good availability and pricing. During busy seasons for fly-in fishing, hunting or major projects, it is wise to contact Charter Flight Network as early as possible so operators can reserve aircraft and crews for your preferred dates.

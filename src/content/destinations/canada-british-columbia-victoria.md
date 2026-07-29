@@ -71,7 +71,7 @@ Receive multiple competitive quotes for jets, turboprops, and floatplanes throug
 
 **Wheel Plane Charters:** Efficient same-day travel from Kamloops to Vancouver, Calgary, Kelowna, and northern BC.
 
-## Option #2. One Request — Receive Up to 3 Competitive Quotes
+## One request — receive up to 3 competitive quotes
 
 Your request is sent to multiple charter airlines best equipped to provide service. Each prepares a competitive quote, and you deal directly with the carrier you choose.
 

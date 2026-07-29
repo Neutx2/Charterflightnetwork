@@ -63,7 +63,7 @@ Discover the convenience of private air travel with Charter Flight Network — o
 
 **Wheel Plane Charters:** The Cheyenne XL offers generous payload and range for corporate teams requiring multi-stop travel.
 
-## Option #2. One Request — Receive Up to 3 Competitive Quotes
+## One request — receive up to 3 competitive quotes
 
 Charter Flight Network specializes in finding the most cost-efficient air charter options that match your needs. Your inquiry is sent to multiple charter airlines best equipped to provide the service you require. Each airline prepares a competitive quote, and you deal directly with your chosen carrier.
 

@@ -45,7 +45,7 @@ The flexibility and convenience of private charter flights, allows clients to ch
 * **Chicago Rockford International Airport (KRFD, Rockford, IL)** / 85 miles northwest of downtown
 * **Gary/Chicago International Airport (KGYY/GYY, Gary, IN)** / 30 - 35 miles southeast of downtown Chicago
 
-## Option #2. With Just One Click, Receive Competitive Quotes From All The Charter Airlines Listed On This Page.
+## Receive competitive quotes with one request
 
 **\*Privacy:** we don't share your name or contact info with airlines. Your request is assigned a unique ID; airlines submit quotes for that ID and we forward them to you.
 

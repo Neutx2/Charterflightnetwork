@@ -84,7 +84,7 @@ Request a charter quote to Tofino from any of the following British Columbia com
 * [Victoria](/canada/british-columbia/victoria)
 * [Whistler](/canada/british-columbia/whistler)
 
-## Option #2. With Just One Click, Receive Competitive Quotes From All The Charter Airlines Listed On This Page
+## With Just One Click, Receive Competitive Quotes From All The Charter Airlines Listed On This Page
 
 **\*Privacy:** we don't share your name or contact info with airlines. Your request is assigned a unique ID; airlines submit quotes for that ID and we forward them to you.
 

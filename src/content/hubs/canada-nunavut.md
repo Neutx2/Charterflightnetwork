@@ -57,17 +57,6 @@ Nunavut is a focus for Arctic research, wildlife studies and specialized tourism
 
 Visitors seeking northern lights viewing, polar bear and whale watching, Arctic photography or cultural tours can use charter flights to reach communities and outfitters that are not served every day by scheduled airlines. Charter aviation allows itineraries to be built around specific locations and experiences instead of fitting plans into limited airline timetables.
 
-## Nunavut Charter Flight Destinations
-
-The following Nunavut destinations have dedicated Charter Flight Network pages with more detailed information on local airports and charter operators serving each community:
-
-As additional Nunavut community pages are created, they can be added to this list so that this hub becomes a complete index of destinations across the territory.
-
-## Option #2. With Just One Click, Receive Competitive Quotes From All The Charter Airlines Listed On This Page.
-
-**\*Privacy:** we don't share your name or contact info with airlines. Your request is assigned a unique ID;
-airlines submit quotes for that ID and we forward them to you.
-
 ## Charter Flights to Neighbouring Regions
 
 Many itineraries combine Nunavut travel with staging points in Manitoba, Northwest Territories and Northern Ontario. Continue planning your journey with these regional pages:

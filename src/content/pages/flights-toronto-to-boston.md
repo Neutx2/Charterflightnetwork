@@ -63,7 +63,7 @@ Request a charter quote to any of the following destinations:
 * [Sault Ste Marie](/flights/toronto-to-sault-ste-marie)
 * [Sudbury](/flights/toronto-to-sudbury)
 
-## Option #2. With Just One Click, Receive Competitive Quotes From All The Charter Airlines Listed On This Page.
+## Receive competitive quotes with one request
 
 **\*Privacy:** we don't share your name or contact info with airlines. Your request is assigned a unique ID; airlines submit quotes for that ID and we forward them to you.
 

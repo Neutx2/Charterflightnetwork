@@ -98,10 +98,7 @@ Request A Charter Quote To Any Of The Following
 * [Charter Flights to Red Lake](/canada/northern-ontario/red-lake)
 * [Flights To Baffin Island](/canada/nunavut/baffin-island)
 
-## Option #2. With Just One Click, Receive Competitive Quotes From All The Charter Airlines Listed On This Page.
-
-**\*Privacy:** we don't share your name or contact info with airlines. Your request is assigned a unique ID;
-airlines submit quotes for that ID and we forward them to you.
+## Receive competitive quotes with one request
 
 Every quote request generated forwards to the charter airlines best positioned and equipped to provide the service.
 Each company prepares a competitive quote and sends it directly to your email.

@@ -72,7 +72,7 @@ Business Jet charters across Canada start from Toronto's Pearson International A
 * [Tobermory](/canada/southern-ontario/tobermory)
 * [Windsor](/canada/southern-ontario/windsor)
 
-## Option #2. With Just One Click, Receive Competitive Quotes From All The Charter Airlines Listed On This Page.
+## Receive competitive quotes with one request
 
 **\*Privacy:** we don't share your name or contact info with airlines. Your request is assigned a unique ID; airlines submit quotes for that ID and we forward them to you.
 

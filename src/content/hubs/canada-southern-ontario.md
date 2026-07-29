@@ -43,10 +43,6 @@ In addition to the major hubs, Southern Ontario has many regional airports and a
 
 When needed, charter flights can be coordinated to connect Southern Ontario hubs with Northern Ontario communities, remote resource areas and cottage country destinations that do not have direct scheduled airline service. This flexibility allows businesses and families to plan complex itineraries with minimal ground travel and efficient flight times.
 
-## Southern Ontario Charter Flight Destinations
-
-The following Southern Ontario destinations have dedicated Charter Flight Network pages with more detailed information on local airports and charter operators serving each community:
-
 * [Toronto Charter Flights to Montreal](/flights/toronto-to-montreal)
 * [Toronto Charter Flights to Chicago](/flights/toronto-to-chicago)
 * [Toronto Charter Flights to Boston](/flights/toronto-to-boston)
