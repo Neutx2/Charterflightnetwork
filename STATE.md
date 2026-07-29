@@ -1,5 +1,11 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 49 (2026-07-29 — NEW OWNER DIRECTIVE folded into the loop: 'clean
+Cycle #: 50 (2026-07-29 — coherence: city pages now lead with the
+  actionable operator cards (phones, featured badges, silhouettes, the
+  'search all / get 3 quotes' line) directly under the hero beside the
+  quote-CTA sidebar; the legacy prose, FAQ and link lists follow as
+  supporting detail. Cards previously sat at the very bottom after all
+  prose. Fallback cities (no local operators) verified fine. Prior —
+  cycle 49: NEW OWNER DIRECTIVE folded into the loop: 'clean
   up and make all the pages as coherent and organised as possible …
   intuitive and easy to read … easy funnel to convert clicks into
   revenue.' First coherence fix, found by full-page audit: destination
