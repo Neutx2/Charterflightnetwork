@@ -25,7 +25,7 @@ Use our Charter Quote Request Service for pricing and availability
 
 ### Sept Iles Fly-In Fishing Adventures
 
-In 2023 we will be promoting several Quebec Fly-In Fishing adventures that are available out of Sept Iles as well as[Havre-Saint-Pierre](/canada/quebec/havre-saint-pierre) as well as [Natashquan](/canada/quebec/natashquan). If you are looking for a trip that produces trophy size Brook Trout, you may be interested in learning more about Mabec offering 3 - 7 day fly-in fishing packages for trophy Brook Trout which includes round trip helicopter flights from Sept Iles to Camp Manitou.
+In 2023 we will be promoting several Quebec Fly-In Fishing adventures that are available out of Sept Iles as well as [Havre-Saint-Pierre](/canada/quebec/havre-saint-pierre) as well as [Natashquan](/canada/quebec/natashquan). If you are looking for a trip that produces trophy size Brook Trout, you may be interested in learning more about Mabec offering 3 - 7 day fly-in fishing packages for trophy Brook Trout which includes round trip helicopter flights from Sept Iles to Camp Manitou.
 
 Contact us for flight information detailing how you can depart the USA in the morning and arrive at this exciting fishing adventure destination that same afternoon.
 

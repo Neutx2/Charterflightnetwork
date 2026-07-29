@@ -1,5 +1,13 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 51 (2026-07-29 — coherence on province hubs: tap-to-call button
+Cycle #: 52 (2026-07-29 — site-wide glued-text sweep: scanned every built
+  page for the Astro whitespace-collapse bug cycle 51 exposed (word glued
+  to a link, e.g. 'theCanadian') — found and fixed 10 instances across 8
+  source files affecting ~106 pages: quote ('…-1955and we'll'), all 99
+  operator quote pages ('…request</a>reaches'), privacy ('orphil@…',
+  '…comwith any questions'), contact, operators, empty-legs, directory
+  (2), and a sept-iles markdown typo ('as[Havre-Saint-Pierre]'). Dist
+  re-scan now finds zero glued anchors. Prior — cycle 51: coherence on
+  province hubs: tap-to-call button
   added to hub heroes (city pages had it, hubs didn't — phone taps are an
   instrumented revenue path); the operator trust band ('N charter
   operators … get up to 3 competitive quotes') moved above the 50+ item
