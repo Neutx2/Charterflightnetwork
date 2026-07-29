@@ -1,5 +1,11 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 58 (2026-07-29 — audit of less-covered templates found two
+Cycle #: 59 (2026-07-29 — directory decluttered: the 64 legacy
+  marketing/route pages ('Other listings') no longer sprawl below the
+  province groups as a wall of long titles — they collapse into one
+  <details> accordion ('More charter pages — routes & regional listings
+  (64)'); links stay in the DOM so crawl checks and search engines see
+  them unchanged. The directory now reads as finder + provinces. Prior —
+  cycle 58: audit of less-covered templates found two
   fixes: quote-confirmation read 'Call(807) 472-1955' (glue the gate
   missed because the link text starts with '('; regex now also matches
   digit/paren after the tag, with ';' excluded so &nbsp; entities don't
