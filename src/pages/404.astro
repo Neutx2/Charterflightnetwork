@@ -9,7 +9,21 @@ const description =
 
 <BaseLayout title={title} description={description} canonicalPath="/404">
   <div class="mx-auto max-w-2xl px-4 sm:px-6 py-20 text-center">
-    <p class="font-display text-7xl font-bold text-lake-200" aria-hidden="true">404</p>
+    <!-- the headline made visual: 404 sits on the brand horizon while the
+         aircraft flies on past it -->
+    <div class="mx-auto max-w-sm" aria-hidden="true">
+      <svg viewBox="0 -34 460 176" class="w-full" fill="none">
+        <text
+          x="215" y="92" text-anchor="middle"
+          class="font-display" font-size="112" font-weight="700" fill="currentColor" style="color: var(--color-lake-200, #c9dde6)"
+        >404</text>
+        <path d="M-16 122C90 58 370 58 476 122C370 70 90 70 -16 122Z" fill="#2d7b8c" />
+        <path d="M296 84C324 62 344 34 360 8" stroke="#ff7d02" stroke-width="3" stroke-dasharray="1 11" stroke-linecap="round" />
+        <g transform="translate(374 -2) rotate(38) scale(1.25) translate(-32 -32)" fill="#ff7d02">
+          <path d="M32 8c2.6 0 4.2 2.9 4.2 7.4v9.1l16.3 9.6c.9.5 1.5 1.5 1.5 2.6v4.1c0 .9-.9 1.6-1.8 1.3l-16-5.2v9.4l4.6 3.7c.5.4.8 1 .8 1.6v2.2c0 .8-.7 1.3-1.4 1.1L32 52.8l-8.2 1.1c-.7.2-1.4-.3-1.4-1.1v-2.2c0-.6.3-1.2.8-1.6l4.6-3.7v-9.4l-16 5.2c-.9.3-1.8-.4-1.8-1.3v-4.1c0-1.1.6-2.1 1.5-2.6l16.3-9.6v-9.1C27.8 10.9 29.4 8 32 8z" />
+        </g>
+      </svg>
+    </div>
     <h1 class="mt-4 font-display text-3xl sm:text-4xl font-bold text-lake-900">
       That page has flown on
     </h1>

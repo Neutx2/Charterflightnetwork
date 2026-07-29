@@ -1,5 +1,10 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 55 (2026-07-29 — CTA voice complete: every customer-facing hero
+Cycle #: 56 (2026-07-29 — graphics: 404 page gets brand scene art — the
+  numerals sit behind the logotype's teal horizon while the orange
+  aircraft climbs away on a dotted trail, making the 'That page has
+  flown on' headline visual; decorative-only (aria-hidden), pure inline
+  SVG, no assets. Prior — cycle 55: CTA voice complete: every
+  customer-facing hero
   on the site now carries the same Get Free Quotes + tap-to-call row —
   added to /canada, /aircraft, /empty-legs and the USA/Bahamas/Caribbean
   region hub component (which had quote-only). Verified all four
