@@ -1,5 +1,10 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 47 (2026-07-29 — graphics/UI: the brand aircraft now rides the
+Cycle #: 48 (2026-07-29 — graphics/UI: finder result cards get the same
+  aircraft silhouettes as the server-rendered operator cards — AircraftIcon
+  instances server-rendered into a <template> and cloned by the client
+  script (no duplicated path data), wheels/skis share the fixed-wing
+  profile, deduped per operator. Every operator card surface now reads at
+  a glance. Prior — cycle 47: graphics/UI: the brand aircraft now rides the
   quote-form progress bar — orange glyph pinned to the bar tip, left
   position synced to the same step percentage as the fill, smooth
   transition between steps; verified at steps 1 and 2 by screenshot and

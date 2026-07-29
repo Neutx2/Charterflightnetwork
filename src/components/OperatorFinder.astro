@@ -15,6 +15,7 @@
  * component renders after load.
  */
 import { DIRECTORY_GROUPS } from '../lib/directory-provinces';
+import AircraftIcon from './AircraftIcon.astro';
 
 const provinces = DIRECTORY_GROUPS.map(([label]) => label);
 const services = ['Floats', 'Wheels', 'Helicopter', 'Skis'];
@@ -57,6 +58,13 @@ const services = ['Floats', 'Wheels', 'Helicopter', 'Skis'];
 
   <p class="finder-count mt-4 text-sm font-semibold text-slate-700" role="status" aria-live="polite"></p>
   <ul class="finder-results mt-3 grid gap-2 sm:grid-cols-2"></ul>
+  <!-- silhouettes the result cards clone — server-rendered so the client
+       script shares AircraftIcon's paths instead of duplicating them -->
+  <template class="finder-icon-tpl">
+    <span data-icon="float"><AircraftIcon type="float" class="h-4 w-auto" /></span>
+    <span data-icon="turboprop"><AircraftIcon type="turboprop" class="h-4 w-auto" /></span>
+    <span data-icon="helicopter"><AircraftIcon type="helicopter" class="h-4 w-auto" /></span>
+  </template>
   <div class="mt-4 text-center">
     <button
       type="button"
@@ -102,6 +110,23 @@ const services = ['Floats', 'Wheels', 'Helicopter', 'Skis'];
     const esc = (s: string) =>
       s.replace(/[&<>"']/g, (c) => `&#${c.charCodeAt(0)};`);
 
+    // facet → silhouette markup, cloned from the server-rendered template
+    // (wheels and skis share the fixed-wing profile, deduped per operator)
+    const iconHtml: Record<string, string> = {};
+    root.querySelector<HTMLTemplateElement>('.finder-icon-tpl')?.content
+      .querySelectorAll<HTMLElement>('[data-icon]')
+      .forEach((el) => (iconHtml[el.dataset.icon!] = el.innerHTML));
+    const FACET_ICON: Record<string, string> = {
+      Floats: 'float', Wheels: 'turboprop', Skis: 'turboprop', Helicopter: 'helicopter',
+    };
+    const icons = (sf: string[]) => {
+      const types = [...new Set(sf.map((f) => FACET_ICON[f]).filter((t) => t && iconHtml[t]))];
+      if (!types.length) return '';
+      return `<span class="flex shrink-0 gap-1.5 text-lake-400" aria-hidden="true">${types
+        .map((t) => iconHtml[t])
+        .join('')}</span>`;
+    };
+
     const matches = (): Row[] => {
       if (!rows) return [];
       const term = q.value.trim().toLowerCase();
@@ -122,7 +147,7 @@ const services = ['Floats', 'Wheels', 'Helicopter', 'Skis'];
           ${r.f ? '<span class="rounded bg-ember-500 px-1.5 py-0.5 text-[11px] font-bold text-lake-950">Featured</span>' : ''}
         </div>
         ${r.b ? `<div class="mt-0.5 text-sm text-slate-600">${esc(r.b)}</div>` : ''}
-        ${r.s ? `<div class="mt-0.5 text-xs text-slate-600">${esc(r.s)}${r.a ? ` · ${esc(r.a)}` : ''}</div>` : ''}
+        ${r.s ? `<div class="mt-1 flex items-center gap-2 text-xs text-slate-600">${icons(r.sf)}<span>${esc(r.s)}${r.a ? ` · ${esc(r.a)}` : ''}</span></div>` : ''}
         <div class="mt-2 flex flex-wrap gap-x-4 gap-y-1 text-sm">
           ${r.p && r.t ? `<a href="tel:${esc(r.t)}" class="font-semibold text-lake-700 hover:underline">${esc(r.p)}</a>` : ''}
           <a href="${esc(r.d)}" class="text-lake-700 hover:underline">Directory page</a>
