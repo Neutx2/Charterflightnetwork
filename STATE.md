@@ -1,5 +1,12 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 50 (2026-07-29 — coherence: city pages now lead with the
+Cycle #: 51 (2026-07-29 — coherence on province hubs: tap-to-call button
+  added to hub heroes (city pages had it, hubs didn't — phone taps are an
+  instrumented revenue path); the operator trust band ('N charter
+  operators … get up to 3 competitive quotes') moved above the 50+ item
+  destination grid where it was invisible; and fixed a whitespace-collapse
+  bug the move exposed — Astro ate the line-break space around the band's
+  anchors ('theCanadian', 'andget'), now explicit inline spacing. Prior —
+  cycle 50: coherence: city pages now lead with the
   actionable operator cards (phones, featured badges, silhouettes, the
   'search all / get 3 quotes' line) directly under the hero beside the
   quote-CTA sidebar; the legacy prose, FAQ and link lists follow as
