@@ -1,0 +1,199 @@
+---
+import { getCollection, render } from 'astro:content';
+import PageHero from '../../../components/PageHero.astro';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import QuoteForm from '../../../components/QuoteForm.astro';
+import { SITE } from '../../../lib/site';
+
+export async function getStaticPaths() {
+  const hubs = await getCollection('hubs', (h) => h.data.region === 'canada');
+  return hubs.map((entry) => ({
+    params: { province: entry.data.provinceSlug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const d = entry.data;
+
+// Newfoundland & Labrador share one destination set on the legacy site —
+// both hubs list all of it, so mirror that here.
+const siblingSlugs =
+  d.provinceSlug === 'labrador'
+    ? ['labrador', 'newfoundland']
+    : d.provinceSlug === 'newfoundland'
+      ? ['newfoundland', 'labrador']
+      : [d.provinceSlug];
+
+const destinations = (
+  await getCollection(
+    'destinations',
+    (e) => e.data.region === 'canada' && siblingSlugs.includes(e.data.provinceSlug ?? '')
+  )
+).sort((a, b) => (a.data.city ?? '').localeCompare(b.data.city ?? ''));
+
+import operators from '../../../data/operators.json';
+
+// Directory-page slug prefixes per province (matches real pages in
+// src/content/directory/); Ontario listings are shared by both Ontario hubs,
+// NL listings by both Newfoundland and Labrador hubs.
+const DIRECTORY_PREFIXES: Record<string, { prefixes: string[]; browse: string; finderProv: string }> = {
+  alberta: { prefixes: ['alberta-'], browse: '/directory/alberta-air-charter-directory-2', finderProv: 'Alberta', },
+  'british-columbia': { prefixes: ['bc-', 'british-columbia-'], browse: '/directory/bc-air-charter-directory', finderProv: 'British Columbia', },
+  manitoba: { prefixes: ['manitoba-'], browse: '/directory/manitoba-air-charter-directory-1', finderProv: 'Manitoba', },
+  'new-brunswick': { prefixes: ['new-brunswick-'], browse: '/directory/new-brunswick-air-charter-directory', finderProv: 'New Brunswick', },
+  newfoundland: { prefixes: ['newfoundland-'], browse: '/directory/newfoundland-air-charter-directory', finderProv: 'Newfoundland & Labrador', },
+  labrador: { prefixes: ['newfoundland-'], browse: '/directory/newfoundland-air-charter-directory', finderProv: 'Newfoundland & Labrador', },
+  'northwest-territories': { prefixes: ['nwt-', 'northwest-territories-'], browse: '/directory/nwt-air-charter-directory-1', finderProv: 'Northwest Territories', },
+  'nova-scotia': { prefixes: ['nova-scotia-'], browse: '/directory/nova-scotia-air-charter-directory', finderProv: 'Nova Scotia', },
+  nunavut: { prefixes: ['nunavut-'], browse: '/directory/nunavut-air-charter-directory-1', finderProv: 'Nunavut', },
+  'northern-ontario': { prefixes: ['ontario-', 'northern-ontario-'], browse: '/directory/ontario-air-charter-directory-1', finderProv: 'Ontario', },
+  'southern-ontario': { prefixes: ['ontario-', 'northern-ontario-'], browse: '/directory/ontario-air-charter-directory-1', finderProv: 'Ontario', },
+  quebec: { prefixes: ['quebec-'], browse: '/directory/quebec-charter-directory-1', finderProv: 'Quebec', },
+  saskatchewan: { prefixes: ['saskatchewan-'], browse: '/directory/saskatchewan-air-charter-directory', finderProv: 'Saskatchewan', },
+  yukon: { prefixes: ['yukon-'], browse: '/directory/yukon-air-charter-directory-1', finderProv: 'Yukon', },
+};
+const dirInfo = DIRECTORY_PREFIXES[d.provinceSlug ?? ''];
+const operatorCount = dirInfo
+  ? new Set(
+      operators
+        .filter((o) => dirInfo.prefixes.some((p) => o.directoryPage.startsWith('/directory/' + p)))
+        .map((o) => `${o.name}|${o.baseLocations}`)
+    ).size
+  : 0;
+
+// Use-case pages relevant to each region (all are real migrated pages)
+const USE_CASE_LINKS: Record<string, { href: string; label: string }[]> = {
+  'northern-ontario': [
+    { href: '/travel/fly-in-fishing', label: 'Fly-in fishing charters' },
+    { href: '/travel/ontario-remote-communities', label: 'Remote community travel' },
+    { href: '/travel/mining-exploration', label: 'Mining & exploration crews' },
+  ],
+  manitoba: [
+    { href: '/travel/fly-in-fishing', label: 'Fly-in fishing charters' },
+    { href: '/travel/churchill-polar-bears', label: 'Churchill polar bear trips' },
+  ],
+  saskatchewan: [{ href: '/travel/fly-in-fishing', label: 'Fly-in fishing charters' }],
+  'northwest-territories': [
+    { href: '/travel/canadian-arctic', label: 'Canadian Arctic travel' },
+    { href: '/travel/mining-exploration', label: 'Mining & exploration crews' },
+  ],
+  nunavut: [
+    { href: '/travel/canadian-arctic', label: 'Canadian Arctic travel' },
+    { href: '/travel/mining-exploration', label: 'Mining & exploration crews' },
+  ],
+  yukon: [{ href: '/travel/canadian-arctic', label: 'Canadian Arctic travel' }],
+  'southern-ontario': [{ href: '/travel/business-travel', label: 'Business & corporate travel' }],
+  quebec: [{ href: '/travel/fly-in-fishing', label: 'Fly-in fishing charters' }],
+};
+const useCases = USE_CASE_LINKS[d.provinceSlug ?? ''] ?? [];
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    serviceType: 'Air Charter Flights',
+    name: d.h1 ?? `${d.province} Charter Flights`,
+    provider: { '@id': `${SITE.url}/#org` },
+    areaServed: { '@type': 'AdministrativeArea', name: d.province },
+    description: d.description,
+    offers: { '@type': 'Offer', priceCurrency: 'CAD', url: `${SITE.url}/quote` },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE.url}/` },
+      { '@type': 'ListItem', position: 2, name: 'Canada', item: `${SITE.url}/canada` },
+      { '@type': 'ListItem', position: 3, name: `${d.province} Charter Flights` },
+    ],
+  },
+];
+---
+
+<BaseLayout title={d.title} description={d.description} canonicalPath={`/canada/${d.provinceSlug}`} jsonLd={jsonLd}>
+  <PageHero>
+    <Breadcrumbs crumbs={[{ label: 'Canada', href: '/canada' }, { label: d.province ?? '' }]} />
+    <h1 class="mt-4 font-display text-3xl sm:text-4xl lg:text-5xl font-bold">
+      {d.h1 ?? `${d.province} Charter Flights`}
+    </h1>
+    <p class="mt-3 max-w-3xl text-lake-100 text-lg leading-relaxed">{d.description}</p>
+    <div class="mt-6 flex flex-wrap gap-3">
+      <a href="#quote" class="rounded-lg bg-ember-500 px-6 py-3 font-bold text-lake-950 hover:bg-ember-400 transition-colors">
+        Get Free Quotes
+      </a>
+      <a href={SITE.phoneHref} class="rounded-lg border border-white/30 px-5 py-3 font-semibold hover:bg-white/10 transition-colors">
+        {SITE.phone}
+      </a>
+    </div>
+  </PageHero>
+
+  <div class="mx-auto max-w-7xl px-4 sm:px-6 py-10 sm:py-14">
+    {operatorCount > 0 && dirInfo && (
+      <p class="mb-8 rounded-xl bg-white px-5 py-4 ring-1 ring-birch-200 text-slate-700">
+        <strong class="text-lake-900">{operatorCount} charter operators</strong> are listed
+        for this region in the <a
+          href={`/directory/?prov=${encodeURIComponent(dirInfo.finderProv)}#find-an-operator`}
+          class="font-semibold text-lake-700 hover:underline">Canadian Air Charter Directory</a> —
+        or skip the phone calls and <a href="#quote" class="font-semibold text-boreal-700 hover:underline">get
+        up to 3 competitive quotes</a> with one request.
+      </p>
+    )}
+
+    {destinations.length > 0 && (
+      <section class="mb-12">
+        <h2 class="font-display text-2xl font-bold text-lake-900">
+          {d.province} charter flight destinations
+        </h2>
+        <p class="mt-2 text-slate-600">
+          Charter flight options to or from any of these {d.province} communities:
+        </p>
+        <ul class="mt-5 grid gap-2 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+          {destinations.map((e) => (
+            <li>
+              <a
+                href={`/${e.data.slug}`}
+                class="block rounded-lg bg-white px-4 py-2.5 text-sm font-medium text-lake-700 ring-1 ring-birch-200 hover:ring-lake-300 hover:text-lake-900 hover:shadow-sm transition"
+              >
+                {e.data.city}
+                {e.data.airportCode && <span class="text-slate-400"> ({e.data.airportCode})</span>}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    {useCases.length > 0 && (
+      <section class="mb-12">
+        <h2 class="font-display text-xl font-bold text-lake-900">Popular ways to charter in {d.province}</h2>
+        <ul class="mt-4 flex flex-wrap gap-2 text-sm">
+          {useCases.map((u) => (
+            <li>
+              <a href={u.href} class="block rounded-full bg-boreal-50 px-4 py-2 font-medium text-boreal-800 ring-1 ring-boreal-200 hover:ring-boreal-400 transition">
+                {u.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    <article class="copy max-w-4xl">
+      <Content />
+    </article>
+
+    <section id="quote" class="mt-14 scroll-mt-24">
+      <div class="rounded-2xl bg-white p-6 sm:p-10 ring-1 ring-birch-200 shadow-sm">
+        <h2 class="font-display text-2xl sm:text-3xl font-bold text-lake-900">
+          Receive up to 3 competitive quotes — {d.province}
+        </h2>
+        <div class="mt-8">
+          <QuoteForm subject={d.quoteSubject ?? `Charter Flights ${d.province}`} />
+        </div>
+      </div>
+    </section>
+  </div>
+</BaseLayout>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img" aria-label="A chain of Caribbean islands seen from a charter flight above the sea">
+  <!-- Region card art. See canada-boreal-lake-float-plane.svg for the shared
+       layout rules. This one is a top-down view rather than a horizon scene,
+       so the islands are pushed left and low where the scrim darkens them into
+       texture, leaving the aircraft alone in the upper right. -->
+  <defs>
+    <linearGradient id="kSea" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#173a57"/>
+      <stop offset=".55" stop-color="#2f6f9f"/>
+      <stop offset="1" stop-color="#4fa3a0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="480" height="300" fill="url(#kSea)"/>
+
+  <!-- island chain: reef halo, land, upland -->
+  <g>
+    <ellipse cx="104" cy="168" rx="92" ry="36" fill="#8dc9bd" opacity=".4"/>
+    <ellipse cx="104" cy="166" rx="60" ry="22" fill="#3f8369"/>
+    <ellipse cx="92" cy="160" rx="27" ry="10" fill="#255545"/>
+
+    <ellipse cx="286" cy="238" rx="110" ry="42" fill="#8dc9bd" opacity=".4"/>
+    <ellipse cx="286" cy="236" rx="76" ry="27" fill="#3f8369"/>
+    <ellipse cx="300" cy="230" rx="33" ry="12" fill="#255545"/>
+
+    <ellipse cx="428" cy="176" rx="62" ry="24" fill="#8dc9bd" opacity=".35"/>
+    <ellipse cx="428" cy="175" rx="38" ry="14" fill="#3f8369"/>
+  </g>
+
+  <!-- wake/swell lines, kept off the aircraft -->
+  <g stroke="#b3d1e7" stroke-width="2" opacity=".24" stroke-linecap="round" fill="none">
+    <path d="M18 216h70"/><path d="M150 274h90"/><path d="M20 118h54"/>
+  </g>
+
+  <!-- charter aircraft crossing, upper right -->
+  <g transform="translate(300 44) rotate(8)" fill="#07131f">
+    <path d="M0 18c12-3 46-4 58-3l24 1.5c12 .8 16 8 8 10.5l-28 2.5c-24 1.5-52 0-62-11.5z"/>
+    <path d="M37 8h50c3 0 4.4 2.5 3.2 4.7l-3.6 6.9H40c-2.5 0-4.3-1.8-4.3-4.3z"/>
+    <path d="M6 16 L-21 5 l6 14 z"/>
+    <path d="M-2 19 l-19 9 7 2 z" opacity=".9"/>
+    <ellipse cx="92" cy="19" rx="1.7" ry="10" opacity=".4"/>
+  </g>
+</svg>

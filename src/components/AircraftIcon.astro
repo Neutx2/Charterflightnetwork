@@ -1,0 +1,71 @@
+---
+/**
+ * Aircraft-type silhouettes for the "right aircraft for the trip" cards.
+ *
+ * The four cards were previously identical blank boxes — the only thing
+ * telling a jet from a helicopter was the heading. These are the actual
+ * distinguishing profiles: swept wing and tail-mounted engines for a jet,
+ * straight wing and a prop disc for a turboprop, pontoons for a float plane,
+ * rotor and skids for a helicopter. Drawn side-on at a single scale so the
+ * four sit as a set.
+ */
+interface Props {
+  type: 'jet' | 'turboprop' | 'float' | 'helicopter';
+  class?: string;
+}
+const { type, class: cls = '' } = Astro.props;
+---
+
+<svg viewBox="0 0 120 56" class={cls} aria-hidden="true" focusable="false" fill="currentColor">
+  {type === 'jet' && (
+    <g>
+      {/* slender fuselage, nose right */}
+      <path d="M16 23h72c14 0 24 2.4 24 5.5S102 34 88 34H16c-4 0-6-2-6-5.5S12 23 16 23z" />
+      {/* swept wing, trailing edge back and down */}
+      <path d="M84 32H58L42 43h26z" />
+      {/* swept fin + T-tail stabiliser — the bizjet tell */}
+      <path d="M24 23 L10 4 h8.5 L33 23z" />
+      <rect x="4" y="2.4" width="22" height="3.8" rx="1.9" />
+      {/* rear-mounted engine nacelle */}
+      <rect x="30" y="13.2" width="19" height="9" rx="4.5" />
+    </g>
+  )}
+  {type === 'turboprop' && (
+    <g>
+      <path d="M8 30c14-6 60-9 78-8l20 1.4c8 .5 8 8.6 0 9.1l-22 1.5c-20 1.2-62-1-76-4z" />
+      {/* straight high wing */}
+      <path d="M40 21h40c3 0 4.6 3 3 5.5L79 33H43c-3 0-5-2-5-5z" />
+      <path d="M14 26 L4 8 l11 1 8 16z" />
+      <path d="M10 25 L0 20 l2 6z" />
+      {/* prop disc */}
+      <ellipse cx="108" cy="27" rx="2.6" ry="17" opacity=".45" />
+    </g>
+  )}
+  {type === 'float' && (
+    <g>
+      <path d="M8 24c14-6 58-9 76-8l20 1.4c8 .5 8 8.6 0 9.1l-22 1.5c-20 1.2-60-1-74-4z" />
+      <path d="M40 15h40c3 0 4.6 3 3 5.5L79 27H43c-3 0-5-2-5-5z" />
+      <path d="M14 20 L4 2 l11 1 8 16z" />
+      {/* struts + pontoons — the northern tell */}
+      <path d="M32 27 l2 11h5l-1.6-11zM78 26 l1.6 12h5l-1.2-12z" />
+      <rect x="18" y="38" width="52" height="6" rx="3" />
+      <rect x="58" y="38" width="46" height="6" rx="3" />
+      <ellipse cx="106" cy="21" rx="2.4" ry="14" opacity=".45" />
+    </g>
+  )}
+  {type === 'helicopter' && (
+    <g>
+      {/* cabin + tail boom */}
+      <path d="M62 20c16 0 26 6 28 13 .6 3-1.6 6-5 6H50c-9 0-16-5-16-10 0-5 8-9 28-9z" />
+      <path d="M8 30h34v7H10c-2 0-3-1.4-3-3.4z" />
+      {/* tail rotor */}
+      <path d="M10 20 L4 33 l10 1z" />
+      {/* main rotor + mast */}
+      <rect x="59" y="12" width="5" height="9" rx="2" />
+      <rect x="18" y="8" width="88" height="4.6" rx="2.3" />
+      {/* skids */}
+      <path d="M50 39v6M78 39v6" stroke="currentColor" stroke-width="4" />
+      <rect x="40" y="45" width="52" height="5" rx="2.5" />
+    </g>
+  )}
+</svg>

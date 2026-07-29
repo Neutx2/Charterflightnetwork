@@ -1,0 +1,782 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Charset & viewport -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Performance hints for GTM -->
+  <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+  <link rel="dns-prefetch" href="//www.googletagmanager.com">
+
+ <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2E2LY4BMTF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2E2LY4BMTF');
+</script>
+
+  <!-- End Google Tag Manager -->
+  <link rel="canonical" href="https://charterflightnetwork.com/about_charter_flight_network.htm/">
+
+ <!-- Hero preloads for pure <picture> setup -->
+
+<!-- Phones: preload the largest phone candidate that the <picture> will actually use -->
+<link rel="preload" as="image" type="image/jpeg"
+      href="/CFN%20Images/Hero%20Images/banners_640/about_banner_640.jpg"
+      imagesrcset="/CFN%20Images/Hero%20Images/banners_320/about_banner_320.jpg 320w,
+                   /CFN%20Images/Hero%20Images/banners_480/about_banner_480.jpg 480w,
+                   /CFN%20Images/Hero%20Images/banners_640/about_banner_640.jpg 640w,
+                   /CFN%20Images/Hero%20Images/banners_750/about_banner_750.jpg 750w"
+      imagesizes="100vw"
+      media="(max-width: 767.98px)">
+
+<!-- Tablet + Desktop: preload exactly the candidate used on >=768px -->
+<link rel="preload" as="image" type="image/jpeg"
+      href="/CFN%20Images/Hero%20Images/about_banner_1940.jpg"
+      imagesrcset="/CFN%20Images/Hero%20Images/about_banner_1280.jpg 1280w,
+                   /CFN%20Images/Hero%20Images/about_banner_1600.jpg 1600w,
+                   /CFN%20Images/Hero%20Images/about_banner_1940.jpg 1940w"
+      imagesizes="100vw"
+      media="(min-width: 768px)">
+
+ <!-- Primary SEO Meta Tags -->
+<title>About Charter Flight Network | Canada’s Leading Air Charter Authority</title>
+<meta name="description" content="Charter Flight Network has been connecting clients to cost-efficient jet, turboprop, piston, float plane, and helicopter charters across Canada since 2008. Founded by Phil Robinson, with over 50 years in aviation, we serve Canada, the U.S., Bahamas, and the Caribbean.">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://charterflightnetwork.com/about/">
+<meta property="og:title" content="About Charter Flight Network | Canada’s Leading Air Charter Authority">
+<meta property="og:description" content="Charter Flight Network connects clients to cost-efficient charter flights across Canada, the U.S., Bahamas, and Caribbean. Offering jet, turboprop, float plane, piston, and helicopter services since 2008.">
+<meta property="og:image" content="https://charterflightnetwork.com/images/air-charter-network.jpg">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="https://charterflightnetwork.com/about/">
+<meta name="twitter:title" content="About Charter Flight Network | Canada’s Leading Air Charter Authority">
+<meta name="twitter:description" content="Trusted leader in Canadian air charter since 2008. Jet, turboprop, float plane, piston, and helicopter charters to Canada, U.S., Bahamas & Caribbean.">
+<meta name="twitter:image" content="https://charterflightnetwork.com/images/air-charter-network.jpg">
+
+  <!-- Bootstrap CSS -->
+  <link href="css/bootstrap-4.4.1.css" rel="stylesheet" type="text/css">
+
+  <!-- Hero styles (pure picture, no CSS background) -->
+  <style>
+    :root { --nav-h: 56px; } /* adjust if your mobile navbar height differs */
+
+    /* Base */
+    .hero picture { display:block; width:100%; }
+    .hero img { display:block; width:100%; height:auto; }  /* natural height */
+
+    /* Phones only: NO forced viewport height */
+    @media (max-width: 767.98px) {
+      .hero picture { height:auto; }
+      .hero img { object-fit: contain; background:#fff; aspect-ratio: 3 / 2; }
+      .hero-sep { margin: 8px 0; }
+    }
+
+    /* Tablets + Desktop: use the actual hero aspect ratio to avoid CLS */
+    @media (min-width: 768px) {
+      .hero picture { aspect-ratio: 1940 / 600; height:auto; }
+      .hero img { height:100%; object-fit: cover; }
+    }
+  </style>
+
+ <!-- Structured Data for Charter Flight Network (About Page) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://charterflightnetwork.com/about_charter_flight_network.htm#website",
+      "url": "https://charterflightnetwork.com/about_charter_flight_network.htm",
+      "name": "Charter Flight Network",
+      "publisher": { "@id": "https://charterflightnetwork.com/#org" },
+      "inLanguage": "en-CA",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://charterflightnetwork.com/?s={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://charterflightnetwork.com/#org",
+      "name": "Charter Flight Network",
+      "url": "https://charterflightnetwork.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://charterflightnetwork.com/images/logo.png"
+      },
+      "foundingDate": "2008",
+      "founder": {
+        "@type": "Person",
+        "name": "Phil Robinson",
+        "jobTitle": "President & Founder",
+        "description": "Over 50 years of direct experience in the Canadian air charter industry."
+      },
+      "sameAs": [
+        "https://www.facebook.com/charterflightnetwork"
+      ],
+      "contactPoint": [{
+        "@type": "ContactPoint",
+        "contactType": "customer service",
+        "telephone": "+1-807-472-1955",
+        "areaServed": ["CA","US","BS","CARIBBEAN"],
+        "availableLanguage": ["English"]
+      }],
+      "areaServed": [
+        { "@type": "Country", "name": "Canada" },
+        { "@type": "Country", "name": "United States" },
+        { "@type": "Country", "name": "Bahamas" },
+        { "@type": "Place", "name": "Caribbean" }
+      ],
+      "knowsAbout": [
+        "Jet charters",
+        "Turboprop charters",
+        "Piston aircraft charters",
+        "Float plane charters",
+        "Helicopter charters",
+        "Business aviation in Canada",
+        "Remote access charter flights",
+        "Northern Canada charter logistics"
+      ],
+      "makesOffer": { "@id": "https://charterflightnetwork.com/#offerCatalog" }
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://charterflightnetwork.com/#offerCatalog",
+      "name": "Air Charter Services",
+      "itemListElement": [
+        { "@id": "https://charterflightnetwork.com/#service-jet" },
+        { "@id": "https://charterflightnetwork.com/#service-turboprop" },
+        { "@id": "https://charterflightnetwork.com/#service-piston" },
+        { "@id": "https://charterflightnetwork.com/#service-float" },
+        { "@id": "https://charterflightnetwork.com/#service-helicopter" }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://charterflightnetwork.com/#service-jet",
+      "name": "Jet Charter Service",
+      "serviceType": "Private & Corporate Jet Charters",
+      "provider": { "@id": "https://charterflightnetwork.com/#org" },
+      "areaServed": [
+        "Canada",
+        "United States",
+        "Bahamas",
+        "Caribbean"
+      ],
+      "description": "On-demand business and private jet charters for domestic and cross-border missions, including long-range itineraries."
+    },
+    {
+      "@type": "Service",
+      "@id": "https://charterflightnetwork.com/#service-turboprop",
+      "name": "Turboprop Charter Service",
+      "serviceType": "Turboprop Aircraft Charters",
+      "provider": { "@id": "https://charterflightnetwork.com/#org" },
+      "areaServed": [
+        "Canada",
+        "United States",
+        "Bahamas",
+        "Caribbean"
+      ],
+      "description": "Cost-efficient regional charters ideal for shorter runways and remote communities."
+    },
+    {
+      "@type": "Service",
+      "@id": "https://charterflightnetwork.com/#service-piston",
+      "name": "Piston Aircraft Charter Service",
+      "serviceType": "Piston Aircraft Charters",
+      "provider": { "@id": "https://charterflightnetwork.com/#org" },
+      "areaServed": [
+        "Canada",
+        "United States",
+        "Bahamas",
+        "Caribbean"
+      ],
+      "description": "Flexible, budget-friendly charters for short-haul passenger and light cargo needs."
+    },
+    {
+      "@type": "Service",
+      "@id": "https://charterflightnetwork.com/#service-float",
+      "name": "Float Plane Charter Service",
+      "serviceType": "Float Plane Charters",
+      "provider": { "@id": "https://charterflightnetwork.com/#org" },
+      "areaServed": [
+        "Canada",
+        "United States",
+        "Bahamas",
+        "Caribbean"
+      ],
+      "description": "Direct access to lakes, lodges, and remote wilderness destinations where runways are not available."
+    },
+    {
+      "@type": "Service",
+      "@id": "https://charterflightnetwork.com/#service-helicopter",
+      "name": "Helicopter Charter Service",
+      "serviceType": "Helicopter Charters",
+      "provider": { "@id": "https://charterflightnetwork.com/#org" },
+      "areaServed": [
+        "Canada",
+        "United States",
+        "Bahamas",
+        "Caribbean"
+      ],
+      "description": "Point-to-point access, utility missions, aerial survey, executive transport, and sightseeing."
+    },
+    {
+      "@type": "AboutPage",
+      "@id": "https://charterflightnetwork.com/about/#aboutpage",
+      "url": "https://charterflightnetwork.com/about/",
+      "name": "About Charter Flight Network",
+      "inLanguage": "en-CA",
+      "isPartOf": { "@id": "https://charterflightnetwork.com/#website" },
+      "about": { "@id": "https://charterflightnetwork.com/#org" },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://charterflightnetwork.com/images/air-charter-network.jpg"
+      },
+      "description": "Charter Flight Network connects clients with cost-efficient jet, turboprop, piston, float plane, and helicopter charters throughout Canada, the U.S., the Bahamas, and the Caribbean."
+    }
+  ]
+}
+</script>
+</head>
+<body>
+  <!-- Google Tag Manager (noscript) just after opening <body> -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-7L0FN2YZKW"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <div class="container-fluid">
+    <h1 class="text-center">About Charter Flight Network – Canada’s Leading Air Charter Network</h1>
+    <h2 class="text-center">Jet, Turboprop, Float Plane &amp; Helicopter Charters</h2>
+  </div>
+
+ <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="/" aria-label="Charter Flight Network home"><h3>Charter Flight Network</h3></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active"><a class="nav-link" href="index.html">HOME <span class="sr-only">(current)</span></a></li>
+		<li class="nav-item">
+            <a class="nav-link" href="about_charter_flight_network.htm">ABOUT</a>
+          </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+             data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">CANADA FLIGHTS</a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="alberta_charter_flights.htm">Alberta</a>
+            <a class="dropdown-item" href="british_columbia_charter_flights.htm">British Columbia</a>
+            <a class="dropdown-item" href="labrador_charter_flights.htm">Labrador</a>
+            <a class="dropdown-item" href="manitoba_charter_flights.htm">Manitoba</a>
+            <a class="dropdown-item" href="new_brunswick_charter_flights.htm">New Brunswick</a>
+            <a class="dropdown-item" href="newfoundland_charter_flights.htm">Newfoundland</a>
+            <a class="dropdown-item" href="nwt_charter_flights.htm">NorthWest Territories</a>
+            <a class="dropdown-item" href="nova_scotia_charter_flights.htm">Nova Scotia</a>
+            <a class="dropdown-item" href="nunavut_charter_flights.htm">Nunavut</a>
+            <a class="dropdown-item" href="ontario_charter_flights.htm">Ontario - Northern</a>
+            <a class="dropdown-item" href="southern_ontario_charter_flights.htm">Ontario - Southern</a>
+            <a class="dropdown-item" href="quebec_charter_flights.htm">Quebec</a>
+            <a class="dropdown-item" href="saskatchewan_charter_flights.htm">Saskatchewan</a>
+            <a class="dropdown-item" href="yukon_charter_flights.htm">Yukon</a>
+          </div>
+        </li>
+        <li class="nav-item"><a class="nav-link" href="usa_charter_flight_network.htm">USA FLIGHTS</a></li>
+        <li class="nav-item"><a class="nav-link" href="charter_flights_bahamas.html">BAHAMAS</a></li>
+        <li class="nav-item"><a class="nav-link" href="charter_flights_caribbean.html">CARIBBEAN</a></li>
+        <li class="nav-item"><a class="nav-link" href="charter_quote.html">REQUEST QUOTE</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <br>
+  <!-- PURE PICTURE HERO -->
+<section class="hero" aria-label="About Charter Flight Network hero">
+  <picture>
+    <source media="(min-width: 768px)"
+            srcset="/CFN%20Images/Hero%20Images/about_banner_1940.jpg 1940w"
+            sizes="100vw">
+    <source media="(max-width: 767.98px)"
+            srcset="/CFN%20Images/Hero%20Images/banners_640/about_banner_640.jpg 640w"
+            sizes="100vw">
+    <img src="/CFN%20Images/Hero%20Images/about_banner_1940.jpg"
+         alt="About Charter Flight Network"
+         width="1940" height="600" decoding="async" fetchpriority="high">
+  </picture>
+</section>
+<hr class="hero-sep">
+  <div class="container">
+    <div class="row">
+      <div class="text-center p-3 col-md-2 col-xl-2 offset-xl-3 offset-md-2 col-4 col-lg-2 col-sm-3">
+        <img src="/CFN%20Images/Banners/Ontario/Flag_of_Canada75.jpg" alt="Canadian flag" width="76" height="38" class="rounded float-right img-fluid">
+      </div>
+      <div class="text-center p-3 col-md-6 col-8 col-xl-4 col-lg-6 col-sm-9">
+        <h6>Charter Flight Network - 100% <strong>Canadian</strong> Owned &amp; Operated. Finding Clients The Most Cost Efficient Air Charter Options Since 2008</h6>
+      </div>
+    </div><hr>
+ <div class="row">
+      <div class="bg-light text-primary col-12 col-sm-12 col-md-12 col-xl-6  col-lg-6">
+       
+
+<h3>Our Mission</h3>
+<p>At Charter Flight Network, our mission is simple yet powerful: to connect clients with the most cost-efficient and reliable air charter solutions across Canada and beyond. We achieve this by streamlining the process of obtaining quotes from multiple professional charter airlines, allowing clients to quickly compare options and book with confidence. Our focus is on saving time, reducing costs, and ensuring every traveler finds the charter service that perfectly matches their needs.</p>
+
+<h3>What We Offer</h3>
+<p>Our service extends to all forms of charter aircraft, including:</p>
+<ul>
+  <li>Jet Charters for corporate, private, and international travel</li>
+
+<li>Turboprop and piston aircraft charters for regional and remote destinations</li>
+
+<li>Float plane charters for access to wilderness lodges, northern communities, and fishing or hunting camps</li>
+
+<li>Helicopter charters for business, sightseeing, and specialized missions</li>
+</ul><p>Our system allows clients to book charter flights not only anywhere in Canada, but also into the United States, the Bahamas, and the Caribbean.</p>
+
+
+
+      </div>
+
+      <div class="bg-light text-primary col-12 col-sm-12 col-md-12 col-xl-6  col-lg-6">
+        
+
+
+
+
+
+
+<h2>Why Choose Us?</h2>
+<p>Unlike traditional charter brokers, we do not simply present a single option. Instead, we source each quote request to multiple charter companies that are best positioned and equipped to provide the requested service. Each operator submits a competitive price quote, ensuring clients have the freedom to choose from the best available offers. This process puts control back in the hands of the customer, with the assurance that all quotes come from trusted, professional operators.</p>
+<h3>Industry Authority</h3>
+<p>With nearly two decades online and a founder whose aviation career spans five decades, Charter Flight Network has earned a reputation as a leading authority in Canada’s air charter industry. Our knowledge of the diverse Canadian landscape—from busy urban centers to remote northern communities—means we understand the unique requirements of business executives, corporate teams, families, and adventure travelers alike.</p>
+
+<p>Our growing market presence reflects our unwavering focus on service, efficiency, and trust. By maintaining one of the most extensive air charter networks in Canada, we are uniquely positioned to help clients explore destinations nationwide and internationally—whether for business, leisure, or special events.</p>
+
+      </div></div>
+
+     
+        <div class="row">
+          <div class="col-lg-12 offset-xl-0 col-xl-12">
+
+            <hr>
+            <div class="p-3 mb-2 bg-info text-white">
+              <h4>Over 50 Years Of Air Charter Experience </h4>
+            </div>
+
+            <div class="card mb-3">
+              <div class="row no-gutters">
+                <div class="col-sm-12 col-md-5 col-lg-5 col-xl-4">
+                  <img class="card-img-top img-fluid"  src="CFN Images/USA Charter/Teterboro/PGR-50-years.jpg" loading="lazy" alt="business on board" width="650" height="366">
+                </div>
+                <div class="col-md-7 col-lg-7 col-xl-8">
+                  <div class="card-body col-md-12 col-lg-12 col-xl-12">
+                    <h3 class="card-title">Our History</h3>
+       <p>Charter Flight Network has been serving Canadian travelers since 2008. Over the years, we have grown to become one of the largest and most trusted networks of professional charter airlines in the country, with partners operating in every province and territory.</p>
+
+<p>The company was founded by Phil Robinson, who has been directly involved in the Canadian Air Charter Industry for more than 50 years. Phil’s extensive experience and lifelong dedication to aviation continue to shape the way Charter Flight Network operates today, setting the standard for professionalism, transparency, and customer service in the air charter market.</p>
+                  </div>
+                </div>
+              </div>
+              <hr>
+ 	  <div class="container-fluid">
+  <div class="row">
+    <div class="col-xs-11 col-sm-12 col-xl-12 col-lg-12 col-md-12">
+		    <section>
+      
+       
+              <h3 class="text-center">
+	          About Charter Flight Network Video </h3> 
+			 <div class="embed-responsive embed-responsive-16by9 offset-lg-2 col-lg-8">
+		    <iframe
+  class="embed-responsive-item"
+  width="1280"
+  height="720"
+  loading="lazy"
+  src="https://www.youtube.com/embed/66EXACvN8Ys"
+  srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href='https://www.youtube.com/embed/66EXACvN8Ys?autoplay=1'><img src='https://img.youtube.com/vi/66EXACvN8Ys/hqdefault.jpg' alt='Charter Flight Network Intro'><span>▶</span></a>"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen
+  title="Charter Flight Network Intro"></iframe>
+	        </div>
+           
+         
+      
+    </section>
+	 
+    </div>
+       
+  </div>
+</div><hr>
+              <div class="p-3 mb-2 bg-info text-white">
+                <h4>Here Are The Industries and Clients That Use Our Charter Quote Request Service</h4>
+              </div><p class="card-text text-center font-italic font-weight-bold">
+        Charter Flight Network has been online since 2008 and has established a large network of wheel plane, float plane &amp; helicopter charter services in every province &amp; territory of Canada who participate in our charter quote request service.
+      </p>
+             	<div class="container mt-2">
+		
+		   <div class="row">
+			      <div class="card col-xl-4 col-lg-4 col-md-4">
+		<hr>
+	<img src="CFN%20Images/Directory/Audience/Remote-Community-340.jpg" class="rounded mx-auto d-block img-fluid"  width="340" height="226" alt="First Nations Charters" loading="lazy">
+	    <div class="card-body">
+	      <p class="card-text"> Dozens Of Remote First Nations Communities Rely On Charter Flight Network To Ensure They Find The Most Competitive Air Charter Options.</p>
+		</div>
+  </div>
+	    <div class="card col-xl-4 col-lg-4 col-md-4">
+		<hr>
+		<img src="CFN%20Images/Home%20Page/Home%202019/Fly_in_fishing_340b.jpg" class="rounded mx-auto d-block img-fluid"  width="340" height="226"  alt="Canadian Fly-In Fishing Adventures" loading="lazy">
+	    <div class="card-body">
+	       <p class="card-text"> Sportsmen Across Canada and USA Rely On <b>CharterFlightsToAdventure.com</b> and Montly Newsletter To Find The Very Best Canadian Fly-In Fishing Adventures</p>
+		</div>
+  </div>
+			   
+			   
+		  
+			   <div class="card col-xl-4 col-lg-4 col-md-4">
+		<hr>
+		<img src="CFN%20Images/Home%20Page/Home%202019/Helicopter-Couple-340b.jpg" class="rounded mx-auto d-block img-fluid" width="340" height="226"  alt="Golf Vacation Charters" loading="lazy">
+	    <div class="card-body">
+	      
+	<p class="card-text"> We Are Creating Marketing Partnerships With Some of North Americas Top Golf Resorts Whose Clients Prefer The Speed, Comfort &amp; Safety Of Private Charter Flights</p>
+			 </div>
+  </div>
+			   
+			 
+	  </div></div><div class="container mt-2">
+		
+		   <div class="row">
+			      <div class="card col-xl-4 col-lg-4 col-md-4">
+		<hr>
+		 <img src="CFN%20Images/Directory/Audience/construction_engineering-2.jpg" class="rounded mx-auto d-block img-fluid" width="340" height="226"  alt="Charter Flights Construction companies" loading="lazy">
+	    <div class="card-body">
+	      <p class="card-text">When Construction &amp; Engineering Companies Bid On A Remote Project, They Turn To Charter Flight Network To Request Competitive Charter Quotes</p>
+		</div>
+  </div>
+	    <div class="card col-xl-4 col-lg-4 col-md-4">
+		<hr>
+		<img src="CFN%20Images/Directory/Audience/meetings-seminars-340.jpg" class="rounded mx-auto d-block img-fluid" width="340" height="226"  alt="Charter Flights Meetings Seminars" loading="lazy">
+	    <div class="card-body">
+	       <p class="card-text"> Charter Flight Network Is A Valuable Resource Tool When Companies Need To Determine How To Move Delegates In From Various Regions</p>
+		</div>
+  </div>
+			   
+			   
+		  
+			   <div class="card col-xl-4 col-lg-4 col-md-4">
+		<hr>
+		<img src="CFN%20Images/Directory/Audience/Crew--rotations.jpg" width="340" height="226"  alt="Crew Rotation Charter Flights" class="rounded mx-auto d-block img-fluid" loading="lazy">
+	    <div class="card-body">
+	      
+	<p class="card-text"> With New Mining Operations Opening Up Throughout Canada, Determing Logistics For Staff and Crew Rotations Will Be a Major Consideration.</p>
+		</div>
+  </div>
+			   
+			 
+	  </div></div>
+	<div class="container mt-2">
+		
+		   <div class="row">
+			      <div class="card col-xl-4 col-lg-4 col-md-4">
+		<hr>
+		 <img src="CFN%20Images/Home%20Page/Home%202019/Polar-Bear-340.jpg" class="rounded mx-auto d-block img-fluid"  width="340" height="226"  alt="Polar Bear Adventure Network" loading="lazy">
+	    <div class="card-body">
+	      <p class="card-text">Every Year, Charter Flight Network &amp; Charter Flights To Adventure Helps Clients Find The Most Convenient and Competitive Charter Flight Options To Churchill</p>
+		</div>
+  </div>
+	    <div class="card col-xl-4 col-lg-4 col-md-4">
+		<hr>
+		<img src="CFN%20Images/Home%20Page/Home%202019/arctic-Adventures-340.jpg" class="rounded mx-auto d-block img-fluid" width="340" height="226"  alt="Canadian Arctic Adventures" loading="lazy">
+	    <div class="card-body">
+	       <p class="card-text">The Canadian Air Charter Directory Lists Charter Services With The Aircraft and Flight Crews Experienced With Flying Into The Canadian Arctic.</p>
+		</div>
+  </div>
+			   
+			   
+		  
+			   <div class="card col-xl-4 col-lg-4 col-md-4">
+		<hr>
+		<img src="CFN%20Images/Adventures/Generic/Moose_hunting-650.jpg" width="340" height="226"  alt="Big Game Hunting Charter Flights To Adventure" class="rounded mx-auto d-block img-fluid" loading="lazy">
+	    <div class="card-body">
+	      
+	<p class="card-text"> Charter Flights To Adventure Lists Charter Services and Outfitters In Each Province and Territory of Canada That Caters To Hunting Groups.</p>
+			</div>
+  </div>
+			   
+			 
+	  </div></div>
+	<div class="container mt-2">
+		
+		   <div class="row">
+			      <div class="card col-xl-4 col-lg-4 col-md-4">
+		<hr>
+		 <img src="CFN%20Images/Directory/Audience/Environmental-consult.jpg" width="340" height="226" class="rounded mx-auto d-block img-fluid"   alt="Charter Flights Environmental" loading="lazy">
+	    <div class="card-body">
+	      <p class="card-text"> Environmental Consultants Frequently Need To Send Their People To Regions Across Canada Accessible Only By Fixed Wing Or Helicopter Charter</p>
+		</div>
+  </div>
+	    <div class="card col-xl-4 col-lg-4 col-md-4">
+		<hr>
+		<img src="CFN%20Images/Directory/Audience/Priority-cargo-650bb.jpg" width="340" height="226" class="rounded mx-auto d-block img-fluid" alt="Priority Air Cargo" loading="lazy">
+	    <div class="card-body">
+	       <p class="card-text"> Clients Consistently Turn To Charter Flight Network When They Need To Ship Priority Cargo / Hot Shot Services To Remote Regions of Canada.</p>
+		 </div>
+  </div>
+			   
+			   
+		  
+			   <div class="card col-xl-4 col-lg-4 col-md-4">
+		<hr>
+		<img src="CFN%20Images/Directory/Audience/crowded-airline.jpg" width="340" height="226"  class="rounded mx-auto d-block img-fluid" alt="Private Charter Flights" loading="lazy">
+	    <div class="card-body">
+	      
+	<p class="card-text"> Any Business, Professional or Individual Traveler Who Is Searching For An Alternative To Sitting Shoulder To Shoulder On Scheduled Airlines</p>
+			</div>
+  </div>
+			   
+			 
+	  </div></div>
+  
+    
+ <hr>
+                <div class="row">
+                   <div class="p-3 col-12 col-xl-12">
+        <div class="border-0 card col-md-12 offset-xl-0 offset-lg-0 col-lg-12 col-xl-12">
+          <div class="card-body">
+            <h4 class="text-center card-title">Complete and Submit the Following No Obligation Charter Quote Request Form and Receive Up To 3 Competitive Quotes</h4>
+          </div>  
+          </div> </div>
+                        <div class="border border-dark bg-light text-primary col-12 col-sm-12 col-md-12 offset-lg-0 col-lg-12 offset-xl-1 col-xl-10">
+        <h2 class="text-center card-title">Receive Up To 3 Competitive Quotes For Any Charter Flight</h2>
+
+        <div class="p-0 bg-light text-dark col-12">
+          <div class="CharterQuoteFormFrame1 offset-xl-0 col-xl-12 offset-lg-0 col-lg-12">
+            <div class="FeatureTextLeft"><strong>Complete and submit your contact &amp; travel information. Choose any departure point in Canada or USA. Receive up to 3 competitive quotes.</strong></div>
+
+            <div class="container">
+              <form id="CharterQuoteRequestForm" name="RequestCharterQuote" method="post" action="formmailer.php" novalidate>
+                <!-- simple honeypot -->
+                <div style="position:absolute;left:-5000px;top:auto;width:1px;height:1px;overflow:hidden;">
+                  <label for="website">Website</label>
+                  <input type="text" id="website" name="website" tabindex="-1" autocomplete="off">
+                </div>
+
+                <div class="row CharterQuoteFormFrame1">
+                  <div class="col-lg-6 col-md-6 col-xl-5">
+                    <div class="form-group">
+                      <label for="Name">Name</label>
+                      <input name="Name" id="Name" type="text" class="form-control" autocomplete="name" required>
+                    </div>
+                    <div class="form-group">
+                      <label for="City">City</label>
+                      <input name="City" id="City" type="text" class="form-control" autocomplete="address-level2">
+                    </div>
+                    <div class="form-group">
+                      <label for="State">State/Prov</label>
+                      <input name="State" id="State" type="text" class="form-control" autocomplete="address-level1">
+                    </div>
+                    <div class="form-group">
+                      <label for="Email">Email</label>
+                      <input name="Email" id="Email" type="email" class="form-control" autocomplete="email" required>
+                    </div>
+                    <div class="form-group">
+                      <label for="Phone">Phone</label>
+                      <input name="Phone" id="Phone" type="tel" class="form-control" autocomplete="tel">
+                    </div>
+                  </div>
+
+                  <div class="col-md-6 col-xl-7 col-lg-6">
+                    <div class="form-group">
+                      <label for="FlyFrom">Fly From</label>
+                      <input name="FlyFrom" id="FlyFrom" type="text" class="form-control" autocomplete="off" required>
+                    </div>
+                    <div class="form-group">
+                      <label for="FlyTo">Fly To</label>
+                      <input name="FlyTo" id="FlyTo" type="text" class="form-control" autocomplete="off" required>
+                    </div>
+                    <div class="form-group">
+                      <label for="DepartDate">Arrival Date</label>
+                      <input name="DepartDate" id="DepartDate" type="date" class="form-control">
+                    </div>
+                    <div class="form-group">
+                      <label for="ReturnDate">Return Date</label>
+                      <input name="ReturnDate" id="ReturnDate" type="date" class="form-control">
+                    </div>
+                    <div class="form-group">
+                      <label for="Passengers">How Many Passengers</label>
+                      <input name="Passengers" id="Passengers" type="number" min="1" class="form-control" inputmode="numeric">
+                    </div>
+                  </div>
+
+                  <div class="col-md-6 col-lg-5 col-xl-5">
+                    <b>Aircraft Preference</b> – Select one or more if you have an aircraft type preference
+                    <div class="form-check">
+                      <input class="form-check-input" type="checkbox" id="Jet" name="Jet">
+                      <label class="form-check-label" for="Jet">Jet</label>
+                    </div>
+                    <div class="form-check">
+                      <input class="form-check-input" type="checkbox" id="Turboprop" name="Turboprop">
+                      <label class="form-check-label" for="Turboprop">Turboprop</label>
+                    </div>
+                    <div class="form-check">
+                      <input class="form-check-input" type="checkbox" id="Floats" name="Floats">
+                      <label class="form-check-label" for="Floats">Float Plane</label>
+                    </div>
+                    <div class="form-check mb-3">
+                      <input class="form-check-input" type="checkbox" id="Helicopter" name="Helicopter">
+                      <label class="form-check-label" for="Helicopter">Helicopter</label>
+                    </div>
+                  </div>
+
+                  <div class="col-xl-6 col-md-6 col-lg-7">
+                    <div class="CharterQuoteSubTitle">Comments or Select Other Departure City</div>
+                    <div class="OtherDetails offset-sm-2 col-sm-7 col-8 offset-1 col-md-6 offset-lg-0 col-lg-12 col-xl-9 offset-xl-1">
+                      <label for="OtherInfo" class="sr-only">Comments</label>
+                      <textarea name="OtherInfo" id="OtherInfo" class="form-control" rows="4"></textarea>
+                    </div>
+                    <hr>
+                  </div>
+
+                  <div class="col-xl-12 col-lg-12 col-md-12">
+                    <p class="card-text text-center">
+                      <input class="btn btn-primary btn-lg" type="submit" value="REQUEST COMPETITIVE QUOTES">
+                      <input type="hidden" name="recipient" value="phil@charterflightnetwork.com">
+                      <input type="hidden" name="redirect" value="https://www.charterflightnetwork.com/charter_quote_confirmation.htm">
+                      <input type="hidden" name="subject" value="Kitchener Quote">
+                    </p>
+                  </div>
+                </div>
+              </form>
+            </div>
+
+          </div>
+        </div>
+      </div>
+                </div>
+<hr>
+              
+
+            
+
+            </div><!-- /.card -->
+          </div><!-- /.col -->
+       
+     
+
+      
+    </div><!-- /.row -->
+
+    <div class="row">
+      <div class="text-center p-3 col-md-2 col-xl-2 offset-xl-3 offset-md-2 col-4 col-lg-2 col-sm-3">
+        <img src="/CFN%20Images/Banners/Ontario/Flag_of_Canada75.jpg" alt="Canadian flag" width="76" height="38" class="rounded float-right img-fluid">
+      </div>
+      <div class="text-center p-3 col-md-6 col-8 col-xl-4 col-lg-6 col-sm-9">
+         <h6>Charter Flight Network - 100% Canadian Owned &amp; Operated. Finding Clients The Most Cost Efficient Air Charter Options Since 2008</h6>
+      </div>
+    </div>
+
+    <hr>
+
+    <section>
+      <div class="container-fluid">
+<div class="row m-1">
+             
+            <div class="card col-xl-12 col-lg-12 col-md-12">             <div class="card-body">
+              <h5 class="text-center card-title">Click Any Province or Territory To Search All Air Charter Options</h5>
+              <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-6 col-12"> <ul class="mb-3">
+  <li><a href="alberta_charter_flights.htm">Alberta</a></li>
+  <li><a href="british_columbia_charter_flights.htm">British Columbia</a></li>
+  <li><a href="labrador_charter_flights.htm">Labrador</a></li>
+  <li><a href="manitoba_charter_flights.htm">Manitoba</a></li>
+  <li><a href="new_brunswick_charter_flights.htm">New Brunswick</a></li>
+  <li><a href="newfoundland_charter_flights.htm">Newfoundland</a></li>
+  <li><a href="nwt_charter_flights.htm">Northwest Territories</a></li>
+</ul></div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-12">  <ul class="mb-3">
+  <li><a href="nova_scotia_charter_flights.htm">Nova Scotia</a></li>
+  <li><a href="nunavut_charter_flights.htm">Nunavut</a></li>
+  <li><a href="ontario_charter_flights.htm">Ontario (Northern)</a></li>
+  <li><a href="southern_ontario_charter_flights.htm">Ontario (Southern)</a></li>
+  <li><a href="quebec_charter_flights.htm">Quebec</a></li>
+  <li><a href="saskatchewan_charter_flights.htm">Saskatchewan</a></li>
+  <li><a href="yukon_charter_flights.htm">Yukon</a></li>
+</ul></div>
+              </div>
+               
+                <p class="text-center">Click any link to view a list of popular air charter destinations for each province and territory </p>
+             
+				
+			 
+             
+                </div>
+            </div>
+          
+        </div><hr>
+      </div>
+    </section>
+
+    <hr>
+
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-lg-12 offset-xl-0 col-xl-12">
+          <div class="p-3 mb-2 bg-dark text-white text-center"></div>
+          <div class="row">
+            <div class="col-lg-4 col-md-6 col-sm-6 mb-md-0 mb-2">
+              <h4>Contact Us</h4>
+              <address>
+                <strong>Charter Flight Network</strong><br>
+                401 A Donald St West<br>
+                Thunder Bay, Ontario P7E 5Y1<br>
+                <abbr title="Phone">P:</abbr> (807) 472-1955
+              </address>
+            </div>
+
+            <div class="col-lg-4 col-md-6 col-12 col-xl-3">
+              <h5>LINKS</h5>
+              <h6><a href="privacy_policy.htm">Privacy Policy</a></h6>
+              <h6><a href="about_charter_flight_network.htm">About Us</a></h6>
+              <h6><a href="index.html">Index / Home Page</a></h6>
+            </div>
+
+            <div class="col-lg-4 col-12 col-xl-5">
+              <h5 class="text-center">Charter Quote Request Service</h5>
+              Every quote request generated, forwards to the charter airlines best positioned and equipped to provide the service. Each company prepares a competitive quote and sends it directly to your email.&nbsp;&nbsp; <a href="charter_quote_request_service.html">&nbsp;Discover how to link your charter airline to our distribution list</a>
+            </div>
+
+            <div class="col-12">
+              <h6 class="text-center">CharterFlightNetwork.com is not a charter service provider. We do not own nor operate any aircraft. All charter quotes are generated by the charter airlines who are best positioned and equipped to provide the service requested. Should you decide to book a charter flight, you book directly with the charter airline of your choice and all flight arrangements and payments are made directly with the airline</h6>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <hr>
+
+    <footer class="text-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-12"><p>Copyright © Charter Flight Network All rights reserved.</p></div>
+        </div>
+      </div>
+    </footer>
+  </div><!-- /.container-fluid wrapper end -->
+
+  <!-- Scripts: defer to avoid render-blocking -->
+  <script src="js/jquery-3.4.1.min.js" defer></script>
+  <script src="js/popper.min.js" defer></script>
+  <script src="js/bootstrap-4.4.1.js" defer></script>
+</body>
+</html>

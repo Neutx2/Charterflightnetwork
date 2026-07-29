@@ -1,0 +1,369 @@
+---
+/**
+ * Charter quote request form — multi-step with progressive enhancement.
+ *
+ * Preserves the legacy conversion funnel exactly:
+ *   POST SITE.formEndpoint (formmailer.php on the existing shared host)
+ *   hidden: recipient, redirect, subject  ·  honeypot: "website"
+ *   field names match the legacy form so formmailer.php keeps working as-is.
+ *
+ * Without JavaScript the form renders as one plain single-page form and
+ * submits natively. With JavaScript it becomes a 3-step flow (trip →
+ * aircraft → contact) with a progress indicator — multi-step lead forms
+ * convert materially better at the same traffic.
+ *
+ * TODO(deploy): If deploying to Netlify instead of the existing shared host,
+ * formmailer.php will not exist. Switch by (1) adding `data-netlify="true"`
+ * and `name="charter-quote"` to <form>, (2) changing action to "/quote-confirmation",
+ * (3) adding <input type="hidden" name="form-name" value="charter-quote">.
+ * The static fallback form for Netlify build-bots is in public/netlify-forms.html.
+ */
+import { SITE } from '../lib/site';
+import AircraftIcon from './AircraftIcon.astro';
+
+interface Props {
+  /** Email subject line forwarded by formmailer.php, e.g. "Charter Flights Thunder Bay ON" */
+  subject?: string;
+  /** Prefill for the destination field (e.g. the page's city) */
+  flyTo?: string;
+  compact?: boolean;
+}
+
+const { subject = 'Charter Quote Request', flyTo } = Astro.props;
+
+// icon: silhouette from AircraftIcon; piston and wheel planes share the
+// turboprop profile (straight wing + prop disc) - visually honest for all three
+const aircraft = [
+  { name: 'Jet', label: 'Jet', icon: 'jet' },
+  { name: 'Turboprop', label: 'Turboprop', icon: 'turboprop' },
+  { name: 'Piston', label: 'Piston Aircraft', icon: 'turboprop' },
+  { name: 'Wheels', label: 'Wheel Plane', icon: 'turboprop' },
+  { name: 'Floats', label: 'Float Plane', icon: 'float' },
+  { name: 'Helicopter', label: 'Helicopter', icon: 'helicopter' },
+] as const;
+
+const inputCls =
+  'w-full rounded-lg border border-slate-300 bg-white px-3.5 py-2.5 text-slate-900 placeholder-slate-400 shadow-sm focus:border-lake-500 focus:outline-none focus:ring-2 focus:ring-lake-500/30';
+const labelCls = 'block text-sm font-semibold text-slate-700 mb-1.5';
+const uid = subject.length; // pages render at most one quote form
+---
+
+<form
+  method="post"
+  action={SITE.formEndpoint}
+  class="quote-form"
+  novalidate
+  aria-label="Charter quote request"
+>
+  <!-- honeypot (legacy anti-spam, keep name="website") -->
+  <div class="absolute -left-[5000px] top-auto h-px w-px overflow-hidden" aria-hidden="true">
+    <label for={`website-${uid}`}>Website</label>
+    <input type="text" id={`website-${uid}`} name="website" tabindex="-1" autocomplete="off" />
+  </div>
+
+  <!--
+    Pre-paint collapse to step 1, so the multi-step enhancement (a deferred
+    module that runs after first paint) causes no layout shift. The js-ms CSS
+    below reproduces the enhancement's step-1 state exactly; the module takes
+    over by setting data-ms-ready and dropping the class.
+
+    Self-healing: if the module never runs (blocked, failed, still loading on
+    a bad connection), the watchdog removes js-ms after 3s and the form is the
+    plain single-page version again — the contact fields must never be
+    trapped behind a step UI that isn't there.
+  -->
+  <script is:inline>
+    (function () {
+      var f = document.currentScript && document.currentScript.closest('form');
+      if (!f) return;
+      f.classList.add('js-ms');
+      setTimeout(function () {
+        if (!f.dataset.msReady) f.classList.remove('js-ms');
+      }, 3000);
+    })();
+  </script>
+
+  <!-- progress indicator: hidden without JS -->
+  <div class="quote-progress hidden mb-6" aria-hidden="true">
+    <div class="flex items-center justify-between text-xs font-semibold text-slate-600 mb-2">
+      <span data-step-label="1" class="text-lake-800">1 · Your trip</span>
+      <span data-step-label="2">2 · Aircraft</span>
+      <span data-step-label="3">3 · Your details</span>
+    </div>
+    <div class="relative">
+      <div class="h-1.5 rounded-full bg-birch-200 overflow-hidden">
+        <div class="quote-progress-bar h-full w-1/3 rounded-full bg-boreal-600 transition-all duration-300"></div>
+      </div>
+      <!-- the brand aircraft rides the tip of the bar (left synced in render) -->
+      <svg
+        class="quote-progress-plane absolute top-1/2 h-6 w-6 -translate-x-1/2 -translate-y-1/2 text-ember-500 transition-all duration-300"
+        style="left: 33.333%"
+        viewBox="0 0 64 64"
+        fill="currentColor"
+      >
+        <g transform="rotate(70 32 32)">
+          <path d="M32 8c2.6 0 4.2 2.9 4.2 7.4v9.1l16.3 9.6c.9.5 1.5 1.5 1.5 2.6v4.1c0 .9-.9 1.6-1.8 1.3l-16-5.2v9.4l4.6 3.7c.5.4.8 1 .8 1.6v2.2c0 .8-.7 1.3-1.4 1.1L32 52.8l-8.2 1.1c-.7.2-1.4-.3-1.4-1.1v-2.2c0-.6.3-1.2.8-1.6l4.6-3.7v-9.4l-16 5.2c-.9.3-1.8-.4-1.8-1.3v-4.1c0-1.1.6-2.1 1.5-2.6l16.3-9.6v-9.1C27.8 10.9 29.4 8 32 8z" />
+        </g>
+      </svg>
+    </div>
+  </div>
+
+  <!-- STEP 1 — trip -->
+  <div class="quote-step grid gap-4 sm:grid-cols-2" data-step="1">
+    <div>
+      <label class={labelCls} for={`FlyFrom-${uid}`}>Fly from <span class="text-red-600">*</span></label>
+      <input class={inputCls} type="text" id={`FlyFrom-${uid}`} name="FlyFrom" placeholder="Departure city or airport" required autocomplete="off" />
+    </div>
+    <div>
+      <label class={labelCls} for={`FlyTo-${uid}`}>Fly to <span class="text-red-600">*</span></label>
+      <input class={inputCls} type="text" id={`FlyTo-${uid}`} name="FlyTo" placeholder="Destination city or airport" value={flyTo} required autocomplete="off" />
+    </div>
+
+    <fieldset class="sm:col-span-2">
+      <legend class="text-sm font-semibold text-slate-700 mb-1.5">Trip type</legend>
+      <div class="flex gap-4">
+        <label class="inline-flex items-center gap-2 text-sm text-slate-700">
+          <input type="radio" name="TripType" value="Return" checked class="h-4 w-4 accent-lake-600" data-trip-type />
+          Return
+        </label>
+        <label class="inline-flex items-center gap-2 text-sm text-slate-700">
+          <input type="radio" name="TripType" value="One-way" class="h-4 w-4 accent-lake-600" data-trip-type />
+          One-way
+        </label>
+      </div>
+    </fieldset>
+
+    <!-- Dates and passenger count share one row so Passengers isn't left
+         stranded alone on a half-width final row. -->
+    <div class="sm:col-span-2 grid gap-4 sm:grid-cols-3">
+      <div>
+        <label class={labelCls} for={`DepartDate-${uid}`}>Departure date</label>
+        <input class={inputCls} type="date" id={`DepartDate-${uid}`} name="DepartDate" />
+      </div>
+      <div data-return-date-wrap>
+        <label class={labelCls} for={`ReturnDate-${uid}`}>Return date</label>
+        <input class={inputCls} type="date" id={`ReturnDate-${uid}`} name="ReturnDate" />
+      </div>
+      <div>
+        <label class={labelCls} for={`Passengers-${uid}`}>Passengers <span class="text-red-600">*</span></label>
+        <input class={inputCls} type="number" min="1" inputmode="numeric" id={`Passengers-${uid}`} name="Passengers" required />
+      </div>
+    </div>
+  </div>
+
+  <!-- STEP 2 — aircraft & notes -->
+  <div class="quote-step grid gap-4 mt-4" data-step="2">
+    <fieldset>
+      <legend class="text-sm font-semibold text-slate-700 mb-1.5">Aircraft preference <span class="font-normal text-slate-600">— select one or more</span></legend>
+      <div class="grid grid-cols-2 gap-x-4 gap-y-2 sm:grid-cols-3">
+        {aircraft.map((a) => (
+          <label class="inline-flex items-center gap-2 text-sm text-slate-700">
+            <input type="checkbox" name={a.name} value={a.name} class="h-4 w-4 rounded accent-lake-600" />
+            <AircraftIcon type={a.icon} class="h-5 w-9 shrink-0 text-lake-500" aria-hidden="true" />
+            {a.label}
+          </label>
+        ))}
+      </div>
+    </fieldset>
+
+    <div>
+      <label class={labelCls} for={`OtherInfo-${uid}`}>Comments or alternate departure city</label>
+      <textarea class={inputCls} id={`OtherInfo-${uid}`} name="OtherInfo" rows="4"></textarea>
+    </div>
+  </div>
+
+  <!-- STEP 3 — contact -->
+  <div class="quote-step grid gap-4 sm:grid-cols-2 mt-4" data-step="3">
+    <div>
+      <label class={labelCls} for={`Name-${uid}`}>Name <span class="text-red-600">*</span></label>
+      <input class={inputCls} type="text" id={`Name-${uid}`} name="Name" autocomplete="name" required />
+    </div>
+    <div>
+      <label class={labelCls} for={`Email-${uid}`}>Email <span class="text-red-600">*</span></label>
+      <input class={inputCls} type="email" id={`Email-${uid}`} name="Email" autocomplete="email" required />
+    </div>
+    <div>
+      <label class={labelCls} for={`Phone-${uid}`}>Phone</label>
+      <input class={inputCls} type="tel" id={`Phone-${uid}`} name="Phone" autocomplete="tel" />
+    </div>
+    <div>
+      <label class={labelCls} for={`City-${uid}`}>Your city / province</label>
+      <input class={inputCls} type="text" id={`City-${uid}`} name="City" autocomplete="address-level2" />
+    </div>
+  </div>
+
+  <p class="mt-4 text-xs text-slate-600">
+    <strong>Privacy:</strong> we don’t share your name or contact info with airlines.
+    Your request is assigned a unique ID; airlines submit quotes for that ID and we
+    forward them to you.
+  </p>
+
+  <div class="mt-5 flex flex-col items-center gap-3 sm:flex-row">
+    <button
+      type="button"
+      class="quote-back hidden w-full sm:w-auto rounded-lg border border-slate-300 px-6 py-3.5 text-base font-semibold text-slate-700 hover:bg-birch-100 transition-colors"
+    >
+      Back
+    </button>
+    <button
+      type="button"
+      class="quote-next hidden w-full sm:w-auto rounded-lg bg-ember-500 px-8 py-3.5 text-base font-bold text-lake-950 shadow-md hover:bg-ember-400 transition-colors"
+    >
+      Continue
+    </button>
+    <button
+      type="submit"
+      class="quote-submit w-full sm:w-auto rounded-lg bg-ember-500 px-8 py-3.5 text-base font-bold text-lake-950 shadow-md hover:bg-ember-400 transition-colors"
+    >
+      Request Competitive Quotes
+    </button>
+    <span class="text-sm text-slate-600">or call <a href={SITE.phoneHref} class="font-semibold text-lake-700 hover:underline">{SITE.phone}</a></span>
+  </div>
+
+  <p class="quote-form-error mt-3 hidden rounded-lg bg-red-50 px-4 py-3 text-sm font-medium text-red-800" role="alert"></p>
+  <p class="quote-step-announce sr-only" aria-live="polite"></p>
+
+  <input type="hidden" name="recipient" value="phil@charterflightnetwork.com" />
+  <input type="hidden" name="redirect" value="https://charterflightnetwork.com/quote-confirmation" />
+  <input type="hidden" name="subject" value={subject} />
+  <input type="hidden" name="SourcePage" value={Astro.url.pathname} />
+</form>
+
+<style>
+  /* The pre-paint step-1 state, byte-for-byte what the enhancement's first
+     render() produces, so the module's takeover moves nothing (CLS 0). These
+     out-specify Tailwind's .hidden while js-ms is on; the module removes the
+     class after its first render and the utility classes rule again. */
+  form.quote-form.js-ms :global(.quote-step[data-step='2']),
+  form.quote-form.js-ms :global(.quote-step[data-step='3']) {
+    display: none;
+  }
+  form.quote-form.js-ms :global(.quote-progress) {
+    display: block;
+  }
+  form.quote-form.js-ms :global(.quote-next) {
+    display: inline-block;
+  }
+  form.quote-form.js-ms :global(.quote-submit) {
+    display: none;
+  }
+</style>
+
+<script>
+  // Multi-step flow + validation + one-way/return toggle. Without JS the form
+  // renders as one plain page and submits natively.
+  document.querySelectorAll<HTMLFormElement>('form.quote-form').forEach((form) => {
+    const returnWrap = form.querySelector<HTMLElement>('[data-return-date-wrap]');
+    const returnInput = returnWrap?.querySelector<HTMLInputElement>('input');
+    form.querySelectorAll<HTMLInputElement>('[data-trip-type]').forEach((radio) => {
+      radio.addEventListener('change', () => {
+        const oneWay = radio.value === 'One-way' && radio.checked;
+        if (returnWrap) returnWrap.classList.toggle('hidden', oneWay);
+        if (oneWay && returnInput) returnInput.value = '';
+      });
+    });
+
+    const errorBox = form.querySelector<HTMLElement>('.quote-form-error');
+    const showError = (msg: string) => {
+      if (!errorBox) return;
+      errorBox.textContent = msg;
+      errorBox.classList.remove('hidden');
+      errorBox.scrollIntoView({ block: 'center', behavior: 'smooth' });
+    };
+    const clearError = () => errorBox?.classList.add('hidden');
+
+    const validateWithin = (root: HTMLElement | HTMLFormElement): string[] => {
+      const missing: string[] = [];
+      root.querySelectorAll<HTMLInputElement>('input[required]').forEach((input) => {
+        input.classList.remove('border-red-500');
+        if (!input.value.trim() || (input.type === 'email' && !input.checkValidity())) {
+          missing.push(
+            input.closest('div')?.querySelector('label')?.textContent?.replace('*', '').trim() ?? input.name
+          );
+          input.classList.add('border-red-500');
+        }
+      });
+      return missing;
+    };
+
+    // ---- multi-step enhancement ----
+    const steps = Array.from(form.querySelectorAll<HTMLElement>('.quote-step'));
+    const progress = form.querySelector<HTMLElement>('.quote-progress');
+    const bar = form.querySelector<HTMLElement>('.quote-progress-bar');
+    const backBtn = form.querySelector<HTMLElement>('.quote-back');
+    const nextBtn = form.querySelector<HTMLElement>('.quote-next');
+    const submitBtn = form.querySelector<HTMLElement>('.quote-submit');
+    let current = 0;
+
+    const stepNames = ['Your trip', 'Aircraft', 'Your details'];
+    const announce = form.querySelector<HTMLElement>('.quote-step-announce');
+    const render = () => {
+      steps.forEach((s, i) => s.classList.toggle('hidden', i !== current));
+      if (announce) announce.textContent = `Step ${current + 1} of ${steps.length}: ${stepNames[current] ?? ''}`;
+      progress?.classList.remove('hidden');
+      const pct = ((current + 1) / steps.length) * 100;
+      if (bar) bar.style.width = `${pct}%`;
+      const plane = form.querySelector<HTMLElement>('.quote-progress-plane');
+      if (plane) plane.style.left = `${pct}%`;
+      form.querySelectorAll<HTMLElement>('[data-step-label]').forEach((l, i) => {
+        l.classList.toggle('text-lake-800', i <= current);
+      });
+      backBtn?.classList.toggle('hidden', current === 0);
+      nextBtn?.classList.toggle('hidden', current === steps.length - 1);
+      submitBtn?.classList.toggle('hidden', current !== steps.length - 1);
+    };
+
+    if (steps.length === 3 && progress && nextBtn && submitBtn) {
+      render();
+      nextBtn.addEventListener('click', () => {
+        const missing = validateWithin(steps[current]!);
+        if (missing.length) {
+          showError(`Please complete: ${missing.join(', ')}.`);
+          return;
+        }
+        clearError();
+        current = Math.min(current + 1, steps.length - 1);
+        render();
+        form.scrollIntoView({ block: 'start', behavior: 'smooth' });
+      });
+      backBtn?.addEventListener('click', () => {
+        clearError();
+        current = Math.max(current - 1, 0);
+        render();
+      });
+    }
+
+    // Hand over from the pre-paint js-ms state (see the inline script in the
+    // markup). Marking ready stops the watchdog; dropping the class returns
+    // display control to the utility classes render() manages. When the
+    // multi-step branch didn't run, this restores the single-page form.
+    form.dataset.msReady = '1';
+    form.classList.remove('js-ms');
+
+    form.addEventListener('submit', (e) => {
+      const missing = validateWithin(form);
+      if (!missing.length) {
+        // Conversion signal for GA4 (tag already loaded site-wide). Sends no
+        // personal data — only which form and which page it came from.
+        const gtag = (window as any).gtag;
+        if (typeof gtag === 'function') {
+          gtag('event', 'generate_lead', {
+            form_subject: (form.querySelector('input[name="subject"]') as HTMLInputElement)?.value ?? '',
+            source_page: (form.querySelector('input[name="SourcePage"]') as HTMLInputElement)?.value ?? location.pathname,
+          });
+        }
+      }
+      if (missing.length) {
+        e.preventDefault();
+        // jump to the first step containing a missing required field
+        const firstBad = form.querySelector<HTMLElement>('input.border-red-500');
+        const badStep = firstBad?.closest<HTMLElement>('.quote-step');
+        if (badStep && steps.length) {
+          current = steps.indexOf(badStep);
+          render();
+        }
+        showError(`Please complete: ${missing.join(', ')}.`);
+      }
+    });
+  });
+</script>

@@ -1,0 +1,91 @@
+# Weekly autonomous revenue-optimization loop (see docs/REVENUE_LOOP_PLAYBOOK.md).
+#
+# INACTIVE until the owner configures secrets:
+#   CLAUDE_CODE_OAUTH_TOKEN  (run `claude setup-token` locally)
+#   GSC_SA_KEY               (GCP service-account JSON; add its email as a
+#                             Search Console user or every call 403s)
+#   GSC_SITE                 (e.g. sc-domain:charterflightnetwork.com)
+#   PSI_API_KEY              (PageSpeed Insights API key)
+# Without secrets each run exits early with a notice instead of failing red.
+#
+# NOTE: cron only fires from the DEFAULT branch — the schedule activates once
+# the modernization PR merges to main. Use workflow_dispatch to smoke-test.
+name: Revenue Optimization Loop
+
+on:
+  schedule:
+    - cron: "0 8 * * 0" # Sundays 08:00 UTC
+  workflow_dispatch:
+
+concurrency:
+  group: revenue-loop # never overlap runs
+  cancel-in-progress: false
+
+permissions:
+  contents: write # create branch/commits
+  pull-requests: write # open PR
+  id-token: write
+
+jobs:
+  loop:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Check secrets configured
+        id: gate
+        env:
+          HAS_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN != '' }}
+          HAS_GSC: ${{ secrets.GSC_SA_KEY != '' }}
+        run: |
+          if [ "$HAS_TOKEN" != "true" ] || [ "$HAS_GSC" != "true" ]; then
+            echo "::notice::Revenue loop is dormant — configure CLAUDE_CODE_OAUTH_TOKEN, GSC_SA_KEY, GSC_SITE, PSI_API_KEY secrets to activate (see docs/REVENUE_LOOP_PLAYBOOK.md)."
+            echo "ready=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "ready=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.gate.outputs.ready == 'true'
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        if: steps.gate.outputs.ready == 'true'
+        with:
+          node-version: 22
+          cache: npm
+
+      - uses: actions/setup-python@v5
+        if: steps.gate.outputs.ready == 'true'
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        if: steps.gate.outputs.ready == 'true'
+        run: |
+          npm ci
+          pip install google-api-python-client google-auth beautifulsoup4 lxml ftfy
+
+      - name: Pull metrics (hard-stop on empty)
+        if: steps.gate.outputs.ready == 'true'
+        env:
+          GSC_SA_KEY: ${{ secrets.GSC_SA_KEY }}
+          GSC_SITE: ${{ secrets.GSC_SITE }}
+          PSI_API_KEY: ${{ secrets.PSI_API_KEY }}
+        run: python scripts/pull_metrics.py
+
+      - name: Run Claude Code loop (PR-only, scoped tools)
+        if: steps.gate.outputs.ready == 'true'
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt_file: .claude/MASTER_LOOP_PROMPT.md
+          claude_args: >
+            --max-turns 40
+            --model claude-sonnet-5
+            --allowedTools "Read,Edit,Write,Glob,Grep,
+            Bash(npm run build),Bash(npm run lint),
+            Bash(npx lhci autorun*),Bash(git add*),Bash(git checkout -b*),
+            Bash(git commit*),Bash(git push*),Bash(gh pr create*),
+            Bash(node scripts/*),Bash(python scripts/*),Bash(python3 crawl/verify.py)"
+            --disallowedTools "Bash(rm *),Bash(curl *),Bash(git push origin main*)"

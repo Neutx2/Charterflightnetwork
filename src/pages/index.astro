@@ -1,0 +1,340 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import HorizonRule from '../components/HorizonRule.astro';
+import QuoteForm from '../components/QuoteForm.astro';
+import QuoteCTA from '../components/QuoteCTA.astro';
+import AircraftIcon from '../components/AircraftIcon.astro';
+import { SITE } from '../lib/site';
+
+const title = 'Canadian Charter Flight Network - 3 Competitive Quotes';
+const description =
+  'Get free charter quotes for flights in Canada, USA, Bahamas, & Caribbean. Save up to 50% on empty leg options with direct bookings.';
+
+const regions = [
+  {
+    href: '/canada',
+    name: 'Canada',
+    blurb: 'Every province and territory — wheel plane, float plane and helicopter charters.',
+    img: '/images/regions/canada-boreal-lake-float-plane.svg',
+    alt: 'Float plane on a boreal lake in Canada',
+  },
+  {
+    href: '/usa',
+    name: 'USA',
+    blurb: 'Cross-border charters with Canadian operators licensed to fly into the USA.',
+    img: '/images/regions/usa-cross-border-charter.svg',
+    alt: 'Charter aircraft crossing into the USA',
+  },
+  {
+    href: '/bahamas',
+    name: 'Bahamas',
+    blurb: 'Island-hopping charters to the Bahamas out-islands.',
+    img: '/images/regions/bahamas-island-airstrip.svg',
+    alt: 'Island airstrip in the Bahamas',
+  },
+  {
+    href: '/caribbean',
+    name: 'Caribbean',
+    blurb: 'Private charters throughout the Caribbean islands.',
+    img: '/images/regions/caribbean-charter-flights.svg',
+    alt: 'Charter flight over Caribbean islands',
+  },
+];
+
+const aircraftTypes = [
+  {
+    href: '/aircraft/jets',
+    name: 'Jets',
+    icon: 'jet' as const,
+    blurb: 'Speed and range for business and long-haul trips.',
+  },
+  {
+    href: '/aircraft/turboprops',
+    name: 'Turboprops',
+    icon: 'turboprop' as const,
+    blurb: 'Efficient workhorses like the Pilatus PC-12 and King Air — gravel-strip capable.',
+  },
+  {
+    href: '/aircraft/float-planes',
+    name: 'Float Planes',
+    icon: 'float' as const,
+    blurb: 'Beavers, Otters and Caravans on floats — direct to lakes, lodges and outposts.',
+  },
+  {
+    href: '/aircraft/helicopters',
+    name: 'Helicopters',
+    icon: 'helicopter' as const,
+    blurb: 'Reach survey sites, remote camps and locations with no strip at all.',
+  },
+];
+
+// Migrated legacy route pages — real pages, drives internal linking
+const popularRoutes = [
+  { href: '/flights/toronto-to-chicago', label: 'Toronto → Chicago' },
+  { href: '/flights/toronto-to-montreal', label: 'Toronto → Montreal' },
+  { href: '/flights/toronto-to-boston', label: 'Toronto → Boston' },
+  { href: '/flights/toronto-to-sudbury', label: 'Toronto → Sudbury' },
+  { href: '/flights/toronto-to-sault-ste-marie', label: 'Toronto → Sault Ste Marie' },
+  { href: '/flights/toronto-teterboro', label: 'Toronto → Teterboro (NYC)' },
+  { href: '/flights/winnipeg-to-red-lake', label: 'Winnipeg → Red Lake' },
+  { href: '/flights/minneapolis-to-red-lake-ontario', label: 'Minneapolis → Red Lake' },
+  { href: '/flights/kitchener-to-montreal-quebec', label: 'Kitchener → Montreal' },
+  { href: '/flights/kitchener-to-raleigh-durham', label: 'Kitchener → Raleigh-Durham' },
+  { href: '/flights/campbell-river-from-calgary', label: 'Calgary → Campbell River' },
+];
+
+const steps = [
+  {
+    n: '1',
+    title: 'Tell us about your trip',
+    body: 'Use our free, no-obligation quote request for wheel plane, float plane or helicopter charter flights in any province or territory of Canada, into the USA, or even the Bahamas and Caribbean.',
+  },
+  {
+    n: '2',
+    title: 'We match you with the right operators',
+    body: 'Our database searches our network of over 400 charter airlines across Canada and sends your request to up to 3 charter airlines best positioned and equipped to provide the service requested.',
+  },
+  {
+    n: '3',
+    title: 'Compare quotes, book direct',
+    body: 'Each charter company prepares a competitive quote and sends it directly to your email. There is never an obligation — if a quote works for you, you confirm scheduling and payment directly with the charter company.',
+  },
+];
+---
+
+<BaseLayout title={title} description={description}>
+  <!-- HERO -->
+  <section class="relative overflow-hidden bg-lake-950 text-white">
+    <div class="absolute inset-0" aria-hidden="true">
+      <img
+        src="/images/hero/boreal-lake-float-plane-dawn.svg"
+        alt=""
+        class="h-full w-full object-cover opacity-90"
+        fetchpriority="high"
+      />
+      <!-- Left-weighted scrim: keeps the headline legible without flattening
+           the right third, where the aircraft and the dawn glow live. -->
+      <div class="absolute inset-0 bg-gradient-to-r from-lake-950 via-lake-950/70 to-transparent"></div>
+      <div class="absolute inset-0 bg-gradient-to-b from-lake-950/55 via-transparent to-lake-950"></div>
+    </div>
+    <div class="relative mx-auto max-w-7xl px-4 sm:px-6 pt-16 pb-20 sm:pt-24 sm:pb-28">
+      <div class="max-w-3xl">
+        <p class="mb-4 inline-flex items-center gap-2 rounded-full bg-white/10 px-3.5 py-1.5 text-xs sm:text-sm font-semibold text-lake-100 ring-1 ring-white/20">
+          <span class="text-base" aria-hidden="true">🍁</span>
+          Proudly Canadian owned &amp; operated since {SITE.founded}
+        </p>
+        <h1 class="font-display text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight tracking-tight">
+          Charter flights across Canada&thinsp;—&thinsp;<span class="text-ember-400">up to 3 competitive quotes</span>, free.
+        </h1>
+        <p class="mt-5 max-w-2xl text-lg text-lake-100 leading-relaxed">
+          {SITE.tagline}. One free request through Charter Flight Network
+          reaches a network of {SITE.networkSizeShort} —
+          the operators best positioned and equipped for your trip quote you
+          directly. No cost. No obligation. Book direct.
+        </p>
+        <div class="mt-8 flex flex-col sm:flex-row sm:flex-wrap sm:items-center gap-3 sm:gap-4">
+          <a href="/quote" class="rounded-lg bg-ember-500 px-8 py-4 text-center text-lg font-bold text-lake-950 shadow-lg hover:bg-ember-400 transition-colors">
+            Get Free Quotes
+          </a>
+          <a href={SITE.phoneHref} class="rounded-lg border border-white/30 px-6 py-4 text-center text-lg font-semibold text-white hover:bg-white/10 transition-colors">
+            Call {SITE.phone}
+          </a>
+        </div>
+        <!-- Direct line into the operator finder: plain GET form, no JS needed
+             here — /directory reads the q param and opens pre-filtered. -->
+        <form action="/directory/" method="get" class="mt-6 flex max-w-xl gap-2" role="search">
+          <label class="sr-only" for="home-operator-q">Search charter operators</label>
+          <input
+            id="home-operator-q"
+            type="search"
+            name="q"
+            placeholder="Or search 480 operators — name, city or base…"
+            class="w-full rounded-lg border border-white/25 bg-white/10 px-4 py-3 text-white placeholder-lake-200 focus:border-white/60 focus:outline-none focus:ring-2 focus:ring-white/30"
+          />
+          <button
+            type="submit"
+            class="shrink-0 rounded-lg border border-white/30 px-5 py-3 font-semibold text-white hover:bg-white/10 transition-colors"
+          >
+            Search
+          </button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- TRUST STRIP -->
+  <section class="border-y border-birch-200 bg-white">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 py-4">
+      <ul class="flex flex-col sm:flex-row items-center justify-center gap-2 sm:gap-10 text-sm font-semibold text-lake-800">
+        <li class="flex items-center gap-2">
+          <svg class="h-5 w-5 text-boreal-600" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path fill-rule="evenodd" d="M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12zm13.36-1.814a.75.75 0 10-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 00-1.06 1.06l2.25 2.25a.75.75 0 001.14-.094l3.75-5.25z" clip-rule="evenodd"/></svg>
+          Up to 3 competitive quotes
+        </li>
+        <li class="flex items-center gap-2">
+          <svg class="h-5 w-5 text-boreal-600" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path fill-rule="evenodd" d="M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12zm13.36-1.814a.75.75 0 10-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 00-1.06 1.06l2.25 2.25a.75.75 0 001.14-.094l3.75-5.25z" clip-rule="evenodd"/></svg>
+          No cost, no obligation
+        </li>
+        <li class="flex items-center gap-2">
+          <svg class="h-5 w-5 text-boreal-600" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path fill-rule="evenodd" d="M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12zm13.36-1.814a.75.75 0 10-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 00-1.06 1.06l2.25 2.25a.75.75 0 001.14-.094l3.75-5.25z" clip-rule="evenodd"/></svg>
+          Book direct with the operator
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- HOW IT WORKS -->
+  <section class="mx-auto max-w-7xl px-4 sm:px-6 py-16 sm:py-20">
+    <h2 class="font-display text-3xl sm:text-4xl font-bold text-lake-900 text-center">
+      How our quote service works
+    </h2>
+    <p class="mt-3 text-center text-slate-600 max-w-2xl mx-auto">
+      Connect to a pool of over 400 charter airlines across Canada and receive up to 3
+      competitive quotes.
+    </p>
+    <div class="mt-12 grid gap-8 md:grid-cols-3">
+      {steps.map((step) => (
+        <div class="relative rounded-2xl bg-white p-8 shadow-sm ring-1 ring-birch-200">
+          <span class="flex h-12 w-12 items-center justify-center rounded-full bg-boreal-600 font-display text-xl font-bold text-white" aria-hidden="true">
+            {step.n}
+          </span>
+          <h3 class="mt-5 font-display text-xl font-semibold text-lake-900">{step.title}</h3>
+          <p class="mt-3 text-slate-600 leading-relaxed">{step.body}</p>
+        </div>
+      ))}
+    </div>
+    <p class="mt-8 text-center text-sm text-slate-600 max-w-3xl mx-auto">
+      <strong>Privacy:</strong> we don’t share your name or contact info with airlines.
+      Your request is assigned a unique ID; airlines submit quotes for that ID and we
+      forward them to you.
+    </p>
+  </section>
+
+  <!-- REGIONS -->
+  <section class="bg-white border-y border-birch-200">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 py-16 sm:py-20">
+      <h2 class="font-display text-3xl sm:text-4xl font-bold text-lake-900 text-center">
+        Where do you need to fly?
+      </h2>
+      <p class="mt-3 text-center text-slate-600 max-w-2xl mx-auto">
+        Charter quotes for any province or territory — plus cross-border trips to the
+        USA, Bahamas and Caribbean.
+      </p>
+      <div class="mt-12 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+        {regions.map((region) => (
+          <a
+            href={region.href}
+            class="group relative overflow-hidden rounded-2xl ring-1 ring-birch-200 shadow-sm hover:shadow-lg transition-shadow"
+          >
+            <img src={region.img} alt={region.alt} width="480" height="300" loading="lazy" class="aspect-[8/5] w-full object-cover transition-transform duration-300 group-hover:scale-105" />
+            <div class="absolute inset-0 bg-gradient-to-t from-lake-950/85 via-lake-950/25 to-transparent"></div>
+            <div class="absolute inset-x-0 bottom-0 p-5">
+              <h3 class="font-display text-2xl font-bold text-white">{region.name}</h3>
+              <p class="mt-1 text-sm text-lake-100 leading-snug">{region.blurb}</p>
+              <span class="mt-2 inline-block text-sm font-semibold text-ember-400 group-hover:text-ember-500">Explore destinations →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- AIRCRAFT TYPES -->
+  <section class="mx-auto max-w-7xl px-4 sm:px-6 py-16 sm:py-20">
+    <h2 class="font-display text-3xl sm:text-4xl font-bold text-lake-900 text-center">
+      The right aircraft for the trip
+    </h2>
+    <p class="mt-3 text-center text-slate-600 max-w-2xl mx-auto">
+      From a float plane to a fly-in fishing lodge to a jet for the board meeting —
+      tell us where you're going and let the operators propose the right machine.
+    </p>
+    <div class="mt-12 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+      {aircraftTypes.map((type) => (
+        <a href={type.href} class="group flex flex-col rounded-2xl bg-white p-6 ring-1 ring-birch-200 shadow-sm hover:ring-lake-300 hover:shadow-md transition">
+          <AircraftIcon
+            type={type.icon}
+            class="h-12 w-auto text-lake-700/85 transition-colors group-hover:text-lake-800"
+          />
+          <h3 class="mt-4 font-display text-xl font-semibold text-lake-900 group-hover:text-lake-700">{type.name}</h3>
+          <p class="mt-2 text-sm text-slate-600 leading-relaxed">{type.blurb}</p>
+          <span class="mt-auto pt-3 inline-block text-sm font-semibold text-boreal-600">Learn more →</span>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <!-- EMPTY LEGS TEASER -->
+  <section class="mx-auto max-w-7xl px-4 sm:px-6 pb-16">
+    <div class="rounded-2xl bg-boreal-800 text-white px-6 py-10 sm:px-10 flex flex-col md:flex-row md:items-center gap-6 md:justify-between">
+      <div class="max-w-2xl">
+        <h2 class="font-display text-2xl sm:text-3xl font-bold">Empty leg flights — save up to 50%</h2>
+        <p class="mt-2 text-boreal-100 leading-relaxed">
+          When an aircraft repositions without passengers, operators offer the empty
+          leg at a deep discount. Flexible on dates? Ask about empty leg options in
+          your quote request.
+        </p>
+      </div>
+      <a href="/empty-legs" class="shrink-0 rounded-lg bg-white px-6 py-3 font-bold text-boreal-800 hover:bg-birch-100 transition-colors">
+        About empty legs
+      </a>
+    </div>
+  </section>
+
+  <!-- QUOTE FORM -->
+  <section id="quote" class="bg-white border-t border-birch-200">
+    <div class="mx-auto max-w-4xl px-4 sm:px-6 py-16 sm:py-20">
+      <h2 class="font-display text-3xl sm:text-4xl font-bold text-lake-900 text-center">
+        Receive up to 3 competitive price quotes
+      </h2>
+      <p class="mt-3 text-center text-slate-600 max-w-2xl mx-auto">
+        Complete your travel details. Choose any departure point in Canada or USA.
+        With just one click, your request reaches the charter airlines best positioned
+        and equipped to provide the service you require.
+      </p>
+      <!-- The form is the only thing on this page that earns money, so it gets
+           real elevation instead of sitting flat on the section background. -->
+      <div class="mt-10 overflow-hidden rounded-2xl bg-white shadow-xl shadow-lake-950/10 ring-1 ring-birch-200">
+        <div class="border-b border-birch-200 bg-birch-50 px-6 py-4 sm:px-10">
+          <p class="flex flex-wrap items-center gap-x-6 gap-y-1 text-sm font-semibold text-lake-800">
+            <span class="flex items-center gap-1.5">
+              <svg class="h-4 w-4 text-boreal-600" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path fill-rule="evenodd" d="M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12zm13.36-1.814a.75.75 0 10-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 00-1.06 1.06l2.25 2.25a.75.75 0 001.14-.094l3.75-5.25z" clip-rule="evenodd"/></svg>
+              Takes about a minute
+            </span>
+            <span class="flex items-center gap-1.5">
+              <svg class="h-4 w-4 text-boreal-600" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path fill-rule="evenodd" d="M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12zm13.36-1.814a.75.75 0 10-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 00-1.06 1.06l2.25 2.25a.75.75 0 001.14-.094l3.75-5.25z" clip-rule="evenodd"/></svg>
+              No cost, no obligation
+            </span>
+          </p>
+        </div>
+        <div class="p-6 sm:p-10">
+          <QuoteForm subject="Charter Quote Request - Home Page" />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <HorizonRule class="mt-16" />
+
+  <!-- POPULAR ROUTES (internal links to migrated route pages) -->
+  <section class="mx-auto max-w-7xl px-4 sm:px-6 pt-16">
+    <h2 class="font-display text-2xl font-bold text-lake-900 text-center">Popular charter routes</h2>
+    <ul class="mt-6 flex flex-wrap justify-center gap-2 text-sm">
+      {popularRoutes.map((r) => (
+        <li>
+          <a href={r.href} class="block rounded-full bg-white px-4 py-2 font-medium text-lake-700 ring-1 ring-birch-200 hover:ring-lake-300 hover:text-lake-900 transition">
+            {r.label}
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+
+  <!-- DIRECTORY CROSS-SELL -->
+  <section class="mx-auto max-w-7xl px-4 sm:px-6 py-16">
+    <QuoteCTA
+      heading="Prefer to contact operators yourself?"
+      sub="Our Canadian Air Charter Directory lists every wheel plane, float plane and helicopter charter service operating in every province and territory of Canada — contact any of them directly and request a quote."
+      ctaHref="/directory"
+      ctaLabel="Browse the directory"
+    />
+  </section>
+</BaseLayout>

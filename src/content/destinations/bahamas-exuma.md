@@ -1,0 +1,117 @@
+---
+title: "Direct Charter Flights To Exuma Bahamas / Charter Flight Network"
+description: "Direct Charter Flights To Exuma Bahamas.  Non Stop Charter Flights Direct To Exuma Bahamas"
+h1: "Exuma Bahamas - Charter Flights Direct To Exuma Bahamas From Florida and All Bahamas Islands"
+legacyUrl: "/charter_flights_exuma_bahamas.html"
+slug: "bahamas/exuma"
+thin: false
+quoteSubject: "BC Quote Request"
+region: "bahamas"
+city: "Exuma"
+---
+"Promoting The North American Air Charter Industry Since 2008"
+
+## Receive Up To Three Competitive Price Quotes For Direct Charter Flights To Exuma Bahamas
+
+Exuma Bahamas Airports
+
+## Black Point Airport
+
+The Exuma chain of islands extends 130 miles from the most southerly airport at Hog Cay to the most northerly island (cay) called Ship Channel Cay. In all, there are 365 cays and islands that make up the Exumas. About 3/4 of the way north from Great Exuma, is Black Point Airport at Great Guana Cay. You may be able to arrange charter flights to this public use airport, which has a 2,620 foot asphalt runway
+
+## Farmers Cay Airport
+
+Located between Black Point Airport and Rudder Cut Cay Airport, you will find a privately owned airport at Farmers Cay, located on the western side of the Exumas. The runway is 2,480 feet long with an asphalt surface.
+
+## George Town Airport
+
+The Island of Great Exuma is the largest island in the Exuma chain. The George Town airport is the smaller of the two airports located on this island and located on the southwest region of the island, south of George Town. The runway is 1,524 feet with asphalt surface - which restricts it to the types of charter aircraft able to use this airport.
+
+## Exuma International Airport
+
+The largest and busiest airport throughout the Exuma chain, is the Exuma Internationa Airport, located on Great Exuma at Moss Town in the central region of Great Exuma. The public use airport has a 7,000 foot runway with an asphalt surface. Regional and International charter and scheduled airlines operate in and out of this airport.
+
+## Hog Cay Airport
+
+Hog Cay is located at the most southerly tip of the Exuma chain. You may be able to arrange charter flights direct to the Hog Cay airport which has a 2,530 foot asphalt runway.
+
+## Lee Stocking Airport
+
+The Lee Stocking Airport is the first airport north of Great Exuma. Charter flights may be available direct to this airport which has a 3,200 foot asphalt runway.
+
+## Norman`s Cay Airport
+
+Norman's Cay Airport is the most northerly public use airport in the Exuma Chain and is just north of Shroud Cay. The airport has a 3,000 foot asphalt runway. Depending on your departure point, you may be able to arrange charter flights direct to Norman's Cay.
+
+## Rudder Cut Cay Airport
+
+Rudder Cut Cay Airport is located between Farmers Cay Airport to the north and Lee Stocking Airport to the south. This public use airport has a 2,150 foot gravel runway. Contact the charter airlines on this page for flight and aircraft availability details.
+
+## Sampson Cay Airport
+
+Sampson Cay Airport is located almost 3/4 of the way north along the Exuma Chain of Cays and Islands. It is found just north of Staniel Cay. The airport has a 2,000 foot Gravel runway.
+
+## Staniel Cay Airport
+
+Staniel Cay is found between Sampson Cay to the north and Black Point Airport to the south. Depending on your departure point and type of aircraft, you may be able to book a direct charter flight to Staniel Cay which has a 3,000 foot asphalt runway.
+
+## Exuma Bahamas Wheel Plane Charters
+
+Single & Multi Engine Wheel Plane Charters Across USA / Bahamas / Caribbean
+
+## Exuma Bahamas Float Plane Charters
+
+Private Float Plane Charters Across USA / Bahamas / Caribbean
+
+## Exuma Bahamas Helicopter Charters
+
+On Demand Helicopter Charters Across USA / Bahamas / Caribbean
+
+## How To Request A No Obligation Charter Quote To Destinations Throughout The Bahamas
+
+Simply Complete and Submit Our No Obligation Charter Quote Request Form Below. It Will Automatically Forward To As Many As 3 Air Charter Airlines Who Are Best Equipped and Positioned To Provide Your Flight Request. Each Airline Will Send You A Competitive Air Charter Quote Direct To Your Email. You Review The Quotes and Then Follow Up With The Company of Your Choice. There Is No Cost and No Obligation.
+
+## What Is The Difference Between A Charter Flight and A Regular Scheduled Flight?
+
+**Scheduled Flights**
+ Many airlines operate regular scheduled flights to popular destinations throughout the Bahamas. These airlines have scheduled departure and arrival times and operate to and from specific locations.
+When you book travel with a scheduled airline, you only pay for the seat you occupy along with any additional charges for baggage, or seat selection.
+**Charter Flights**
+Airlines that offer Charter Flights have no set departure or arrival times and no specific destinations. You tell the airline when and where you want to fly to and if the destination is suitable for their aircraft to operate to and from, they book their aircraft to depart according to your schedule.
+ You will either pay a set rate per mile or per hour for use of the entire aircraft and crew. This can range from as little as $800 per hour to several thousand dollars per hour depending on the aircraft type. You will pay for the aircraft to fly you to your destination as well as the cost for it to return to its base after dropping you off. So at minimum, you can expect to pay $1600 - $2000 for a short flight.
+ Airlines with multiple aircraft in their fleet can usually match the aircraft type to your situation. For example a smaller aircraft if you have only one or two passengers or a larger aircraft if you have a group traveling.
+
+Your Contact Information
+
+Links To Bahamas Air Charter Destinations
+
+* [Abaco](/bahamas/abaco)
+* [Acklins](/bahamas/acklins)
+* [Andros](/bahamas/andros)
+
+* [Berry Islands](/bahamas/berry-islands)
+* [Bimini](/bahamas/bimini)
+* [Cat Island](/bahamas/cat-island)
+
+* [Cay Sal](/bahamas/cay-sal)
+* [Crooked Island](/bahamas/crooked-island)
+* [Eleuthera](/bahamas/eleuthera)
+
+* [Exuma](/bahamas/exuma)
+* [Grand Bahama](/bahamas/grand)
+* [Inagua](/bahamas/inagua)
+
+* [Long Island](/bahamas/long-island)
+* [Mayaguana](/bahamas/mayaguana)
+* [New Providence (Nassau)](/bahamas/nassau)
+
+* [Paradise Island](/bahamas/paradise-island)
+* [Ragged Island](/bahamas/ragged-island)
+* [Rum Cay](/bahamas/rum-cay)
+* [San Salvador](/bahamas/san-salvador)
+
+## Charter Flight Network Extends Throughout North America With Network Members Throughout Canada / USA / Bahamas & Caribbean
+
+You Can Request Competitive Charter Quotes For Any Departure Point or Destination In North America / Bahamas & Caribbean. Start Your Search By Clicking Any Of The Following Links
+
+*Operate a charter service, resort or destination business? [List your service on Charter Flight Network](/operators).*

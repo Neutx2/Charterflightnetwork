@@ -1,0 +1,21 @@
+---
+import { getCollection } from 'astro:content';
+import RegionDestinationPage from '../../components/RegionDestinationPage.astro';
+
+export async function getStaticPaths() {
+  const destinations = await getCollection('destinations', (d) => d.data.region === 'caribbean');
+  return destinations.map((entry) => ({
+    params: { slug: entry.data.slug.split('/').pop() },
+    props: { entry, siblings: destinations },
+  }));
+}
+
+const { entry, siblings } = Astro.props;
+---
+
+<RegionDestinationPage
+  entry={entry}
+  siblings={siblings}
+  regionLabel="Caribbean"
+  regionPath="/caribbean"
+/>

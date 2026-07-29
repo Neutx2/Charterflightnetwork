@@ -1,0 +1,37 @@
+---
+/** Inline call-to-action band linking to /quote. */
+import { SITE } from '../lib/site';
+
+interface Props {
+  heading?: string;
+  sub?: string;
+  /** Where the button goes. Override when the copy promises something other
+   *  than the quote form — a band that says "browse the directory yourself"
+   *  and then buttons through to /quote is a dead end for that reader. */
+  ctaHref?: string;
+  ctaLabel?: string;
+}
+const {
+  heading = 'Receive up to 3 competitive charter quotes',
+  sub = 'Free, no obligation. Your request goes to the operators best positioned and equipped for your trip — quotes come straight to your email.',
+  ctaHref = '/quote',
+  ctaLabel = 'Get Free Quotes',
+} = Astro.props;
+---
+
+<div class="rounded-2xl bg-gradient-to-br from-lake-800 to-boreal-800 px-6 py-8 sm:px-10 text-white shadow-lg">
+  <div class="flex flex-col gap-5 md:flex-row md:items-center md:justify-between">
+    <div class="max-w-2xl">
+      <h2 class="font-display text-2xl font-bold">{heading}</h2>
+      <p class="mt-2 text-lake-100 leading-relaxed">{sub}</p>
+    </div>
+    <div class="flex flex-col items-start gap-2 shrink-0">
+      <a href={ctaHref} class="rounded-lg bg-ember-500 px-6 py-3 font-bold text-lake-950 whitespace-nowrap shadow hover:bg-ember-400 transition-colors">
+        {ctaLabel}
+      </a>
+      <a href={SITE.phoneHref} class="text-sm font-semibold text-lake-100 hover:text-white">
+        or call {SITE.phone}
+      </a>
+    </div>
+  </div>
+</div>

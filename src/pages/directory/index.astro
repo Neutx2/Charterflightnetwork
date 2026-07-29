@@ -1,0 +1,108 @@
+---
+import { getCollection } from 'astro:content';
+import PageHero from '../../components/PageHero.astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import QuoteCTA from '../../components/QuoteCTA.astro';
+import { SITE } from '../../lib/site';
+
+const title = 'Canadian Air Charter Directory | Wheel, Float Plane & Helicopter Charters';
+const description =
+  'Direct links to wheel plane, float plane, and helicopter charter services in every province and territory of Canada. Find the right charter operator fast.';
+
+import { MERGED_OPERATORS } from '../../lib/operator-data';
+import { isDuplicate } from '../../lib/directory-dupes';
+import { DIRECTORY_GROUPS } from '../../lib/directory-provinces';
+import OperatorFinder from '../../components/OperatorFinder.astro';
+
+// Duplicate twins are excluded from the listing — showing both put two
+// identical-looking links side by side, one of which led somewhere the
+// reader did not expect. The pages themselves stay live.
+const entries = (await getCollection('directory'))
+  .filter((e) => !isDuplicate(e.data.slug))
+  .sort((a, b) => a.data.title.localeCompare(b.data.title));
+// true unique-operator count from the merged dataset (name-normalized dedup;
+// the old name+base key double-counted ~50 formatting variants)
+const uniqueOperators = MERGED_OPERATORS.length;
+
+// group directory pages by province/region, derived from their slugs
+// (mapping shared with the operator-finder endpoint via lib/directory-provinces)
+const grouped = DIRECTORY_GROUPS.map(([label, prefixes]) => ({
+  label,
+  pages: entries.filter((e) => {
+    const base = e.data.slug.replace(/^directory\//, '');
+    return prefixes.some((p) => base.startsWith(p));
+  }),
+}));
+const groupedSlugs = new Set(grouped.flatMap((g) => g.pages.map((p) => p.data.slug)));
+const other = entries.filter((e) => !groupedSlugs.has(e.data.slug));
+---
+
+<BaseLayout title={title} description={description} canonicalPath="/directory">
+  <PageHero>
+    <Breadcrumbs crumbs={[{ label: 'Charter Directory' }]} />
+    <h1 class="mt-4 font-display text-3xl sm:text-4xl lg:text-5xl font-bold">
+      Canadian Air Charter Directory
+    </h1>
+    <p class="mt-3 max-w-3xl text-lake-100 text-lg leading-relaxed">
+      {uniqueOperators} wheel plane, float plane and helicopter charter
+      operators listed across every province and territory of Canada. Contact
+      any charter company directly and request a quote — or save time with our <a
+        href="/quote" class="underline font-semibold">free quote request service</a>.
+    </p>
+  </PageHero>
+
+  <div class="mx-auto max-w-7xl px-4 sm:px-6 py-10 sm:py-14">
+    <OperatorFinder />
+    {grouped
+      .filter((g) => g.pages.length > 0)
+      .map((g) => (
+        <section class="mb-10">
+          <h2 class="font-display text-xl font-bold text-lake-900 mb-4">{g.label}</h2>
+          <ul class="grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
+            {g.pages.map((e) => (
+              <li>
+                <a
+                  href={`/${e.data.slug}`}
+                  class="block rounded-lg bg-white px-4 py-3 text-sm font-medium text-lake-700 ring-1 ring-birch-200 hover:ring-lake-300 hover:text-lake-900 hover:shadow-sm transition"
+                >
+                  {e.data.h1 ?? e.data.title}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))}
+    <!-- ~90 legacy marketing/route pages: kept reachable (links stay in the
+         DOM, so crawl checks and search engines still see them) but collapsed
+         so the directory reads as finder + provinces, not a wall of titles -->
+    {other.length > 0 && (
+      <details class="mb-10 rounded-xl bg-white ring-1 ring-birch-200">
+        <summary class="cursor-pointer select-none px-5 py-4 font-display text-lg font-bold text-lake-900 hover:text-lake-700">
+          More charter pages — routes &amp; regional listings ({other.length})
+        </summary>
+        <ul class="grid gap-2 sm:grid-cols-2 lg:grid-cols-3 px-5 pb-5">
+          {other.map((e) => (
+            <li>
+              <a
+                href={`/${e.data.slug}`}
+                class="block rounded-lg bg-birch-50 px-4 py-3 text-sm font-medium text-lake-700 ring-1 ring-birch-200 hover:ring-lake-300 hover:text-lake-900 hover:shadow-sm transition"
+              >
+                {e.data.h1 ?? e.data.title}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </details>
+    )}
+    <p class="mt-6 text-sm text-slate-600">
+      Also available at <a
+        href={SITE.directoryUrl} class="font-semibold text-lake-700 hover:underline" target="_blank" rel="noopener noreferrer">
+        canadianaircharterdirectory.com
+      </a>.
+    </p>
+    <div class="mt-14">
+      <QuoteCTA />
+    </div>
+  </div>
+</BaseLayout>

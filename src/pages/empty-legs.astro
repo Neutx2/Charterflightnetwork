@@ -1,0 +1,137 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import QuoteForm from '../components/QuoteForm.astro';
+import { SITE } from '../lib/site';
+
+const title = 'Empty Leg Charter Flights — Save up to 50% | Charter Flight Network';
+const description =
+  'Save up to 50% on empty leg options with direct bookings. Flexible on dates? Ask about empty legs and split charters in your free quote request.';
+---
+
+<BaseLayout title={title} description={description} canonicalPath="/empty-legs">
+  <div class="bg-gradient-to-b from-boreal-900 to-boreal-800 text-white">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 py-10 sm:py-14">
+      <Breadcrumbs crumbs={[{ label: 'Empty Legs' }]} />
+      <h1 class="mt-4 font-display text-3xl sm:text-4xl lg:text-5xl font-bold">
+        Empty Leg Charter Flights
+      </h1>
+      <p class="mt-3 max-w-3xl text-boreal-100 text-lg leading-relaxed">
+        An empty leg is a repositioning flight — an aircraft returning to base
+        or heading to its next pickup with no passengers — offered at a
+        significant discount. Flexible on dates? Save up to 50% with direct
+        bookings.
+      </p>
+      <div class="mt-6 flex flex-wrap gap-3">
+        <a href="#quote" class="rounded-lg bg-ember-500 px-6 py-3 font-bold text-lake-950 hover:bg-ember-400 transition-colors">
+          Get Free Quotes
+        </a>
+        <a href={SITE.phoneHref} class="rounded-lg border border-white/30 px-5 py-3 font-semibold hover:bg-white/10 transition-colors">
+          {SITE.phone}
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="mx-auto max-w-4xl px-4 sm:px-6 py-10 sm:py-14">
+    <article class="copy">
+      <h2>What is an empty leg?</h2>
+      <p>
+        When a charter aircraft flies a one-way trip, it often has to reposition —
+        returning to base or heading to its next pickup — with no passengers on
+        board. Operators offer these repositioning flights, called empty legs, at a
+        significant discount.
+      </p>
+
+      <h2>How we find them for you</h2>
+      <p>
+        With charter airlines throughout our network flying every day, we often save
+        clients more money by identifying flights that have empty legs heading north
+        or south that match your travel requirements, or flights with partial loads
+        that are available for split charters.
+      </p>
+
+      <h2>How to catch an empty leg</h2>
+      <ul>
+        <li><strong>Be flexible on dates and times</strong> — empty legs follow the schedule of the original charter.</li>
+        <li><strong>Mention it in your quote request</strong> — note in the comments that you're open to empty leg or split charter options.</li>
+        <li><strong>Book direct</strong> — as always, you confirm scheduling and payment directly with the charter airline.</li>
+        <li>
+          <strong>Ask the operators flying your region</strong> — empty legs live with the
+          operators themselves, so it can pay to <a
+            href="/directory/#find-an-operator">search the operator directory</a> and
+          call the companies based along your route.
+        </li>
+      </ul>
+    </article>
+
+    <section class="mt-14">
+      <div class="rounded-2xl bg-boreal-800 text-white p-6 sm:p-10">
+        <h2 class="font-display text-2xl sm:text-3xl font-bold">Get empty leg alerts</h2>
+        <p class="mt-2 text-boreal-100 max-w-2xl">
+          Leave your email and preferred routes — we'll flag matching empty leg and
+          split charter opportunities from the network.
+        </p>
+        <!-- Posts to the shared form endpoint with a distinct subject tag so CFN
+             can build an alert list separate from quote requests. -->
+        <form method="post" action={SITE.formEndpoint} class="mt-6 grid gap-4 sm:grid-cols-2">
+          <div class="absolute -left-[5000px] h-px w-px overflow-hidden" aria-hidden="true">
+            <label for="el-website">Website</label>
+            <input type="text" id="el-website" name="website" tabindex="-1" autocomplete="off" />
+          </div>
+          <div>
+            <label class="block text-sm font-semibold text-boreal-100 mb-1.5" for="el-name">Name</label>
+            <input class="w-full rounded-lg border border-white/20 bg-white px-3.5 py-2.5 text-slate-900" type="text" id="el-name" name="Name" autocomplete="name" required />
+          </div>
+          <div>
+            <label class="block text-sm font-semibold text-boreal-100 mb-1.5" for="el-email">Email</label>
+            <input class="w-full rounded-lg border border-white/20 bg-white px-3.5 py-2.5 text-slate-900" type="email" id="el-email" name="Email" autocomplete="email" required />
+          </div>
+          <div class="sm:col-span-2">
+            <label class="block text-sm font-semibold text-boreal-100 mb-1.5" for="el-routes">Preferred routes or regions (optional)</label>
+            <input class="w-full rounded-lg border border-white/20 bg-white px-3.5 py-2.5 text-slate-900" type="text" id="el-routes" name="OtherInfo" placeholder="e.g. Thunder Bay ⇄ Toronto, anywhere in Northwestern Ontario" />
+          </div>
+          <div class="sm:col-span-2">
+            <button type="submit" class="rounded-lg bg-ember-500 px-8 py-3 font-bold text-lake-950 hover:bg-ember-400 transition-colors">
+              Sign Up For Alerts
+            </button>
+          </div>
+          <input type="hidden" name="recipient" value="phil@charterflightnetwork.com" />
+          <input type="hidden" name="redirect" value="https://charterflightnetwork.com/quote-confirmation?from=alerts" />
+          <input type="hidden" name="SourcePage" value={Astro.url.pathname} />
+        <input type="hidden" name="subject" value="Empty Leg Alert Signup" />
+        </form>
+      </div>
+    </section>
+
+    <script>
+      // Signup signal for GA4 — the quote form's generate_lead listener only
+      // covers .quote-form, so the alert signup needs its own. Fires only on
+      // a submit the browser accepted (required fields valid).
+      document.querySelectorAll<HTMLFormElement>('form:not(.quote-form)').forEach((form) => {
+        if (!form.querySelector('input[value="Empty Leg Alert Signup"]')) return;
+        form.addEventListener('submit', () => {
+          const gtag = (window as any).gtag;
+          if (typeof gtag === 'function') {
+            gtag('event', 'sign_up', { method: 'empty_leg_alerts', source_page: location.pathname });
+          }
+        });
+      });
+    </script>
+
+    <section id="quote" class="mt-14 scroll-mt-24">
+      <div class="rounded-2xl bg-white p-6 sm:p-10 ring-1 ring-birch-200 shadow-sm">
+        <h2 class="font-display text-2xl sm:text-3xl font-bold text-lake-900">
+          Ask about empty legs in your quote request
+        </h2>
+        <p class="mt-2 text-slate-600">
+          Add a note in the comments that you're flexible — the operators will flag
+          matching empty legs and split charter options.
+        </p>
+        <div class="mt-8">
+          <QuoteForm subject="Empty Leg Charter Quote Request" />
+        </div>
+      </div>
+    </section>
+  </div>
+</BaseLayout>

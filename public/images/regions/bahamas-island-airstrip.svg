@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img" aria-label="Charter aircraft on approach to a sandy airstrip on a Bahamian cay ringed by turquoise shallows">
+  <!-- Region card art. See canada-boreal-lake-float-plane.svg for the shared
+       layout rules: horizon y=170, aircraft upper-right, clear of the title.
+       The oversized pale disc that used to sit in the top-left corner read as
+       a stray dot rather than a sun, so it is gone. -->
+  <defs>
+    <linearGradient id="bSky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1d486b"/>
+      <stop offset=".6" stop-color="#4d8dbc"/>
+      <stop offset="1" stop-color="#cfe3f1"/>
+    </linearGradient>
+    <linearGradient id="bSea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2f6f9f"/>
+      <stop offset=".4" stop-color="#4fa3a0"/>
+      <stop offset="1" stop-color="#8dc9bd"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="480" height="300" fill="url(#bSky)"/>
+  <rect y="170" width="480" height="130" fill="url(#bSea)"/>
+
+  <!-- reef shallows stepping toward the cay -->
+  <ellipse cx="230" cy="252" rx="255" ry="70" fill="#b9e0d4" opacity=".45"/>
+  <ellipse cx="230" cy="248" rx="190" ry="50" fill="#d9e9dd" opacity=".5"/>
+  <ellipse cx="230" cy="244" rx="132" ry="34" fill="#e4d9bf" opacity=".9"/>
+
+  <!-- airstrip, in perspective across the cay -->
+  <path d="M150 254 L268 216 L284 220 L172 260 Z" fill="#faf8f4" opacity=".95"/>
+  <g stroke="#8dc9bd" stroke-width="1.6" opacity=".7"><path d="M172 250 l86-30"/></g>
+
+  <!-- palms on the near edge -->
+  <g fill="#255545">
+    <rect x="118" y="228" width="3" height="22"/>
+    <path d="M119 228c-11-5-19-2-23 4 8-1 14 0 21 3zM120 228c11-6 19-4 24 2-8 0-14 1-21 4zM120 229c-3-10 1-17 8-20-3 7-4 13-4 20z"/>
+    <rect x="318" y="236" width="3" height="20"/>
+    <path d="M319 236c-10-5-18-2-22 4 8-1 13 0 20 3zM320 236c10-6 18-4 23 2-8 0-13 1-20 4z"/>
+  </g>
+
+  <!-- aircraft on approach, upper right -->
+  <g transform="translate(300 40) rotate(4)" fill="#07131f">
+    <path d="M0 18c12-3 46-4 58-3l24 1.5c12 .8 16 8 8 10.5l-28 2.5c-24 1.5-52 0-62-11.5z"/>
+    <path d="M37 8h50c3 0 4.4 2.5 3.2 4.7l-3.6 6.9H40c-2.5 0-4.3-1.8-4.3-4.3z"/>
+    <path d="M6 16 L-21 5 l6 14 z"/>
+    <path d="M-2 19 l-19 9 7 2 z" opacity=".9"/>
+    <ellipse cx="92" cy="19" rx="1.7" ry="10" opacity=".4"/>
+  </g>
+</svg>

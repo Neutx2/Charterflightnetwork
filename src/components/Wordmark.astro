@@ -1,0 +1,91 @@
+---
+/**
+ * The full logotype, composed the way the classic logo composes it
+ * (src/assets/legacy/Logo_green_white.jpg): an orange swoosh arcing over the
+ * front of a closed-up, two-tone wordmark with the aircraft banking away at
+ * the tip — "Charterflight" white, "Network" orange, ".com" trailing lighter.
+ *
+ * That lockup is the most recognisable thing about the 2008 identity. Anyone
+ * who knew the old site reads it before they read it.
+ *
+ * The swoosh geometry lives in src/lib/wordmark-arcs.ts, which holds every
+ * variant offered for selection. To switch the site's logotype, change
+ * DEFAULT_VARIANT there — nothing else moves. Everything is sized in `em`, so
+ * arc, contrail, aircraft, type and domain scale as one unit and need no
+ * per-breakpoint tuning. Variants marked `behind` paint the art underneath
+ * the letterforms (the type gets position:relative so it occludes the SVG) —
+ * that is how the shipped teal-horizon variant tucks the aircraft's belly
+ * behind "Network".
+ *
+ * Two departures from the original, both legibility rather than taste:
+ *   · No drop shadow on the letterforms. It is the most dated part of the
+ *     original and it muddies type at the 15-18px this renders at.
+ *   · The aircraft is drawn from above rather than three-quarter — the
+ *     original's plane relies on tail detail that goes sub-pixel at this size.
+ *
+ * Companion, not replacement, to Logo.astro: this is the logotype for header
+ * and footer; Logo.astro is the square mark for places that need a container
+ * — favicon, social card, status board. The classic worked the same way, with
+ * no square mark of its own.
+ *
+ * The company name keeps its spaces everywhere it carries meaning — page
+ * titles, the JSON-LD Organization, the footer copyright, and the accessible
+ * name on the link that wraps this. Only the visual lockup closes up, exactly
+ * as the original artwork does.
+ */
+import {
+  WORDMARK_VARIANTS,
+  DEFAULT_VARIANT,
+  type WordmarkVariantName,
+} from '../lib/wordmark-arcs';
+
+interface Props {
+  class?: string;
+  /** second line; the caller decides which breakpoints show it */
+  tagline?: boolean;
+  /** override the site-wide logotype, for side-by-side comparison pages */
+  variant?: WordmarkVariantName;
+}
+const { class: cls = '', tagline = false, variant = DEFAULT_VARIANT } = Astro.props;
+const v: import('../lib/wordmark-arcs').WordmarkVariant = WORDMARK_VARIANTS[variant];
+
+// The 2008 artwork sets "Charterflight" heavy and "Network" markedly lighter.
+// Variants that predate that finding fall back to the old uniform ExtraBold.
+const heavy = v.heavy ?? 800;
+const light = v.light ?? 800;
+const track = v.track ?? '-0.035em';
+const padTop = v.padTop ?? '0.72em';
+---
+
+<span
+  class={`relative block leading-[1.12] ${cls}`}
+  style={v.under ? (tagline ? '' : 'padding-bottom:1.25em') : `padding-top:${padTop}`}
+>
+  <svg
+    class="pointer-events-none absolute"
+    style={v.place}
+    viewBox={v.viewBox}
+    preserveAspectRatio="xMinYMid meet"
+    aria-hidden="true"
+    focusable="false"
+    set:html={v.paths}
+  />
+  <span
+    class:list={['block font-display whitespace-nowrap text-white', v.behind && 'relative']}
+    style={`font-weight:${heavy};letter-spacing:${track}`}
+  >
+    Charterflight<span class="text-ember-400" style={`font-weight:${light}`}>Network</span><span
+      class="text-[0.6em] text-lake-200" style="font-weight:400">.com</span>
+  </span>
+  {tagline && (
+    <span
+      class:list={[
+        'hidden sm:block text-[11px] font-normal tracking-normal text-lake-200 whitespace-nowrap',
+        v.behind && 'relative',
+      ]}
+      style={v.under ? 'margin-top:1.2em' : ''}
+    >
+      Canadian owned &amp; operated since 2008
+    </span>
+  )}
+</span>

@@ -1,0 +1,42 @@
+---
+import { getCollection, render } from 'astro:content';
+import PageHero from '../components/PageHero.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import QuoteCTA from '../components/QuoteCTA.astro';
+
+const entries = await getCollection('pages', (p) => p.data.slug === 'about');
+const entry = entries[0];
+const Content = entry ? (await render(entry)).Content : null;
+
+const title =
+  entry?.data.title ??
+  'About Charter Flight Network | Canada’s Leading Air Charter Authority';
+const description =
+  entry?.data.description ??
+  'Charter Flight Network has been connecting clients to cost-efficient jet, turboprop, piston, float plane, and helicopter charters across Canada since 2008.';
+---
+
+<BaseLayout title={title} description={description} canonicalPath="/about">
+  <PageHero>
+    <Breadcrumbs crumbs={[{ label: 'About' }]} />
+    <h1 class="mt-4 font-display text-3xl sm:text-4xl lg:text-5xl font-bold">
+      {entry?.data.h1 ?? 'About Charter Flight Network'}
+    </h1>
+    <p class="mt-3 max-w-3xl text-lake-100 text-lg leading-relaxed">
+      100% Canadian owned &amp; operated. Finding clients the most cost efficient
+      air charter options since 2008.
+    </p>
+  </PageHero>
+
+  <div class="mx-auto max-w-4xl px-4 sm:px-6 py-10 sm:py-14">
+    {Content && (
+      <article class="copy">
+        <Content />
+      </article>
+    )}
+    <div class="mt-14">
+      <QuoteCTA />
+    </div>
+  </div>
+</BaseLayout>

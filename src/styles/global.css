@@ -1,0 +1,144 @@
+@import "tailwindcss";
+
+/* Self-hosted variable fonts. font-display: optional prevents the swap-induced
+   layout shift (CLS) — the fallback stack renders if the font isn't cached. */
+@font-face {
+  font-family: "Inter Variable";
+  font-style: normal;
+  font-display: optional;
+  font-weight: 100 900;
+  src: url("/fonts/inter-latin-wght-normal.woff2") format("woff2-variations");
+}
+@font-face {
+  font-family: "Outfit Variable";
+  font-style: normal;
+  font-display: optional;
+  font-weight: 100 900;
+  src: url("/fonts/outfit-latin-wght-normal.woff2") format("woff2-variations");
+}
+
+@theme {
+  /* Deep lake blue */
+  --color-lake-50: #eef5fa;
+  --color-lake-100: #d8e8f3;
+  --color-lake-200: #b3d1e7;
+  --color-lake-300: #83b2d4;
+  --color-lake-400: #4d8dbc;
+  --color-lake-500: #2f6f9f;
+  --color-lake-600: #245a84;
+  --color-lake-700: #1d486b;
+  --color-lake-800: #173a57;
+  --color-lake-900: #12314a;
+  --color-lake-950: #0b2033;
+
+  /* Boreal green */
+  --color-boreal-50: #f0f7f4;
+  --color-boreal-100: #dbece3;
+  --color-boreal-200: #b9d9ca;
+  --color-boreal-300: #8dbfa9;
+  --color-boreal-400: #5e9f85;
+  --color-boreal-500: #3f8369;
+  --color-boreal-600: #2d6a54;
+  --color-boreal-700: #255545;
+  --color-boreal-800: #1f4438;
+  --color-boreal-900: #1a382f;
+  --color-boreal-950: #0d1f1a;
+
+  /* Warm white / birch neutrals */
+  --color-birch-50: #faf8f4;
+  --color-birch-100: #f3efe7;
+  --color-birch-200: #e5ded0;
+  --color-birch-300: #d2c7b2;
+  --color-birch-400: #b7a78c;
+  --color-birch-500: #a08e70;
+
+  /* Accent — the orange sampled straight off the classic CharterflightNetwork
+     logo (src/assets/legacy/Logo_green_white.jpg), so CTAs, the mark and the
+     wordmark all carry the colour the site has used since 2008. Every ember
+     text usage sits on a dark ground; the lightest pairing is ember-500 with
+     text-lake-950 at 6.4:1, comfortably past AA. */
+  --color-ember-400: #ff9424;
+  --color-ember-500: #ff7d02;
+  --color-ember-600: #d96500;
+
+  /* Heritage teal — the classic logo's field colour. Sits between the lake
+     blues and the boreal greens; used for the logo tile so the mark reads the
+     same on a business card as it does in a browser tab. */
+  --color-heritage-400: #2d7b8c;
+  --color-heritage-500: #1c5b6a;
+  --color-heritage-600: #164754;
+
+  --font-sans: "Inter Variable", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-display: "Outfit Variable", var(--font-sans);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
+}
+
+body {
+  @apply bg-birch-50 text-slate-800 antialiased;
+}
+
+/* Prose defaults for migrated legacy copy */
+.copy {
+  @apply text-slate-700 leading-relaxed;
+}
+.copy h2 {
+  @apply font-display text-2xl font-semibold text-lake-900 mt-10 mb-4;
+}
+.copy h3 {
+  @apply font-display text-xl font-semibold text-lake-800 mt-8 mb-3;
+}
+.copy p {
+  @apply mb-4;
+}
+/* prose bullets — but defer to components that opt out (operator card grids
+   rendered inside .copy carry list-none/p-0, which this rule would otherwise
+   out-rank on specificity) */
+.copy ul:not(.list-none) {
+  @apply list-disc pl-6 mb-4 space-y-1;
+}
+/* Legacy directory-style lists — 8+ items that are each a lone link — read
+   as page-tall single columns on destination pages. Flow them into columns
+   instead; browsers without :has() keep the single column. */
+.copy ul:not(.list-none) > li {
+  break-inside: avoid;
+}
+/* loose markdown lists wrap each item in <p>; the prose paragraph margin
+   would double every gap inside a list */
+.copy li > p {
+  @apply mb-0;
+}
+.copy ul:not(.list-none):has(> li:nth-child(8)):has(> li > a:only-child),
+.copy ul:not(.list-none):has(> li:nth-child(8)):has(> li > p:only-child > a:only-child) {
+  columns: 2;
+  column-gap: 2.5rem;
+}
+@media (min-width: 1024px) {
+  .copy ul:not(.list-none):has(> li:nth-child(8)):has(> li > a:only-child),
+  .copy ul:not(.list-none):has(> li:nth-child(8)):has(> li > p:only-child > a:only-child) {
+    columns: 3;
+  }
+}
+.copy a {
+  @apply text-lake-600 underline underline-offset-2 hover:text-lake-800;
+  /* comfortable tap targets for the dense legacy directory link lists */
+  display: inline-block;
+  padding-block: 0.2rem;
+}
+.copy strong {
+  @apply text-slate-900;
+}
