@@ -4,6 +4,7 @@ import PageHero from '../../components/PageHero.astro';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import QuoteCTA from '../../components/QuoteCTA.astro';
+import { SITE } from '../../lib/site';
 
 const title = 'Canada Charter Flights by Province & Territory | Charter Flight Network';
 const description =
@@ -34,6 +35,14 @@ const countFor = (slug?: string) => {
       connect with the charter airlines that provide service. Wheel plane, float
       plane and helicopter charters — receive up to 3 competitive quotes.
     </p>
+    <div class="mt-6 flex flex-wrap gap-3">
+      <a href="/quote" class="rounded-lg bg-ember-500 px-6 py-3 font-bold text-lake-950 hover:bg-ember-400 transition-colors">
+        Get Free Quotes
+      </a>
+      <a href={SITE.phoneHref} class="rounded-lg border border-white/30 px-5 py-3 font-semibold hover:bg-white/10 transition-colors">
+        {SITE.phone}
+      </a>
+    </div>
   </PageHero>
 
   <div class="mx-auto max-w-7xl px-4 sm:px-6 py-10 sm:py-14">

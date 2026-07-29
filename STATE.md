@@ -1,5 +1,11 @@
 # STATE — Charter Flight Network Revenue Loop
-Cycle #: 54 (2026-07-29 — travel/route coherence: all 20+ travel and
+Cycle #: 55 (2026-07-29 — CTA voice complete: every customer-facing hero
+  on the site now carries the same Get Free Quotes + tap-to-call row —
+  added to /canada, /aircraft, /empty-legs and the USA/Bahamas/Caribbean
+  region hub component (which had quote-only). Verified all four
+  templates render both buttons with correct targets (on-page #quote
+  where a form exists, /quote otherwise). Prior — cycle 54: travel/route
+  coherence: all 20+ travel and
   route heroes gain the Get Free Quotes + tap-to-call CTA row that city
   and hub heroes carry (routes anchor to the on-page form, travel pages
   to /quote; operator-facing subpages correctly excluded); fixed
