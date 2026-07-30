@@ -4,6 +4,7 @@ import PageHero from '../../../components/PageHero.astro';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import QuoteForm from '../../../components/QuoteForm.astro';
+import AtlistMap from '../../../components/AtlistMap.astro';
 import LocalOperators from '../../../components/LocalOperators.astro';
 import QuoteCTA from '../../../components/QuoteCTA.astro';
 import { SITE } from '../../../lib/site';
@@ -104,6 +105,18 @@ if (d.faqs?.length) {
   <div class="mx-auto max-w-7xl px-4 sm:px-6 py-10 sm:py-14">
     <div class="grid gap-10 lg:grid-cols-3">
       <article class="lg:col-span-2 copy">
+        {d.atlistMapId && (
+          <div class="not-prose mb-10">
+            <h2 class="font-display text-xl sm:text-2xl font-bold text-lake-900">
+              Find your best flight option to {d.city}
+            </h2>
+            <p class="mt-1.5 mb-4 text-slate-600">
+              Tap any departure point on the map for routes, distances and operators —
+              or jump straight to a departure city below.
+            </p>
+            <AtlistMap mapId={d.atlistMapId} city={d.city ?? h1} />
+          </div>
+        )}
         <!-- actionable content first: real operators with phones and the
              quote path lead the page; the legacy prose elaborates below -->
         <div class="not-prose mb-10 [&>section]:mt-0">

@@ -20,6 +20,8 @@ const migratedPage = z.object({
   thin: z.boolean().default(false),
   /** subject line for the quote form on this page (legacy hidden field) */
   quoteSubject: z.string().optional(),
+  /** Atlist map id — pages with one render an interactive departure-point map */
+  atlistMapId: z.string().optional(),
   /** Q&A pairs extracted from the page's FAQ section (drives FAQPage JSON-LD) */
   faqs: z.array(z.object({ q: z.string(), a: z.string() })).optional(),
 });
