@@ -12,6 +12,25 @@ provinceSlug: "northern-ontario"
 city: "Big Trout Lake"
 airportCode: "YTL"
 atlistMapId: "b4a15bb6-49f4-456d-8d51-7672f62ea400"
+routeMap:
+  dest:
+    name: "Big Trout Lake (YTL)"
+    sub: "Kitchenuhmaykoosib Inninuwug"
+    lat: 53.82
+    lon: -89.90
+  points:
+    - { name: "Sandy Lake", lat: 53.06, lon: -93.34, mi: 150, anchor: "sandy-lake-to-big-trout-lake", labelPos: "top" }
+    - { name: "Weagamow", lat: 52.94, lon: -91.31, mi: 85, anchor: "weagamow-to-big-trout-lake", labelPos: "bottom" }
+    - { name: "Pickle Lake", lat: 51.46, lon: -90.20, mi: 165, anchor: "pickle-lake-to-big-trout-lake", labelPos: "left" }
+    - { name: "Red Lake", lat: 51.07, lon: -93.79, mi: 255, anchor: "red-lake-to-big-trout-lake", labelPos: "left" }
+    - { name: "Sioux Lookout", lat: 50.10, lon: -91.92, mi: 270, anchor: "sioux-lookout-to-big-trout-lake", labelPos: "right" }
+    - { name: "Dryden", lat: 49.78, lon: -92.84, mi: 300, anchor: "dryden-to-big-trout-lake", labelPos: "bottom" }
+    - { name: "Kenora", lat: 49.79, lon: -94.49, mi: 345, anchor: "kenora-to-big-trout-lake", labelPos: "left" }
+    - { name: "Fort Frances", lat: 48.61, lon: -93.40, anchor: "fort-frances-to-big-trout-lake", labelPos: "bottom" }
+    - { name: "Thunder Bay", lat: 48.38, lon: -89.32, mi: 380, anchor: "thunder-bay-to-big-trout-lake", labelPos: "right" }
+    - { name: "Armstrong", lat: 50.29, lon: -88.91, mi: 250, anchor: "armstrong-to-big-trout-lake", labelPos: "top" }
+    - { name: "Nakina", lat: 50.18, lon: -86.70, mi: 285, anchor: "nakina-to-big-trout-lake", labelPos: "bottom" }
+    - { name: "Winnipeg", lat: 50.06, lon: -97.03, mi: 415, anchor: "winnipeg-to-big-trout-lake", labelPos: "top" }
 ---
 ### Choose a departure city
 

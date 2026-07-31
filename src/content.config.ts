@@ -22,6 +22,31 @@ const migratedPage = z.object({
   quoteSubject: z.string().optional(),
   /** Atlist map id — pages with one render an interactive departure-point map */
   atlistMapId: z.string().optional(),
+  /** Data for the custom-drawn departure route map (RouteMap.astro).
+   *  Coordinates are real lat/lon; the component projects them to the card. */
+  routeMap: z
+    .object({
+      dest: z.object({
+        name: z.string(),
+        sub: z.string().optional(),
+        lat: z.number(),
+        lon: z.number(),
+      }),
+      points: z.array(
+        z.object({
+          name: z.string(),
+          lat: z.number(),
+          lon: z.number(),
+          /** straight-line air miles shown under the city name */
+          mi: z.number().optional(),
+          /** in-page anchor (heading id) this marker jumps to */
+          anchor: z.string(),
+          /** which side of the dot the label sits on */
+          labelPos: z.enum(['left', 'right', 'top', 'bottom']).default('right'),
+        })
+      ),
+    })
+    .optional(),
   /** Q&A pairs extracted from the page's FAQ section (drives FAQPage JSON-LD) */
   faqs: z.array(z.object({ q: z.string(), a: z.string() })).optional(),
 });

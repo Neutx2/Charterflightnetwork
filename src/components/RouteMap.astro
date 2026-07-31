@@ -1,0 +1,196 @@
+---
+/**
+ * Custom-drawn interactive departure map: every departure city visible at
+ * once in true relative position, with air miles on the label, converging
+ * routes, and each marker an in-page link to that city's operator section.
+ *
+ * Pure HTML/SVG/CSS — markers are percentage-positioned links over an SVG
+ * line layer, so label text stays readable at every screen width instead of
+ * shrinking with the artwork.
+ */
+interface Point {
+  name: string;
+  lat: number;
+  lon: number;
+  mi?: number;
+  anchor: string;
+  labelPos: 'left' | 'right' | 'top' | 'bottom';
+}
+interface Props {
+  dest: { name: string; sub?: string; lat: number; lon: number };
+  points: Point[];
+}
+const { dest, points } = Astro.props;
+
+// Equirectangular projection of the data's bounding box onto the card,
+// with padding so edge labels have room.
+const all = [dest, ...points];
+const minLat = Math.min(...all.map((p) => p.lat));
+const maxLat = Math.max(...all.map((p) => p.lat));
+const minLon = Math.min(...all.map((p) => p.lon));
+const maxLon = Math.max(...all.map((p) => p.lon));
+const pad = { top: 10, right: 13, bottom: 9, left: 13 };
+const px = (lon: number) =>
+  pad.left + ((lon - minLon) / (maxLon - minLon)) * (100 - pad.left - pad.right);
+const py = (lat: number) =>
+  pad.top + ((maxLat - lat) / (maxLat - minLat)) * (100 - pad.top - pad.bottom);
+
+const dx = px(dest.lon);
+const dy = py(dest.lat);
+const plotted = points.map((p) => ({ ...p, x: px(p.lon), y: py(p.lat) }));
+---
+
+<section id="map" class="scroll-mt-24">
+  <div class="route-map relative w-full overflow-hidden rounded-2xl ring-1 ring-birch-200 shadow-sm bg-gradient-to-b from-lake-50 to-lake-100 aspect-[0.82] sm:aspect-[1.05] lg:aspect-[1.19]">
+    <svg class="absolute inset-0 h-full w-full" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true">
+      <ellipse cx={dx} cy={dy + 18} rx="55" ry="42" fill="var(--color-boreal-100)" opacity="0.45" />
+      <ellipse cx={dx - 25} cy={dy + 55} rx="50" ry="38" fill="var(--color-lake-200)" opacity="0.25" />
+      {plotted.map((p) => (
+        <line
+          x1={p.x}
+          y1={p.y}
+          x2={dx}
+          y2={dy}
+          stroke="var(--color-lake-500)"
+          stroke-width="1.5"
+          stroke-dasharray="6 5"
+          stroke-linecap="round"
+          vector-effect="non-scaling-stroke"
+          opacity="0.5"
+        />
+      ))}
+    </svg>
+
+    <div
+      class="route-dest absolute z-10 -translate-x-1/2 -translate-y-1/2 pointer-events-none"
+      style={`left:${dx}%; top:${dy}%;`}
+    >
+      <span class="route-dest-dot"></span>
+      <span class="route-dest-label">
+        <strong>{dest.name}</strong>
+        {dest.sub && <small>{dest.sub}</small>}
+      </span>
+    </div>
+
+    {plotted.map((p) => (
+      <a
+        href={`#${p.anchor}`}
+        class={`route-city route-city--${p.labelPos} absolute z-20 -translate-x-1/2 -translate-y-1/2`}
+        style={`left:${p.x}%; top:${p.y}%;`}
+        aria-label={`${p.name} to ${dest.name}${p.mi ? `, ${p.mi} air miles` : ''} — see flight options`}
+      >
+        <span class="route-city-dot" aria-hidden="true"></span>
+        <span class="route-city-label" aria-hidden="true">
+          <strong>{p.name}</strong>
+          {p.mi && <small>{p.mi} air mi</small>}
+        </span>
+      </a>
+    ))}
+  </div>
+  <p class="mt-2 flex flex-wrap items-center gap-x-4 gap-y-1 text-xs text-slate-500">
+    <span><span class="inline-block h-2.5 w-2.5 rounded-full bg-ember-500 align-[-1px]"></span> Destination</span>
+    <span><span class="inline-block h-2.5 w-2.5 rounded-full border-2 border-boreal-500 bg-white align-[-1px]"></span> Departure city — tap for operators &amp; quotes</span>
+  </p>
+</section>
+
+<style>
+  /* Markers keep a ~44px touch target regardless of visual dot size */
+  .route-city {
+    display: flex;
+    align-items: center;
+    min-width: 2.75rem;
+    min-height: 2.75rem;
+    justify-content: center;
+  }
+  .route-city-dot {
+    width: 0.875rem;
+    height: 0.875rem;
+    flex: none;
+    border-radius: 9999px;
+    background: #fff;
+    border: 2.5px solid var(--color-boreal-500);
+    box-shadow: 0 1px 3px rgb(0 0 0 / 0.25);
+    transition: transform 0.15s, background-color 0.15s, border-color 0.15s;
+  }
+  .route-city:hover .route-city-dot,
+  .route-city:focus-visible .route-city-dot {
+    background: var(--color-ember-500);
+    border-color: var(--color-lake-950);
+    transform: scale(1.25);
+  }
+  .route-city:focus-visible {
+    outline: 2px solid var(--color-ember-500);
+    outline-offset: 2px;
+    border-radius: 0.5rem;
+  }
+  .route-city-label {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    line-height: 1.15;
+    white-space: nowrap;
+    pointer-events: none;
+  }
+  .route-city-label strong {
+    font-size: 0.8125rem;
+    font-weight: 700;
+    color: var(--color-lake-900);
+    text-shadow: 0 1px 2px rgb(255 255 255 / 0.9);
+  }
+  .route-city-label small {
+    font-size: 0.6875rem;
+    font-weight: 700;
+    color: var(--color-boreal-600);
+    text-shadow: 0 1px 2px rgb(255 255 255 / 0.9);
+  }
+  .route-city:hover .route-city-label strong,
+  .route-city:focus-visible .route-city-label strong {
+    text-decoration: underline;
+  }
+  .route-city--right .route-city-label { left: calc(50% + 0.875rem); align-items: flex-start; }
+  .route-city--left .route-city-label { right: calc(50% + 0.875rem); align-items: flex-end; }
+  .route-city--top .route-city-label { bottom: calc(50% + 0.75rem); align-items: center; }
+  .route-city--bottom .route-city-label { top: calc(50% + 0.75rem); align-items: center; }
+
+  .route-dest { display: flex; align-items: center; }
+  .route-dest-dot {
+    width: 1.25rem;
+    height: 1.25rem;
+    flex: none;
+    border-radius: 9999px;
+    background: var(--color-ember-500);
+    border: 3px solid #fff;
+    box-shadow:
+      0 0 0 6px rgb(255 125 2 / 0.25),
+      0 0 0 12px rgb(255 125 2 / 0.1),
+      0 1px 4px rgb(0 0 0 / 0.3);
+  }
+  .route-dest-label {
+    position: absolute;
+    right: calc(50% + 1.25rem);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    line-height: 1.2;
+    white-space: nowrap;
+  }
+  .route-dest-label strong {
+    font-size: 0.9375rem;
+    font-weight: 800;
+    color: var(--color-lake-950);
+    text-shadow: 0 1px 2px rgb(255 255 255 / 0.9);
+  }
+  .route-dest-label small {
+    font-size: 0.6875rem;
+    font-weight: 600;
+    color: var(--color-lake-800);
+    text-shadow: 0 1px 2px rgb(255 255 255 / 0.9);
+  }
+
+  @media (max-width: 640px) {
+    .route-city-label strong { font-size: 0.75rem; }
+    .route-city-label small { font-size: 0.625rem; }
+    .route-dest-label strong { font-size: 0.8125rem; }
+    .route-dest-label small { display: none; }
+  }
+</style>

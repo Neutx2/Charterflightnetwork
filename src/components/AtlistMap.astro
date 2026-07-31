@@ -12,12 +12,14 @@ interface Props {
   mapId: string;
   city: string;
   title?: string;
+  /** anchor id for the section; override when another element owns #map */
+  id?: string;
 }
-const { mapId, city, title = `Interactive map of charter flight departure points for ${city}` } = Astro.props;
+const { mapId, city, title = `Interactive map of charter flight departure points for ${city}`, id = 'map' } = Astro.props;
 const mapUrl = `https://my.atlist.com/map/${mapId}?share=true`;
 ---
 
-<section id="map" class="scroll-mt-24">
+<section id={id} class="scroll-mt-24">
   <div
     class="atlist-map relative overflow-hidden rounded-2xl bg-lake-50 ring-1 ring-birch-200 shadow-sm h-[clamp(340px,65vh,600px)] md:h-[560px]"
     data-map-url={mapUrl}
@@ -76,10 +78,10 @@ const mapUrl = `https://my.atlist.com/map/${mapId}?share=true`;
           skeleton.style.opacity = '0';
           setTimeout(() => skeleton.remove(), 500);
         }
-        armShield();
       });
 
       wrap.insertBefore(iframe, wrap.firstChild);
+      armShield();
     };
 
     // Touch devices: shield the iframe so one-finger drags keep scrolling the
