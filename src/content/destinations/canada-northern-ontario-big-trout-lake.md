@@ -5,58 +5,47 @@ h1: "Charter Flights to Big Trout Lake (YTL)"
 legacyUrl: "/charter_flight_to_big_trout_lake.htm"
 slug: "canada/northern-ontario/big-trout-lake"
 thin: false
-quoteSubject: "Hearst Quote"
+quoteSubject: "Big Trout Lake Quote"
 region: "canada"
 province: "Northern Ontario"
 provinceSlug: "northern-ontario"
 city: "Big Trout Lake"
 airportCode: "YTL"
+atlistMapId: "b4a15bb6-49f4-456d-8d51-7672f62ea400"
+routeMap:
+  dest:
+    name: "Big Trout Lake (YTL)"
+    sub: "Kitchenuhmaykoosib Inninuwug"
+    lat: 53.82
+    lon: -89.90
+  points:
+    - { name: "Sandy Lake", lat: 53.06, lon: -93.34, mi: 150, anchor: "sandy-lake-to-big-trout-lake", labelPos: "top" }
+    - { name: "Weagamow", lat: 52.94, lon: -91.31, mi: 85, anchor: "weagamow-to-big-trout-lake", labelPos: "bottom" }
+    - { name: "Pickle Lake", lat: 51.46, lon: -90.20, mi: 165, anchor: "pickle-lake-to-big-trout-lake", labelPos: "left" }
+    - { name: "Red Lake", lat: 51.07, lon: -93.79, mi: 255, anchor: "red-lake-to-big-trout-lake", labelPos: "left" }
+    - { name: "Sioux Lookout", lat: 50.10, lon: -91.92, mi: 270, anchor: "sioux-lookout-to-big-trout-lake", labelPos: "right" }
+    - { name: "Dryden", lat: 49.78, lon: -92.84, mi: 300, anchor: "dryden-to-big-trout-lake", labelPos: "bottom" }
+    - { name: "Kenora", lat: 49.79, lon: -94.49, mi: 345, anchor: "kenora-to-big-trout-lake", labelPos: "left" }
+    - { name: "Fort Frances", lat: 48.61, lon: -93.40, anchor: "fort-frances-to-big-trout-lake", labelPos: "bottom" }
+    - { name: "Thunder Bay", lat: 48.38, lon: -89.32, mi: 380, anchor: "thunder-bay-to-big-trout-lake", labelPos: "right" }
+    - { name: "Armstrong", lat: 50.29, lon: -88.91, mi: 250, anchor: "armstrong-to-big-trout-lake", labelPos: "top" }
+    - { name: "Nakina", lat: 50.18, lon: -86.70, mi: 285, anchor: "nakina-to-big-trout-lake", labelPos: "bottom" }
+    - { name: "Winnipeg", lat: 50.06, lon: -97.03, mi: 415, anchor: "winnipeg-to-big-trout-lake", labelPos: "top" }
 ---
-## Discover Your Best Flight Option To Big Trout Lake - Click Any Departure Location On The Map
+### Choose a departure city
 
-[Sandy Lake](#sandy)
-[Round Lake](#round)
-[Pickle Lake](#pickle)
-[Nakina](#nakina)
-[Armstrong](#armstrong)
-[Thunder Bay](#tbay)
-[Sioux Lookout](#sioux)
-[Dryden](#dryden)
-[Red Lake](#red)
-[Kenora](#kenora)
-[Winnipeg](#winnipeg)
-[Fort Frances](#ffrances)
-
-[Sandy Lake](#sandy)
-[Round Lake](#round)
-[Pickle Lake](#pickle)
-[Nakina](#nakina)
-[Armstrong](#armstrong)
-[Thunder Bay](#tbay)
-[Sioux Lookout](#sioux)
-[Dryden](#dryden)
-[Red Lake](#red)
-[Kenora](#kenora)
-[Winnipeg](#winnipeg)
-[Fort Frances](#ffrances)
-
-### Click Any Departure Point On The Map To Find Your Most Convenient & Cost Efficient Flight Options To Big Trout Lake . . .Or Use The Links Below
-
-* [Armstrong](#armstrong)
-* [Dryden](#dryden)
-* [Fort Frances](#ffrances)
-
-* [Kenora](#kenora)
-* [Nakina](#nakina)
-* [Pickle Lake](#pickle)
-
-* [Red Lake](#red)
-* [Sandy Lake](#sandy)
-* [Sioux Lookout](#sioux)
-
-* [Thunder Bay](#tbay)
-* [Weagamow](#round)
-* [Winnipeg / St Andrews](#winnipeg)
+* [Armstrong](#armstrong-to-big-trout-lake)
+* [Dryden](#dryden-to-big-trout-lake)
+* [Fort Frances](#fort-frances-to-big-trout-lake)
+* [Kenora](#kenora-to-big-trout-lake)
+* [Nakina](#nakina-to-big-trout-lake)
+* [Pickle Lake](#pickle-lake-to-big-trout-lake)
+* [Red Lake](#red-lake-to-big-trout-lake)
+* [Sandy Lake](#sandy-lake-to-big-trout-lake)
+* [Sioux Lookout](#sioux-lookout-to-big-trout-lake)
+* [Thunder Bay](#thunder-bay-to-big-trout-lake)
+* [Weagamow / Round Lake](#weagamow-to-big-trout-lake)
+* [Winnipeg / St Andrews](#winnipeg-to-big-trout-lake)
 
 ## Receive Competitive Quotes For Any Big Trout Lake Charter Flight
 
@@ -66,45 +55,51 @@ Request A Quote Directly From Any Charter Airline Listed On This Page - Or Use O
 
 Big Trout Lake is known as one of the largest lakes in the remote regions Northwestern Ontario and is located 380 air miles north of Thunder Bay. The north shore of Big Trout Lake is home to the Kitchenuhmaykoosib Inninuwug First Nations Indian Band. There are no roads to Big Trout Lake - except for temporary winter / ice roads which are only available for a short period during the winter months. The only year round access to the community is by air and both wheel plane and float plane charters are available from many departure points, the most popular being: Red Lake, Sioux Lookout, Pickle Lake and Thunder Bay. Scheduled flights are also available through Wasaya Airways from Thunder Bay and Sioux Lookout
 
+## Armstrong to Big Trout Lake
+
 ### Wilderness Air
 
 Wilderness Air operates float plane charters out of Armstrong which is 250 air miles south of Big Trout Lake
 
 [QUOTE REQUEST FORM](/quote/wilderness-north)
 
-[Return To Top Interactive Map](#top)
-
 ### NDK Air
 
 Fly with NDK Air, 250 air miles north of Armstrong to community is known as Kitchenuhmaykoosib Inninuwug, often referred to as Big Trout Lake First Nation.
 
-[QUOTE REQUEST FORM](#QuoteForm)
+[QUOTE REQUEST FORM](#quote)
 
-[Return To Top Interactive Map](#top)
+[Back to the interactive map](#map)
 
 ## Dryden to Big Trout Lake
 
 Discover how you can fly 300 air miles north of Dryden direct to the Big Trout Lake Airport, providing essential air access for residents, visitors, freight, medical travel, and charter flights.
 
-[QUOTE REQUEST FORM](#QuoteForm)
+[QUOTE REQUEST FORM](#quote)
 
-[Return To Top Interactive Map](#top)
+[Back to the interactive map](#map)
+
+## Fort Frances to Big Trout Lake
 
 ### Rusty Myers Flying Service
 
 Fly commercial airlines to International Falls, Mn. Cross the border to Fort Frances and fly Rusty Myers Flying service to Big Trout Lake, known for its dramatic northern setting with wide open water, rugged shorelines, and wilderness views.
 
-QUOTE REQUEST FORM
+[QUOTE REQUEST FORM](#quote)
 
-[Return To Top Interactive Map](#top)
+[Back to the interactive map](#map)
+
+## Kenora to Big Trout Lake
 
 ### River Air
 
 During the summer and fall, aircraft are the primary transportation link into Big Trout Lake. You can fly 345 air miles north of Kenora with River Air direct to this remote northern community.
 
-[QUOTE REQUEST FORM](#QuoteForm)
+[QUOTE REQUEST FORM](#quote)
 
-[Return To Top Interactive Map](#top)
+[Back to the interactive map](#map)
+
+## Nakina to Big Trout Lake
 
 ### Leuenberge Air Service
 
@@ -112,7 +107,9 @@ Big Trout Lake is 285 air miles north of Nakina. Contact Leuenberger Air Service
 
 [QUOTE REQUEST FORM](/quote/leuenberger-air)
 
-[Return To Top Interactive Map](#top)
+[Back to the interactive map](#map)
+
+## Pickle Lake to Big Trout Lake
 
 ### Osnaburgh Air
 
@@ -120,15 +117,11 @@ Big Trout Lake also known as Kitchenuhmaykoosib Inninuwug (KI), is located 165 a
 
 [QUOTE REQUEST FORM](/quote/osnaburg-air)
 
-[Return To Top Interactive Map](#top)
-
 ### Wisk Air
 
 If you need helicopter support out of the Pickle Lake area for survey or exploration projects
 
 [QUOTE REQUEST FORM](/quote/wisk-air)
-
-[Return To Top Interactive Map](#top)
 
 ### North Star Air
 
@@ -136,7 +129,9 @@ Pickle Lake is a vital freight and passenger air hub for remote First Nations an
 
 [QUOTE REQUEST FORM](/quote/north-star-air)
 
-[Return To Top Interactive Map](#top)
+[Back to the interactive map](#map)
+
+## Red Lake to Big Trout Lake
 
 ### Superior Airways
 
@@ -144,13 +139,13 @@ The Community which is 255 air miles north of Red Lake is located on the shores 
 
 [QUOTE REQUEST FORM](/quote/superior-airways)
 
-[Return To Top Interactive Map](#top)
-
 Local residents refer to Kitchenuhmaykoosib Inninuwug as K I which has a rich Oji-Cree heritage, where traditional hunting, fishing, and trapping remain central to daily life and cultural teachings.
 
-[QUOTE REQUEST FORM](#QuoteForm)
+[QUOTE REQUEST FORM](#quote)
 
-[Return To Top Interactive Map](#top)
+[Back to the interactive map](#map)
+
+## Sandy Lake to Big Trout Lake
 
 ### Sandy Lake Seaplanes
 
@@ -158,7 +153,7 @@ Sandy Lake Seaplane base is just 150 air miles from Big Trout Lake making it a v
 
 [QUOTE REQUEST FORM](/quote/sandy-lake-seaplanes)
 
-[Return To Top Interactive Map](#top)
+[Back to the interactive map](#map)
 
 ## Sioux Lookout to Big Trout Lake
 
@@ -166,19 +161,15 @@ The community is accessible by both float plane as well as wheel plane charter f
 
 [QUOTE REQUEST FORM](/quote/slate-falls-airways)
 
-[Return To Top Interactive Map](#top)
-
 The Big Trout Lake Airport (YTL), has a 3,900 foot gravel runway and is capable of handling turboprop aircraft that bring passengers, supplies, and medical services from hubs like Sioux Lookout which is 270 air miles south. Seasonal winter roads may provide temporary ground access.
 
-[QUOTE REQUEST FORM](#QuoteForm)
-
-[Return To Top Interactive Map](#top)
+[QUOTE REQUEST FORM](#quote)
 
 Visitors may experience a true fly-in northern Ontario community far removed from major highway systems.
 
-[QUOTE REQUEST FORM](#QuoteForm)
+[QUOTE REQUEST FORM](#quote)
 
-[Return To Top Interactive Map](#top)
+[Back to the interactive map](#map)
 
 ## Thunder Bay to Big Trout Lake
 
@@ -186,33 +177,27 @@ Big Trout Lake is an important regional centre for local services, administratio
 
 [QUOTE REQUEST FORM](/quote/lakehead-airways)
 
-[Return To Top Interactive Map](#top)
-
 The community of Big Trout Lake or K I is located 380 air miles north of Thunder Bay. While there are no tourism facilities, there is a small hotel
 
 [QUOTE REQUEST FORM](/quote/air-bravo)
 
-[Return To Top Interactive Map](#top)
-
 In the winter months, snowmobiling is a key mode of transport in winter, and frozen lakes allow for traditional winter fishing and hunting expeditions.
 
-[QUOTE REQUEST FORM](#QuoteForm)
-
-[Return To Top Interactive Map](#top)
+[QUOTE REQUEST FORM](#quote)
 
 visitors to the community can experience excellent fishing for northern pike, walleye, and lake trout, along with opportunities for canoeing and wildlife viewing.
 
-[QUOTE REQUEST FORM](#QuoteForm)
+[QUOTE REQUEST FORM](#quote)
 
-[Return To Top Interactive Map](#top)
+[Back to the interactive map](#map)
 
-## Weagamow / Round Lake to Big Trout Lake
+## Weagamow to Big Trout Lake
 
 85 air miles Big Trout Lake is a strong example of how aviation supports remote communities across Northern Ontario. Visitors should confirm travel permissions, accommodations, and local arrangements before planning a trip to Big Trout Lake.
 
-[QUOTE REQUEST FORM](#QuoteForm)
+[QUOTE REQUEST FORM](#quote)
 
-[Return To Top Interactive Map](#top)
+[Back to the interactive map](#map)
 
 ## Winnipeg to Big Trout Lake
 
@@ -220,19 +205,15 @@ You can fly commercial airline into Winnipeg from any region of Canada and then 
 
 [QUOTE REQUEST FORM](/quote/trade-north)
 
-[Return To Top Interactive Map](#top)
-
 The communities northern latitude provides frequent displays of the aurora borealis, best viewed under clear skies far from light pollution.
 
 [QUOTE REQUEST FORM](/quote/fast-air)
-
-[Return To Top Interactive Map](#top)
 
 Visitors will discover that the settlement is close-knit, with schools, local governance, and cultural programs that sustain both modern living and traditional practices in this remote setting.
 
 [QUOTE REQUEST FORM](/quote/amik-air)
 
-[Return To Top Interactive Map](#top)
+[Back to the interactive map](#map)
 
 ## How Our Charter Quote Request Service Works
 

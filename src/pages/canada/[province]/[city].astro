@@ -4,6 +4,8 @@ import PageHero from '../../../components/PageHero.astro';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import QuoteForm from '../../../components/QuoteForm.astro';
+import AtlistMap from '../../../components/AtlistMap.astro';
+import RouteMap from '../../../components/RouteMap.astro';
 import LocalOperators from '../../../components/LocalOperators.astro';
 import QuoteCTA from '../../../components/QuoteCTA.astro';
 import { SITE } from '../../../lib/site';
@@ -104,6 +106,37 @@ if (d.faqs?.length) {
   <div class="mx-auto max-w-7xl px-4 sm:px-6 py-10 sm:py-14">
     <div class="grid gap-10 lg:grid-cols-3">
       <article class="lg:col-span-2 copy">
+        {(d.routeMap || d.atlistMapId) && (
+          <div class="not-prose mb-10">
+            <h2 class="font-display text-xl sm:text-2xl font-bold text-lake-900">
+              Find your best flight option to {d.city}
+            </h2>
+            <p class="mt-1.5 mb-4 text-slate-600">
+              Tap any departure city on the map to see its operators, distance and
+              quote options.
+            </p>
+            {d.routeMap ? (
+              <>
+                <RouteMap dest={d.routeMap.dest} points={d.routeMap.points} />
+                {d.atlistMapId && (
+                  <details class="group mt-3">
+                    <summary class="inline-flex cursor-pointer list-none items-center gap-2 rounded-lg border border-birch-200 bg-white px-4 py-2 text-sm font-semibold text-lake-700 shadow-sm transition-colors hover:bg-lake-50 [&::-webkit-details-marker]:hidden">
+                      <svg class="h-4 w-4 transition-transform group-open:rotate-90" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                        <path d="m9 18 6-6-6-6" />
+                      </svg>
+                      View full map with satellite &amp; terrain detail
+                    </summary>
+                    <div class="mt-3">
+                      <AtlistMap mapId={d.atlistMapId} city={d.city ?? h1} id="full-map" />
+                    </div>
+                  </details>
+                )}
+              </>
+            ) : (
+              d.atlistMapId && <AtlistMap mapId={d.atlistMapId} city={d.city ?? h1} />
+            )}
+          </div>
+        )}
         <!-- actionable content first: real operators with phones and the
              quote path lead the page; the legacy prose elaborates below -->
         <div class="not-prose mb-10 [&>section]:mt-0">
